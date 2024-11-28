@@ -16,3 +16,4 @@
          8. added Change History section
 * Nov 28 2024
   * added initial spiritual codebase for Openness
+  * added works folder

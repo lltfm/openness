@@ -1,4 +1,4 @@
-![Artwork: "Being", Agnes Pelton, 1926](../images/being-agnes_pelton-600px.jpg)
+![Artwork: "Being", Agnes Pelton, 1926](images/being-agnes_pelton-600px.jpg)
 
 *Artwork: "Being", Agnes Pelton, 1926 ([source](https://unsafeart.com/agnes-pelton-desert-transcendentalist/))*
 
