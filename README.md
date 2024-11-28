@@ -22,6 +22,7 @@ attention to the uncomfortable, the shameful & the fearful.
 * [The Epitomes of Openness](works/the_epitomes_of_openness/the_epitomes_of_openness.md): a series of
   minimalist [poetic-memes](https://loveletterstofutureme.org/tag/poetic-memes/) ("epitomes") for
   quickly communicating the core ideas of Openness
+* [Saltem Hoc](works/saltem_hoc/saltem_hoc.md): a spiritual teaching method & LLM AI prompt 
 
 ## Related Links
 
