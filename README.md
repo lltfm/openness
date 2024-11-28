@@ -1,4 +1,4 @@
-![Artwork: "Being", Agnes Pelton, 1926](images/being-agnes_pelton-600px.jpg)
+![Artwork: "Being", Agnes Pelton, 1926](../images/being-agnes_pelton-600px.jpg)
 
 *Artwork: "Being", Agnes Pelton, 1926 ([source](https://unsafeart.com/agnes-pelton-desert-transcendentalist/))*
 
@@ -19,7 +19,7 @@ attention to the uncomfortable, the shameful & the fearful.
 
 ## Works in this repository
 
-* [The Epitomes of Openness](the_epitomes_of_openness.md): a series of
+* [The Epitomes of Openness](works/the_epitomes_of_openness.md): a series of
   minimalist [poetic-memes](https://loveletterstofutureme.org/tag/poetic-memes/) ("epitomes") for
   quickly communicating the core ideas of Openness
 
