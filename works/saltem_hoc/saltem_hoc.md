@@ -1,3 +1,5 @@
+
+
 # Overview
 "Saltem Hoc" is latin for "at least this". It is a teaching method for inviting
 the seeker into contemplating what might be true. The method does not impose on
@@ -5,7 +7,9 @@ the seeker by telling them directly what is true or insisting on a blind faith
 to proceed. Instead, it begins by pointing at something concrete & familiar and
 then suggesting speculations or questions that guide the seeker toward deeper
 understanding.
+* Author: gdl@loveletterstofutureme.org
 
+## Saltem Hoc & LLM AI
 This method can be used to build a prompt for LLM AIs to answer spiritual
 questions.
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt) 
