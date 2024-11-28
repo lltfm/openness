@@ -1,4 +1,4 @@
-![Artwork: "Being", Agnes Pelton, 1926](../images/being-agnes_pelton-600px.jpg)
+![Artwork: "Being", Agnes Pelton, 1926](../../images/being-agnes_pelton-600px.jpg)
 
 *Artwork: "Being", Agnes Pelton, 1926 ([source](https://unsafeart.com/agnes-pelton-desert-transcendentalist/))*
 
@@ -83,7 +83,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 
 # Westward
 
-![Artwork: “Rose”, Devin Becker, 2017](../images/rose-devin_becker-600px.jpg)
+![Artwork: “Rose”, Devin Becker, 2017](../../images/rose-devin_becker-600px.jpg)
 
 *Artwork: “Rose”, Devin Becker, 2017 ([source](https://www.devinbeckerart.com/))*
 
@@ -98,7 +98,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > [Memento amaris][3]. On towards death, Self.
 
 # My Self Confession of Not Knowing
-![Artwork: “The Lovers” (section), Remedios Varo, 1963](../images/the_lovers_section-remedios_varo-600px.jpg)
+![Artwork: “The Lovers” (section), Remedios Varo, 1963](../../images/the_lovers_section-remedios_varo-600px.jpg)
 
 *Artwork: “The Lovers” (section), Remedios Varo, 1963 ([source](https://biblioklept.org/2018/12/16/the-lovers-remedios-varo/))*
 
@@ -109,7 +109,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > the greatest of mysteries.
 
 # Openness
-![Artwork: “From the Cave of the Heart”, Tomás Sánchez, 2005](../images/from_the_cave_of_the_hear-tomas_sanchez-600px.jpg)
+![Artwork: “From the Cave of the Heart”, Tomás Sánchez, 2005](../../images/from_the_cave_of_the_hear-tomas_sanchez-600px.jpg)
 
 *Artwork: “From the Cave of the Heart”, Tomás Sánchez, 2005 ([source](https://www.mutualart.com/Artwork/From-the-Cave-of-the-Heart/B7CF0593B425185D))*
 
@@ -120,7 +120,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > acting when we must, but ever returning to Openness.
 
 # The Mystery
-![Artwork: “Coupled Spirits of the Half Moon”, Andy Kehoe, 2023](../images/coupled_spirits_of_the_half_moon-andy_kehoe-600px.jpg)
+![Artwork: “Coupled Spirits of the Half Moon”, Andy Kehoe, 2023](../../images/coupled_spirits_of_the_half_moon-andy_kehoe-600px.jpg)
 
 *Artwork: “Coupled Spirits of the Half Moon”, Andy Kehoe, 2023 ([source](https://andykehoe.art/project/works-2018-present))*
 
@@ -136,7 +136,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > The Mystery is endless. The Mystery is everywhere.
 
 # Awareness
-![Artwork: “Reflections from the Other Side”, Chema Mendez, 2024](../images/reflections_from_the_otherside-chema_mendez-600px.jpg)
+![Artwork: “Reflections from the Other Side”, Chema Mendez, 2024](../../images/reflections_from_the_otherside-chema_mendez-600px.jpg)
 
 *Artwork: “Reflections from the Other Side”, Chema Mendez, 2024 ([source](https://foundation.app/mint/eth/0x36DEc883B1e52c49f3c80b471953A3d2a010Cb18/2))*
 
@@ -149,7 +149,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > we can't experience others' Awareness, how can we be certain?
 
 # Not Knowing
-![Artwork: “Rushing Water”, Richard Mittelstadt, 2020](../images/rushing_water-richard_mittelstadt-600px.jpeg)
+![Artwork: “Rushing Water”, Richard Mittelstadt, 2020](../../images/rushing_water-richard_mittelstadt-600px.jpeg)
 
 *Artwork: “Rushing Water”, Richard Mittelstadt, 2020 ([source](https://www.artmajeur.com/mittelrl/en/artworks/13187759/rushing-water))*
 
@@ -161,7 +161,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > Not knowing is sitting in silence by the river, noticing how in time, even the river banks change.
 
 # The Truth of Lies
-![Artwork: “The Riddle”, Jake Baddeley, 2012](../images/the_riddle-jake_baddeley-600px.jpg)
+![Artwork: “The Riddle”, Jake Baddeley, 2012](../../images/the_riddle-jake_baddeley-600px.jpg)
 
 *Artwork: “The Riddle”, Jake Baddeley, 2012 ([source](https://www.jakebaddeley.com/available-art/the-riddle/))*
 
@@ -175,7 +175,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > told & we don't question it & repeat it to others, who is to blame?
 
 # Artifice
-![“Self Reflection”, Stuz0r, 2024](../images/self_reflection-stuz0r-600px.jpg)
+![“Self Reflection”, Stuz0r, 2024](../../images/self_reflection-stuz0r-600px.jpg)
 
 *Artwork: “Self Reflection”, Stuz0r, 2024 ([source](https://x.com/Stuz0r/status/1816849350372286974))*
 
@@ -187,7 +187,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > Have your eyes, ever seen your own face, as others' eyes do?
 
 # Noticing a Blind Certainty
-![Artwork: “closed minded”, Chema Mendez, 2024](../images/closed_minded-chema_mendez-600px.jpg)
+![Artwork: “closed minded”, Chema Mendez, 2024](../../images/closed_minded-chema_mendez-600px.jpg)
 
 *Artwork: “closed minded”, Chema Mendez, 2024 ([source](https://x.com/mendezmendezart/status/1799553221255409921))*
 
@@ -203,7 +203,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > belligerence?
 
 # Questioning Certainty
-![Artwork: “closed minded”, Chema Mendez, 2024](../images/crossroads-sander_bos.jpeg)
+![Artwork: “closed minded”, Chema Mendez, 2024](../../images/crossroads-sander_bos.jpeg)
 
 *Artwork: “Crossroads”, Sander Bos, 2015 ([source](https://www.sander-bos.nl/))*
 
@@ -219,7 +219,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > will?
 
 # Faith
-![Artwork: “The Great Comet of 1843”, Charles Piazzi Smyth, 1843](../images/the_great_comet_of_1843-charles_piazzi_smyth-600px.jpg)
+![Artwork: “The Great Comet of 1843”, Charles Piazzi Smyth, 1843](../../images/the_great_comet_of_1843-charles_piazzi_smyth-600px.jpg)
 
 *Artwork: “The Great Comet of 1843”, Charles Piazzi Smyth, 1843 ([source](https://en.wikipedia.org/wiki/File:Smyth_The_Great_Comet_of_1843.jpg))*
 
@@ -233,7 +233,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > the sky, whose daylight otherwise conceals the higher lights of the heavens.
 
 # A Worthy Vessel
-![Artwork: “The Divine Migration”, David Seidman, 2019](../images/the_divine_migration-david_seidman-600px.jpg)
+![Artwork: “The Divine Migration”, David Seidman, 2019](../../images/the_divine_migration-david_seidman-600px.jpg)
 
 *Artwork: “The Divine Migration”, David Seidman, 2019 ([source](https://nucleusportland.com/products/david-seidman))*
 

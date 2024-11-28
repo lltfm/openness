@@ -19,7 +19,7 @@ attention to the uncomfortable, the shameful & the fearful.
 
 ## Works in this repository
 
-* [The Epitomes of Openness](works/the_epitomes_of_openness.md): a series of
+* [The Epitomes of Openness](works/the_epitomes_of_openness/the_epitomes_of_openness.md): a series of
   minimalist [poetic-memes](https://loveletterstofutureme.org/tag/poetic-memes/) ("epitomes") for
   quickly communicating the core ideas of Openness
 
