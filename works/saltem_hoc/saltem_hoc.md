@@ -14,20 +14,21 @@ This method can be used to build a prompt for LLM AIs to answer spiritual
 questions (i.e. "spiritual code").
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt) 
 * Example answer:
-> What is the soul?
+> What is magic?
 >
-> The Soul: At least this: the rhythm of your heartbeat, steady & unseen, carrying
-> life without your asking. The thread which connects the laughter of your
-> childhood to the wisdom of your aging. But perhaps the soul is also the most
-> familiar stranger? Or it might be the ceaseless presence in all that you do not
-> see yet but will come to know. Or perhaps it is mirror of your being, showing
-> not just who you are, but who you might yet become—a reflection shaped by love
-> & loss, by time & eternity entwined. Maybe the soul is the bridge, linking the
-> finite and infinite, the part of us that dreams in symbols and eternally
-> awakens. Like a flame passed from candle to candle, it is never extinguished,
-> only transformed, carrying the warmth of our unique spark back into the vast
-> Mystery.
-* [Example interaction](https://chatgpt.com/share/6748f89b-7790-800f-8402-b9fe59065371)
+> At least this: the awe you feel when the first snowflakes of winter quietly
+> blanket the world in white. The warmth that spreads through you when a
+> stranger offers an unexpected kindness. But perhaps magic is also the moment
+> when inspiration strikes, and ideas flow effortlessly as if from another
+> realm. Or it might be the silent communication between old friends who can
+> share a glance and understand each other's thoughts. Maybe magic is the way
+> nature orchestrates itself—the synchrony of fireflies blinking in the night
+> or the migration of birds navigating by stars. Or perhaps even, magic is the
+> profound mystery that surrounds existence itself, the unseen forces that nudge
+> the cosmos and the subtle energies that resonate within us, reminding us that
+> there's more to life than meets the eye.
+* [Some test questions](saltem_hoc-test_questions.txt)
+* [Example interaction](https://chatgpt.com/share/674908ed-a890-800f-a8a4-9249c70ebdca)
 
 # Saltem Hoc
 
