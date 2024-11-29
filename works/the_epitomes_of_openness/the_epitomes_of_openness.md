@@ -195,8 +195,8 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > doubts. It has already seen itself decide in the mirror of others' minds. It 
 > doesn't seek opposing views. It ignores counter evidence. It is blind and 
 > unaware of itself, seeing only what it prefers. It doesn't care if it has been
-> deceived. It never admits who benefits. Fully ingesting choice, it has become
-> its choosing.
+> deceived. It never admits who benefits. It has fully ingested choice & it has
+> become its choosing.
 >
 > Who deceives us into seeing only what we prefer? Who hides from us all that is 
 > uncomfortable or undesired? What words can reach us when we stop listening? 
