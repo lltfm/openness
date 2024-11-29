@@ -11,7 +11,7 @@ understanding.
 
 ## Saltem Hoc & LLM AI
 This method can be used to build a prompt for LLM AIs to answer spiritual
-questions.
+questions (i.e. "spiritual code").
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt) 
 * Example answer:
 > What is the soul?
