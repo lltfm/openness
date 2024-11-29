@@ -18,7 +18,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 6. [Not Knowing](#not-knowing)
 7. [The Truth of Lies](#the-truth-of-lies)
 8. [Artifice](#artifice)
-9. [Noticing a Blind Certainty](#noticing-blind-certainty)
+9. [Noticing a Blind Certainty](#noticing-a-blind-certainty)
 10. [Questioning Certainty](#questioning-certainty)
 11. [Faith](#faith)
 12. [A Worthy Vessel](#a-worthy-vessel)
