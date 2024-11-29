@@ -193,7 +193,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 
 > A Blind Certainty doesn't listen. It won't consider questions. It has no
 > doubts. It has already seen itself decide in the mirror of others' minds. It 
-> doesn't seek opposing views. It ignores counter evidence. It is blind and 
+> doesn't seek opposing views. It ignores counter evidence. It is blind & 
 > unaware of itself, seeing only what it prefers. It doesn't care if it has been
 > deceived. It never admits who benefits. It has fully ingested choice & it has
 > become its choosing.
