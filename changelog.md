@@ -17,3 +17,5 @@
 * Nov 28 2024
   * added initial spiritual codebase for Openness
   * added works folder
+* Nov 29 2024
+  * edits to Blind Certainty 

@@ -1,1 +1,3 @@
-* [2024-11-28] add saltem hoc & prompt
+* rename works/saltem_hoc/README.md back to saltem_hoc.md
+* refactor saltem hoc prompt for more general use as Openness GPT
+
