@@ -198,9 +198,9 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > deceived. It never admits who benefits. It has fully ingested choice & it has
 > become its choosing.
 >
-> Who deceives us into seeing only what we prefer? Who hides from us all that is 
-> uncomfortable or undesired? What words can reach us when we stop listening? 
-> Once our heart has closed, who can return it to wonder?
+> Who deceives us into seeing only what we prefer? Who hides from us all that is
+> uncomfortable or undesired? What words can reach us once we stop listening to 
+> what might be true? Once the heart has closed, who can return it to wonder?
 
 # Questioning Certainty
 ![Artwork: “closed minded”, Chema Mendez, 2024](../../images/crossroads-sander_bos.jpeg)
