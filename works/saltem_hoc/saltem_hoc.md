@@ -10,7 +10,7 @@ speculations or questions that guide the seeker toward deeper understanding.
 * Author: gdl@loveletterstofutureme.org
 
 ## Saltem Hoc & LLM AI
-This method can be used to build a prompt for LLM AIs to answer spiritual
+The Saltem Hoc method can be used to build a prompt for LLM AIs to answer spiritual
 questions (i.e. "spiritual code").
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt) 
 * Example answer:
