@@ -192,15 +192,15 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 *Artwork: “closed minded”, Chema Mendez, 2024 ([source](https://x.com/mendezmendezart/status/1799553221255409921))*
 
 > A Blind Certainty doesn't listen. It won't consider questions. It has no
-> doubts. It has already seen itself decide in the mirror of others' minds. It 
-> doesn't seek opposing views. It ignores counter evidence. It is blind & 
-> unaware of itself, seeing only what it prefers. It doesn't care if it has been
-> deceived. It never admits who benefits. It has fully ingested choice & it has
-> become its choosing.
+> doubts. Its mind has fully merged with its choice. It is blind & unaware of
+> itself, seeing only what it prefers. It doesn't seek opposing views. It
+> ignores counter evidence. It doesn't care if it has been deceived. It never
+> admits who benefits. It has seen itself decide in the mirror of others' minds.
+> Its heart has closed. It has forgotten the sky.
 >
-> Who deceives us into seeing only what we prefer? Who hides from us all that is
-> uncomfortable or undesired? What words can reach us once we stop listening to 
-> what might be true? Once the heart has closed, who can return it to wonder?
+> Who hides from us all that is uncomfortable & undesired? What words can reach 
+> us when we stop listening to what might be true? How are hearts returned to 
+> wonder?
 
 # Questioning Certainty
 ![Artwork: “closed minded”, Chema Mendez, 2024](../../images/crossroads-sander_bos.jpeg)
