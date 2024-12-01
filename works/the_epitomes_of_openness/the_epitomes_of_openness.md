@@ -142,7 +142,7 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 
 > "Awareness", the word pointing at the spheric open spaciousness enveloping the
 > unseeable inner eye & ear, the river of embodied feeling. At my perceptions, 
-> my subjective experience, which I imagine others similarly experience. Who, 
+> my subjective experience, which I imagine others similarly experience. Who 
 > also, can but only imagine others' Awareness?
 >
 > Why is my Awareness only in my body? Others appear to have Awareness, but if 
@@ -192,14 +192,14 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 *Artwork: “closed minded”, Chema Mendez, 2024 ([source](https://x.com/mendezmendezart/status/1799553221255409921))*
 
 > A Blind Certainty doesn't listen. It won't consider questions. It has no
-> doubts. Its mind has fully merged with its choice. It is blind & unaware of
-> itself, seeing only what it prefers. It doesn't seek opposing views. It
-> ignores counter evidence. It doesn't care if it has been deceived. It never
-> admits who benefits. It has seen itself decide in the mirror of others' minds.
-> Its heart has closed. It has forgotten the sky.
+> doubts. Its mind has fully merged with its choice & it has become blind &
+> unaware of itself. It doesn't seek opposing views. It ignores counter
+> evidence. It sees only what it prefers. It doesn't care if it's been deceived.
+> It never admits who benefits. It has seen itself decide, in the mirrors of
+> others' minds & its heart has closed. It has forgotten the sky.
 >
-> Who hides from us all that is uncomfortable & undesired? What words can reach 
-> us when we stop listening to what might be true? How are hearts returned to 
+> Who hides from us all that is uncomfortable & undesired? What words can reach
+> us when we stop listening to what might be true? How are hearts returned to
 > wonder?
 
 # Questioning Certainty
@@ -207,16 +207,15 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 
 *Artwork: “Crossroads”, Sander Bos, 2015 ([source](https://www.sander-bos.nl/))*
 
-> Possessed by a Blind Certainty, the [Libido Dominandi][4] imposes its will on 
-> others. It uses words, not to clarify, but to confuse & control. It deceives &
-> corrupts. It ridicules & coerces. It silences with fear, seizing the 
-> collective will. It demonizes & harms others saying, "For the greater good of 
+> Possessed by a Blind Certainty, the [Libido Dominandi][4] imposes its will on
+> others. It uses words, not to clarify, but to confuse & control. It ridicules
+> & deceives. It corrupts & coerces. It silences with fear, seizing the
+> collective will. It demonizes & harms others saying, "For the greater good of
 > us all. Any who disagree, stand against us. There can be no other way."
 >
-> Allowing others the greatest latitude to be as they are, there is peace. Yet 
-> at the root of all evil is a Blind Certainty, which must question itself. Can 
-> we love others & lead them to question certainty without also imposing our 
-> will?
+> Allowing others the greatest latitude to be as they are, there is peace. Yet
+> at the root of all evil is a Blind Certainty, which must question itself. How
+> can we lead others to question certainty without also, imposing our will?
 
 # Faith
 ![Artwork: “The Great Comet of 1843”, Charles Piazzi Smyth, 1843](../../images/the_great_comet_of_1843-charles_piazzi_smyth-600px.jpg)

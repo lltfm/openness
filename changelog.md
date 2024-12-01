@@ -21,3 +21,5 @@
   * edits to Blind Certainty
 * Nov 30 2024
   * edits to Blind Certainty
+* Dec 1 2024
+  * edits to Blind Certainty & Questioning Certainty
