@@ -23,3 +23,4 @@
   * edits to Blind Certainty
 * Dec 1 2024
   * edits to Blind Certainty & Questioning Certainty
+  * edits to saltem_hoc-llm-prompt.txt
