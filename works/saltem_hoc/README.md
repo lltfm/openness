@@ -49,19 +49,19 @@ questions (i.e. "spiritual code").
 > Or perhaps even, magic is the profound mystery that surrounds existence
 > itself, the unseen forces that nudge the cosmos and the subtle energies that
 > resonate within us, reminding us that there's more to life than meets the eye.
-* [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
 * [Example ChatGPT interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
   > Note: when using the ChatGPT free version (or not logged in), click 
   > 'Stay Logged Out' to continue the conversation and ask your own questions.
   > ![](../../images/saltem_hoc_llm_prompt-screenshot-3.png) 
+* [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
 
-### How to use the prompt:
+### How to use the prompt with any LLM AI:
 
 1. Copy the [prompt text](saltem_hoc-llm-prompt.txt) to the clipboard:
 ![](../../images/saltem_hoc_llm_prompt-screenshot-1.png)
     > Note: the prompt is just text. Optionally, paste it into a text editor,
     edit it for yourself, then copy all the text back to the clipboard 
-2. Paste into LLM question box (e.g. https://chatgpt.com)
+2. Paste into LLM AI question box (e.g. https://chatgpt.com)
 ![](../../images/saltem_hoc_llm_prompt-screenshot-2.png)
 3. Try out some questions:
     * What is Openness?
