@@ -69,3 +69,4 @@ questions (i.e. "spiritual code").
 > the Saltem Hoc method, for example:
 > 
 > Using the Saltem Hoc method, please answer the question: What is magic?
+* [Example interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
