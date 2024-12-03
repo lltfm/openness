@@ -50,12 +50,17 @@ questions (i.e. "spiritual code").
 > itself, the unseen forces that nudge the cosmos and the subtle energies that
 > resonate within us, reminding us that there's more to life than meets the eye.
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
-* [Example interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
+* [Example ChatGPT interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
+  > Note: when using the ChatGPT free version (or not logged in), click 
+  > 'Stay Logged Out' to continue the conversation and ask your own questions.
+  > ![](../../images/saltem_hoc_llm_prompt-screenshot-3.png) 
 
 ### How to use the prompt:
 
 1. Copy the [prompt text](saltem_hoc-llm-prompt.txt) to the clipboard:
 ![](../../images/saltem_hoc_llm_prompt-screenshot-1.png)
+    > Note: the prompt is just text. Optionally, paste it into a text editor,
+    edit it for yourself, then copy all the text back to the clipboard 
 2. Paste into LLM question box (e.g. https://chatgpt.com)
 ![](../../images/saltem_hoc_llm_prompt-screenshot-2.png)
 3. Try out some questions:
@@ -65,9 +70,10 @@ questions (i.e. "spiritual code").
     done no wrong?
     * What is magic?
     * [Some more test questions](saltem_hoc-test_questions.txt)
-> Note: sometimes the LLM ignores the default prompt instructions to use the
-> Saltem Hoc method. When this happens just ask it to use the method as part of
-> the question, for example:
-> 
-> Using the Saltem Hoc method, please answer the question: What is magic?
-* [Example interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
+    > Note: sometimes the LLM ignores the default prompt instructions to use the
+   > Saltem Hoc method. When this happens just ask it to use the method as part of
+   > the question, for example:
+   > 
+   > Using the Saltem Hoc method, please answer the question: What is magic?
+
+4. [Example ChatGPT interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
