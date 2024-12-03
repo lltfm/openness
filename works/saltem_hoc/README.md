@@ -53,7 +53,7 @@ questions (i.e. "spiritual code").
   > Note: when using the ChatGPT free version (or not logged in), click 
   > 'Stay Logged Out' to continue the conversation and ask your own questions.
   > 
-  > ![](../../images/saltem_hoc_llm_prompt-screenshot-3.png) 
+  > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png) 
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
 
 ### How to use the prompt with any LLM AI:
