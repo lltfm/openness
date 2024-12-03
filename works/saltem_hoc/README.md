@@ -52,6 +52,7 @@ questions (i.e. "spiritual code").
 * [Example ChatGPT interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
   > Note: when using the ChatGPT free version (or not logged in), click 
   > 'Stay Logged Out' to continue the conversation and ask your own questions.
+  > 
   > ![](../../images/saltem_hoc_llm_prompt-screenshot-3.png) 
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
 
