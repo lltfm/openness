@@ -2,7 +2,7 @@
 
 # Overview
 "Saltem Hoc" is latin for "at least this". It is a teaching method for inviting
-the Seeker of Openness into contemplating what might be true. The method does
+the seeker of openness into contemplating what might be true. The method does
 not impose on the seeker by telling them directly what is true or insisting on a
 blind faith to proceed or requiring them to decide what is true. Instead, it 
 begins by pointing at something concrete & familiar and then suggesting 
@@ -18,15 +18,20 @@ questions (i.e. "spiritual code").
 >
 > At least this: the awe you feel when the first snowflakes of winter quietly
 > blanket the world in white. The warmth that spreads through you when a
-> stranger offers an unexpected kindness. But perhaps magic is also the moment
-> when inspiration strikes, and ideas flow effortlessly as if from another
-> realm. Or it might be the silent communication between old friends who can
-> share a glance and understand each other's thoughts. Maybe magic is the way
-> nature orchestrates itself—the synchrony of fireflies blinking in the night
-> or the migration of birds navigating by stars. Or perhaps even, magic is the
-> profound mystery that surrounds existence itself, the unseen forces that nudge
-> the cosmos and the subtle energies that resonate within us, reminding us that
-> there's more to life than meets the eye.
+> stranger offers an unexpected kindness.
+> 
+> But perhaps magic is also the moment when inspiration strikes, and ideas flow
+> effortlessly as if from another realm.
+> 
+> Or it might be the silent communication between old friends who can share a
+> glance and understand each other's thoughts.
+> 
+> Maybe magic is the way nature orchestrates itself—the synchrony of fireflies
+> blinking in the night or the migration of birds navigating by stars. 
+> 
+> Or perhaps even, magic is the profound mystery that surrounds existence
+> itself, the unseen forces that nudge the cosmos and the subtle energies that
+> resonate within us, reminding us that there's more to life than meets the eye.
 * [Some test questions](saltem_hoc-test_questions.txt)
 * [Example interaction](https://chatgpt.com/share/674908ed-a890-800f-a8a4-9249c70ebdca)
 
