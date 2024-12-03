@@ -65,8 +65,9 @@ questions (i.e. "spiritual code").
     done no wrong?
     * What is magic?
     * [Some more test questions](saltem_hoc-test_questions.txt)
-> Note: in the free versions of LLMs it may be necessary to instruct it to use
-> the Saltem Hoc method, for example:
+> Note: sometimes the LLM ignores the default prompt instructions to use the
+> Saltem Hoc method. When this happens just ask it to use the method as part of
+> the question, for example:
 > 
 > Using the Saltem Hoc method, please answer the question: What is magic?
 * [Example interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
