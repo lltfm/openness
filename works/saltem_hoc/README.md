@@ -50,7 +50,7 @@ questions (i.e. "spiritual code").
 > itself, the unseen forces that nudge the cosmos and the subtle energies that
 > resonate within us, reminding us that there's more to life than meets the eye.
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
-* [Example interaction](https://chatgpt.com/share/674908ed-a890-800f-a8a4-9249c70ebdca)
+* [Example interaction](https://chatgpt.com/share/674f49f7-830c-800f-8af2-459661198f32)
 
 ### How to use the prompt:
 
