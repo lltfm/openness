@@ -93,6 +93,7 @@ questions (i.e. "spiritual code").
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
 ### How to chat with Openness GPT
+Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
 * [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
   > Note: when using the ChatGPT free version (or not logged in), click
