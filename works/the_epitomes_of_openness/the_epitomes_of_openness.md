@@ -158,7 +158,8 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 > really know are the river banks. Endlessly changing form & content, can any 
 > words or forms ever fully express the river?
 >
-> Not knowing is sitting in silence by the river, noticing how in time, even the river banks change.
+> Not knowing is sitting in silence by the river, noticing how in time, even the
+> river banks change.
 
 # The Truth of Lies
 ![Artwork: “The Riddle”, Jake Baddeley, 2012](../../images/the_riddle-jake_baddeley-600px.jpg)
@@ -207,11 +208,12 @@ The "Epitomes of Openness" is a series of minimalist [poetic-memes][1]
 
 *Artwork: “Crossroads”, Sander Bos, 2015 ([source](https://www.sander-bos.nl/))*
 
-> Possessed by a Blind Certainty, the [Libido Dominandi][4] imposes its will on
+> Possessed by a Blind Certainty, the Libido Dominandi imposes its will on
 > others. It uses words, not to clarify, but to confuse & control. It ridicules
-> & deceives. It corrupts & coerces. It silences with fear, seizing the
-> collective will. It demonizes & harms others saying, "For the greater good of
-> us all. Any who disagree, stand against us. There can be no other way."
+> & shames. It lies & deceives. It corrupts & coerces. It silences with fear,
+> seizing the collective will. It demonizes & harms others saying, "For the
+> greater good of us all. Any who disagree, stand against us. There can be no
+> other way."
 >
 > Allowing others the greatest latitude to be as they are, there is peace. Yet
 > at the root of all evil is a Blind Certainty, which must question itself. How
