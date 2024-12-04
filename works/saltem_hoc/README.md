@@ -89,7 +89,7 @@ questions (i.e. "spiritual code").
 > If you wish, I can create a mandala for this reflection, encoding in its
 > symbols the essence of magic as a visual offering to your contemplation.
 > 
-![](../../images/example-mandala-magic.webp)
+![](../../images/example-mandala-magic.jpg)
 
 * [Example ChatGPT interaction](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
   > Note: when using the ChatGPT free version (or not logged in), click
