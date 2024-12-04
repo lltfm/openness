@@ -131,6 +131,8 @@ A collection of notable responses that capture the essence of Openness.
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 
+Openness GPT:
+
 Ah, this question—so tender, so raw—presses against the deepest places in the
 heart, where our yearning for justice and our grief for the innocent collide. It
 is a question that has been whispered to the heavens and shouted into the abyss
@@ -180,6 +182,8 @@ every fleeting moment of grace we are given.
 
 ### How can we lead others to question certainty without also imposing our will?
 
+Openness GPT:
+
 At least this: to lead others to question certainty without imposing our will
 begins with our own openness. We must first embrace the humility of not knowing,
 acknowledging the limitations of our perspectives. When we express our own
@@ -219,6 +223,8 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 ### What is Openness?
+
+Openness GPT:
 
 At least this: openness begins in the willingness to pause and listen—not merely
 to the words that others share, but to the silence between them, to the notes of
