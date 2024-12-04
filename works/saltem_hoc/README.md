@@ -90,14 +90,16 @@ questions (i.e. "spiritual code").
 > symbols the essence of magic as a visual offering to your contemplation.
 > 
 ![](../../images/example-mandala-magic.jpg)
+* [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
 
-* [Example ChatGPT interaction](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
+### How to chat with Openness GPT
+
+* [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
   > Note: when using the ChatGPT free version (or not logged in), click
   > 'Stay Logged Out' to continue the conversation and ask your own questions.
   >
   > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png)
-* [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.txt)
-
+  
 ### How to use the prompt with any LLM AI:
 
 1. Copy the [prompt text](saltem_hoc-llm-prompt.txt) to the clipboard:
