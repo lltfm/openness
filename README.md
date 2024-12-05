@@ -15,10 +15,11 @@ flow of what we do not fully understand.
 
 Openness is a way of being in the world, a philosophical lens, a secular &
 minimalist meta-spirituality, an open-source spiritual codebase, an 
-[AI spiritual guide][1], a vessel for emotional transformation, a blank canvas
-for new forms to emerge. It seeks to integrate & express all experiences,
-thoughts & emotions, chosen & unchosen, desired & undesired. It pays particular
-attention to the uncomfortable, the shameful & the fearful.
+[AI spiritual guide][1], a [method][5] for answering unanswerable questions, a
+vessel for emotional transformation, a blank canvas for new forms to emerge. It
+seeks to integrate & express all experiences, thoughts & emotions, chosen &
+unchosen, desired & undesired. It pays particular attention to the
+uncomfortable, the shameful & the fearful.
 
 ## Works in this repository
 
@@ -43,3 +44,4 @@ attention to the uncomfortable, the shameful & the fearful.
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
 [3]: https://loveletterstofutureme.org/tag/poetic-memes/
 [4]: works/saltem_hoc/README.md
+[5]: orks/saltem_hoc/README.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong
