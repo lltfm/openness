@@ -1,2 +1,10 @@
 * rename works/saltem_hoc/README.md back to saltem_hoc.md
-
+* openness gpt
+  * edit the prompt example answers to remove any patterns like "Ah, X, the..."
+  * add enough examples to balance the line count of epitomes vs examples
+  * add instructions to avoid returning an inauthentic answer that matches an
+  example too closely. Answers should always be tailored for the user. Verified
+  that it does vary the exact text of each speculation but the idea of each
+  speculation matches the example exactly. It shouldn't return exactly the same
+  ideas each time? Perhaps it disclose its using an example and offer to
+  explore further?
