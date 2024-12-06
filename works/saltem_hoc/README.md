@@ -350,7 +350,7 @@ actually works or not, it sometimes creates very impressive mandalas.
 ![](../../images/mandalas/mandala-evil.jpg)
 ### What is freedom?
 ![](../../images/mandalas/mandala-freedom.jpg)
-### What is the Higher Self
+### What is the Higher Self?
 ![](../../images/mandalas/mandala-higher_self.jpg)
 ### What is karma?
 ![](../../images/mandalas/mandala-karma.jpg)
