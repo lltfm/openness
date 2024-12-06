@@ -335,8 +335,8 @@ openness again.
 
 # Notable Mandalas
 Starting in Openness GPT v11, it ends each answer by offering to create a
-mandala to further express the idea beyond words. Regardless of whether this
-actually works or not, it sometimes creates very impressive mandalas.
+mandala to further express its ideas beyond words. Regardless of whether this
+actually works or not, it often creates very impressive mandalas.
 
 ### Why is there war, even now, in modern times?
 ![](../../images/mandalas/mandala-war.jpg)
