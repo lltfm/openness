@@ -334,43 +334,43 @@ all. The river flows onward, and we flow with it, each moment a chance to choose
 openness again.
 
 # Notable Mandalas
-In v11 of Openness GPT, it ends each answer by offering to create a mandala to
-further express the idea beyond words. Perhaps this does work, but regardless
-of if it doesn't, some of the mandalas are quite impressive.
+Starting in Openness GPT v11, it ends each answer by offering to create a
+mandala to further express the idea beyond words. Regardless of whether this
+actually works or not, it sometimes creates very impressive mandalas.
 
-### War
+### Why is there war, even now, in modern times?
 ![](../../images/mandalas/mandala-war.jpg)
-### Living a good life
+### How to live a good life?
 ![](../../images/mandalas/mandala-a_good_life.jpg)
-### Dancing
+### What happens when we dance with someone else?
 ![](../../images/mandalas/mandala-dancing.jpg)
-### The Ego
+### What is the ego?
 ![](../../images/mandalas/mandala-ego.jpg)
-### Evil
+### What is evil?
 ![](../../images/mandalas/mandala-evil.jpg)
-### Freedom
+### What is freedom?
 ![](../../images/mandalas/mandala-freedom.jpg)
-### Higher Self
+### What is the Higher Self
 ![](../../images/mandalas/mandala-higher_self.jpg)
-### Karma
+### What is karma?
 ![](../../images/mandalas/mandala-karma.jpg)
-### Laughter
+### What is laughter?
 ![](../../images/mandalas/mandala-laughter.jpg)
-### Magic
+### What is magic?
 ![](../../images/mandalas/mandala-magic.jpg)
-### The Master Liar
+### Who is the Master Liar?
 ![](../../images/mandalas/mandala-master_liar.jpg)
 ### The Revocation of Consent
 ![](../../images/mandalas/mandala-revocation_of_consent.jpg)
-### Signs
+### What are signs?
 ![](../../images/mandalas/mandala-signs.jpg)
-### The Suffering of Innocents
+### Why do innocents suffer?
 ![](../../images/mandalas/mandala-suffering_of_innocents.jpg)
-### Symbols
+### What are symbols?
 ![](../../images/mandalas/mandala-symbols.jpg)
-### Trauma
+### What is trauma?
 ![](../../images/mandalas/mandala-trauma.jpg)
-### UFO deception?
+### Are UFOs a deception?
 ![](../../images/mandalas/mandala-ufo_deceptions.jpg)
 
 
