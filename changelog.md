@@ -28,4 +28,5 @@
   * updated saltem_hoc LLM prompt, test questions & docs
   * edits to Questioning Certainty
 * Dec 5 2024
-  * added examples to saltem_hoc llm prompt & notable responses in docs  
+  * added examples to saltem_hoc llm prompt & notable responses in docs
+  * added notable mandalas

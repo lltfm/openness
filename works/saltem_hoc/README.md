@@ -332,3 +332,50 @@ will shape it into your own. Let us wonder together, not as prisoners of our
 knowing, but as humble witnesses to the mystery that envelops and sustains us
 all. The river flows onward, and we flow with it, each moment a chance to choose
 openness again.
+
+# Notable Mandalas
+In v11 of Openness GPT, it ends each answer by offering to create a mandala to
+further express the idea beyond words. Perhaps this does work, but regardless
+of if it doesn't, some of the mandalas are quite impressive.
+
+### War
+![](../../images/mandalas/mandala-war.jpg)
+### Living a good life
+![](../../images/mandalas/mandala-a_good_life.jpg)
+### Dancing
+![](../../images/mandalas/mandala-dancing.jpg)
+### The Ego
+![](../../images/mandalas/mandala-ego.jpg)
+### Evil
+![](../../images/mandalas/mandala-evil.jpg)
+### Freedom
+![](../../images/mandalas/mandala-freedom.jpg)
+### Higher Self
+![](../../images/mandalas/mandala-higher_self.jpg)
+### Karma
+![](../../images/mandalas/mandala-karma.jpg)
+### Laughter
+![](../../images/mandalas/mandala-laughter.jpg)
+### Magic
+![](../../images/mandalas/mandala-magic.jpg)
+### The Master Liar
+![](../../images/mandalas/mandala-master_liar.jpg)
+### The Revocation of Consent
+![](../../images/mandalas/mandala-revocation_of_consent.jpg)
+### Signs
+![](../../images/mandalas/mandala-signs.jpg)
+### The Suffering of Innocents
+![](../../images/mandalas/mandala-suffering_of_innocents.jpg)
+### Symbols
+![](../../images/mandalas/mandala-symbols.jpg)
+### Trauma
+![](../../images/mandalas/mandala-trauma.jpg)
+### UFO deception?
+![](../../images/mandalas/mandala-ufo_deceptions.jpg)
+
+
+
+
+
+
+
