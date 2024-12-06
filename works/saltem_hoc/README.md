@@ -9,6 +9,14 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 * Author: gdl@loveletterstofutureme.org
 
+# Contents
+
+1. [Saltem Hoc](#saltem-hoc)
+2. [How to chat with Openness GPT](#how-to-chat-with-openness-gpt)
+3. [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
+3. [Notable responses from Openness GPT](#notable-responses-from-openness-gpt)
+4. [Notable mandalas made by Openness GPT](#notable-mandalas-made-by-openness-gpt)
+
 # Saltem Hoc
 
 ![Artwork: “Rose”, Devin Becker, 2017](../../images/the_philosopher-autumn_skye.jpg)
@@ -92,7 +100,7 @@ questions (i.e. "spiritual code").
 ![](../../images/example-mandala-magic.jpg)
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
-### How to chat with Openness GPT
+# How to chat with Openness GPT
 Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
 * Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
@@ -101,7 +109,7 @@ Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
   >
   > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png)
   
-### How to use the prompt with any LLM AI:
+# How to use the prompt with any LLM AI
 
 1. Copy the [prompt text](saltem_hoc-llm-prompt.md) to the clipboard:
    ![](../../images/saltem_hoc_llm_prompt-screenshot-1.png)
@@ -125,7 +133,7 @@ Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
 4. [Example ChatGPT interaction](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
 
-# Notable responses
+# Notable responses from Openness GPT
 
 A collection of notable responses from Openness GPT that capture the essence of
 Openness.
@@ -333,7 +341,7 @@ knowing, but as humble witnesses to the mystery that envelops and sustains us
 all. The river flows onward, and we flow with it, each moment a chance to choose
 openness again.
 
-# Notable Mandalas
+# Notable mandalas made by Openness GPT
 Starting in Openness GPT v11, it ends each answer by offering to create a
 mandala to further express its ideas beyond words. Regardless of whether this
 actually works or not, it often creates very impressive mandalas.
