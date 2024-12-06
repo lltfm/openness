@@ -30,3 +30,5 @@
 * Dec 5 2024
   * added examples to saltem_hoc llm prompt & notable responses in docs
   * added notable mandalas
+* Dec 6 2024
+  * added notable response 'Is excluding others wrong?'

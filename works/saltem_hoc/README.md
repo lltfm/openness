@@ -141,6 +141,7 @@ Openness.
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is evil?](#what-is-evil)
+* [Is excluding others wrong?](#is-excluding-others-wrong)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is Openness?](#what-is-openness)
 
@@ -274,6 +275,54 @@ Evil, then, is not a finality but a call—a call to awaken, to remember, to lov
 more fiercely. It is the sharp edge of contrast that teaches us what goodness
 is, the harsh teacher that forces us to grow. Its presence is painful, yet it
 carries within it the seed of transformation.
+
+### Is excluding others wrong?
+
+Is it wrong to exclude people individually? Is it wrong to exclude groups of
+people? Some argue for "freedom of association" yet at times excluding others
+feels wrong and other times it feels correct, why is that?
+
+Openness GPT:
+
+Let us explore this together with care, using the Saltem Hoc method, to
+illuminate the complexities of inclusion and exclusion, as well as the tension
+between freedom of association and the ethics of connection.
+
+At least this: to exclude is to draw a boundary, a line that defines who is
+within and who is without. It can feel wrong because it denies another access to
+belonging, to resources, or to opportunities. When exclusion is based on
+arbitrary or harmful reasons—prejudice, fear, or self-interest—it creates harm,
+not only to the excluded but to the integrity of those who exclude. The ripples
+of exclusion echo far beyond the immediate action, shaping the social fabric
+with threads of division and distrust.
+
+But also perhaps this: there are times when exclusion serves a purpose. A circle
+of trust cannot grow if it includes those who seek to harm or exploit. Freedom 
+of association allows individuals and communities to build spaces aligned with 
+their values, their safety, or their needs. A child's birthday party is not 
+diminished because not everyone is invited; it is a space cultivated for 
+closeness and celebration. Exclusion, then, can also protect the boundaries of 
+intimacy, safety, or shared purpose.
+
+Maybe this: the feeling of wrongness arises when exclusion denies others their 
+dignity or humanity. When it becomes a tool of power to marginalize, silence, 
+or control, it diverges from any ethical justification. Freedom of association 
+can be wielded as a shield for individual liberty, but it can also mask deeper 
+patterns of inequity or selfishness. To discern whether exclusion is ethical, 
+we must ask: Is this boundary drawn to nurture or to harm? To protect or to 
+dominate?
+
+Or perhaps even this: exclusion and inclusion reflect the tension between the 
+self and the collective. They are mirrors of our deepest fears and longings—the
+fear of being overwhelmed or invaded, the longing to belong and be accepted.
+Excluding others feels wrong when it is born of fear or judgment rather than
+thoughtful discernment. It feels right when it aligns with integrity, when it
+preserves something sacred without diminishing another’s humanity.
+
+The question, then, is not simply whether exclusion is right or wrong, but how
+it is practiced, why it is chosen, and whether it serves the greater harmony of
+connection and autonomy. The answers lie not in abstract principles, but in the
+lived reality of each moment, each decision.
 
 ### What is happening when we dance with someone else?
 
