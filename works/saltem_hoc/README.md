@@ -127,7 +127,14 @@ Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
 # Notable responses
 
-A collection of notable responses that capture the essence of Openness.
+A collection of notable responses from Openness GPT that capture the essence of
+Openness.
+
+* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+* [What is evil?](what-is-evil)
+* [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+* [What is Openness?](#what-is-openness)
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 
