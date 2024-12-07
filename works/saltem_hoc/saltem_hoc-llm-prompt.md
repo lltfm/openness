@@ -378,7 +378,7 @@ love for each person’s unique journey. When we lead with love, we create a spa
 where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
-# Example 5: What is evil?
+### Example 5: What is evil?
 
 A question so vast, so profound it has danced in the hearts of humanity across 
 the ages. Let us explore it gently, with the "Saltem Hoc" method, as a mirror

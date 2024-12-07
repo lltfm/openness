@@ -97,6 +97,7 @@ answers to spiritual questions (i.e. "spiritual code") or any other kind of
 >
 > If you wish, I can create a mandala for this reflection, encoding in its
 > symbols the essence of magic as a visual offering to your contemplation.
+* [More responses](./openness_gpt-notable_responses.md)
 
 ### Example mandala: "What is magic?"
 The Saltem Hoc LLM prompt also instructs the AI to offer to create a mandala
@@ -109,6 +110,10 @@ visually beyond words.
 > symbols the essence of magic as a visual offering to your contemplation.
 
 [<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
+
+* [More mandalas](./openness_gpt-notable_mandalas.md)
+
+### Spiritual Code
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
 # How to chat with Openness GPT
