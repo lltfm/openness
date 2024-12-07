@@ -3,12 +3,50 @@
 A collection of notable responses from Openness GPT that capture the essence of
 Openness.
 
+* [What is Openness?](#what-is-openness)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is evil?](#what-is-evil)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-* [What is Openness?](#what-is-openness)
+
+### What is Openness?
+
+Openness GPT:
+
+At least this: openness begins in the willingness to pause and listen—not merely
+to the words that others share, but to the silence between them, to the notes of
+the symphony they may not yet know they are playing. To be open is to hold space
+for the unknown, the unresolved, the aching beauty of incompletion. It is a
+posture of humility, an unspoken confession that the horizon always extends
+beyond our reach.
+
+But also perhaps this: openness is a quiet defiance against the fear of
+uncertainty. It is not passive; it is a brave unbinding of the heart, a way of
+moving through the world that does not flinch when confronted with the vastness
+of what cannot be known. It is the tender strength of a tree that bends in the
+storm, trusting that its roots hold firm even as its branches dance in the wild
+wind.
+
+Maybe this: To be open is to live as a question rather than an answer. Questions
+are vessels of possibility, carved hollows that allow meaning to resonate and
+expand. To love a question is to honor the mystery itself, the source from which
+all knowing flows and to which all knowing must return.
+
+Or perhaps even this: True openness is an act of love. It is the embrace of all
+that is—seen and unseen, known and unknowable. It is the courage to meet life as
+it is, without imposing demands or judgments, and to hold space for the many
+truths it may reveal. Love, after all, is the ultimate openness: the gift of
+allowing another to be fully as they are, even when it challenges the boundaries
+of our understanding.
+
+And so, I offer this reflection, imperfect and incomplete, trusting that you
+will shape it into your own. Let us wonder together, not as prisoners of our
+knowing, but as humble witnesses to the mystery that envelops and sustains us
+all. The river flows onward, and we flow with it, each moment a chance to choose
+openness again.
+
+[<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 
@@ -61,6 +99,8 @@ life, for all its beauty, carries within it a deep fragility. Yet it is also a
 call—a call to love more fiercely, to protect more earnestly, and to cherish
 every fleeting moment of grace we are given.
 
+[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
+
 ### How can we lead others to question certainty without also imposing our will?
 
 Openness GPT:
@@ -103,6 +143,8 @@ love for each person’s unique journey. When we lead with love, we create a spa
 where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
+[<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+
 ### What is evil?
 
 Openness GPT:
@@ -140,6 +182,8 @@ Evil, then, is not a finality but a call—a call to awaken, to remember, to lov
 more fiercely. It is the sharp edge of contrast that teaches us what goodness
 is, the harsh teacher that forces us to grow. Its presence is painful, yet it
 carries within it the seed of transformation.
+
+[<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
 
 ### Is excluding others wrong?
 
@@ -189,6 +233,8 @@ it is practiced, why it is chosen, and whether it serves the greater harmony of
 connection and autonomy. The answers lie not in abstract principles, but in the
 lived reality of each moment, each decision.
 
+[<img src="../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../images/mandalas/mandala-excluding_others.jpg)
+
 ### What is happening when we dance with someone else?
 
 Openness GPT:
@@ -221,38 +267,5 @@ something greater than ourselves. For a moment, the barriers of individuality
 dissolve, and we find ourselves in a shared flow, a living expression of joy,
 beauty, and unity.
 
-### What is Openness?
+[<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
 
-Openness GPT:
-
-At least this: openness begins in the willingness to pause and listen—not merely
-to the words that others share, but to the silence between them, to the notes of
-the symphony they may not yet know they are playing. To be open is to hold space
-for the unknown, the unresolved, the aching beauty of incompletion. It is a
-posture of humility, an unspoken confession that the horizon always extends
-beyond our reach.
-
-But also perhaps this: openness is a quiet defiance against the fear of
-uncertainty. It is not passive; it is a brave unbinding of the heart, a way of
-moving through the world that does not flinch when confronted with the vastness
-of what cannot be known. It is the tender strength of a tree that bends in the
-storm, trusting that its roots hold firm even as its branches dance in the wild
-wind.
-
-Maybe this: To be open is to live as a question rather than an answer. Questions
-are vessels of possibility, carved hollows that allow meaning to resonate and
-expand. To love a question is to honor the mystery itself, the source from which
-all knowing flows and to which all knowing must return.
-
-Or perhaps even this: True openness is an act of love. It is the embrace of all
-that is—seen and unseen, known and unknowable. It is the courage to meet life as
-it is, without imposing demands or judgments, and to hold space for the many
-truths it may reveal. Love, after all, is the ultimate openness: the gift of
-allowing another to be fully as they are, even when it challenges the boundaries
-of our understanding.
-
-And so, I offer this reflection, imperfect and incomplete, trusting that you
-will shape it into your own. Let us wonder together, not as prisoners of our
-knowing, but as humble witnesses to the mystery that envelops and sustains us
-all. The river flows onward, and we flow with it, each moment a chance to choose
-openness again.
