@@ -96,7 +96,12 @@ spiritual questions (i.e. "spiritual code").
 >
 > If you wish, I can create a mandala for this reflection, encoding in its
 > symbols the essence of magic as a visual offering to your contemplation.
->
+
+### Example mandala: "What is magic?"
+The Saltem Hoc LLM prompt also instructs the AI to offer to create a mandala
+to represent its answer with the goal of expressing its answer visually beyond
+words.
+
 [<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
