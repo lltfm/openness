@@ -40,11 +40,11 @@ guide others toward deeper understanding & unseen truths beyond words.
 ## Saltem Hoc & LLM AI
 
 The Saltem Hoc method can be used to build a prompt for LLM AIs to answer
-spiritual
-questions (i.e. "spiritual code").
+spiritual questions (i.e. "spiritual code").
 
-* Example answer: "What is magic?"
-
+### Example answer: "What is magic?"
+> Openness GPT:
+> 
 > At least this: magic is the gentle unfolding of wonder in the presence of the
 > extraordinary hidden within the ordinary. It is the breath that catches at the
 > sight of a firefly's glow, the way sunlight scatters across rippling water,

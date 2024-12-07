@@ -44,4 +44,4 @@ uncomfortable, the shameful & the fearful.
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
 [3]: https://loveletterstofutureme.org/tag/poetic-memes/
 [4]: works/saltem_hoc/README.md
-[5]: orks/saltem_hoc/README.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong
+[5]: works/saltem_hoc/README.md#example-answer-what-is-magic
