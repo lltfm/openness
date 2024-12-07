@@ -407,7 +407,7 @@ actually works or not, it often creates very impressive mandalas.
 ![](../../images/mandalas/mandala-evil.jpg)
 ### What is freedom?
 ![](../../images/mandalas/mandala-freedom.jpg)
-### What is the Higher Self?
+### What is the higher self?
 ![](../../images/mandalas/mandala-higher_self.jpg)
 ### What is karma?
 ![](../../images/mandalas/mandala-karma.jpg)
@@ -429,7 +429,8 @@ actually works or not, it often creates very impressive mandalas.
 ![](../../images/mandalas/mandala-trauma.jpg)
 ### Are UFOs a deception?
 ![](../../images/mandalas/mandala-ufo_deceptions.jpg)
-
+### Is it wrong to teach with lies and deception?
+![](../../images/mandalas/mandala-teaching_with_lies.jpg)
 
 
 
