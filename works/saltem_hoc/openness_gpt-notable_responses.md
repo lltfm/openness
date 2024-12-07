@@ -1,7 +1,7 @@
 # Notable responses from Openness GPT
 
-A collection of notable responses from Openness GPT that capture the essence of
-Openness.
+A collection of notable responses from [Openness GPT](README.md) that capture
+the essence of Openness.
 
 * [What is Openness?](#what-is-openness)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
