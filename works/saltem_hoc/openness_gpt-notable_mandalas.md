@@ -2,11 +2,6 @@
 A collection of notable mandalas from Openness GPT that capture the essence of
 Openness.
 
-Starting in Openness GPT v11, the GPT was instructed to end each answer by
-offering to create a mandala to further express its answer beyond words.
-Regardless of whether this actually works, it often creates very impressive
-and striking mandalas.
-
 > Note: click on the mandala to view full resolution image
 
 ### Why is there war, even now, in modern times?
