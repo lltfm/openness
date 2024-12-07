@@ -1,6 +1,6 @@
 # Notable mandalas made by Openness GPT
-A collection of notable mandalas from Openness GPT that capture the essence of
-Openness.
+A collection of notable mandalas created by Openness GPT in response to
+questions
 
 > Note: click on the mandala to view full resolution image
 
