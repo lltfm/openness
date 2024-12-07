@@ -1,5 +1,4 @@
 * rename works/saltem_hoc/README.md back to saltem_hoc.md
-* split saltem hoc README into separate pages for the notable responses & mandalas
 * openness gpt v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."
   * add enough examples to balance the line count of epitomes vs examples
