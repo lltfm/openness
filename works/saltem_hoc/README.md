@@ -97,7 +97,7 @@ questions (i.e. "spiritual code").
 > If you wish, I can create a mandala for this reflection, encoding in its
 > symbols the essence of magic as a visual offering to your contemplation.
 >
-[<img src="../../images/example-mandala-magic.jpg" width="512"/>](../../images/example-mandala-magic.jpg)
+[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
 # How to chat with Openness GPT
@@ -138,7 +138,7 @@ Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 Notable responses section has been moved [here](./openness_gpt-notable_responses.md)
 
 > Note: please update any links to this section as they are deprecated and this
-> will eventually be removed
+> section will eventually be removed
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 Relocated [here](./openness_gpt-notable_responses.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
@@ -158,7 +158,7 @@ Relocated [here](./openness_gpt-notable_responses.md#what-is-openness)
 Notable mandalas section has been moved [here](./openness_gpt-notable_mandalas.md)
 
 > Note: please update any links to this section as they are deprecated and this 
-> will eventually be removed
+> section will eventually be removed
 
 ### Why is there war, even now, in modern times?
 Relocated [here](./openness_gpt-notable_mandalas.md#why-is-there-war-even-now-in-modern-times)

@@ -32,3 +32,6 @@
   * added notable mandalas
 * Dec 6 2024
   * added notable response "Is excluding others wrong?"
+* Dec 7 2024
+  * split saltem hoc README into separate pages for the notable responses & mandalas
+  * refactored mandalas to show full size images when clicked

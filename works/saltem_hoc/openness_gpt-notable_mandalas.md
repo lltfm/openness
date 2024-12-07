@@ -7,39 +7,41 @@ offering to create a mandala to further express its answer beyond words.
 Regardless of whether this actually works, it often creates very impressive
 and striking mandalas.
 
+> Note: click on the mandala to view full resolution image
+
 ### Why is there war, even now, in modern times?
-![](../../images/mandalas/mandala-war.jpg)
+[<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
 ### How to live a good life?
-![](../../images/mandalas/mandala-a_good_life.jpg)
+[<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
 ### What is happening when we dance with someone else?
-![](../../images/mandalas/mandala-dancing.jpg)
+[<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
 ### What is the ego?
-![](../../images/mandalas/mandala-ego.jpg)
+[<img src="../../images/mandalas/mandala-ego.jpg" width="512"/>](../../images/mandalas/mandala-ego.jpg)
 ### What is evil?
-![](../../images/mandalas/mandala-evil.jpg)
+[<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
 ### What is freedom?
-![](../../images/mandalas/mandala-freedom.jpg)
+[<img src="../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../images/mandalas/mandala-freedom.jpg)
 ### What is the higher self?
-![](../../images/mandalas/mandala-higher_self.jpg)
+[<img src="../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../images/mandalas/mandala-higher_self.jpg)
 ### What is karma?
-![](../../images/mandalas/mandala-karma.jpg)
+[<img src="../../images/mandalas/mandala-karma.jpg" width="512"/>](../../images/mandalas/mandala-karma.jpg)
 ### What is laughter?
-![](../../images/mandalas/mandala-laughter.jpg)
+[<img src="../../images/mandalas/mandala-laughter.jpg" width="512"/>](../../images/mandalas/mandala-laughter.jpg)
 ### What is magic?
-![](../../images/mandalas/mandala-magic.jpg)
+[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
 ### Who is the Master Liar?
-![](../../images/mandalas/mandala-master_liar.jpg)
+[<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
 ### The Revocation of Consent
-![](../../images/mandalas/mandala-revocation_of_consent.jpg)
+[<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What are signs?
-![](../../images/mandalas/mandala-signs.jpg)
+[<img src="../../images/mandalas/mandala-signs.jpg" width="512"/>](../../images/mandalas/mandala-signs.jpg)
 ### Why do innocents suffer?
-![](../../images/mandalas/mandala-suffering_of_innocents.jpg)
+[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 ### What are symbols?
-![](../../images/mandalas/mandala-symbols.jpg)
+[<img src="../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../images/mandalas/mandala-symbols.jpg)
 ### What is trauma?
-![](../../images/mandalas/mandala-trauma.jpg)
+[<img src="../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../images/mandalas/mandala-trauma.jpg)
 ### Are UFOs a deception?
-![](../../images/mandalas/mandala-ufo_deceptions.jpg)
+[<img src="../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../images/mandalas/mandala-ufo_deception.jpg)
 ### Is it wrong to teach with lies and deception?
-![](../../images/mandalas/mandala-teaching_with_lies.jpg)
+[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)

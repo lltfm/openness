@@ -10,3 +10,4 @@
   ideas each time? Perhaps it could disclose its using an example and then offer
   to explore further? Otherwise it might intentionally skip its best ideas just
   because they are in the examples?
+* study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
