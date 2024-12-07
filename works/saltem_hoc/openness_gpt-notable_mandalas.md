@@ -1,5 +1,5 @@
 # Notable mandalas made by Openness GPT
-A collection of notable mandalas created by [Openness GPT](README.md) in response to
+A collection of notable mandalas created by [Openness GPT](README.md#openness-gpt) in response to
 questions
 
 > Note: click on the mandala to view full resolution image

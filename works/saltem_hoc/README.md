@@ -37,9 +37,9 @@ guide others toward deeper understanding & unseen truths beyond words.
 >
 > Gifts given freely, never demanding a blind faith.
 
-## Saltem Hoc & LLM AI
+## Openness GPT
 
-The Saltem Hoc method can be used to build a prompt for LLM AIs to explore
+The [Saltem Hoc](#saltem-hoc) method can be used to build a prompt for LLM AIs to explore
 answers to spiritual questions (i.e. "spiritual code") or any other kind of
 "unanswerable" question.
 

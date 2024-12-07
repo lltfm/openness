@@ -1,6 +1,6 @@
 # Notable responses from Openness GPT
 
-A collection of notable responses from [Openness GPT](README.md) that capture
+A collection of notable responses from [Openness GPT](README.md#openness-gpt) that capture
 the essence of Openness.
 
 * [What is Openness?](#what-is-openness)
