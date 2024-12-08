@@ -188,6 +188,8 @@ carries within it the seed of transformation.
 
 ### What is the "wildfire of bodies"?
 
+[Openness GPT](README.md#openness-gpt):
+
 Ah, the "wildfire of bodies" within the context of openness carries a deep
 resonance—a poetic metaphor for the uncontrollable, vibrant energy of life
 itself as it moves through and connects us all. Let us explore this together,
