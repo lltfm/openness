@@ -36,3 +36,5 @@
   * split saltem hoc README into separate pages for the notable responses & mandalas
   * refactored mandalas to show full size images when clicked
   * added mandalas to notable responses
+* Dec 8 2024
+  * added notable mandala
