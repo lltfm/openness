@@ -8,6 +8,8 @@ questions
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
 ### How to live a good life?
 [<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
+### What is Openness?
+[<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
 ### What is happening when we dance with someone else?
 [<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
 ### What is the ego?
