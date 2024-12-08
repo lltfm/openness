@@ -3,6 +3,8 @@
 A collection of notable responses from [Openness GPT](README.md#openness-gpt) that capture
 the essence of Openness.
 
+> Note: click on a mandala to view the full resolution image
+> 
 * [What is Openness?](#what-is-openness)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)

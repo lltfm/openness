@@ -2,7 +2,7 @@
 A collection of notable mandalas created by [Openness GPT](README.md#openness-gpt) in response to
 questions
 
-> Note: click on the mandala to view full resolution image
+> Note: click on a mandala to view the full resolution image
 
 ### Why is there war, even now, in modern times?
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
