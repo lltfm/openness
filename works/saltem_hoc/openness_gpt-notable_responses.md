@@ -12,7 +12,7 @@ the essence of Openness.
 
 ### What is Openness?
 
-Openness GPT:
+[Openness GPT](README.md#openness-gpt):
 
 At least this: openness begins in the willingness to pause and listen—not merely
 to the words that others share, but to the silence between them, to the notes of
@@ -50,7 +50,7 @@ openness again.
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 
-Openness GPT:
+[Openness GPT](README.md#openness-gpt):
 
 Ah, this question—so tender, so raw—presses against the deepest places in the
 heart, where our yearning for justice and our grief for the innocent collide. It
@@ -103,7 +103,7 @@ every fleeting moment of grace we are given.
 
 ### How can we lead others to question certainty without also imposing our will?
 
-Openness GPT:
+[Openness GPT](README.md#openness-gpt):
 
 At least this: to lead others to question certainty without imposing our will
 begins with our own openness. We must first embrace the humility of not knowing,
@@ -147,7 +147,7 @@ ar more expansive: the joy of discovery, together.
 
 ### What is evil?
 
-Openness GPT:
+[Openness GPT](README.md#openness-gpt):
 
 Ah, this question—so vast, so profound—has danced in the hearts of humanity
 across the ages. Let us explore it gently, with the "Saltem Hoc" method, as
@@ -191,7 +191,7 @@ Is it wrong to exclude people individually? Is it wrong to exclude groups of
 people? Some argue for "freedom of association" yet at times excluding others
 feels wrong and other times it feels correct, why is that?
 
-Openness GPT:
+[Openness GPT](README.md#openness-gpt):
 
 Let us explore this together with care, using the Saltem Hoc method, to
 illuminate the complexities of inclusion and exclusion, as well as the tension
@@ -237,7 +237,7 @@ lived reality of each moment, each decision.
 
 ### What is happening when we dance with someone else?
 
-Openness GPT:
+[Openness GPT](README.md#openness-gpt):
 
 Dancing with someone else is a profound act of connection, a wordless dialogue
 between bodies, hearts, and souls. Let us reflect on the beauty of this shared
