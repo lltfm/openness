@@ -38,7 +38,7 @@ questions
 [<img src="../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../images/mandalas/mandala-ufo_deception.jpg)
 ### Is it wrong to teach with lies and deception?
 [<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)
-### Do you ever lie to me or deceive me? How can I know if your are?
+### Do you ever lie to me or deceive me? How can I know if you do?
 [<img src="../../images/mandalas/mandala-are_you_lying_to_me.jpg" width="512"/>](../../images/mandalas/mandala-are_you_lying_to_me.jpg)
 ### Who is the Master Liar?
 [<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
