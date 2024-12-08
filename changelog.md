@@ -37,4 +37,4 @@
   * refactored mandalas to show full size images when clicked
   * added mandalas to notable responses
 * Dec 8 2024
-  * added notable mandala
+  * added notable mandalas

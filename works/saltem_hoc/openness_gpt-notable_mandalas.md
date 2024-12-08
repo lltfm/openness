@@ -22,6 +22,8 @@ questions
 [<img src="../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../images/mandalas/mandala-freedom.jpg)
 ### What is the higher self?
 [<img src="../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../images/mandalas/mandala-higher_self.jpg)
+### What is self-transcendence?
+[<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
 ### What is karma?
 [<img src="../../images/mandalas/mandala-karma.jpg" width="512"/>](../../images/mandalas/mandala-karma.jpg)
 ### What is laughter?
