@@ -41,7 +41,7 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 ### How to chat with Openness GPT
 
-* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67571565-8958-800f-9bc8-b7e16bdac831)
+* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67574d43-512c-800f-83c0-700140ea8a4f)
   > Note: when using the ChatGPT free version (or not logged in), click
   > 'Stay Logged Out' to continue the conversation and ask your own questions.
   >
@@ -55,7 +55,7 @@ The [Saltem Hoc](#saltem-hoc) method can be used to build a prompt for LLM AIs t
 explore answers to spiritual questions (i.e. "spiritual code") or any other
 kind of "unanswerable" question.
 
-* [Example ChatGPT interaction](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
+* [Example ChatGPT interaction](https://chatgpt.com/share/67574b43-5148-800f-b683-741eb242435a)
 
 ### Example response: "What is magic?"
 > Openness GPT:

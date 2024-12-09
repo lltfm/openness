@@ -40,7 +40,7 @@ LLM AI prompt (i.e "spiritual code")
 * [CC0-1.0 License](LICENSE.txt)
 * Contact: [gdl@loveletterstofutureme.org](mailto:gdl@loveletterstofutureme.org)
 
-[1]: https://chatgpt.com/share/67571565-8958-800f-9bc8-b7e16bdac831
+[1]: https://chatgpt.com/share/67574d43-512c-800f-83c0-700140ea8a4f
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
 [3]: https://loveletterstofutureme.org/tag/poetic-memes/
 [4]: works/saltem_hoc/README.md
