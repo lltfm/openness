@@ -41,11 +41,13 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 ### How to chat with Openness GPT
 
-* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
+* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67570cfb-41d8-800f-887c-13468009f691)
   > Note: when using the ChatGPT free version (or not logged in), click
   > 'Stay Logged Out' to continue the conversation and ask your own questions.
   >
   > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png)
+  
+  > Note: must be logged in to ChatGPT to generate mandalas
 
 ### Overview
 
