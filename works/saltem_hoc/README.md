@@ -55,6 +55,8 @@ The [Saltem Hoc](#saltem-hoc) method can be used to build a prompt for LLM AIs t
 explore answers to spiritual questions (i.e. "spiritual code") or any other
 kind of "unanswerable" question.
 
+* [Example ChatGPT interaction](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
+
 ### Example response: "What is magic?"
 > Openness GPT:
 > 
@@ -149,9 +151,7 @@ visually beyond words.
    > the question, for example:
    >
    > Using the Saltem Hoc method, please answer the question: What is magic?
-
-4. [Example ChatGPT interaction](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
-
+   
 # Notable responses from Openness GPT
 
 Notable responses section has been moved [here](./openness_gpt-notable_responses.md)
