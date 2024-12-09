@@ -39,4 +39,5 @@
 * Dec 8 2024
   * added notable mandalas
   * added notable response
-
+* Dec 9 2024
+  * changed first page artwork 

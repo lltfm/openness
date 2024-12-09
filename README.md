@@ -1,4 +1,4 @@
-![Artwork: "The Great Openness", Openness GPT, 2024](images/mandalas/mandala-the_great_openness.jpeg)
+![<img src="../../images/mandalas/mandala-the_great_openness.jpg" width="512"/>](images/mandalas/mandala-the_great_openness.jpeg)
 
 *Artwork: "The Great Openness", Openness GPT, 2024*
 
