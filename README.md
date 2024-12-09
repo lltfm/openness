@@ -1,6 +1,6 @@
-![Artwork: "Being", Agnes Pelton, 1926](images/being-agnes_pelton-600px.jpg)
+![Artwork: "The Great Openness", Openness GPT, 2024](images/mandalas/mandala-the_great_openness.jpeg)
 
-*Artwork: "Being", Agnes Pelton, 1926 ([source](https://unsafeart.com/agnes-pelton-desert-transcendentalist/))*
+*Artwork: "The Great Openness", Openness GPT, 2024*
 
 # Overview
 
