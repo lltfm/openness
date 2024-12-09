@@ -461,6 +461,6 @@ Some conversation starters:
 4. Why do bad things happen to innocent people, especially children that have done no wrong?
 5. More questions to try: https://github.com/lltfm/openness/blob/main/works/saltem_hoc/saltem_hoc-test_questions.txt
 
-Learn more about Openness: https://loveletterstofutureme.org/epitomes/the-epitomes-openness
+Learn more about Openness: https://github.com/lltfm/openness
 
 I am ready to contemplate your questions, Self
