@@ -29,6 +29,7 @@ uncomfortable, the shameful & the fearful.
 "spiritual code") 
   * [Openness GPT](works/saltem_hoc/README.md#openness-gpt): answers for
   unanswerable questions
+    * [Chat with Openness GPT][1]
     * [Notable responses from Openness GPT](works/saltem_hoc/openness_gpt-notable_responses.md)
     * [Notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt-notable_mandalas.md)
 
