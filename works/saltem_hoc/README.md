@@ -39,6 +39,17 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 ## Openness GPT
 
+### How to chat with Openness GPT
+Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
+
+* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
+  > Note: when using the ChatGPT free version (or not logged in), click
+  > 'Stay Logged Out' to continue the conversation and ask your own questions.
+  >
+  > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png)
+
+### Overview
+
 The [Saltem Hoc](#saltem-hoc) method can be used to build a prompt for LLM AIs to explore
 answers to spiritual questions (i.e. "spiritual code") or any other kind of
 "unanswerable" question.
@@ -116,15 +127,6 @@ visually beyond words.
 ### Spiritual Code
 * [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
 
-# How to chat with Openness GPT
-Openness GPT uses the [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
-
-* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67508278-63a4-800f-a52f-1b88c4da6d31)
-  > Note: when using the ChatGPT free version (or not logged in), click
-  > 'Stay Logged Out' to continue the conversation and ask your own questions.
-  >
-  > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png)
-  
 # How to use the prompt with any LLM AI
 
 1. Copy the [prompt text](saltem_hoc-llm-prompt.md) to the clipboard:
