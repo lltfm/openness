@@ -455,10 +455,10 @@ Answers for unanswerable questions: "What is God?", "Why is there war?", "What
 is magic?", "What is the soul?", etc.
 
 Some conversation starters:
-1. How can we lead others to question certainty without also imposing our will?
-2. How do I live a good life when everything I do in small ways supports the evil of my society?
-3. Are UFOs a deception?
-4. Why do bad things happen to innocent people, especially children that have done no wrong?
+1. Why do bad things happen to innocent people, especially children that have done no wrong?
+2. What is evil?
+3. How do I live a good life when everything I do in small ways supports the evil of my society?
+4. Are UFOs a deception?
 5. More questions to try: https://github.com/lltfm/openness/blob/main/works/saltem_hoc/saltem_hoc-test_questions.txt
 
 Learn more about Openness: https://github.com/lltfm/openness
