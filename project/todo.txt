@@ -11,5 +11,7 @@
   to explore further? Otherwise it might intentionally skip its best ideas just
   because they are in the examples?
   * work on "incorrect" answers (new epitomes?)
+  * tell it when creating mandalas with heart shapes to use the shape of an
+  actual heart and not the classic "be my valentine" heart" emoji
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 * finish works/the_epitomes_of_openness/references.md
