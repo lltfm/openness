@@ -12,3 +12,4 @@
   because they are in the examples?
   * work on "incorrect" answers (new epitomes?)
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
+* finish works/the_epitomes_of_openness/references.md
