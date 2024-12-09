@@ -33,11 +33,6 @@ uncomfortable, the shameful & the fearful.
     * [Notable responses from Openness GPT](works/saltem_hoc/openness_gpt-notable_responses.md)
     * [Notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt-notable_mandalas.md)
 
-## Related Links
-
-* LLTFM Website: https://loveletterstofutureme.org
-    * [LLTFM: The Epitomes of Openness (formatted)](https://loveletterstofutureme.org/epitomes/the-epitomes-openness/)
-
 ## Notices
 
 * [Copyright Notice](COPYRIGHT.md)
