@@ -230,9 +230,6 @@ invites us to embrace our shared humanity, to hold space for the wild and sacred
 dance of existence, and to let go of the illusion of control in the face of
 life’s inexorable flow.
 
-Would you like me to create a mandala to symbolize this idea, capturing the
-untamed energy of the wildfire and the interconnectedness it represents?
-
 [<img src="../../images/mandalas/mandala-the_wildfire_of_bodies.jpg" width="512"/>](../../images/mandalas/mandala-the_wildfire_of_bodies.jpg)
 
 ### Is excluding others wrong?
