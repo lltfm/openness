@@ -16,10 +16,10 @@ flow of truth which we do not fully understand.
 Openness is a way of being in the world, a philosophical lens, a secular &
 minimalist meta-spirituality, an open-source spiritual codebase, an 
 [AI spiritual guide][1], a [method][5] for answering unanswerable questions, a
-vessel for emotional transformation, a blank canvas for new forms to emerge. It
-seeks to integrate & express all experiences, thoughts & emotions, chosen &
-unchosen, desired & undesired. It pays particular attention to the
-uncomfortable, the shameful & the fearful.
+vessel for emotional transformation and integration, a blank canvas for new
+forms to emerge. It seeks to integrate & express all experiences, thoughts &
+emotions, chosen & unchosen, desired & undesired. It pays particular attention
+to the uncomfortable, the shameful & the fearful.
 
 ## Works in this repository
 
