@@ -79,7 +79,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > "Can you love people and lead them without imposing your will? ...Giving birth
 > and nourishing, having without possessing, acting with no expectations, 
 > leading and not trying to control: this is the supreme virtue."
-> ~ Tao Te Ching 10 (S. Mitchell version[^3]
+> ~ Tao Te Ching 10 (S. Mitchell version)[^3]
 
 # Westward
 
