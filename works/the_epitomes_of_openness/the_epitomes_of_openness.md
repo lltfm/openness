@@ -245,16 +245,14 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 >
 > Who chooses the planks of the Ship of Self?
 
-[poetic-memes.md](./poetic-memes.md)
-
 [^1]: https://loveletterstofutureme.org/epitomes/the-epitomes-openness/
 [^2]: [poetic-memes.md](./poetic-memes.md)
 [^3]: https://terebess.hu/english/tao/mitchell.html
-[^4]: https://loveletterstofutureme.org/excerpts/sarah-firth-sit-with-multiplicity-celebrate-ambiguity-and-befriend-uncertainty/
-[^5]: https://loveletterstofutureme.org/excerpts/richard-feynman-i-dont-feel-frightened-by-not-knowing-things/
+[^4]: https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
+[^5]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
 [^6]: https://amodamaa.substack.com/p/break-down-or-break-through-5c8
 [^7]: https://fs.blog/david-foster-wallace-this-is-water/
 [^8]: https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
-[^9]: https://loveletterstofutureme.org/shares/r-beau-lotto-the-humility-and-courage-to-not-know/
+[^9]: Video: "Context is Everything", Beau Lotto, 2020, https://www.youtube.com/watch?v=mYkayBPcRR4
 [^10]: [What is the wildfire of bodies?](../saltem_hoc/openness_gpt-notable_responses.md#what-is-the-wildfire-of-bodies)
 [^11]: [memento-amaris.md](./memento-amaris.md)

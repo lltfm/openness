@@ -4,7 +4,7 @@ Memento amaris is latin for "remember, you are loved". It is a complement to
 the classical "memento mori", i.e. "remember, you will die". Invoking 
 "memento amaris" then is both a reminder that we will die, but also a reminder
 that we can, at any time, also choose to open ourselves to contemplating the
-mysteries of love, that while life means death, that perhaps somehow, we are
+mysteries of love, that while life implies death, that perhaps somehow, we are
 also loved beyond all reason.
 
 ## What is memento amaris?
