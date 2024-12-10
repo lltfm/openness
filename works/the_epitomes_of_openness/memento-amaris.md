@@ -6,8 +6,8 @@ the classical "memento mori", i.e. "remember, you will die". Invoking
 that we can, at any time, also choose to open ourselves to contemplating the
 mystery of love. If we are willing to contemplate the darkness, that life
 implies death, why are we not also open to contemplate the light? That perhaps,
-outside the context of lives, beyond all reason and without condition, we are
-beloved?
+outside the context of our lives, beyond all reason and without condition,
+we are beloved?
 
 ## What is memento amaris?
 
