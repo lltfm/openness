@@ -4,9 +4,10 @@ Memento amaris is latin for "remember, you are loved". It is a complement to
 the classical "memento mori", i.e. "remember, you will die". Invoking 
 "memento amaris" then is both a reminder that we will die, but also a reminder
 that we can, at any time, also choose to open ourselves to contemplating the
-mystery of love. If are willing to contemplate the darkness, that life implies
-death, why are we not also open to contemplate the light? That perhaps, outside
-the context of lives, beyond all reason and without condition, we are beloved?
+mystery of love. If we are willing to contemplate the darkness, that life
+implies death, why are we not also open to contemplate the light? That perhaps,
+outside the context of lives, beyond all reason and without condition, we are
+beloved?
 
 ## What is memento amaris?
 
