@@ -13,4 +13,4 @@ If you are the owner of copyrighted material used here and:
 
 * You wish to correct or update the attribution of your work: please contact us with the updated attribution
 * You do not agree to the use of your work here for any reason: please contact us and your work will be removed immediately
-* Contact: [gdl@loveletterstofutureme.org](mailto:gdl@loveletterstofutureme.org)  
+* [Contact us](project/contact_us.md)  

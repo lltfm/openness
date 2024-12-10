@@ -6,7 +6,7 @@
 The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2] 
 ("epitomes") for quickly communicating the core ideas of Openness.
 
-* Author: gdl@loveletterstofutureme.org
+* Author: G.D. Lance
 
 # The Epitomes of Openness
 

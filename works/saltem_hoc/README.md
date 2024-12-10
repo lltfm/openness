@@ -7,7 +7,7 @@ or by requiring them to decide what is true. Instead, it begins by pointing at
 something concrete & familiar and then suggests speculations or questions that
 guide others toward deeper understanding & unseen truths beyond words.
 
-* Author: gdl@loveletterstofutureme.org
+* Author: G.D. Lance
 
 # Contents
 
