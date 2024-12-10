@@ -44,4 +44,4 @@ LLM AI prompt (i.e "spiritual code")
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
 [3]: https://loveletterstofutureme.org/tag/poetic-memes/
 [4]: works/saltem_hoc/README.md
-[5]: works/saltem_hoc/openness_gpt-notable_responses.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong
+[5]: https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#saltem-hoc
