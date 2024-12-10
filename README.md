@@ -42,6 +42,6 @@ LLM AI prompt (i.e "spiritual code")
 
 [1]: https://chatgpt.com/share/67574d43-512c-800f-83c0-700140ea8a4f
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
-[3]: https://loveletterstofutureme.org/tag/poetic-memes/
+[3]: works/the_epitomes_of_openness/poetic-memes.md
 [4]: works/saltem_hoc/README.md
-[5]: https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#saltem-hoc
+[5]: works/saltem_hoc/README.md#saltem-hoc
