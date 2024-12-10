@@ -42,3 +42,4 @@
 * Dec 9 2024
   * changed first page artwork 
   * added notable mandalas
+  * renamed saltem_hoc-llm-prompt.md to openness_gpt-prompt.txt

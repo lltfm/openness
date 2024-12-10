@@ -39,6 +39,11 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 ## Openness GPT
 
+The Saltem Hoc method is used to build the [LLM AI prompt for Openness
+GPT](openness_gpt-prompt.txt).
+Openness GOT assists users in exploring answers to spiritual questions (or any
+other kind of "unanswerable" question).
+
 ### How to chat with Openness GPT
 
 * Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67574d43-512c-800f-83c0-700140ea8a4f)
@@ -48,16 +53,11 @@ guide others toward deeper understanding & unseen truths beyond words.
   > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png)
   
   > Note: must be logged in to ChatGPT to generate mandalas
-
-### Overview
-
-The [Saltem Hoc](#saltem-hoc) method can be used to build a prompt for LLM AIs to
-explore answers to spiritual questions (i.e. "spiritual code") or any other
-kind of "unanswerable" question.
+  
+### Example response: "What is magic?"
 
 * [Example ChatGPT interaction](https://chatgpt.com/share/67574b43-5148-800f-b683-741eb242435a)
 
-### Example response: "What is magic?"
 > Openness GPT:
 > 
 > At least this: magic is the gentle unfolding of wonder in the presence of the
@@ -114,7 +114,7 @@ kind of "unanswerable" question.
 * [More responses](./openness_gpt-notable_responses.md)
 
 ### Example mandala: "What is magic?"
-The Saltem Hoc LLM prompt also instructs the AI to offer to create a mandala
+The Openness GPT prompt also instructs the AI to offer to create a mandala
 after it responds to represent its answer with the goal of expressing its answer
 visually beyond words.
 
@@ -127,12 +127,9 @@ visually beyond words.
 
 * [More mandalas](./openness_gpt-notable_mandalas.md)
 
-### Spiritual Code
-* [Saltem Hoc LLM prompt](saltem_hoc-llm-prompt.md)
-
 # How to use the prompt with any LLM AI
 
-1. Copy the [prompt text](saltem_hoc-llm-prompt.md) to the clipboard:
+1. Copy the [prompt text](openness_gpt-prompt.txt) to the clipboard:
    ![](../../images/saltem_hoc_llm_prompt-screenshot-1.png)
    > Note: the prompt is just text. Optionally, paste it into a text editor,
    edit it for yourself, then copy all the text back to the clipboard
