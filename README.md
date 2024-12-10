@@ -38,7 +38,7 @@ LLM AI prompt (i.e "spiritual code")
 * [Copyright Notice](COPYRIGHT.md)
 * [Fair Use Disclaimer](FAIR_USE_DISCLAIMER.md)
 * [CC0-1.0 License](LICENSE.txt)
-* Contact: [gdl@loveletterstofutureme.org](mailto:gdl@loveletterstofutureme.org)
+* [Contact us](project/contact_us.md) 
 
 [1]: https://chatgpt.com/share/67574d43-512c-800f-83c0-700140ea8a4f
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
