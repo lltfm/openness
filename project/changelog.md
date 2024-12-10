@@ -43,3 +43,6 @@
   * changed first page artwork 
   * added notable mandalas
   * renamed saltem_hoc-llm-prompt.md to openness_gpt-prompt.txt
+* Dec 10 2024
+  * refactored the_epitomes_of_openness links to footnotes
+    * added explanations for memento amaris and poetic memes
