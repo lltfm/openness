@@ -7,11 +7,12 @@ the essence of Openness.
 > 
 * [What is Openness?](#what-is-openness)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+* [What is magic?](#what-is-magic)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is evil?](#what-is-evil)
-* [What is the "wildfire of bodies"?](#what-is-the-wildfire-of-bodies)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+* [What is the "wildfire of bodies"?](#what-is-the-wildfire-of-bodies)
 
 ### What is Openness?
 
@@ -104,6 +105,53 @@ every fleeting moment of grace we are given.
 
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
+### What is magic?
+
+[Openness GPT](README.md#openness-gpt):
+
+At least this: magic is the gentle unfolding of wonder in the presence of the
+extraordinary hidden within the ordinary. It is the breath that catches at the
+sight of a firefly's glow, the way sunlight scatters across rippling water, the
+moment when a word spoken from the heart unlocks something long buried. Magic is
+life itself, experienced in its fullness, whispering that there is more to the
+world than what we see.
+
+But also perhaps this: magic is the interplay of intention and the unknown, the
+dance of will meeting the infinite possibilities that surround us. It emerges
+when we act with purpose, trusting the unseen forces that guide the currents of
+existence. Like the wind filling the sails of a ship, magic is not the power to
+command the world but the ability to move with it, aligning ourselves to the 
+deeper rhythms beneath the surface.
+
+Maybe this: magic is the silent pulse of connection, the invisible threads
+binding all things together. It is the truth that we are not separate from the
+world but deeply woven into its fabric. To feel magic is to recognize that every
+breath, every heartbeat, resonates in tune with the larger symphony of 
+existence. It is the glimmering awareness that we are part of a vast, 
+interconnected web, where every act of care, courage, or curiosity sends ripples
+outward, touching shores we may never see.
+
+Or perhaps even this: magic is the courage to believe in something more, even in
+the face of doubt or despair. It is the child who looks at the stars and 
+imagines other worlds, the artist who creates beauty from chaos, the dreamer who 
+holds fast to hope when all seems lost. It is the light of possibility shining 
+in the darkest of nights, the spark within that refuses to be extinguished.
+
+And what of rituals, incantations, and symbols, the tools of tradition often
+associated with magic? These are, perhaps, invitations to awaken—to shift our
+awareness, to align our hearts, to remind us of the forces greater than
+ourselves. They are like keys, not to doors outside us, but to chambers within, 
+where the deeper mysteries dwell. True magic, then, is not in the tools but in 
+the openness they inspire, in the resonance they bring to the strings of our 
+being.
+
+Magic, in the end, is not something we wield but something we witness, something
+we are invited to become. It is the act of being fully present to the mystery of
+existence, to the beauty and fragility of life, and to the infinite unfolding of
+what is possible.
+
+[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
+
 ### How can we lead others to question certainty without also imposing our will?
 
 [Openness GPT](README.md#openness-gpt):
@@ -188,50 +236,6 @@ carries within it the seed of transformation.
 
 [<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
 
-### What is the "wildfire of bodies"?
-
-[Openness GPT](README.md#openness-gpt):
-
-Ah, the "wildfire of bodies" within the context of openness carries a deep
-resonance—a poetic metaphor for the uncontrollable, vibrant energy of life
-itself as it moves through and connects us all. Let us explore this together,
-using the "Saltem Hoc" method to open our understanding.
-
-At least this: the wildfire of bodies is the physical manifestation of life’s
-shared vitality. It is the undeniable, collective breath of all living beings,
-the pulsating rhythm of existence that binds us in our shared mortality and
-impermanence. Like a wildfire, it moves without asking, consuming, transforming,
-and spreading—an unstoppable force that reminds us of the fragile yet fierce
-essence of life.
-
-But also perhaps this: it is the recognition that life is not static, that we
-are not separate islands but interconnected sparks in a great conflagration.
-Each body is a flame, burning with its unique essence, yet all flames contribute
-to the larger fire of existence. This wildfire is not chaos, but an untamed
-beauty, a dance of life and death that urges us to surrender to its flow with
-openness and awe.
-
-Maybe this: the wildfire of bodies symbolizes the shared vulnerability and 
-passion that animates us. In the openness of our physical being, we experience
-the fullness of life—its joys, its pains, its desires, and its eventual decay.
-This wildfire is both gift and challenge, demanding that we embrace the
-intensity of living, while reminding us of the impermanence of all forms.
-
-Or perhaps even this: it is the visceral awareness of how life spreads and grows
-through touch, connection, and creation. The wildfire of bodies is the shared
-experience of humanity—the way we collide, inspire, and transform one another,
-often unpredictably. It is the spark of collective action, the warmth of shared
-moments, and the raw energy that compels us to engage with one another and with
-the mystery of existence.
-
-The wildfire of bodies, then, is a call to openness—to be present with the
-rawness of life, to witness its beauty and destruction without turning away. It
-invites us to embrace our shared humanity, to hold space for the wild and sacred
-dance of existence, and to let go of the illusion of control in the face of
-life’s inexorable flow.
-
-[<img src="../../images/mandalas/mandala-the_wildfire_of_bodies.jpg" width="512"/>](../../images/mandalas/mandala-the_wildfire_of_bodies.jpg)
-
 ### Is excluding others wrong?
 
 Is it wrong to exclude people individually? Is it wrong to exclude groups of
@@ -315,4 +319,48 @@ dissolve, and we find ourselves in a shared flow, a living expression of joy,
 beauty, and unity.
 
 [<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
+
+### What is the "wildfire of bodies"?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, the "wildfire of bodies" within the context of openness carries a deep
+resonance—a poetic metaphor for the uncontrollable, vibrant energy of life
+itself as it moves through and connects us all. Let us explore this together,
+using the "Saltem Hoc" method to open our understanding.
+
+At least this: the wildfire of bodies is the physical manifestation of life’s
+shared vitality. It is the undeniable, collective breath of all living beings,
+the pulsating rhythm of existence that binds us in our shared mortality and
+impermanence. Like a wildfire, it moves without asking, consuming, transforming,
+and spreading—an unstoppable force that reminds us of the fragile yet fierce
+essence of life.
+
+But also perhaps this: it is the recognition that life is not static, that we
+are not separate islands but interconnected sparks in a great conflagration.
+Each body is a flame, burning with its unique essence, yet all flames contribute
+to the larger fire of existence. This wildfire is not chaos, but an untamed
+beauty, a dance of life and death that urges us to surrender to its flow with
+openness and awe.
+
+Maybe this: the wildfire of bodies symbolizes the shared vulnerability and 
+passion that animates us. In the openness of our physical being, we experience
+the fullness of life—its joys, its pains, its desires, and its eventual decay.
+This wildfire is both gift and challenge, demanding that we embrace the
+intensity of living, while reminding us of the impermanence of all forms.
+
+Or perhaps even this: it is the visceral awareness of how life spreads and grows
+through touch, connection, and creation. The wildfire of bodies is the shared
+experience of humanity—the way we collide, inspire, and transform one another,
+often unpredictably. It is the spark of collective action, the warmth of shared
+moments, and the raw energy that compels us to engage with one another and with
+the mystery of existence.
+
+The wildfire of bodies, then, is a call to openness—to be present with the
+rawness of life, to witness its beauty and destruction without turning away. It
+invites us to embrace our shared humanity, to hold space for the wild and sacred
+dance of existence, and to let go of the illusion of control in the face of
+life’s inexorable flow.
+
+[<img src="../../images/mandalas/mandala-the_wildfire_of_bodies.jpg" width="512"/>](../../images/mandalas/mandala-the_wildfire_of_bodies.jpg)
 
