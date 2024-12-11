@@ -47,12 +47,10 @@ other kind of "unanswerable" question).
 ### How to chat with Openness GPT
 
 * Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67574d43-512c-800f-83c0-700140ea8a4f)
-  > Note: when using the ChatGPT free version (or not logged in), click
-  > 'Stay Logged Out' to continue the conversation and ask your own questions.
-  >
-  > ![](../../images/saltem_hoc_llm_prompt-screenshot-4.png)
-  
-  > Note: must be logged in to ChatGPT to generate mandalas
+  > Note: verified as of Dec 10 2024, ChatGPT anonymous free tier now allows
+  only the "4o-mini" model. Openness GPT requires the "4o" model for its large
+  prompt and for mandala creation. The "4o" model can still be accessed for
+  free by creating an account or logging in to an existing account.
   
 ### Example response: "What is magic?"
 
