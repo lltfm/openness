@@ -1,2 +1,3 @@
-* Email G.D. Lance: [gdl@loveletterstofutureme.org](mailto:gdl@loveletterstofutureme.org)
-* Visit: https://loveletterstofutureme.org
+* G.D. Lance
+  * Email: [gdl@loveletterstofutureme.org](mailto:gdl@loveletterstofutureme.org)
+  * Other works: https://loveletterstofutureme.org
