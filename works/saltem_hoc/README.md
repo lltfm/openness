@@ -53,7 +53,7 @@ questions (or any other kind of "unanswerable" question).
   
   > If the model is not "4o", click on the model dropdown in the upper-left and 
   > select "4o" (highlighted below)
-  ![](../../images/openness_gpt-screenshot-1.jpg)
+  [<img src="../../images/openness_gpt-screenshot-1.jpg" width="512"/>](../../images/openness_gpt-screenshot-1.jpg)
 
 ### Example response: "What is magic?"
 

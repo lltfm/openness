@@ -37,7 +37,7 @@ LLM AI prompt (i.e "spiritual code")
     
       > If the model is not "4o", click on the model dropdown in the upper-left and
       select "4o" (highlighted below)
-      ![](images/openness_gpt-screenshot-1.jpg)
+      [<img src="images/openness_gpt-screenshot-1.jpg" width="512"/>](images/openness_gpt-screenshot-1.jpg)
     * [Notable responses from Openness GPT](works/saltem_hoc/openness_gpt-notable_responses.md)
     * [Notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt-notable_mandalas.md)
 
