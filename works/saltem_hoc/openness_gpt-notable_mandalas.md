@@ -21,8 +21,8 @@ questions
 * [What are signs?](#what-are-signs)
 * [What are symbols?](#what-are-symbols)
 * [Why do innocents suffer?](#why-do-innocents-suffer)
-* [The Revocation of Consent](#the-revocation-of-consent)
 * [What is trauma?](#what-is-trauma)
+* [What is the Revocation of Consent?](#what-is-the-revocation-of-consent)
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
@@ -64,10 +64,10 @@ questions
 [<img src="../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../images/mandalas/mandala-symbols.jpg)
 ### Why do innocents suffer?
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
-### The Revocation of Consent
-[<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What is trauma?
 [<img src="../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../images/mandalas/mandala-trauma.jpg)
+### What is the Revocation of Consent?
+[<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### Are UFOs a deception?
 [<img src="../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../images/mandalas/mandala-ufo_deception.jpg)
 ### Is it wrong to teach with lies and deception?
