@@ -6,7 +6,7 @@ questions to express its answers visually beyond words.
 
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
 * [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
-* [How do we resist tyranny?](#how-do-we-resist-tyranny)
+* [How do we resist tyranny with also controlling others?](#how-do-we-resist-tyranny)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is Openness?](#what-is-openness)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
