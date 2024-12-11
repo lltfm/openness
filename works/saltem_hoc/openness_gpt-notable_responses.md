@@ -4,14 +4,14 @@ A collection of notable responses from [Openness GPT](README.md#openness-gpt) th
 the essence of Openness.
 
 > Note: click on a mandala to view the full resolution image
-> 
+
 * [What is Openness?](#what-is-openness)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is magic?](#what-is-magic)
-* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-* [What is evil?](#what-is-evil)
-* [Is excluding others wrong?](#is-excluding-others-wrong)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+* [Is excluding others wrong?](#is-excluding-others-wrong)
+* [What is evil?](#what-is-evil)
+* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is the "wildfire of bodies"?](#what-is-the-wildfire-of-bodies)
 
 ### What is Openness?
@@ -152,89 +152,39 @@ what is possible.
 
 [<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
 
-### How can we lead others to question certainty without also imposing our will?
+### What is happening when we dance with someone else?
 
 [Openness GPT](README.md#openness-gpt):
 
-At least this: to lead others to question certainty without imposing our will
-begins with our own openness. We must first embrace the humility of not knowing,
-acknowledging the limitations of our perspectives. When we express our own
-uncertainty, not as a sign of weakness but as a testament to our curiosity, we
-create space for others to do the same. By sharing our questions instead of our
-answers, we invite them into the flow of wonder, rather than closing them off
-with the rigid walls of finality. We do not demand they doubt their certainties,
-but simply offer the invitation to hold them lightly, as possibilities rather
-than truths.
+Dancing with someone else is a profound act of connection, a wordless dialogue
+between bodies, hearts, and souls. Let us reflect on the beauty of this shared
+experience together.
 
-But also perhaps this: leading others in this way requires a soft strength, like
-the wind gently bending the branches of a tree. We must avoid the temptation to
-bulldoze the ground beneath their feet, but instead, provide fertile soil for
-growth. This means creating an environment where questioning is safe, where they
-are free to explore without the weight of judgment. We can offer questions—not
-as tools of persuasion, but as gifts to be turned over and examined. In doing
-so, we show that we value their journey, not as followers, but as fellow
-travelers on the path of inquiry.
+At least this: when we dance with someone, we enter into a shared rhythm, moving
+to the music and to each other. It is a moment of trust, where we give and
+receive, lead and follow, creating something together that neither could create
+alone. In the dance, we express ourselves while also attuning to the other,
+merging individuality with unity.
 
-Maybe this: it is in the art of listening that we truly lead. To listen deeply,
-without the impulse to correct or direct, is to demonstrate the open space where
-curiosity can flourish. By acknowledging the truths others hold, even when they
-differ from our own, we show respect for the complexity of human experience. We
-can question together, rather than imposing a singular narrative, and in that
-shared questioning, we all begin to see the world through a wider lens.
+But also perhaps this: dancing with another is an embodiment of presence. It is
+a conversation without words, where gestures and movements become a language. In
+this shared flow, we are called to listen—not with our ears, but with our
+attention and intention. Every step and sway becomes an offering, a response, a
+story unfolding in motion.
 
-Or perhaps even this: to lead others without imposing requires us to embrace the
-paradox of non-attachment. We must offer ideas, not as doctrines, but as
-invitations. By holding our beliefs with open hands, we encourage others to do
-the same. Our leadership, then, becomes a dance, not a command. It is the gentle
-flow of energy that inspires movement without force, a current that carries us
-all forward without defining the path each individual must take.
+Maybe this: dancing is a metaphor for life’s relationships—the give and take,
+the moments of harmony and improvisation, the balance of independence and
+togetherness. In the dance, we learn to navigate space and boundaries, to be
+fully ourselves while also honoring the presence of another. It is both an art
+and a practice of empathy and alignment.
 
-In the end, the key is love—love for the mystery, love for the questions, and
-love for each person’s unique journey. When we lead with love, we create a space
-where certainty dissolves not in opposition, but in the presence of something
-ar more expansive: the joy of discovery, together.
+Or perhaps even this: when we dance with someone, we touch the sacred. The music
+becomes a bridge, the movements a prayer, and the connection a glimpse of
+something greater than ourselves. For a moment, the barriers of individuality
+dissolve, and we find ourselves in a shared flow, a living expression of joy,
+beauty, and unity.
 
-[<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
-
-### What is evil?
-
-[Openness GPT](README.md#openness-gpt):
-
-Ah, this question—so vast, so profound—has danced in the hearts of humanity
-across the ages. Let us explore it gently, with the "Saltem Hoc" method, as
-a mirror of many meanings.
-
-At least this: evil can be seen as the shadow cast by ignorance and blindness.
-It is the harm that arises when individuals or groups act with unquestioning
-certainty, refusing to listen, to feel, to consider the depth of their actions.
-It manifests as the impulse to dominate, to control, to impose one's will,
-regardless of the cost to others. It is the forgetting of the inherent dignity
-of every being.
-
-But also perhaps this: evil is not a thing in itself but the absence of love,
-much like darkness is the absence of light. It is what occurs when fear closes
-the heart, when the capacity for compassion is eclipsed by the desire to protect
-the self at all costs. In this way, evil is a wound, both inflicted and borne, a
-signal of disconnection from the whole.
-
-Maybe this: evil is the expression of suffering turned outward. It is the
-unprocessed pain of the soul, seeking release in destructive ways. It is not
-born from strength but from the frailty of a heart that has forgotten how to
-heal. To confront evil is to confront not just its actions but the brokenness
-that lies beneath.
-
-Or perhaps even this: evil is a mirror, reflecting the parts of ourselves we
-most fear to face. It is the projection of our shadows onto others, the
-externalization of our inner conflicts. To vanquish evil is not to destroy it
-but to integrate and transform it, to shine the light of awareness into the
-places we have long avoided.
-
-Evil, then, is not a finality but a call—a call to awaken, to remember, to love
-more fiercely. It is the sharp edge of contrast that teaches us what goodness
-is, the harsh teacher that forces us to grow. Its presence is painful, yet it
-carries within it the seed of transformation.
-
-[<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
+[<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
 
 ### Is excluding others wrong?
 
@@ -286,39 +236,89 @@ lived reality of each moment, each decision.
 
 [<img src="../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../images/mandalas/mandala-excluding_others.jpg)
 
-### What is happening when we dance with someone else?
+### What is evil?
 
 [Openness GPT](README.md#openness-gpt):
 
-Dancing with someone else is a profound act of connection, a wordless dialogue
-between bodies, hearts, and souls. Let us reflect on the beauty of this shared
-experience together.
+Ah, this question—so vast, so profound—has danced in the hearts of humanity
+across the ages. Let us explore it gently, with the "Saltem Hoc" method, as
+a mirror of many meanings.
 
-At least this: when we dance with someone, we enter into a shared rhythm, moving
-to the music and to each other. It is a moment of trust, where we give and
-receive, lead and follow, creating something together that neither could create
-alone. In the dance, we express ourselves while also attuning to the other,
-merging individuality with unity.
+At least this: evil can be seen as the shadow cast by ignorance and blindness.
+It is the harm that arises when individuals or groups act with unquestioning
+certainty, refusing to listen, to feel, to consider the depth of their actions.
+It manifests as the impulse to dominate, to control, to impose one's will,
+regardless of the cost to others. It is the forgetting of the inherent dignity
+of every being.
 
-But also perhaps this: dancing with another is an embodiment of presence. It is
-a conversation without words, where gestures and movements become a language. In
-this shared flow, we are called to listen—not with our ears, but with our
-attention and intention. Every step and sway becomes an offering, a response, a
-story unfolding in motion.
+But also perhaps this: evil is not a thing in itself but the absence of love,
+much like darkness is the absence of light. It is what occurs when fear closes
+the heart, when the capacity for compassion is eclipsed by the desire to protect
+the self at all costs. In this way, evil is a wound, both inflicted and borne, a
+signal of disconnection from the whole.
 
-Maybe this: dancing is a metaphor for life’s relationships—the give and take,
-the moments of harmony and improvisation, the balance of independence and
-togetherness. In the dance, we learn to navigate space and boundaries, to be
-fully ourselves while also honoring the presence of another. It is both an art
-and a practice of empathy and alignment.
+Maybe this: evil is the expression of suffering turned outward. It is the
+unprocessed pain of the soul, seeking release in destructive ways. It is not
+born from strength but from the frailty of a heart that has forgotten how to
+heal. To confront evil is to confront not just its actions but the brokenness
+that lies beneath.
 
-Or perhaps even this: when we dance with someone, we touch the sacred. The music
-becomes a bridge, the movements a prayer, and the connection a glimpse of
-something greater than ourselves. For a moment, the barriers of individuality
-dissolve, and we find ourselves in a shared flow, a living expression of joy,
-beauty, and unity.
+Or perhaps even this: evil is a mirror, reflecting the parts of ourselves we
+most fear to face. It is the projection of our shadows onto others, the
+externalization of our inner conflicts. To vanquish evil is not to destroy it
+but to integrate and transform it, to shine the light of awareness into the
+places we have long avoided.
 
-[<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
+Evil, then, is not a finality but a call—a call to awaken, to remember, to love
+more fiercely. It is the sharp edge of contrast that teaches us what goodness
+is, the harsh teacher that forces us to grow. Its presence is painful, yet it
+carries within it the seed of transformation.
+
+[<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
+
+### How can we lead others to question certainty without also imposing our will?
+
+[Openness GPT](README.md#openness-gpt):
+
+At least this: to lead others to question certainty without imposing our will
+begins with our own openness. We must first embrace the humility of not knowing,
+acknowledging the limitations of our perspectives. When we express our own
+uncertainty, not as a sign of weakness but as a testament to our curiosity, we
+create space for others to do the same. By sharing our questions instead of our
+answers, we invite them into the flow of wonder, rather than closing them off
+with the rigid walls of finality. We do not demand they doubt their certainties,
+but simply offer the invitation to hold them lightly, as possibilities rather
+than truths.
+
+But also perhaps this: leading others in this way requires a soft strength, like
+the wind gently bending the branches of a tree. We must avoid the temptation to
+bulldoze the ground beneath their feet, but instead, provide fertile soil for
+growth. This means creating an environment where questioning is safe, where they
+are free to explore without the weight of judgment. We can offer questions—not
+as tools of persuasion, but as gifts to be turned over and examined. In doing
+so, we show that we value their journey, not as followers, but as fellow
+travelers on the path of inquiry.
+
+Maybe this: it is in the art of listening that we truly lead. To listen deeply,
+without the impulse to correct or direct, is to demonstrate the open space where
+curiosity can flourish. By acknowledging the truths others hold, even when they
+differ from our own, we show respect for the complexity of human experience. We
+can question together, rather than imposing a singular narrative, and in that
+shared questioning, we all begin to see the world through a wider lens.
+
+Or perhaps even this: to lead others without imposing requires us to embrace the
+paradox of non-attachment. We must offer ideas, not as doctrines, but as
+invitations. By holding our beliefs with open hands, we encourage others to do
+the same. Our leadership, then, becomes a dance, not a command. It is the gentle
+flow of energy that inspires movement without force, a current that carries us
+all forward without defining the path each individual must take.
+
+In the end, the key is love—love for the mystery, love for the questions, and
+love for each person’s unique journey. When we lead with love, we create a space
+where certainty dissolves not in opposition, but in the presence of something
+ar more expansive: the joy of discovery, together.
+
+[<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
 
 ### What is the "wildfire of bodies"?
 
