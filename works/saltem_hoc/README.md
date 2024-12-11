@@ -51,6 +51,10 @@ questions (or any other kind of "unanswerable" question).
   prompt and for mandala creation. The "4o" model can still be accessed for
   free by creating an account or logging in to an existing account.
   
+  > If the model is not "4o", click on the model dropdown in the upper-left and 
+  > select "4o" (highlighted below)
+  ![](../../images/openness_gpt-screenshot-1.jpg)
+
 ### Example response: "What is magic?"
 
 * [Example ChatGPT interaction](https://chatgpt.com/share/67574b43-5148-800f-b683-741eb242435a)
