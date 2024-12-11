@@ -44,7 +44,7 @@ LLM AI prompt (i.e "spiritual code")
 * [CC0-1.0 License](LICENSE.txt)
 * [Contact us](project/contact_us.md) 
 
-[1]: https://chatgpt.com/share/67591f82-a0e8-800f-92e8-2d9a80bcbaca
+[1]: works/saltem_hoc/README.md#how-to-chat-with-openness-gpt
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
 [3]: works/the_epitomes_of_openness/poetic-memes.md
 [4]: works/saltem_hoc/README.md
