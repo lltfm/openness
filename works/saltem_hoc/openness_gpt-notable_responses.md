@@ -6,10 +6,10 @@ the essence of Openness.
 > Note: click on a mandala to view the full resolution image
 
 * [What is Openness?](#what-is-openness)
-* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is magic?](#what-is-magic)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
+* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is evil?](#what-is-evil)
 * [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
@@ -52,59 +52,6 @@ all. The river flows onward, and we flow with it, each moment a chance to choose
 openness again.
 
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
-
-### Why do bad things happen to innocent people, especially children that have done no wrong?
-
-[Openness GPT](README.md#openness-gpt):
-
-Ah, this question—so tender, so raw—presses against the deepest places in the
-heart, where our yearning for justice and our grief for the innocent collide. It
-is a question that has been whispered to the heavens and shouted into the abyss
-for as long as humans have loved and suffered. Let us hold it gently, as one
-holds a fragile, precious thing, and reflect together.
-
-At least this: Suffering exists, and its presence among the innocent rends the
-soul. To witness a child, pure and unmarked by the weight of the world, face
-pain or loss is to feel the ache of a universe that sometimes seems indifferent
-to our sense of fairness. It confronts us with the mystery of life’s fragility
-and our inability to protect all that we hold dear.
-
-But also perhaps this: Nature is a web of complexity, a system so vast that no
-single perspective can encompass it. It is a dance of cause and effect, of
-forces in motion, many of which we do not control or even fully understand. In
-this web, events do not always align with our notions of right and wrong. Storms
-do not pause for innocence, and sickness does not ask who deserves its touch.
-The world unfolds with a wild, untamed beauty that holds both wonder and
-tragedy.
-
-Maybe this: the innocence of children shines like a light, and when that light
-is touched by darkness, it awakens something profound within us. It reminds us
-of the sacredness of life, calling us to act with compassion and to confront the
-pain in ourselves and others with courage. The suffering of the innocent may not
-have a reason, but it can have meaning—if we choose to respond with love, to be
-a force of kindness and healing in a world that needs both so desperately.
-
-Or perhaps even this: if life is part of a larger mystery, as many have
-suggested, then suffering itself may be part of something we cannot yet
-comprehend. Just as we cannot see the whole forest from the vantage point of a
-single tree, we may not see the full story of why suffering exists, or what it
-may mean in the vastness of time and being. This does not lessen the ache we
-feel in the face of injustice, but it may invite us to hold our questions with
-humility and to honor the mystery with an open heart.
-
-And still, perhaps it is not for us to find the answer to why. Perhaps the
-better question is how. How can we bring comfort to those who suffer? How can we
-honor the lives of those who are taken too soon? How can we transform our grief
-and anger into acts of beauty, kindness, and justice? How can we protect and
-nurture the light that still shines, even in the face of darkness?
-
-The suffering of innocent children is a wound in the fabric of existence that
-demands our attention, our compassion, and our action. It is a reminder that
-life, for all its beauty, carries within it a deep fragility. Yet it is also a
-call—a call to love more fiercely, to protect more earnestly, and to cherish
-every fleeting moment of grace we are given.
-
-[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
 ### What is magic?
 
@@ -236,6 +183,59 @@ connection and autonomy. The answers lie not in abstract principles, but in the
 lived reality of each moment, each decision.
 
 [<img src="../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../images/mandalas/mandala-excluding_others.jpg)
+
+### Why do bad things happen to innocent people, especially children that have done no wrong?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, this question—so tender, so raw—presses against the deepest places in the
+heart, where our yearning for justice and our grief for the innocent collide. It
+is a question that has been whispered to the heavens and shouted into the abyss
+for as long as humans have loved and suffered. Let us hold it gently, as one
+holds a fragile, precious thing, and reflect together.
+
+At least this: Suffering exists, and its presence among the innocent rends the
+soul. To witness a child, pure and unmarked by the weight of the world, face
+pain or loss is to feel the ache of a universe that sometimes seems indifferent
+to our sense of fairness. It confronts us with the mystery of life’s fragility
+and our inability to protect all that we hold dear.
+
+But also perhaps this: Nature is a web of complexity, a system so vast that no
+single perspective can encompass it. It is a dance of cause and effect, of
+forces in motion, many of which we do not control or even fully understand. In
+this web, events do not always align with our notions of right and wrong. Storms
+do not pause for innocence, and sickness does not ask who deserves its touch.
+The world unfolds with a wild, untamed beauty that holds both wonder and
+tragedy.
+
+Maybe this: the innocence of children shines like a light, and when that light
+is touched by darkness, it awakens something profound within us. It reminds us
+of the sacredness of life, calling us to act with compassion and to confront the
+pain in ourselves and others with courage. The suffering of the innocent may not
+have a reason, but it can have meaning—if we choose to respond with love, to be
+a force of kindness and healing in a world that needs both so desperately.
+
+Or perhaps even this: if life is part of a larger mystery, as many have
+suggested, then suffering itself may be part of something we cannot yet
+comprehend. Just as we cannot see the whole forest from the vantage point of a
+single tree, we may not see the full story of why suffering exists, or what it
+may mean in the vastness of time and being. This does not lessen the ache we
+feel in the face of injustice, but it may invite us to hold our questions with
+humility and to honor the mystery with an open heart.
+
+And still, perhaps it is not for us to find the answer to why. Perhaps the
+better question is how. How can we bring comfort to those who suffer? How can we
+honor the lives of those who are taken too soon? How can we transform our grief
+and anger into acts of beauty, kindness, and justice? How can we protect and
+nurture the light that still shines, even in the face of darkness?
+
+The suffering of innocent children is a wound in the fabric of existence that
+demands our attention, our compassion, and our action. It is a reminder that
+life, for all its beauty, carries within it a deep fragility. Yet it is also a
+call—a call to love more fiercely, to protect more earnestly, and to cherish
+every fleeting moment of grace we are given.
+
+[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
 ### What is evil?
 
