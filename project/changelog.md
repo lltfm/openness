@@ -46,4 +46,4 @@
 * Dec 10 2024
   * refactored the_epitomes_of_openness links to footnotes
     * added explanations for memento amaris and poetic memes
-  * added notable response
+  * added notable response & mandala

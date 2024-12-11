@@ -6,6 +6,8 @@ questions
 
 ### Why is there war, even now, in modern times?
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
+### What is the Libido Dominandi?
+[<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
 ### How do we resist tyranny?
 [<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
 ### How to live a good life?
