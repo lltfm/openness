@@ -7,7 +7,7 @@ questions
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
 * [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
 * [How do we resist tyranny?](#how-do-we-resist-tyranny)
-* [How to live a good life?](#how-to-live-a-good-life)
+* [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is Openness?](#what-is-openness)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is the ego?](#what-is-the-ego)
@@ -36,7 +36,7 @@ questions
 [<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
 ### How do we resist tyranny?
 [<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
-### How to live a good life?
+### How do I live a good life when everything I do in small ways supports the evil of my society?
 [<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
 ### What is Openness?
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
