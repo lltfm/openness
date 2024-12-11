@@ -1,4 +1,4 @@
-# Notable mandalas made by Openness GPT
+# Notable mandalas created by Openness GPT
 A collection of notable mandalas created by [Openness GPT](README.md#openness-gpt) in response to
 questions
 
