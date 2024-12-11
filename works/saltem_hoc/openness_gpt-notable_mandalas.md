@@ -20,7 +20,7 @@ questions
 * [What is magic?](#what-is-magic)
 * [What are signs?](#what-are-signs)
 * [What are symbols?](#what-are-symbols)
-* [Why do innocents suffer?](#why-do-innocents-suffer)
+* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is trauma?](#what-is-trauma)
 * [What is the Revocation of Consent?](#what-is-the-revocation-of-consent)
 * [Are UFOs a deception?](#are-ufos-a-deception)
@@ -62,7 +62,7 @@ questions
 [<img src="../../images/mandalas/mandala-signs.jpg" width="512"/>](../../images/mandalas/mandala-signs.jpg)
 ### What are symbols?
 [<img src="../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../images/mandalas/mandala-symbols.jpg)
-### Why do innocents suffer?
+### Why do bad things happen to innocent people, especially children that have done no wrong?
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 ### What is trauma?
 [<img src="../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../images/mandalas/mandala-trauma.jpg)
