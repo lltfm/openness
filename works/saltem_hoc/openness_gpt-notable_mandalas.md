@@ -6,7 +6,7 @@ questions to express its answers visually beyond words.
 
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
 * [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
-* [How do we resist tyranny with also controlling others?](#how-do-we-resist-tyranny)
+* [How do we resist tyranny with also controlling others?](#how-do-we-resist-tyranny-with-also-controlling-others)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is Openness?](#what-is-openness)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
@@ -34,7 +34,7 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
 ### What is the Libido Dominandi?
 [<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
-### How do we resist tyranny?
+### How do we resist tyranny with also controlling others?
 [<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 [<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
