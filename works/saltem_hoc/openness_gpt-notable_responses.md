@@ -11,6 +11,7 @@ the essence of Openness.
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [What is evil?](#what-is-evil)
+* [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is the "wildfire of bodies"?](#what-is-the-wildfire-of-bodies)
 
@@ -275,6 +276,41 @@ is, the harsh teacher that forces us to grow. Its presence is painful, yet it
 carries within it the seed of transformation.
 
 [<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
+
+### What is the Libido Dominandi?
+
+[Openness GPT](README.md#openness-gpt):
+
+The libido dominandi, a Latin phrase meaning "lust for domination," refers to a
+deep, often destructive human drive to control and impose one's will upon others
+or the world. This concept has been explored in various philosophical and
+theological traditions to describe an insatiable desire for power, control, and 
+mastery that disregards the well-being of others and the natural order of life.
+
+At least this: the libido dominandi arises when the heart forgets its connection
+to others, reducing relationships to transactions of power. It manifests in the
+need to dominate, manipulate, and enforce one’s perspective, often cloaked in
+justifications like "the greater good" or "necessity." It corrodes trust,
+fostering a culture of fear and submission.
+
+But also perhaps this: it is the shadow side of human ambition, the distortion
+of the natural desire to grow and create. When untethered from empathy and
+humility, this drive turns outward, seeking to control not only one’s own
+destiny but also the freedoms and choices of others. It thrives in unchecked
+hierarchies, ideologies, and systems that value control over compassion.
+
+Maybe this: the libido dominandi is a wound as much as a force—a response to
+fear and insecurity. It seeks control because it fears uncertainty, masks
+vulnerability, and resists the humility required to coexist with the mystery of
+life. Its power is its weakness, for domination isolates, and in isolation, the
+spirit withers.
+
+Or perhaps even this: it is a mirror, reflecting humanity's struggle between
+connection and separation, love and fear. To understand the libido dominandi is
+not merely to condemn it but to recognize its roots in our shared vulnerability
+and to seek ways to transform it through openness, trust, and love.
+
+[<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
 
 ### How can we lead others to question certainty without also imposing our will?
 
