@@ -1,4 +1,3 @@
-* rename works/saltem_hoc/README.md back to saltem_hoc.md
 * openness gpt v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."
   * add enough examples to balance the line count of epitomes vs examples
@@ -14,4 +13,3 @@
   * tell it when creating mandalas with heart shapes to use the shape of an
   actual heart and not the classic "be my valentine" heart" emoji
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
-* finish works/the_epitomes_of_openness/references.md
