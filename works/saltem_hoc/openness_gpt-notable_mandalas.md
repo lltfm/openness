@@ -50,5 +50,7 @@ questions
 [<img src="../../images/mandalas/mandala-are_you_lying_to_me.jpg" width="512"/>](../../images/mandalas/mandala-are_you_lying_to_me.jpg)
 ### Who is the Master Liar?
 [<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
+### What is coordinated group lying & deception?
+[<img src="../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 [<img src="../../images/mandalas/../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg)
