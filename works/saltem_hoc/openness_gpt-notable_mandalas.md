@@ -4,6 +4,32 @@ questions
 
 > Note: click on a mandala to view the full resolution image
 
+* [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+* [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
+* [How do we resist tyranny?](#how-do-we-resist-tyranny)
+* [How to live a good life?](#how-to-live-a-good-life)
+* [What is Openness?](#what-is-openness)
+* [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+* [What is the ego?](#what-is-the-ego)
+* [What is evil?](#what-is-evil)
+* [What is freedom?](#what-is-freedom)
+* [What is the higher self?](#what-is-the-higher-self)
+* [What is self-transcendence?](#what-is-self-transcendence)
+* [What is karma?](#what-is-karma)
+* [What is laughter?](#what-is-laughter)
+* [What is magic?](#what-is-magic)
+* [What are signs?](#what-are-signs)
+* [What are symbols?](#what-are-symbols)
+* [Why do innocents suffer?](#why-do-innocents-suffer)
+* [The Revocation of Consent](#the-revocation-of-consent)
+* [What is trauma?](#what-is-trauma)
+* [Are UFOs a deception?](#are-ufos-a-deception)
+* [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+* [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
+* [Who is the Master Liar?](#who-is-the-master-liar)
+* [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
+* [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
+
 ### Why is there war, even now, in modern times?
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
 ### What is the Libido Dominandi?
@@ -32,14 +58,14 @@ questions
 [<img src="../../images/mandalas/mandala-laughter.jpg" width="512"/>](../../images/mandalas/mandala-laughter.jpg)
 ### What is magic?
 [<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
-### The Revocation of Consent
-[<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What are signs?
 [<img src="../../images/mandalas/mandala-signs.jpg" width="512"/>](../../images/mandalas/mandala-signs.jpg)
-### Why do innocents suffer?
-[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 ### What are symbols?
 [<img src="../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../images/mandalas/mandala-symbols.jpg)
+### Why do innocents suffer?
+[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
+### The Revocation of Consent
+[<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What is trauma?
 [<img src="../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../images/mandalas/mandala-trauma.jpg)
 ### Are UFOs a deception?
