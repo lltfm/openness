@@ -39,10 +39,9 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 ## Openness GPT
 
-The Saltem Hoc method is used to build the [LLM AI prompt for Openness
-GPT](openness_gpt-prompt.txt).
-Openness GOT assists users in exploring answers to spiritual questions (or any
-other kind of "unanswerable" question).
+The Saltem Hoc method is used in the [LLM AI prompt for Openness
+GPT](openness_gpt-prompt.txt) to assist users in exploring answers to spiritual
+questions (or any other kind of "unanswerable" question).
 
 ### How to chat with Openness GPT
 
