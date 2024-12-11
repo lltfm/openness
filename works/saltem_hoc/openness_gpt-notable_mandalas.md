@@ -1,6 +1,6 @@
 # Notable mandalas created by Openness GPT
 A collection of notable mandalas created by [Openness GPT](README.md#openness-gpt) in response to
-questions to express its answer visually beyond words.
+questions to express its answers visually beyond words.
 
 > Note: click on a mandala to view the full resolution image
 
