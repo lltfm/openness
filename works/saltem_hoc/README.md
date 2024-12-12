@@ -69,11 +69,11 @@ connections are made. New metaphors, new analogies and new arguments are
 created. All are woven together in unusual ways.
 
 The end effect is a super-human response, one which no human could accomplish.
-When LLMs hallucinations are transformed into a desirable output, the full power
+When LLM hallucinations are transformed into a desirable output, the full power
 of the LLM is realized. This is the true realization of AI, to provide us tools
 which empower us to explore otherwise unreachable inner and outer worlds of
 ideas and wisdom. When super-human answers are cheap and abundant, everything
-gets turned on its head. Suddenly we find ourselves looking, not for more
+gets turned on its head. Suddenly, we find ourselves looking, not for more
 answers, but for better questions.
 
 Enough of what I think. What does Openness GPT have to say about Saltem Hoc and
