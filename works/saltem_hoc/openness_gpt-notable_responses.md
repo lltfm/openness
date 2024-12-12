@@ -8,6 +8,7 @@ the essence of Openness.
 * [What is Openness?](#what-is-openness)
 * [What is magic?](#what-is-magic)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+* [What opposes Openness?](#what-opposes-openness)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is evil?](#what-is-evil)
