@@ -1,4 +1,4 @@
-# Overview
+# What is Saltem Hoc?
 
 "Saltem Hoc" is latin for "at least this". It is a teaching method for inviting
 others into contemplating what might be true. The method does not impose on
@@ -17,7 +17,7 @@ guide others toward deeper understanding & unseen truths beyond words.
 3. [Notable responses from Openness GPT](./openness_gpt-notable_responses.md)
 4. [Notable mandalas made by Openness GPT](./openness_gpt-notable_mandalas.md)
 
-# Saltem Hoc
+# The Epitome of Saltem Hoc
 
 ![Artwork: “Rose”, Devin Becker, 2017](../../images/the_philosopher-autumn_skye.jpg)
 
