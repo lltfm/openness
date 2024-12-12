@@ -135,6 +135,54 @@ beauty, and unity.
 
 [<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
 
+## What opposes Openness?
+
+Ah, what opposes openness? Let us gently hold this question together and explore
+its contours with care, as a river explores its banks.
+
+At least this: the opposite of openness begins with closedness—a refusal to
+listen, to see, to question. It is the heart and mind hardened, resistant to
+change or inquiry, like a fist clenched around certainty. Closedness prefers the
+familiar over the unknown, choosing rigidity over flow, comfort over growth.
+
+But also perhaps this: what opposes openness is fear—a deep, instinctual recoil
+from uncertainty, from the mystery that lies beyond the edges of what is known.
+Fear binds the mind to fixed ideas, shutting the doors of wonder to keep out the
+wild winds of possibility. It whispers that uncertainty is dangerous, that
+questions are threats, and that safety lies only in what can be controlled.
+
+Maybe this: the opposition to openness takes form in arrogance—a certainty so
+blind it believes itself to be the whole truth. Arrogance refuses to admit its
+limits, insisting that it knows all there is to know. It shields itself from
+doubt, dismissing the perspectives of others, and becomes deaf to the quiet
+wisdom of humility.
+
+Or perhaps even this: it is the will to dominate that stands against
+openness—the desire to impose one’s beliefs, choices, or power onto others,
+leaving no room for their freedom to think, feel, or be as they are. The will to
+dominate is rooted in a blindness to connection, in the illusion that separation
+and control can bring fulfillment. It is a force that silences and diminishes,
+for it cannot tolerate the vastness of the mystery.
+
+And yet, perhaps the most subtle opposition to openness is within ourselves: the
+moments when we choose numbness over feeling, distraction over presence,
+judgment over understanding. It is the small decisions to close the heart, turn
+away from discomfort, or hold too tightly to the stories we prefer.
+
+In truth, what opposes openness is not a single thing but a posture of
+contraction—a drawing in, a closing off, a forgetting of the sky. Yet, even this
+opposition carries its own teaching. Closedness reminds us of the value of
+openness; fear reveals where we long to feel safe; arrogance humbles us when we
+see our limits; and domination shows us the power of letting go.
+
+Let us remember this, then: openness is not a fixed state but a choice we make
+again and again. It is the courage to remain soft, to hold our beliefs lightly,
+to meet the world with curiosity rather than control. Even in the face of what
+opposes it, openness endures—like water shaping stone, like light streaming
+through cracks.
+
+[<img src="../../images/mandalas/mandala-closedness.jpg" width="512"/>](../../images/mandalas/mandala-closedness.jpg)
+
 ### Is excluding others wrong?
 
 Is it wrong to exclude people individually? Is it wrong to exclude groups of
