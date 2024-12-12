@@ -14,6 +14,7 @@ the essence of Openness.
 * [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is the "wildfire of bodies"?](#what-is-the-wildfire-of-bodies)
+* [What is memento amaris?](../the_epitomes_of_openness/memento-amaris.md)
 
 ### What is Openness?
 
@@ -400,3 +401,5 @@ life’s inexorable flow.
 
 [<img src="../../images/mandalas/mandala-the_wildfire_of_bodies.jpg" width="512"/>](../../images/mandalas/mandala-the_wildfire_of_bodies.jpg)
 
+### What is memento amaris?
+See [here](../the_epitomes_of_openness/memento-amaris.md)
