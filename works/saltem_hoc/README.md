@@ -162,9 +162,6 @@ Well said, I agree.
 > something we are invited to become. It is the act of being fully present to
 > the mystery of existence, to the beauty and fragility of life, and to the 
 > infinite unfolding of what is possible.
->
-> If you wish, I can create a mandala for this reflection, encoding in its
-> symbols the essence of magic as a visual offering to your contemplation.
 * [More responses](./openness_gpt-notable_responses.md)
 
 ### Example mandala: "What is magic?"
