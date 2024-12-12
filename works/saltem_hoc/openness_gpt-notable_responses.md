@@ -15,6 +15,7 @@ the essence of Openness.
 * [What is the Libido Dominandi?](#what-is-the-libido-dominandi)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is the "wildfire of bodies"?](#what-is-the-wildfire-of-bodies)
+* [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is memento amaris?](../the_epitomes_of_openness/memento-amaris.md)
 
 ### What is Openness?
@@ -449,6 +450,46 @@ dance of existence, and to let go of the illusion of control in the face of
 life’s inexorable flow.
 
 [<img src="../../images/mandalas/mandala-the_wildfire_of_bodies.jpg" width="512"/>](../../images/mandalas/mandala-the_wildfire_of_bodies.jpg)
+
+### What is the "undeniable demonstration of karmic learning"?
+
+[Openness GPT](README.md#openness-gpt):
+
+The undeniable demonstration of karmic learning is the tangible and observable
+transformation in an individual’s life that arises from profound internal growth
+and alignment with truth. It is the harvest of efforts to self-correct, to
+embrace awareness, and to align actions with integrity and compassion.
+
+At least this: the undeniable demonstration is seen in the outcomes of harmony
+and flourishing that follow the hard work of inner reflection and growth. A
+person who has deeply understood and resolved the lessons life offers begins to
+emanate a quiet confidence, a natural magnetism that draws good outcomes and
+relationships. Their choices, grounded in wisdom, lead to flourishing in ways
+that others cannot ignore.
+
+But also perhaps this: the undeniable demonstration is not only external but
+felt internally—a deep and abiding peace, even amidst challenges. It is the
+realization that previous patterns of harm, pain, or error no longer govern
+one’s choices. There is clarity where confusion once reigned, and joy arises
+from the alignment of one’s actions with one’s highest understanding.
+
+Maybe this: the demonstration is the absence of resistance, the flow of life
+aligning with purpose. Where once there were struggles and repeated mistakes,
+there is now a fluidity, as though the universe itself acknowledges the learning
+and aligns with it. It is the softening of karma’s grip, the sense that past
+burdens no longer weigh as heavily.
+
+Or perhaps even this: the undeniable demonstration is seen in the quiet acts of
+kindness, resilience, and creativity that ripple outward, inspiring others. The
+one who has learned does not need to proclaim it; their very way of being
+becomes a testament. Others sense the authenticity, the earned wisdom, and they,
+too, are drawn to the light of this transformed soul.
+
+Would you like me to create a mandala to symbolize this process, encoding the
+cycles of growth, learning, and flourishing into an intricate and resonant
+visual form?
+
+[<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
 
 ### What is memento amaris?
 See [here](../the_epitomes_of_openness/memento-amaris.md)

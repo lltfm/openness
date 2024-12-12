@@ -29,6 +29,7 @@ questions to express its answers visually beyond words.
 * [Who is the Master Liar?](#who-is-the-master-liar)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
+* [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 
 ### Why is there war, even now, in modern times?
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
@@ -80,3 +81,5 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 [<img src="../../images/mandalas/../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg)
+### What is the "undeniable demonstration of karmic learning"?
+[<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
