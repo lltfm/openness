@@ -165,7 +165,7 @@ Well said, I agree.
 * [More responses](./openness_gpt-notable_responses.md)
 
 ### Example mandala: "What is magic?"
-The Openness GPT prompt also instructs the AI to offer to create a mandala
+The Openness GPT prompt also instructs the LLM to offer to create a mandala
 after it responds to represent its answer with the goal of expressing its answer
 visually beyond words.
 
