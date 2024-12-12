@@ -79,6 +79,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
 ### What is coordinated group lying & deception?
 [<img src="../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
+### What is accelerationism?
+[<img src="../../images/mandalas/mandala-accelerationism.jpg" width="512"/>](../../images/mandalas/mandala-accelerationism.jpg)
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 [<img src="../../images/mandalas/../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg)
 ### What is the "undeniable demonstration of karmic learning"?
