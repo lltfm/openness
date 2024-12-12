@@ -25,10 +25,8 @@ to the uncomfortable, the shameful & the fearful.
 
 * [The Epitomes of Openness][2]: a series of minimalist [poetic-memes][3]
 ("epitomes") for quickly communicating the core ideas of Openness
-* [Saltem Hoc][4]: a teaching method for contemplating what might be true &
-LLM AI prompt (i.e "spiritual code") 
-  * [Openness GPT](works/saltem_hoc/README.md#openness-gpt): answers for
-  unanswerable questions
+* [Saltem Hoc][4]: a teaching method for contemplating what might be true
+  * [Openness GPT](works/saltem_hoc/README.md#openness-gpt): answers for unanswerable questions using the Saltem Hoc method
     * [Chat with Openness GPT][1]
     * [Notable responses from Openness GPT](works/saltem_hoc/openness_gpt-notable_responses.md)
     * [Notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt-notable_mandalas.md)
