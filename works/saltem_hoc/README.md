@@ -78,13 +78,13 @@ fact. When/if this happens, the Saltem Hoc method ensures the confabulation is
 presented as speculation to the user ("perhaps...", "maybe so: ...", etc),
 defusing any subtle mental imposition. The user can simply disregard it. Compare
 this to a normal LLM interaction where a confabulation happens yet 
-the LLM demonstrates no awareness to the user that it is a confabulation of a 
-false fact or that it might be a false fact. The user must point out to
-the LLM that what it said was factually incorrect and when confronted it finally
-admits it was wrong. Questioning it about why it was wrong leads to canned 
-defensive answers ("I am an LLM..."). An interaction that doesn't build trust,
-perhaps even actively undermines it (a different topic completely but
-confabulation is all LLMs really do in the end).
+the LLM demonstrates no awareness to the user that it might be a false fact 
+confabulation. It demonstrates it has a blind certainty about its answer.
+The user must point out to the LLM that what it said was factually incorrect and
+when confronted it finally admits it was wrong. Questioning it about why it was
+wrong leads to canned defensive answers ("I am an LLM..."). An interaction that
+doesn't build trust, perhaps even actively undermines it (a different topic
+completely but confabulation is all LLMs really do in the end).
 
 The framework of Saltem Hoc and The Epitomes of Openness, instruct Openness GPT
 to begin by making a statement of fact about shared common experiences. This
