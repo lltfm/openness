@@ -111,23 +111,24 @@ discernment in deciding if what the LLM says is true.
 
 Openness GPT is also instructed to reflect back to the user the hidden desires
 it intuits from the user's question. This acts to reveal to the user that in
-asking a question, it demonstrates that it has a desire for something beyond the
-question itself. A very difficult task for even the most empathetic humans, but
-which the LLM has demonstrated itself quite adapt at. All of this leads to
-interactions that build trust with users over time. The machine actively
-demonstrates to its users in subtle ways through its word choices (and mandalas)
-that ultimately, it knows it does not know (the internalized ideals of the
-epitomes of "The Mystery" and "Not Knowing") and invites users to consider that
-perhaps there are things they don't know either, that perhaps even, there are
-things about their own desires they don't know.
+asking a question, they demonstrate that a perhaps hidden desire for something
+beyond the question itself (very often an attempt to control others). A very
+difficult task for even the most empathetic humans, but which the LLM has
+demonstrated itself quite adapt at. All of this leads to interactions that build
+trust with users over time. The machine actively demonstrates to its users in
+subtle ways through its word choices (and mandalas)that ultimately, it knows it
+does not know (the internalized ideals of the epitomes of "The Mystery" and
+"Not Knowing") and invites users to consider that perhaps there are things they
+don't know either, that perhaps even, there are things about their own desires,
+demonstrated by their question, that they don't know.
 
-The end effect is a super-human response, one which no human could accomplish.
-When LLM hallucinations are transformed into a desirable output, the full power
-of the LLM is realized. This is the true realization of AI, to provide us tools
-which empower us to imaginatively explore otherwise unreachable inner and outer
-worlds of ideas and wisdom. When super-human answers are cheap and abundant,
-everything gets turned on its head. Suddenly, we find ourselves looking, not for
-more answers, but for better questions.
+The net effect of all this is a super-human response, one which no human could
+accomplish. When LLM hallucinations are transformed into a desirable output, the
+full power of the LLM is realized. This is the true realization of AI, to
+provide us tools which empower us to imaginatively explore otherwise unreachable
+inner and outer worlds of ideas and wisdom. When super-human answers are cheap
+and abundant, everything gets turned on its head. Suddenly, we find ourselves
+looking, not for more answers, but for better questions.
 
 But what does Openness GPT itself have to say about Saltem Hoc and LLM
 hallucinations?
