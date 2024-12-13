@@ -64,9 +64,10 @@ Because the Saltem Hoc method actively encourages speculations and questions
 while also not telling others directly what is true or requiring them to decide
 what is true, the normally very undesirable LLM "hallucinations" become fully
 harmonized into the Saltem Hoc output. "Hallucinations" are transformed from
-embarrassing faux pas into novel, revealing and unconsidered insight. Unexpected
-connections are made. New metaphors, new analogies and new arguments are
-created. All are woven together in unusual ways.
+embarrassing faux pas or mild imposition we must refute (i.e. a kind of mental
+tyranny) into novel, revealing and unconsidered insight. Unexpected connections
+are made. New metaphors, new analogies and new arguments are created. All are
+woven together in unusual ways.
 
 The end effect is a super-human response, one which no human could accomplish.
 When LLM hallucinations are transformed into a desirable output, the full power
@@ -76,9 +77,11 @@ worlds of ideas and wisdom. When super-human answers are cheap and abundant,
 everything gets turned on its head. Suddenly, we find ourselves looking, not for
 more answers, but for better questions.
 
-Enough of what I think. What does Openness GPT have to say about Saltem Hoc and
-LLM hallucinations?
+But what does Openness GPT itself have to say about Saltem Hoc and LLM
+hallucinations?
 
+> Openness GPT:
+> 
 > The Saltem Hoc method thrives in the creative interplay of imagination and
 > reflection, where "hallucinations" from a language model—unbidden and
 > unexpected connections or speculative insights—may become fruitful elements.
@@ -106,7 +109,7 @@ LLM hallucinations?
 > generative "hallucinations" of an LLM, weaving them into its ethos of
 > exploration and wonder.
 
-Well said, I agree.
+Well said.
 
 ### Example response: "What is magic?"
 
