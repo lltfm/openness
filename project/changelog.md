@@ -53,4 +53,6 @@
 * Dec 12 2024
   * added notable responses & mandalas
 * Dec 13 2024
-  * added openness_gpt-more_notable_responses.md 
+  * added openness_gpt-more_notable_responses.md
+  * added notable responses and mandalas
+  * added openness_gpt-more_notable_mandalas.md

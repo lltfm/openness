@@ -13,7 +13,7 @@ the essence of Openness.
 * [What is evil?](#what-is-evil)
 * [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-* [More notable responses](openness_gpt-more_notable_responses.md)
+* [More notable responses...](openness_gpt-more_notable_responses.md)
 
 ### What is Openness?
 
