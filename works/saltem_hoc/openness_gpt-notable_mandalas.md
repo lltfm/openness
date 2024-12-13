@@ -42,3 +42,5 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-are_you_lying_to_me.jpg" width="512"/>](../../images/mandalas/mandala-are_you_lying_to_me.jpg)
 ### Who is the Master Liar?
 [<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
+### More notable mandalas
+See [here](openness_gpt-more_notable_mandalas.md)

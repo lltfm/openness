@@ -358,3 +358,6 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 [<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+
+### More notable responses
+See [here](openness_gpt-more_notable_responses.md)
