@@ -15,7 +15,7 @@ guide others toward deeper understanding & unseen truths beyond words.
 2. [How to chat with Openness GPT](#how-to-chat-with-openness-gpt)
 3. [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
 4. [Notable responses from Openness GPT](./openness_gpt-notable_responses.md)
-5. [Notable mandalas made by Openness GPT](./openness_gpt-notable_mandalas.md)
+5. [Notable mandalas created by Openness GPT](./openness_gpt-notable_mandalas.md)
 
 # The Epitome of Saltem Hoc
 
