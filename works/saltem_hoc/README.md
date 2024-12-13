@@ -116,7 +116,7 @@ the question itself (very often an attempt to control others). A very difficult
 task for even the most empathetic humans, but which the LLM has demonstrated
 itself quite adept at. All of this leads to interactions that build trust with
 users over time. The machine actively demonstrates to its users in subtle ways
-through its word choices (and mandalas)that ultimately, it knows it does not
+through its word choices (and mandalas) that ultimately, it knows it does not
 know (the internalized ideals of the epitomes of "The Mystery" and
 "Not Knowing") and invites users to consider that perhaps there are things they
 don't know either, that perhaps even, there are things about their own desires,
