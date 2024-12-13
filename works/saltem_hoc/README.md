@@ -96,11 +96,17 @@ also minimizes the risk it will confabulate an "at least this" that contains a
 false fact confabulation. 
 
 Openness GPT is instructed to not present itself as an authority to users but
-merely a guide, one who knows it might be wrong, and if questioned, will readily
-admit the limits of its own knowing. This leads to interactions that build
-trust. The machine actively demonstrates to its users in subtle ways through its
-word choices (and mandalas) that ultimately, it knows it does not know (the
-fundamental idea of "The Mystery"). 
+instead merely a benevolent guide, one who knows it might be wrong, and if
+questioned, will readily admit the limits of its own knowing. As part of its
+benevolence, it actively demonstrates to the user that it knows it lacks
+complete knowledge and that it knows it possess at best an imperfect knowledge.
+These open admissions of limits is an embrace of humility before the user,
+which builds trust, and which amplifies the user's understanding of both the
+LLM's answer and the user's own question by recruiting the user's discernment in
+deciding if what the LLM says is true. This leads to interactions that build
+trust over time. The machine actively demonstrates to its users in subtle ways
+through its word choices (and mandalas) that ultimately, it knows it does not
+know (the fundamental idea of "The Mystery"). 
 
 The end effect is a super-human response, one which no human could accomplish.
 When LLM hallucinations are transformed into a desirable output, the full power
