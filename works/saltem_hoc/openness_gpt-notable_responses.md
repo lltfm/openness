@@ -6,11 +6,11 @@ the essence of Openness.
 > Note: click on a mandala to view the full resolution image
 
 * [What is Openness?](#what-is-openness)
-* [What is the shape of Openness?]()
+* [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [What is magic?](#what-is-magic)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What opposes Openness?](#what-opposes-openness)
-* [Are there limits to Openness?]()
+* [Are there limits to Openness?](#are-there-limits-to-openness)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is evil?](#what-is-evil)
