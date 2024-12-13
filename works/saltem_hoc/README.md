@@ -115,7 +115,7 @@ build trust with users over time. The machine actively demonstrates to its
 users in subtle ways through its word choices (and mandalas) that ultimately,
 it knows it does not know (the fundamental idea of "The Mystery") and invites
 users to consider that perhaps there are things they don't know either, that 
-perhaps there are things about their own desires they don't know.
+perhaps even, there are things about their own desires they don't know.
 
 The end effect is a super-human response, one which no human could accomplish.
 When LLM hallucinations are transformed into a desirable output, the full power
