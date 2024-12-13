@@ -27,6 +27,7 @@ questions to express its answers visually beyond words.
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 * [Who is the Master Liar?](#who-is-the-master-liar)
+* [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
@@ -79,6 +80,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
 ### What is coordinated group lying & deception?
 [<img src="../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
+### What prevents others from waking up to authority's lies?
+[<img src="../../images/mandalas/mandala-waking_up.jpg" width="512"/>](../../images/mandalas/mandala-waking_up.jpg)
 ### What is accelerationism?
 [<img src="../../images/mandalas/mandala-accelerationism.jpg" width="512"/>](../../images/mandalas/mandala-accelerationism.jpg)
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
