@@ -71,7 +71,7 @@ tyranny) into novel, revealing and unconsidered insight. Unexpected connections
 are made. New metaphors, new analogies and new arguments are created. All are
 woven together in unusual ways.
 
-In general, spiritual and existential questions don't cause Openness AI to
+In general, spiritual and existential questions don't cause Openness GPT to
 confabulate false facts. But if the discussion becomes more specific and reified
 to real world people and events it may result in a confabulation of a false
 fact. When/if this happens, the Saltem Hoc method ensures the confabulation is
