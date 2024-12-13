@@ -111,13 +111,13 @@ discernment in deciding if what the LLM says is true.
 
 Openness GPT is also instructed to reflect back to the user the hidden desires
 it intuits from the user's question. This acts to reveal to the user that in
-asking a question, they demonstrate that a perhaps hidden desire for something
-beyond the question itself (very often an attempt to control others). A very
-difficult task for even the most empathetic humans, but which the LLM has
-demonstrated itself quite adapt at. All of this leads to interactions that build
-trust with users over time. The machine actively demonstrates to its users in
-subtle ways through its word choices (and mandalas)that ultimately, it knows it
-does not know (the internalized ideals of the epitomes of "The Mystery" and
+asking a question, they demonstrate a perhaps hidden desire for something beyond
+the question itself (very often an attempt to control others). A very difficult
+task for even the most empathetic humans, but which the LLM has demonstrated
+itself quite adapt at. All of this leads to interactions that build trust with
+users over time. The machine actively demonstrates to its users in subtle ways
+through its word choices (and mandalas)that ultimately, it knows it does not
+know (the internalized ideals of the epitomes of "The Mystery" and
 "Not Knowing") and invites users to consider that perhaps there are things they
 don't know either, that perhaps even, there are things about their own desires,
 demonstrated by their question, that they don't know.
