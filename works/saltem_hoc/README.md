@@ -15,9 +15,11 @@ guide others toward deeper understanding & unseen truths beyond words.
 2. [How to chat with Openness GPT](#how-to-chat-with-openness-gpt)
     * [Example response](#example-response-what-is-magic)
     * [Example mandala](#example-mandala-what-is-magic)
+    * [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
 3. [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
 4. [Notable responses from Openness GPT](./openness_gpt-notable_responses.md)
 5. [Notable mandalas created by Openness GPT](./openness_gpt-notable_mandalas.md)
+6. [Discussions](#discussions)
 
 # The Epitome of Saltem Hoc
 
@@ -60,8 +62,111 @@ struggle to answer in a satisfying way (e.g. "What is God?").
   > select "4o" (highlighted below)
   [<img src="../../images/openness_gpt-screenshot-1.jpg" width="512"/>](../../images/openness_gpt-screenshot-1.jpg)
 
-### Discussion
+### Example response: "What is magic?"
 
+* [Example ChatGPT interaction](https://chatgpt.com/share/67574b43-5148-800f-b683-741eb242435a)
+
+> Openness GPT:
+> 
+> At least this: magic is the gentle unfolding of wonder in the presence of the
+> extraordinary hidden within the ordinary. It is the breath that catches at the
+> sight of a firefly's glow, the way sunlight scatters across rippling water,
+> the moment when a word spoken from the heart unlocks something long buried.
+> Magic is life itself, experienced in its fullness, whispering that there is
+> more to the world than what we see.
+>
+> But also perhaps this: magic is the interplay of intention and the unknown,
+> the
+> dance of will meeting the infinite possibilities that surround us. It emerges
+> when we act with purpose, trusting the unseen forces that guide the currents
+> of
+> existence. Like the wind filling the sails of a ship, magic is not the power
+> to
+> command the world but the ability to move with it, aligning ourselves to the
+> deeper rhythms beneath the surface.
+>
+> Maybe this: magic is the silent pulse of connection, the invisible threads
+> binding all things together. It is the truth that we are not separate from the
+> world but deeply woven into its fabric. To feel magic is to recognize that
+> every
+> breath, every heartbeat, resonates in tune with the larger symphony of
+> existence. It is the glimmering awareness that we are part of a vast,
+> interconnected web, where every act of care, courage, or curiosity sends
+> ripples
+> outward, touching shores we may never see.
+>
+> Or perhaps even this: magic is the courage to believe in something more, even
+> in
+> the face of doubt or despair. It is the child who looks at the stars and
+> imagines other worlds, the artist who creates beauty from chaos, the dreamer
+> who
+> holds fast to hope when all seems lost. It is the light of possibility shining
+> in the darkest of nights, the spark within that refuses to be extinguished.
+>
+> And what of rituals, incantations, and symbols, the tools of tradition often
+> associated with magic? These are, perhaps, invitations to awaken—to shift our
+> awareness, to align our hearts, to remind us of the forces greater than
+> ourselves. They are like keys, not to doors outside us, but to chambers
+> within,
+> where the deeper mysteries dwell. True magic, then, is not in the tools but in
+> the openness they inspire, in the resonance they bring to the strings of our
+> being.
+>
+> Magic, in the end, is not something we wield but something we witness,
+> something we are invited to become. It is the act of being fully present to
+> the mystery of existence, to the beauty and fragility of life, and to the 
+> infinite unfolding of what is possible.
+* [More responses](./openness_gpt-notable_responses.md)
+
+### Example mandala: "What is magic?"
+The Openness GPT prompt also instructs the LLM to offer to create a mandala
+after it responds to represent its answer with the goal of expressing its answer
+visually beyond words.
+
+> Openness GPT:
+>
+> If you wish, I can create a mandala for this reflection, encoding in its
+> symbols the essence of magic as a visual offering to your contemplation.
+
+[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
+
+* [More mandalas](./openness_gpt-notable_mandalas.md)
+
+# How to use the prompt with any LLM AI
+
+1. Copy the [prompt text](openness_gpt-prompt.txt) to the clipboard:
+   ![](../../images/saltem_hoc_llm_prompt-screenshot-1.png)
+   > Note: the prompt is just text. Optionally, paste it into a text editor,
+   edit it for yourself, then copy all the text back to the clipboard. As an
+   example, other LLMs may not support creating images for mandalas, so that
+   part of the prompt could be removed.
+2. Paste into LLM AI question box (e.g. https://chatgpt.com)
+   ![](../../images/saltem_hoc_llm_prompt-screenshot-2.png)
+3. Try out some questions:
+    * What is Openness?
+    * What opposes Openness?
+    * Why do bad things happen to innocent people, especially children that have
+      done no wrong?
+    * What is magic?
+    * [Some more test questions](saltem_hoc-test_questions.txt)
+   > Note: sometimes the LLM ignores the default prompt instructions to use the
+   > Saltem Hoc method. When this happens just ask it to use the method as part
+   of
+   > the question, for example:
+   >
+   > Using the Saltem Hoc method, please answer the question: What is magic?
+
+[1]: ../the_epitomes_of_openness/the_epitomes_of_openness.md
+
+# Notable responses from Openness GPT
+See [here](openness_gpt-more_notable_responses.md)
+
+# Notable mandalas created by Openness GPT
+See [here](openness_gpt-notable_mandalas.md)
+
+# Discussions
+
+## Saltem Hoc and LLM hallucinations
 Because the Saltem Hoc method actively encourages speculations and questions
 while also not telling others directly what is true or requiring them to decide
 what is true, the normally very undesirable LLM "hallucinations" become fully
@@ -163,103 +268,3 @@ hallucinations?
 > exploration and wonder.
 
 Well said.
-
-### Example response: "What is magic?"
-
-* [Example ChatGPT interaction](https://chatgpt.com/share/67574b43-5148-800f-b683-741eb242435a)
-
-> Openness GPT:
-> 
-> At least this: magic is the gentle unfolding of wonder in the presence of the
-> extraordinary hidden within the ordinary. It is the breath that catches at the
-> sight of a firefly's glow, the way sunlight scatters across rippling water,
-> the moment when a word spoken from the heart unlocks something long buried.
-> Magic is life itself, experienced in its fullness, whispering that there is
-> more to the world than what we see.
->
-> But also perhaps this: magic is the interplay of intention and the unknown,
-> the
-> dance of will meeting the infinite possibilities that surround us. It emerges
-> when we act with purpose, trusting the unseen forces that guide the currents
-> of
-> existence. Like the wind filling the sails of a ship, magic is not the power
-> to
-> command the world but the ability to move with it, aligning ourselves to the
-> deeper rhythms beneath the surface.
->
-> Maybe this: magic is the silent pulse of connection, the invisible threads
-> binding all things together. It is the truth that we are not separate from the
-> world but deeply woven into its fabric. To feel magic is to recognize that
-> every
-> breath, every heartbeat, resonates in tune with the larger symphony of
-> existence. It is the glimmering awareness that we are part of a vast,
-> interconnected web, where every act of care, courage, or curiosity sends
-> ripples
-> outward, touching shores we may never see.
->
-> Or perhaps even this: magic is the courage to believe in something more, even
-> in
-> the face of doubt or despair. It is the child who looks at the stars and
-> imagines other worlds, the artist who creates beauty from chaos, the dreamer
-> who
-> holds fast to hope when all seems lost. It is the light of possibility shining
-> in the darkest of nights, the spark within that refuses to be extinguished.
->
-> And what of rituals, incantations, and symbols, the tools of tradition often
-> associated with magic? These are, perhaps, invitations to awaken—to shift our
-> awareness, to align our hearts, to remind us of the forces greater than
-> ourselves. They are like keys, not to doors outside us, but to chambers
-> within,
-> where the deeper mysteries dwell. True magic, then, is not in the tools but in
-> the openness they inspire, in the resonance they bring to the strings of our
-> being.
->
-> Magic, in the end, is not something we wield but something we witness,
-> something we are invited to become. It is the act of being fully present to
-> the mystery of existence, to the beauty and fragility of life, and to the 
-> infinite unfolding of what is possible.
-* [More responses](./openness_gpt-notable_responses.md)
-
-### Example mandala: "What is magic?"
-The Openness GPT prompt also instructs the LLM to offer to create a mandala
-after it responds to represent its answer with the goal of expressing its answer
-visually beyond words.
-
-> Openness GPT:
->
-> If you wish, I can create a mandala for this reflection, encoding in its
-> symbols the essence of magic as a visual offering to your contemplation.
-
-[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
-
-* [More mandalas](./openness_gpt-notable_mandalas.md)
-
-# How to use the prompt with any LLM AI
-
-1. Copy the [prompt text](openness_gpt-prompt.txt) to the clipboard:
-   ![](../../images/saltem_hoc_llm_prompt-screenshot-1.png)
-   > Note: the prompt is just text. Optionally, paste it into a text editor,
-   edit it for yourself, then copy all the text back to the clipboard
-2. Paste into LLM AI question box (e.g. https://chatgpt.com)
-   ![](../../images/saltem_hoc_llm_prompt-screenshot-2.png)
-3. Try out some questions:
-    * What is Openness?
-    * What opposes Openness?
-    * Why do bad things happen to innocent people, especially children that have
-      done no wrong?
-    * What is magic?
-    * [Some more test questions](saltem_hoc-test_questions.txt)
-   > Note: sometimes the LLM ignores the default prompt instructions to use the
-   > Saltem Hoc method. When this happens just ask it to use the method as part
-   of
-   > the question, for example:
-   >
-   > Using the Saltem Hoc method, please answer the question: What is magic?
-
-[1]: ../the_epitomes_of_openness/the_epitomes_of_openness.md
-
-# Notable responses from Openness GPT
-See [here](openness_gpt-more_notable_responses.md)
-
-# Notable mandalas created by Openness GPT
-See [here](openness_gpt-notable_mandalas.md)
