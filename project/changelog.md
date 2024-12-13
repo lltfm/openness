@@ -56,3 +56,5 @@
   * added openness_gpt-more_notable_responses.md
   * added notable responses and mandalas
   * added openness_gpt-more_notable_mandalas.md
+  * added more Openness GPT discussion
+  * added example poetic meme

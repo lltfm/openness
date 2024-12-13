@@ -4,8 +4,14 @@ Expanding on the tradition of internet memes, poetic-memes (or “poememes” or
 “epitomes”) are the combination of art and words which interpret the message of
 the artwork. “Glossolalia” for the internet age. Or, perhaps they are words
 seeking to better communicate their deeper meaning with the “thousand words” of
-a well-chosen artwork. Or perhaps, they are both. Let us sit in the discomfort
+a well-chosen artwork. Or perhaps even, they are both. Let us sit in the discomfort
 of uncertainty.
+
+## Example poetic-meme
+[<img src="../../images/dream_as-if_we_choose_others_dreams.jpg" width="512"/>](../../images/dream_as-if_we_choose_others_dreams.jpg)
+*Artwork: "Beehive", Daniel Watts ([source](https://visionarysea.com/beehive))*
+
+More [poetic memes](https://loveletterstofutureme.org/tag/poetic-memes/)
 
 ## What are poetic-memes?
 
