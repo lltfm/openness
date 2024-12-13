@@ -13,8 +13,8 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 1. [Saltem Hoc](#the-epitome-of-saltem-hoc)
 2. [How to chat with Openness GPT](#how-to-chat-with-openness-gpt)
-  * [Example response](#example-response-what-is-magic)
-  * [Example mandala](#example-mandala-what-is-magic)
+    * [Example response](#example-response-what-is-magic)
+    * [Example mandala](#example-mandala-what-is-magic)
 3. [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
 4. [Notable responses from Openness GPT](./openness_gpt-notable_responses.md)
 5. [Notable mandalas created by Openness GPT](./openness_gpt-notable_mandalas.md)
