@@ -11,11 +11,11 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 # Contents
 
-1. [Saltem Hoc](#saltem-hoc)
+1. [Saltem Hoc](#the-epitome-of-saltem-hoc)
 2. [How to chat with Openness GPT](#how-to-chat-with-openness-gpt)
 3. [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
-3. [Notable responses from Openness GPT](./openness_gpt-notable_responses.md)
-4. [Notable mandalas made by Openness GPT](./openness_gpt-notable_mandalas.md)
+4. [Notable responses from Openness GPT](./openness_gpt-notable_responses.md)
+5. [Notable mandalas made by Openness GPT](./openness_gpt-notable_mandalas.md)
 
 # The Epitome of Saltem Hoc
 
@@ -204,3 +204,9 @@ visually beyond words.
    > Using the Saltem Hoc method, please answer the question: What is magic?
 
 [1]: ../the_epitomes_of_openness/the_epitomes_of_openness.md
+
+# Notable responses from Openness GPT
+See [here](openness_gpt-more_notable_responses.md)
+
+# Notable mandalas created by Openness GPT
+See [here](openness_gpt-notable_mandalas.md)
