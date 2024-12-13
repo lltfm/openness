@@ -105,17 +105,19 @@ complete knowledge and that it knows it possess at best an imperfect knowledge.
 These open admissions of limits (encoded into its word choices) is a
 subconscious embrace of humility before the user, which builds trust, and which
 amplifies the user's understanding of the LLM's answer by recruiting the user's
-discernment in deciding if what the LLM says is true. Openness GPT is also
-instructed to reflect back to the user the hidden desires it intuits from the
-user's question. This acts to reveal to the user that in asking a question, it
-demonstrates that it has a desire for something beyond the question itself. A
-very difficult task for even the most empathetic humans, but which the LLM
-has demonstrated itself quite adapt at. All of this leads to interactions that
-build trust with users over time. The machine actively demonstrates to its
-users in subtle ways through its word choices (and mandalas) that ultimately,
-it knows it does not know (the fundamental idea of "The Mystery") and invites
-users to consider that perhaps there are things they don't know either, that 
-perhaps even, there are things about their own desires they don't know.
+discernment in deciding if what the LLM says is true.
+
+Openness GPT is also instructed to reflect back to the user the hidden desires
+it intuits from the user's question. This acts to reveal to the user that in
+asking a question, it demonstrates that it has a desire for something beyond the
+question itself. A very difficult task for even the most empathetic humans, but
+which the LLM has demonstrated itself quite adapt at. All of this leads to
+interactions that build trust with users over time. The machine actively
+demonstrates to its users in subtle ways through its word choices (and mandalas)
+that ultimately, it knows it does not know (the internalized ideals of the
+epitomes of "The Mystery" and "Not Knowing") and invites users to consider that
+perhaps there are things they don't know either, that perhaps even, there are
+things about their own desires they don't know.
 
 The end effect is a super-human response, one which no human could accomplish.
 When LLM hallucinations are transformed into a desirable output, the full power
