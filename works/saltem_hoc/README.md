@@ -82,13 +82,24 @@ the LLM that what it said was factually incorrect and when confronted it finally
 admits it was wrong. Questioning it about why it was wrong leads to canned 
 defensive answers ("I am an LLM..."). An interaction that doesn't build trust,
 perhaps even actively undermines it (a different topic completely but
-confabulation is all LLMs really do in the end). The framework of Saltem Hoc and
-The Epitomes of Openness, instruct Openness GPT to not present itself as an
-authority to users but merely a guide, one who knows it might be wrong, and if
-questioned, will readily admit the limits of its own knowing. This leads to
-interactions that build trust. The machine actively demonstrates to its users
-in subtle ways through its word choices that ultimately, it knows it does not
-know (the fundamental idea of "The Mystery").
+confabulation is all LLMs really do in the end).
+
+The framework of Saltem Hoc and The Epitomes of Openness, instruct Openness GPT
+to begin by making a statement of fact about shared common experiences. This
+is a subtle demonstration to users that it understands the difference between
+what is real and what is speculative. If the "at least this" portion of the
+response ever contained a false fact confabulation then it would render all the
+speculations suspect to the user. This is why Openness GPT is instructed to
+start with something concrete and simple that it knows all people experience
+in their daily lives and then speculate from there. This minimizes the risk it
+will confabulate an "at least this" that contains a false fact confabulation. 
+
+Openness GPT is instructed to not present itself as an authority to users but
+merely a guide, one who knows it might be wrong, and if questioned, will readily
+admit the limits of its own knowing. This leads to interactions that build
+trust. The machine actively demonstrates to its users in subtle ways through its
+word choices (and mandalas) that ultimately, it knows it does not know (the
+fundamental idea of "The Mystery"). 
 
 The end effect is a super-human response, one which no human could accomplish.
 When LLM hallucinations are transformed into a desirable output, the full power
