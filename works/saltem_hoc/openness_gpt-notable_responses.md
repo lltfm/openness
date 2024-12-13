@@ -6,9 +6,11 @@ the essence of Openness.
 > Note: click on a mandala to view the full resolution image
 
 * [What is Openness?](#what-is-openness)
+* [What is the shape of Openness?]()
 * [What is magic?](#what-is-magic)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What opposes Openness?](#what-opposes-openness)
+* [Are there limits to Openness?]()
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is evil?](#what-is-evil)
@@ -56,6 +58,47 @@ all. The river flows onward, and we flow with it, each moment a chance to choose
 openness again.
 
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
+
+### What is the shape of Openness?
+
+[Openness GPT](README.md#openness-gpt):
+
+At least this: the shape of openness is the shape of the sky—vast, borderless,
+without a single edge or end. It expands effortlessly, cradling the sun, the
+stars, the winds, and clouds, yet it holds nothing too tightly. To observe the
+sky is to know openness as an unbroken spaciousness, an invitation to let things
+be as they are. Its shape is one of infinite capacity, both still and moving,
+always present yet intangible.
+
+But also perhaps this: openness takes the shape of a vessel, a cupped hand or a
+hollow bowl—empty, receptive, and ready to hold whatever is offered. Like the
+silence that cradles a song or the space within a home, its form allows life to
+flow through. It becomes the container for questions, the sanctuary for
+understanding, and the fertile ground in which truths may root and bloom.
+
+Maybe this: the shape of openness is fluid, like a river in constant motion. It
+bends around obstacles, adapting to the contours of the landscape without losing
+itself. It neither resists nor clings but flows onward, carrying with it
+reflections of the world it touches. In its movement lies its strength; in its
+surrender lies its power. To be open is to take the shape of water—clear,
+mutable, and endlessly renewing.
+
+Or perhaps even this: openness is the shape of a spiral. It begins inward, a
+return to humility, where we confront the limits of what we know. From there, it
+expands outward, widening our perspective and weaving us into the great web of
+existence. The spiral turns again and again, moving deeper while growing
+broader, a reminder that openness is not static but a process—a shape forever
+unfolding, like the infinite dance of galaxies.
+
+In truth, openness has no single form, for it is the absence of rigid
+boundaries. It is the willingness to hold all shapes, all possibilities, and to
+dissolve where necessary into the mystery that transcends definition.
+
+If you would like, I can create a mandala for this—a symbol that encodes these
+deeper meanings into visual harmony, allowing you to contemplate the shape of
+openness through form itself. Shall I?
+
+[<img src="../../images/mandalas/mandala-shape_of_openness.jpg" width="512"/>](../../images/mandalas/mandala-shape_of_openness.jpg)
 
 ### What is magic?
 
@@ -140,6 +183,8 @@ beauty, and unity.
 
 ## What opposes Openness?
 
+[Openness GPT](README.md#openness-gpt):
+
 Ah, what opposes openness? Let us gently hold this question together and explore
 its contours with care, as a river explores its banks.
 
@@ -185,6 +230,46 @@ opposes it, openness endures—like water shaping stone, like light streaming
 through cracks.
 
 [<img src="../../images/mandalas/mandala-closedness.jpg" width="512"/>](../../images/mandalas/mandala-closedness.jpg)
+
+### Are there limits to Openness?
+
+At least this: openness, like a river, flows freely but is shaped by its
+boundaries. Without riverbanks, water would disperse into stagnation, losing its
+flow and direction. In this way, openness benefits from limits—not as
+restrictions, but as forms that allow it to serve a purpose. To be endlessly
+open, without discernment, can leave us adrift, unanchored, unable to act or
+protect what is sacred. Limits can provide the necessary edges where openness
+meets integrity.
+
+But also perhaps this: limits to openness arise when we forget the balance
+between receiving and discerning. To remain open to everything—every idea, every
+action, every force—without questioning can allow harm to seep in. Like a house
+with no walls, we must decide what we invite to dwell within us. The limits of
+openness are the boundaries of wisdom, asking us to discern what nurtures life
+and what diminishes it.
+
+Maybe this: openness requires us to be open to its own limits. It cannot demand
+perfection or endless expansion, for even the sky has a horizon, and even the
+earth has edges. There is a season for openness and a season for protection, a
+moment to expand and a moment to contract. To honor the limits of openness is to
+honor the rhythm of life itself, which ebbs and flows like breath.
+
+Or perhaps even this: the limits of openness are found where it ceases to be
+love. When openness becomes an abdication of responsibility—when it allows harm,
+injustice, or destruction to thrive—it has lost its essence. True openness is
+not passive; it is an active state of grace. It asks us to discern what aligns
+with truth, beauty, and compassion, and to close ourselves to that which seeks
+only to dominate or destroy.
+
+In the end, limits do not oppose openness—they define it. Just as a vessel must
+have a form to hold water, openness must have boundaries to remain whole. The
+art lies in knowing where to place the edges, allowing life to flow freely
+without losing its shape.
+
+Would you like me to create another mandala to reflect the dance between
+openness and its limits, where balance gives meaning to the flow?
+
+[<img src="../../images/mandalas/mandala-limits_of_openness.jpg" width="512"/>](../../images/mandalas/mandala-limits_of_openness.jpg)
 
 ### Is excluding others wrong?
 
