@@ -9,6 +9,7 @@ of uncertainty.
 
 ## Example poetic-meme
 [<img src="../../images/dream_as-if_we_choose_others_dreams.jpg" width="512"/>](../../images/dream_as-if_we_choose_others_dreams.jpg)
+
 *Artwork: "Beehive", Daniel Watts ([source](https://visionarysea.com/beehive))*
 
 More [poetic memes](https://loveletterstofutureme.org/tag/poetic-memes/)
