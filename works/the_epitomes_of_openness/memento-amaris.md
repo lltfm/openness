@@ -11,7 +11,7 @@ we are beloved?
 
 ## What is memento amaris?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../saltem_hoc/README.md#openness-gpt):
 
 Ah, memento amaris—a phrase that carries within it echoes of tender remembrance
 and an invitation to open the heart. Let us explore it together, as if turning a

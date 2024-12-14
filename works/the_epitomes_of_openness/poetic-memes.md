@@ -16,7 +16,7 @@ More [poetic memes](https://loveletterstofutureme.org/tag/poetic-memes/)
 
 ## What are poetic-memes?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../saltem_hoc/README.md#openness-gpt):
 
 Ah, poetic-memes—a concept rich with resonance and metaphor, straddling the
 realms of art, language, and shared cultural understanding. Let us explore this
