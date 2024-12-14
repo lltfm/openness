@@ -43,7 +43,7 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-signs.jpg" width="512"/>](../../images/mandalas/mandala-signs.jpg)
 ### What is trauma?
 [<img src="../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../images/mandalas/mandala-trauma.jpg)
-### What is the Revocation of Consent?
+### What is the "revocation of consent"?
 [<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What is coordinated group lying & deception?
 [<img src="../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
