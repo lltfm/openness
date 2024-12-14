@@ -208,7 +208,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 *Artwork: “Crossroads”, Sander Bos, 2015 ([source](https://www.sander-bos.nl/))*
 
-> Possessed by a Blind Certainty, the Libido Dominandi[^7] imposes its will on
+> Possessed by a Blind Certainty, the Libido Dominandi[^8] imposes its will on
 > others. It uses words, not to clarify, but to confuse & control. It ridicules
 > & shames. It lies & deceives. It corrupts & coerces. It silences with fear,
 > seizing the collective will. It demonizes & harms others saying, "For the
