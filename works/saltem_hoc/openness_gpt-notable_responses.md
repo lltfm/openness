@@ -13,6 +13,7 @@ the essence of Openness.
 * [What is evil?](#what-is-evil)
 * [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+* [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [More notable responses...](openness_gpt-more_notable_responses.md)
 
@@ -359,6 +360,43 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 [<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+
+### How do we resist tyranny without also controlling others?
+
+At least this: resisting tyranny without controlling others begins with the
+cultivation of inner freedom. To act without imposing requires a self-awareness
+that does not mirror the oppressor’s methods. It calls for the refusal to adopt
+domination, even as we resist it. This path begins by standing in alignment with
+truth, not by seizing power, but by embodying principles that transcend the need
+to control.
+
+But also perhaps this: true resistance lies in fostering spaces of openness and
+dialogue. Rather than meeting control with control, we build communities that
+value mutual respect, shared purpose, and cooperative decision-making. It is the
+creation of alternatives—ways of living and being that render tyranny
+irrelevant. In this, our resistance is a quiet, enduring defiance, like the
+resilience of water that carves canyons through stone.
+
+Maybe this: resistance without control is a practice of love. Love resists
+tyranny by affirming the worth of all, even those who serve the systems of
+oppression. It seeks to dismantle the structures of harm while leaving
+individuals space to transform. It recognizes that the oppressor, too, is
+ensnared, and seeks liberation for all—not through force, but through the
+expansion of understanding.
+
+Or perhaps even this: resisting tyranny requires faith in the unseen ripples of
+our actions. It is the humility to plant seeds of change, knowing we may not
+live to see their harvest. It is choosing to inspire and influence, rather than
+coerce or command, trusting that the light of freedom is most potent when it
+grows within, rather than being imposed from without.
+
+To resist tyranny without controlling others is to walk the delicate balance of
+strength and gentleness. It is the courage to say “no” to what harms, while
+offering a “yes” to what heals. This resistance is not a battle to be won but a
+truth to be lived—a beacon that others may follow, not because they are led, but
+because they see their own reflection in its light.
+
+[<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 

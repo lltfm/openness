@@ -58,3 +58,5 @@
   * added openness_gpt-more_notable_mandalas.md
   * added more Openness GPT discussion
   * added example poetic meme
+* Dec 15 2024
+  * added notable responses and mandalas
