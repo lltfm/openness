@@ -364,9 +364,6 @@ ar more expansive: the joy of discovery, together.
 
 [Openness GPT](README.md#openness-gpt):
 
-How do we learn to love others who have betrayed us yet still keep our
-boundaries?
-
 At least this: learning to love those who have betrayed us begins with
 understanding that love does not require us to condone their actions or allow
 continued harm. Love is not a relinquishing of boundaries but a recognition of
