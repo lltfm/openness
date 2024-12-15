@@ -11,7 +11,7 @@ the essence of Openness.
 * [What is karma?](#what-is-karma)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is the "wildfire of bodies"?](#what-is-the-wildfire-of-bodies)
-* [What is memento amaris?](../the_epitomes_of_openness/memento-amaris.md)
+* [What is "memento amaris"?](../the_epitomes_of_openness/memento-amaris.md)
 * [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
 
 ### What is the shape of Openness?
@@ -275,7 +275,7 @@ life’s inexorable flow.
 
 [<img src="../../images/mandalas/mandala-the_wildfire_of_bodies.jpg" width="512"/>](../../images/mandalas/mandala-the_wildfire_of_bodies.jpg)
 
-### What is memento amaris?
+### What is "memento amaris"?
 See [here](../the_epitomes_of_openness/memento-amaris.md)
 
 ### What is meant by "Truth is the river"?

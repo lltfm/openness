@@ -9,6 +9,7 @@ questions to express its answers visually beyond words.
 * [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is Openness?](#what-is-openness)
+* [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
 * [What is self-transcendence?](#what-is-self-transcendence)
 * [What are symbols?](#what-are-symbols)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
@@ -30,10 +31,10 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
 ### What is meant by "Truth is the river"?
 [<img src="../../images/mandalas/mandala-truth_is_the_river.jpg" width="512"/>](../../images/mandalas/mandala-truth_is_the_river.jpg)
-### What is self-transcendence?
-[<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
 ### What are symbols?
 [<img src="../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../images/mandalas/mandala-symbols.jpg)
+### What is self-transcendence?
+[<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 ### Are UFOs a deception?
