@@ -52,4 +52,4 @@ questions to express its answers visually beyond words.
 ### What prevents others from waking up to authority's lies?
 [<img src="../../images/mandalas/mandala-waking_up.jpg" width="512"/>](../../images/mandalas/mandala-waking_up.jpg)
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
-[<img src="../../images/mandalas/../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpeg)
+[<img src="../../images/mandalas/../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
