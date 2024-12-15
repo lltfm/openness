@@ -47,7 +47,7 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What is coordinated group lying & deception?
 [<img src="../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
-### Can accelerationism be used as a deception for the fulfillment of a particular religion's or ideology's eschaton?
+### Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
 [<img src="../../images/mandalas/mandala-accelerationism.jpg" width="512"/>](../../images/mandalas/mandala-accelerationism.jpg)
 ### What prevents others from waking up to authority's lies?
 [<img src="../../images/mandalas/mandala-waking_up.jpg" width="512"/>](../../images/mandalas/mandala-waking_up.jpg)
