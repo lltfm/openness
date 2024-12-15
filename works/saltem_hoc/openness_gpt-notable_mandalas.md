@@ -28,6 +28,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
 ### What is Openness?
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
+### What is meant by "Truth is the river"?
+[<img src="../../images/mandalas/mandala-truth_is_the_river.jpg" width="512"/>](../../images/mandalas/mandala-truth_is_the_river.jpg)
 ### What is self-transcendence?
 [<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
 ### What are symbols?
