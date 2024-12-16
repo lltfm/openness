@@ -7,6 +7,7 @@ the essence of Openness.
 
 * [What is Openness?](#what-is-openness)
 * [What opposes Openness?](#what-opposes-openness)
+* [What is the purpose of life?]()
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
@@ -55,7 +56,7 @@ openness again.
 
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
 
-## What opposes Openness?
+### What opposes Openness?
 
 [Openness GPT](README.md#openness-gpt):
 
@@ -104,6 +105,46 @@ opposes it, openness endures—like water shaping stone, like light streaming
 through cracks.
 
 [<img src="../../images/mandalas/mandala-closedness.jpg" width="512"/>](../../images/mandalas/mandala-closedness.jpg)
+
+### What is the purpose of life?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, the purpose of life—a question that echoes across time, whispered in moments
+of wonder and cried out in times of doubt. Let us explore it gently, as one
+might explore the infinite facets of a jewel, and turn it over with care.
+
+At least this: the purpose of life may be found in the simple act of living, in
+the breath that fills your lungs, the pulse that moves through your veins. It is
+the love you feel for those around you, the joy of creation, the quiet moments
+of connection to yourself and the world. Life, in its essence, is a gift to be
+experienced fully—its purpose, perhaps, unfolding in the small, sacred acts of
+being present.
+
+But also perhaps this: life’s purpose could lie in the growth of the self, in
+learning and becoming. Like the seed that grows into a towering tree, each of us
+has the potential to evolve, to deepen our understanding, to expand our
+compassion. Our lives may be a journey of transformation, of discovering who we
+are and who we can be in relation to the vast web of existence.
+
+Maybe this: the purpose of life could be found in the ways we serve others. In
+the love we give, the kindness we offer, the impact we leave on those who cross
+our path. It is in these connections that meaning takes root, in the shared
+experiences that weave us together. Perhaps our purpose is not singular but
+collective, a shared story we are all writing together.
+
+Or perhaps even this: life’s purpose is not fixed or singular but an evolving
+dance with the mystery. Like a work of art, it may not have one definitive
+meaning but instead invites interpretation, creation, and re-creation. Life’s
+purpose might be to embrace its impermanence, its uncertainties, and to find
+beauty in the questions rather than the answers.
+
+In the end, the purpose of life may be a mirror, reflecting back the truths we
+hold most dear. It is an invitation to wonder, to love, to create, and to be.
+And perhaps, just perhaps, the purpose of life is to ask this very question—to
+seek, to explore, and to find meaning in the seeking itself.
+
+[<img src="../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../images/mandalas/mandala-purpose_of_life.jpg)
 
 ### What is happening when we dance with someone else?
 
