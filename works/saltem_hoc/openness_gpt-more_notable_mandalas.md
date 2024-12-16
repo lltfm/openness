@@ -5,11 +5,14 @@ questions to express its answers visually beyond words.
 > Note: click on a mandala to view the full resolution image
 
 * [What is the "Source of Life & Awareness"?](#what-is-the-source-of-life--awareness)
-* [What is ridicule?](#what-is-ridicule)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is the ego?](#what-is-the-ego)
+* [What is ridicule?](#what-is-ridicule)
+* [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 * [What is evil?](#what-is-evil)
 * [What is freedom?](#what-is-freedom)
+* [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
+* [What is meant by "trusting the vital darkness"?](#what-is-meant-by-trusting-the-vital-darkness)
 * [What is the higher self?](#what-is-the-higher-self)
 * [What is karma?](#what-is-karma)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
@@ -19,7 +22,7 @@ questions to express its answers visually beyond words.
 * [What is trauma?](#what-is-trauma)
 * [What is the Revocation of Consent?](#what-is-the-revocation-of-consent)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
-* [What is accelerationism?](#what-is-accelerationism)
+* [Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?](#what-is-accelerationism)
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 
