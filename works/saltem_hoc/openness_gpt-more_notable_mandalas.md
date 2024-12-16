@@ -4,7 +4,7 @@ questions to express its answers visually beyond words.
 
 > Note: click on a mandala to view the full resolution image
 
-* [What is the "Source of Life & Awareness"?](#what-is-the-source-of-life--awareness)
+* [What is "the Source of Life & Awareness"?](#what-is-the-source-of-life--awareness)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is the ego?](#what-is-the-ego)
 * [What is ridicule?](#what-is-ridicule)
@@ -26,7 +26,7 @@ questions to express its answers visually beyond words.
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 
-### What is the "Source of Life & Awareness"?
+### What is "the Source of Life & Awareness"?
 [<img src="../../images/mandalas/mandala-the_source.jpg" width="512"/>](../../images/mandalas/mandala-the_source.jpg)
 ### What is Life?
 [<img src="../../images/mandalas/mandala-life.jpg" width="512"/>](../../images/mandalas/mandala-life.jpg)
