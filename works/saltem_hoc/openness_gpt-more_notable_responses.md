@@ -7,7 +7,7 @@ the essence of Openness.
 
 * [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](#are-there-limits-to-openness)
-* [Are you Artifice?]()
+* [Are you Artifice?](#are-you-artifice)
 * [What is magic?](#what-is-magic)
 * [What is karma?](#what-is-karma)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
