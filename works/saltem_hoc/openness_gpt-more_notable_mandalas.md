@@ -20,7 +20,7 @@ questions to express its answers visually beyond words.
 * [What is magic?](#what-is-magic)
 * [What are signs?](#what-are-signs)
 * [What is trauma?](#what-is-trauma)
-* [What is the Revocation of Consent?](#what-is-the-revocation-of-consent)
+* [What is the "revocation of consent"?](#what-is-the-revocation-of-consent)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
 * [Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?](#what-is-accelerationism)
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
