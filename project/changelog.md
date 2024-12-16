@@ -62,3 +62,4 @@
   * added notable responses and mandalas
 * Dec 16 2024
   * added notable responses and mandalas
+  * deleted unused thumbnails
