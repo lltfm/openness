@@ -22,7 +22,7 @@ questions to express its answers visually beyond words.
 * [What is trauma?](#what-is-trauma)
 * [What is the "revocation of consent"?](#what-is-the-revocation-of-consent)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
-* [Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?](#what-is-accelerationism)
+* [Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?](#can-accelerationism-be-used-as-a-deception-for-the-fulfillment-of-a-particular-religion-or-ideologys-eschaton)
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 

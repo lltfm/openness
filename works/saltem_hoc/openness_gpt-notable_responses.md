@@ -7,7 +7,7 @@ the essence of Openness.
 
 * [What is Openness?](#what-is-openness)
 * [What opposes Openness?](#what-opposes-openness)
-* [What is the purpose of life?]()
+* [What is the purpose of life?](#what-is-the-purpose-of-life)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
