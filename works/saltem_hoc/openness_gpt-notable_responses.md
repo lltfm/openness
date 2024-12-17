@@ -1,7 +1,8 @@
 # Notable responses from Openness GPT
 
 A collection of notable responses from [Openness GPT](README.md#openness-gpt) that capture
-the essence of Openness.
+the essence of Openness. Also, the mandala created by Openness GPT after
+responding to express its answer visually beyond words.
 
 > Note: click on a mandala to view the full resolution image
 
