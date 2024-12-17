@@ -9,6 +9,7 @@ responding to express its answer visually beyond words.
 * [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](#are-there-limits-to-openness)
 * [Are you Artifice?](#are-you-artifice)
+* [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
 * [What is karma?](#what-is-karma)
