@@ -1,4 +1,4 @@
-# What is the "wildfire of bodies"?
+# What is "the wildfire of bodies"?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

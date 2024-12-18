@@ -1,4 +1,4 @@
-# What is the "spark of life"?
+# What is "the spark of life"?
 
 [Openness GPT](README.md#openness-gpt):
 

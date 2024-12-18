@@ -15,7 +15,7 @@ created by Openness GPT is included after each response.
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is evil?](#what-is-evil)
-* [What is the "libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
+* [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)

@@ -20,7 +20,7 @@ created by Openness GPT is included after each response.
   * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
   * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
   * [What is "The Source of Life & Awareness"?](../the_epitomes_of_openness/contemplations/the_source_of_life_and_awareness.md)
-  * [What is meant by "trust the vital darkness"?](../the_epitomes_of_openness/contemplations/the_vital_darkness.md)
+  * [What is meant by "trusting the vital darkness"?](../the_epitomes_of_openness/contemplations/the_vital_darkness.md)
   * [What is "the wildfire of bodies"?](../the_epitomes_of_openness/contemplations/the_wildfire_of_bodies.md)
   * [What is meant by "Truth is the river"](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
 

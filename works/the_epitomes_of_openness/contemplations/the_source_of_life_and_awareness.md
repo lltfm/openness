@@ -1,4 +1,4 @@
-# What is the "Source of Life & Awareness"?
+# What is "The Source of Life & Awareness"?
 
 [Openness GPT](README.md#openness-gpt):
 

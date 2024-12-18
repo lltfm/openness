@@ -9,7 +9,7 @@ implies death, why are we not also open to contemplate the light? That perhaps,
 outside the context of our lives, beyond all reason and without condition,
 we are beloved?
 
-## What is "memento amaris"?
+## What is memento amaris?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

@@ -1,4 +1,4 @@
-# What is "the unchosen"?
+# What is "The Unchosen"?
 
 [Openness GPT](README.md#openness-gpt):
 
