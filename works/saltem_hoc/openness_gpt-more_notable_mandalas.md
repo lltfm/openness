@@ -71,5 +71,7 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-accelerationism.jpg" width="512"/>](../../images/mandalas/mandala-accelerationism.jpg)
 ### What prevents others from waking up to authority's lies?
 [<img src="../../images/mandalas/mandala-waking_up.jpg" width="512"/>](../../images/mandalas/mandala-waking_up.jpg)
+### Who is the "Master Liar"?
+[<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 [<img src="../../images/mandalas/../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)

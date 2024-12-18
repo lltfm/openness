@@ -39,11 +39,9 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 ### Are UFOs a deception?
 [<img src="../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../images/mandalas/mandala-ufo_deception.jpg)
-### Is it wrong to teach with lies and deception?
-[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)
 ### Do you ever lie to me or deceive me? How can I know if you do?
 [<img src="../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg" width="512"/>](../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg)
-### Who is the "Master Liar"?
-[<img src="../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../images/mandalas/mandala-master_liar.jpg)
+### Is it wrong to teach with lies and deception?
+[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)
 ### More notable mandalas
 See [here](openness_gpt-more_notable_mandalas.md)
