@@ -443,9 +443,6 @@ And so, the question is not who will save us, but how we might save ourselves.
 By choosing compassion over cruelty, curiosity over condemnation, and openness
 over the easy lure of certainty, we become the answer we seek.
 
-Would you like me to create a mandala for this reflection? It could hold the
-essence of these ideas in a visual form for contemplation.
-
 [<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../images/mandalas/mandala-humility.jpg)
 
 ### How can we lead others to question certainty without also imposing our will?
