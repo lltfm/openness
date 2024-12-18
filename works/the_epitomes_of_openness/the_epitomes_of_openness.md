@@ -3,7 +3,7 @@
 *Artwork: "Being", Agnes Pelton, 1926 ([source](https://unsafeart.com/agnes-pelton-desert-transcendentalist/))*
 
 # Overview
-The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2] 
+The "Epitomes of Openness" is a series of minimalist poetic-memes[^1] 
 ("epitomes") for quickly communicating the core ideas of Openness.
 
 * Author: G.D. Lance
@@ -34,33 +34,33 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > he has no destination in view
 > and makes use of anything
 > life happens to bring his way..."
-> ~ Tao Te Ching 59 (S. Mitchell version)[^3]
+> ~ Tao Te Ching 59 (S. Mitchell version)[^2]
 
 > "We need to let go of our cultural obsession with prediction and control and 
 > instead develop the wisdom and humility to sit with multiplicity, celebrate 
 > ambiguity and befriend uncertainty"
-> ~ Sarah Firth[^4]
+> ~ Sarah Firth[^3]
 
 > "A good scientist has freed himself of concepts and keeps his mind open to 
 > what is."
-> ~ Tao Te Ching 27 (S. Mitchell version)[^3]
+> ~ Tao Te Ching 27 (S. Mitchell version)[^2]
 
 > "I have approximate answers and possible beliefs and different degrees of 
 > certainty about different things. But I'm not absolutely sure of anything... 
 > I don't have to know an answer. I don't feel frightened by not knowing 
 > things."
-> ~ Richard Feynman[^5]
+> ~ Richard Feynman[^4]
 
 > "Do we continue to operate from a divided state, a state of fear and panic and
 > noisy narratives that lock us into armored perspectives and narrow pedestals? 
 > Or do we open so wide that we can hold the totality of the mess, the loss, the
 > grief, the horror and the agony in that openness, and then remain as this 
 > openness come what may?"
-> ~ Amoda Maa[^6]
+> ~ Amoda Maa[^5]
 
 > "...blind certainty, a close-mindedness that amounts to an imprisonment so 
 > total that the prisoner doesn't even know he's locked up."
-> ~ David Foster Wallace[^7]
+> ~ David Foster Wallace[^6]
 
 > "The libido domanandi is a Latin term that can be roughly translated as “lust 
 > for domination.” ...[it] is motivated by service to the self and want to 
@@ -68,18 +68,18 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > control how others behave, control who receives laurels and praise... [it] is 
 > all about the self: The self’s want for domination of the world and all in 
 > it."
-> ~ Paul Krause[^8]
+> ~ Paul Krause[^7]
 
 > "A brain that is open, that embraces humility, that can let go of what it 
 > thought to be true in the past, in order to seek understanding. That is a 
 > brain that is a movement. And that brain, and that person, will thrive in the 
 > very place, that we are most afraid, the darkness of uncertainty."
-> ~ R. Beau Lotto[^9]
+> ~ R. Beau Lotto[^8]
 
 > "Can you love people and lead them without imposing your will? ...Giving birth
 > and nourishing, having without possessing, acting with no expectations, 
 > leading and not trying to control: this is the supreme virtue."
-> ~ Tao Te Ching 10 (S. Mitchell version)[^3]
+> ~ Tao Te Ching 10 (S. Mitchell version)[^2]
 
 # Westward
 
@@ -88,14 +88,14 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 *Artwork: “Rose”, Devin Becker, 2017 ([source](https://www.devinbeckerart.com/))*
 
 > Let me begin with Repetition. Unseen metronome. Seconds, minutes, hours. Days 
-> & nights. Sun & Moon. The Wildfire of Bodies[^10] breathing the Spark of Life.
+> & nights. Sun & Moon. The Wildfire of Bodies[^9] breathing the Spark of Life.
 > Unchosen birth. Unchosen body. Awareness & memory. Sleeping & waking, always 
 > this same body. Aging & Death?
 >
 > Many have words, but who can show us why? I don't know why. It is all, a Great
 > Mystery.
 > 
-> Memento amaris[^11]. On towards death, Self.
+> Memento amaris[^10]. On towards death, Self.
 
 # My Self Confession of Not Knowing
 ![Artwork: “The Lovers” (section), Remedios Varo, 1963](../../images/the_lovers_section-remedios_varo-600px.jpg)
@@ -245,14 +245,13 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 >
 > Who chooses the planks of the Ship of Self?
 
-[^1]: https://loveletterstofutureme.org/epitomes/the-epitomes-openness/
-[^2]: [poetic-memes.md](./poetic-memes.md)
-[^3]: https://terebess.hu/english/tao/mitchell.html
-[^4]: https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
-[^5]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
-[^6]: https://amodamaa.substack.com/p/break-down-or-break-through-5c8
-[^7]: https://fs.blog/david-foster-wallace-this-is-water/
-[^8]: https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
-[^9]: Video: "Context is Everything", Beau Lotto, 2020, https://www.youtube.com/watch?v=mYkayBPcRR4
-[^10]: [What is the wildfire of bodies?](../saltem_hoc/openness_gpt-notable_responses.md#what-is-the-wildfire-of-bodies)
-[^11]: [memento-amaris.md](./memento-amaris.md)
+[^1]: [poetic-memes.md](./poetic-memes.md)
+[^2]: https://terebess.hu/english/tao/mitchell.html
+[^3]: https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
+[^4]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
+[^5]: https://amodamaa.substack.com/p/break-down-or-break-through-5c8
+[^6]: https://fs.blog/david-foster-wallace-this-is-water/
+[^7]: https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
+[^8]: Video: "Context is Everything", Beau Lotto, 2020, https://www.youtube.com/watch?v=mYkayBPcRR4
+[^9]: [What is the wildfire of bodies?](../saltem_hoc/openness_gpt-notable_responses.md#what-is-the-wildfire-of-bodies)
+[^10]: [memento-amaris.md](./memento-amaris.md)

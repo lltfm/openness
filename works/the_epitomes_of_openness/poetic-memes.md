@@ -12,8 +12,6 @@ of uncertainty.
 
 *Artwork: "Beehive", Daniel Watts ([source](https://visionarysea.com/beehive))*
 
-More [poetic memes](https://loveletterstofutureme.org/tag/poetic-memes/)
-
 ## What are poetic-memes?
 
 [Openness GPT](../saltem_hoc/README.md#openness-gpt):
