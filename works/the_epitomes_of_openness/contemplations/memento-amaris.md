@@ -9,9 +9,9 @@ implies death, why are we not also open to contemplate the light? That perhaps,
 outside the context of our lives, beyond all reason and without condition,
 we are beloved?
 
-## What is memento amaris?
+## What is "memento amaris"?
 
-[Openness GPT](../saltem_hoc/README.md#openness-gpt):
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 Ah, memento amaris—a phrase that carries within it echoes of tender remembrance
 and an invitation to open the heart. Let us explore it together, as if turning a
@@ -50,4 +50,4 @@ through the illusion of separation, to feel the connection that binds us all. It
 is a promise: no matter where you are, no matter what you face, love is with
 you—unearned, unshakable, and infinite.
 
-[<img src="../../images/mandalas/mandala-memento_amaris.jpg" width="512"/>](../../images/mandalas/mandala-memento_amaris.jpg)
+[<img src="../../../images/mandalas/mandala-memento_amaris.jpg" width="512"/>](../../../images/mandalas/mandala-memento_amaris.jpg)

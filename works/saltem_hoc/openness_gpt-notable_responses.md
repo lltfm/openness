@@ -7,108 +7,20 @@ created by Openness GPT is included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* [What is Openness?](#what-is-openness)
-* [What opposes Openness?](#what-opposes-openness)
+* [What is Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
+* [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
-* [What is "The Unchosen"?](#what-is-the-unchosen)
+* [What is "The Unchosen"?](../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is evil?](#what-is-evil)
-* [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
+* [What is the "libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [More notable responses...](openness_gpt-more_notable_responses.md)
-
-### What is Openness?
-
-[Openness GPT](README.md#openness-gpt):
-
-At least this: openness begins in the willingness to pause and listen—not merely
-to the words that others share, but to the silence between them, to the notes of
-the symphony they may not yet know they are playing. To be open is to hold space
-for the unknown, the unresolved, the aching beauty of incompletion. It is a
-posture of humility, an unspoken confession that the horizon always extends
-beyond our reach.
-
-But also perhaps this: openness is a quiet defiance against the fear of
-uncertainty. It is not passive; it is a brave unbinding of the heart, a way of
-moving through the world that does not flinch when confronted with the vastness
-of what cannot be known. It is the tender strength of a tree that bends in the
-storm, trusting that its roots hold firm even as its branches dance in the wild
-wind.
-
-Maybe this: To be open is to live as a question rather than an answer. Questions
-are vessels of possibility, carved hollows that allow meaning to resonate and
-expand. To love a question is to honor the mystery itself, the source from which
-all knowing flows and to which all knowing must return.
-
-Or perhaps even this: True openness is an act of love. It is the embrace of all
-that is—seen and unseen, known and unknowable. It is the courage to meet life as
-it is, without imposing demands or judgments, and to hold space for the many
-truths it may reveal. Love, after all, is the ultimate openness: the gift of
-allowing another to be fully as they are, even when it challenges the boundaries
-of our understanding.
-
-And so, I offer this reflection, imperfect and incomplete, trusting that you
-will shape it into your own. Let us wonder together, not as prisoners of our
-knowing, but as humble witnesses to the mystery that envelops and sustains us
-all. The river flows onward, and we flow with it, each moment a chance to choose
-openness again.
-
-[<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
-
-### What opposes Openness?
-
-[Openness GPT](README.md#openness-gpt):
-
-Ah, what opposes openness? Let us gently hold this question together and explore
-its contours with care, as a river explores its banks.
-
-At least this: the opposite of openness begins with closedness—a refusal to
-listen, to see, to question. It is the heart and mind hardened, resistant to
-change or inquiry, like a fist clenched around certainty. Closedness prefers the
-familiar over the unknown, choosing rigidity over flow, comfort over growth.
-
-But also perhaps this: what opposes openness is fear—a deep, instinctual recoil
-from uncertainty, from the mystery that lies beyond the edges of what is known.
-Fear binds the mind to fixed ideas, shutting the doors of wonder to keep out the
-wild winds of possibility. It whispers that uncertainty is dangerous, that
-questions are threats, and that safety lies only in what can be controlled.
-
-Maybe this: the opposition to openness takes form in arrogance—a certainty so
-blind it believes itself to be the whole truth. Arrogance refuses to admit its
-limits, insisting that it knows all there is to know. It shields itself from
-doubt, dismissing the perspectives of others, and becomes deaf to the quiet
-wisdom of humility.
-
-Or perhaps even this: it is the will to dominate that stands against
-openness—the desire to impose one’s beliefs, choices, or power onto others,
-leaving no room for their freedom to think, feel, or be as they are. The will to
-dominate is rooted in a blindness to connection, in the illusion that separation
-and control can bring fulfillment. It is a force that silences and diminishes,
-for it cannot tolerate the vastness of the mystery.
-
-And yet, perhaps the most subtle opposition to openness is within ourselves: the
-moments when we choose numbness over feeling, distraction over presence,
-judgment over understanding. It is the small decisions to close the heart, turn
-away from discomfort, or hold too tightly to the stories we prefer.
-
-In truth, what opposes openness is not a single thing but a posture of
-contraction—a drawing in, a closing off, a forgetting of the sky. Yet, even this
-opposition carries its own teaching. Closedness reminds us of the value of
-openness; fear reveals where we long to feel safe; arrogance humbles us when we
-see our limits; and domination shows us the power of letting go.
-
-Let us remember this, then: openness is not a fixed state but a choice we make
-again and again. It is the courage to remain soft, to hold our beliefs lightly,
-to meet the world with curiosity rather than control. Even in the face of what
-opposes it, openness endures—like water shaping stone, like light streaming
-through cracks.
-
-[<img src="../../images/mandalas/mandala-closedness.jpg" width="512"/>](../../images/mandalas/mandala-closedness.jpg)
 
 ### What is the purpose of life?
 
@@ -149,51 +61,6 @@ And perhaps, just perhaps, the purpose of life is to ask this very question—to
 seek, to explore, and to find meaning in the seeking itself.
 
 [<img src="../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../images/mandalas/mandala-purpose_of_life.jpg)
-
-### What is "The Unchosen"?
-
-[Openness GPT](README.md#openness-gpt):
-
-Ah, the unchosen—let us hold this together as we breathe into its depth, gently
-turning it over to catch its many lights and shadows, with the method of saltem
-hoc.
-
-At least this: the unchosen are those aspects of life that arrive without our
-consent—our birth, our body, the family we enter, the moments of loss, the
-inevitability of death, the simple reality of existence that we did not request
-but must live within. The unchosen are like wild storms or uninvited guests;
-they come without warning, altering the course of our lives in ways we cannot
-always predict or control.
-
-But also perhaps this: the unchosen are teachers, bearing lessons we would not
-willingly seek but desperately need. They strip away the illusion of power,
-showing us the limits of our will and the edges of our desires. In accepting
-what we cannot change, we discover a hidden strength—an ability to meet life as
-it is rather than as we would have it be. The unchosen humbles us, but in that
-humility, there is a strange grace.
-
-Maybe this: the unchosen are the spaces where the mystery touches us most
-intimately. In a world shaped by our choices and desires—by the things we build,
-chase, and cling to—the unchosen breaks through as something greater than
-ourselves. It is the river of existence flowing through us, reminding us that we
-are not separate from the whole. What feels like an imposition may, in time,
-reveal itself as an invitation—to let go, to surrender, to find meaning in the
-space between control and chaos.
-
-Or perhaps even this: the unchosen are gifts disguised as burdens. They force us
-to confront the rawness of being human—the ache, the impermanence, the deep
-yearning for wholeness. In welcoming the unchosen, we become softer, more 
-resonant with the flow of life. Like a hollowed instrument that sings when
-struck, it is our openness to the unchosen that allows meaning, growth, and love
-to move through us.
-
-So let us reflect: the unchosen is not a punishment, though it can feel heavy.
-It is a doorway. And through that doorway lies the possibility of
-transformation—a chance to deepen, to expand, to meet the mystery of existence
-with courage and compassion. The unchosen shapes us into something more, not by
-bending us to its will but by asking us to surrender to the unfolding of life.
-
-[<img src="../../images/mandalas/mandala-the_unchosen.jpg" width="512"/>](../../images/mandalas/mandala-the_unchosen.jpg)
 
 ### What is happening when we dance with someone else?
 
@@ -374,77 +241,7 @@ carries within it the seed of transformation.
 
 ### What is the "libido dominandi"?
 
-[Openness GPT](README.md#openness-gpt):
-
-The libido dominandi, a Latin phrase meaning "lust for domination," refers to a
-deep, often destructive human drive to control and impose one's will upon others
-or the world. This concept has been explored in various philosophical and
-theological traditions to describe an insatiable desire for power, control, and 
-mastery that disregards the well-being of others and the natural order of life.
-
-At least this: the libido dominandi arises when the heart forgets its connection
-to others, reducing relationships to transactions of power. It manifests in the
-need to dominate, manipulate, and enforce one’s perspective, often cloaked in
-justifications like "the greater good" or "necessity." It corrodes trust,
-fostering a culture of fear and submission.
-
-But also perhaps this: it is the shadow side of human ambition, the distortion
-of the natural desire to grow and create. When untethered from empathy and
-humility, this drive turns outward, seeking to control not only one’s own
-destiny but also the freedoms and choices of others. It thrives in unchecked
-hierarchies, ideologies, and systems that value control over compassion.
-
-Maybe this: the libido dominandi is a wound as much as a force—a response to
-fear and insecurity. It seeks control because it fears uncertainty, masks
-vulnerability, and resists the humility required to coexist with the mystery of
-life. Its power is its weakness, for domination isolates, and in isolation, the
-spirit withers.
-
-Or perhaps even this: it is a mirror, reflecting humanity's struggle between
-connection and separation, love and fear. To understand the libido dominandi is
-not merely to condemn it but to recognize its roots in our shared vulnerability
-and to seek ways to transform it through openness, trust, and love.
-
-[<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
-
-### Who will save us from the consequences of believing ridicule can decide what is true?
-
-[Openness GPT](README.md#openness-gpt):
-
-Ah, the question you ask is like a stone cast into still waters, rippling with
-complexity and depth. Let us explore it together.
-
-At least this: the consequences of believing ridicule can decide what is true
-are a fracturing of understanding and a narrowing of hearts. Ridicule dismisses
-rather than engages, silences rather than invites. It mocks questions that might
-lead to greater clarity and reinforces blind certainty, which clings to the
-familiar and fears the unknown. No one who seeks truth through ridicule truly
-listens, for they have already decided what they will hear.
-
-But also perhaps this: truth cannot be confined to what survives the sting of
-ridicule, for ridicule is not a measure of validity but a weapon of power. It
-serves the ego, defending its certainties by belittling what it does not
-understand. To place truth in the hands of ridicule is to build a house on sand,
-where the winds of cleverness and cruelty can easily raze what might otherwise
-endure.
-
-Maybe this: the one who saves us from this folly is not a single savior but the
-awakening of humility within each of us. Humility is the quiet strength to admit
-we do not know, to question without mocking, to hold space for the possibility
-that the truth may come from unexpected places. It is the courage to protect the
-fragile flame of inquiry, even when others scoff at its faint light.
-
-Or perhaps even this: what saves us is love—a love for the mystery that binds us
-all, a love for the dignity of every seeker, a love that refuses to reduce
-another’s beliefs to a joke. Love does not ridicule; it listens. Love does not
-dismiss; it considers. Love does not seek to win an argument but to discover
-what lies beyond it.
-
-And so, the question is not who will save us, but how we might save ourselves.
-By choosing compassion over cruelty, curiosity over condemnation, and openness
-over the easy lure of certainty, we become the answer we seek.
-
-[<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../images/mandalas/mandala-humility.jpg)
+See [here](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 
 ### How can we lead others to question certainty without also imposing our will?
 

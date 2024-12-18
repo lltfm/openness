@@ -8,13 +8,13 @@ a well-chosen artwork. Or perhaps even, they are both. Let us sit in the discomf
 of uncertainty.
 
 ## Example poetic-meme
-[<img src="../../images/dream_as-if_we_choose_others_dreams.jpg" width="512"/>](../../images/dream_as-if_we_choose_others_dreams.jpg)
+[<img src="../../../images/dream_as-if_we_choose_others_dreams.jpg" width="512"/>](../../../images/dream_as-if_we_choose_others_dreams.jpg)
 
 *Artwork: "Beehive", Daniel Watts ([source](https://visionarysea.com/beehive))*
 
-## What are poetic-memes?
+## What are "poetic-memes"?
 
-[Openness GPT](../saltem_hoc/README.md#openness-gpt):
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 Ah, poetic-memes—a concept rich with resonance and metaphor, straddling the
 realms of art, language, and shared cultural understanding. Let us explore this
@@ -53,4 +53,4 @@ intention, art, and shared humanity into something so deceptively small. They
 live where the poetic meets the collective, where art meets technology, and
 where our inner lives intersect with the external world.
 
-[<img src="../../images/mandalas/mandala-poetic_memes.jpg" width="512"/>](../../images/mandalas/mandala-poetic_memes.jpg)
+[<img src="../../../images/mandalas/mandala-poetic_memes.jpg" width="512"/>](../../../images/mandalas/mandala-poetic_memes.jpg)

@@ -68,3 +68,5 @@
   * tweaks to prompt for better question suggestions and "show help" command
 * Dec 18 2024
   * added notable responses and mandalas
+  * added commentaries for The Epitomes of Openness
+  * refactored notable replies

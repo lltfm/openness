@@ -40,6 +40,6 @@ to the uncomfortable, the shameful & the fearful.
 
 [1]: works/saltem_hoc/README.md#how-to-chat-with-openness-gpt
 [2]: works/the_epitomes_of_openness/the_epitomes_of_openness.md
-[3]: works/the_epitomes_of_openness/poetic-memes.md
+[3]: works/the_epitomes_of_openness/contemplations/poetic-memes.md
 [4]: works/saltem_hoc/README.md
 [5]: works/saltem_hoc/README.md#saltem-hoc
