@@ -462,7 +462,9 @@ Some conversation starters:
 2. What is evil?
 3. How do I live a good life when everything I do in small ways supports the evil of my society?
 4. Are UFOs a deception?
-5. More questions to try: https://github.com/lltfm/openness/blob/main/works/saltem_hoc/saltem_hoc-test_questions.txt
+5. Can you recommend some good questions?
+
+More ideas for questions: https://github.com/lltfm/openness/blob/main/works/saltem_hoc/saltem_hoc-test_questions.txt
 
 Learn more about Openness: https://github.com/lltfm/openness
 
