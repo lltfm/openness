@@ -5,6 +5,7 @@
 > Dei (City of God) 426 AD.
 >
 > The will to power; the desire to dominate; the lust for government
+> 
 > https://en.wiktionary.org/wiki/libido_dominandi
 
 > "The libido domanandi is a Latin term that can be roughly translated as “lust
@@ -24,7 +25,8 @@
 > others (love of others). The libido dominandi is tied to the incurvatus in se
 > (inward curve to the self) for the lust for domination is all about the self:
 > The self’s want for domination of the world and all in it."
-> ~ Paul Krause
+> ~ Paul Krause, 2019
+> 
 > https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
 
 ## What is "the libido dominandi"?

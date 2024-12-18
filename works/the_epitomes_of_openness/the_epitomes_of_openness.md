@@ -128,8 +128,8 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 > "The Mystery", two-words confessing, "for I know I do not know". My 
 > imagination, pointing at the infinite star sky of Possibility, the dangers of 
-> the dark woods, the river-truth of tears[^16], at the Source of Life & 
-> Awareness[^17]. At what comes next.
+> the dark woods, the river-truth of tears[^16], at the Source[^17] of Life & 
+> Awareness. At what comes next.
 >
 > Many can tell us words, but who can show us if our Awareness ends? Or where it
 > came from? Or why, even for the innocent, there is sickness, suffering & 
@@ -155,13 +155,13 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 *Artwork: “Rushing Water”, Richard Mittelstadt, 2020 ([source](https://www.artmajeur.com/mittelrl/en/artworks/13187759/rushing-water))*
 
-> Truth is the river[^18], white-water rapids, raw chaos unfolding. Sensed
+> Truth is the river, white-water rapids, raw chaos unfolding. Sensed
 > instantly yet infinitely wordable. We begin believing we know the river, but
 > all we really know are the river banks. Endlessly changing form & content, can
 > any words or forms ever fully express the river?
 >
 > Not knowing is sitting in silence by the river, noticing how in time, even the
-> river banks change.
+> river banks change.[^18]
 
 ## The Truth of Lies
 ![Artwork: “The Riddle”, Jake Baddeley, 2012](../../images/the_riddle-jake_baddeley-600px.jpg)
@@ -233,26 +233,26 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > If Life has a higher purpose, then being uncertain, not knowing precisely what
 > that purpose is or what exists outside the context of our lives, is an 
 > essential part of that higher purpose. Faith is trusting the vital darkness of
-> the sky[^20], whose daylight otherwise conceals the higher lights of the
-> heavens.
+> the sky, whose daylight otherwise conceals the higher lights of the
+> heavens.[^20]
 
 ## A Worthy Vessel
 ![Artwork: “The Divine Migration”, David Seidman, 2019](../../images/the_divine_migration-david_seidman-600px.jpg)
 
 *Artwork: “The Divine Migration”, David Seidman, 2019 ([source](https://nucleusportland.com/products/david-seidman))*
 
-> The planks of concepts built into the Ship of Self[^21], allowing Awareness to 
+> The planks of concepts built into the Ship of Self, allowing Awareness to 
 > experience, interpret, learn, evolve & navigate the deepest waters of The 
 > Mystery. To thrive even in the chaos & uncertainty of the storm. All these 
 > ideas, planks.
 >
-> Who chooses the planks of the Ship of Self?
+> Who chooses the planks of the Ship of Self?[^21]
 
 # References and commentaries
 
 [^1]: [Contemplations: What is Openness?](contemplations/openness.md)
 [^2]: [What are poetic-memes?](contemplations/poetic-memes.md)
-[^3]: https://terebess.hu/english/tao/mitchell.html
+[^3]: "Tao Te Ching", Stephen Mitchell, 1988 https://stephenmitchellbooks.com/ (https://terebess.hu/english/tao/mitchell.html)
 [^4]: https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
 [^5]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
 [^6]: https://amodamaa.substack.com/p/break-down-or-break-through-5c8

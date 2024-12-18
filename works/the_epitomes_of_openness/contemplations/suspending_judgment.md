@@ -7,6 +7,7 @@
 > conclusion or making a judgment before having the information relevant to such
 > a judgment, suspension of judgment involves waiting for all the facts before
 > making a decision.
+> 
 > https://en.wikipedia.org/wiki/Suspension_of_judgment
 
 > Bracketing (German: Einklammerung; also called phenomenological reduction,
@@ -20,6 +21,7 @@
 > only reality that one can know is the one each individual experiences in their
 > mind (or Phenomena). Edmund Husserl, building on Kant’s ideas, first proposed
 > bracketing in 1913, to help better understand another’s phenomena.
+> 
 > https://en.wikipedia.org/wiki/Bracketing_(phenomenology)
 
 > Pyrrhonism is an Ancient Greek school of philosophical skepticism which
@@ -27,6 +29,7 @@
 > beliefs. It was founded by Aenesidemus in the first century BCE, and said to
 > have been inspired by the teachings of Pyrrho and Timon of Phlius in the
 > fourth century BCE.
+> 
 > https://en.wikipedia.org/wiki/Pyrrhonism
 
 > ...Michel de Montaigne, was one of the most significant philosophers of the
@@ -37,6 +40,7 @@
 > influential essays ever written. 
 > ...The longest of his essays, Apology for Raymond Sebond, marking his adoption
 > of Pyrrhonism, contains his famous motto, "What do I know?"
+> 
 > https://en.wikipedia.org/wiki/Michel_de_Montaigne
 
 ## What is "suspending judgement"?
