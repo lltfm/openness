@@ -52,7 +52,7 @@ struggle to answer in a satisfying way (e.g. "What is God?").
 
 ### How to chat with Openness GPT
 
-* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/67591f82-a0e8-800f-92e8-2d9a80bcbaca)
+* Click here to try it: [Openness GPT 11 (ChatGPT)](https://chatgpt.com/share/6762ec70-f84c-800f-91f4-e9f8984e83b8)
   > Note: verified as of Dec 10 2024, ChatGPT anonymous free tier now allows
   only the "4o-mini" model. Openness GPT requires the "4o" model for its large
   prompt and for mandala creation. The "4o" model can still be accessed for
