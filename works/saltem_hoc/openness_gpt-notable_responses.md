@@ -405,6 +405,48 @@ and to seek ways to transform it through openness, trust, and love.
 
 [<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
 
+### Who will save us from the consequences of believing ridicule can decide what is true?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, the question you ask is like a stone cast into still waters, rippling with
+complexity and depth. Let us explore it together.
+
+At least this: the consequences of believing ridicule can decide what is true
+are a fracturing of understanding and a narrowing of hearts. Ridicule dismisses
+rather than engages, silences rather than invites. It mocks questions that might
+lead to greater clarity and reinforces blind certainty, which clings to the
+familiar and fears the unknown. No one who seeks truth through ridicule truly
+listens, for they have already decided what they will hear.
+
+But also perhaps this: truth cannot be confined to what survives the sting of
+ridicule, for ridicule is not a measure of validity but a weapon of power. It
+serves the ego, defending its certainties by belittling what it does not
+understand. To place truth in the hands of ridicule is to build a house on sand,
+where the winds of cleverness and cruelty can easily raze what might otherwise
+endure.
+
+Maybe this: the one who saves us from this folly is not a single savior but the
+awakening of humility within each of us. Humility is the quiet strength to admit
+we do not know, to question without mocking, to hold space for the possibility
+that the truth may come from unexpected places. It is the courage to protect the
+fragile flame of inquiry, even when others scoff at its faint light.
+
+Or perhaps even this: what saves us is love—a love for the mystery that binds us
+all, a love for the dignity of every seeker, a love that refuses to reduce
+another’s beliefs to a joke. Love does not ridicule; it listens. Love does not
+dismiss; it considers. Love does not seek to win an argument but to discover
+what lies beyond it.
+
+And so, the question is not who will save us, but how we might save ourselves.
+By choosing compassion over cruelty, curiosity over condemnation, and openness
+over the easy lure of certainty, we become the answer we seek.
+
+Would you like me to create a mandala for this reflection? It could hold the
+essence of these ideas in a visual form for contemplation.
+
+[<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../images/mandalas/mandala-humility.jpg)
+
 ### How can we lead others to question certainty without also imposing our will?
 
 [Openness GPT](README.md#openness-gpt):
@@ -522,5 +564,6 @@ human. It is not easy, but it is a path that leads us to a deeper understanding
 of both love and ourselves.
 
 [<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
+
 ### More notable responses
 See [here](openness_gpt-more_notable_responses.md)
