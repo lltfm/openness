@@ -196,6 +196,10 @@ every fleeting moment of grace we are given.
 
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
+### What is "The Unchosen"?
+
+See [here](../the_epitomes_of_openness/contemplations/the_unchosen.md)
+
 ### What is evil?
 
 [Openness GPT](README.md#openness-gpt):
