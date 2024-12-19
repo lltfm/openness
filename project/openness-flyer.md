@@ -11,7 +11,7 @@ forms to emerge. It seeks to integrate & express all experiences, thoughts &
 emotions, chosen & unchosen, desired & undesired. It pays particular attention
 to the uncomfortable, the shameful & the fearful.</sub>
 
-| <img src="../images/being-agnes_pelton-600px.jpg" height="150"/> | The Epitomes of Openness | ![](../images/openness-qrcode.png)  |
+| <img src="../images/being-agnes_pelton-150px.jpg" height="150"/> | The Epitomes of Openness | ![](../images/openness-qrcode.png)  |
 |------------------------------------------------------------------|--------------------------|-------------------------------------|
 
 <sub>https://github.com/lltfm/openness</sub>
