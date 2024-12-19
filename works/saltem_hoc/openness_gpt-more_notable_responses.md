@@ -6,7 +6,8 @@ create a mandala to express its answer visually beyond words. The mandala
 created by Openness GPT is included after each response.
 
 > Note: click on a mandala to view the full resolution image
-
+* 
+* [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
 * [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
 * [Are you Artifice?](#are-you-artifice)
