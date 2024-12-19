@@ -17,7 +17,6 @@ created by Openness GPT is included after each response.
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-* [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [More notable responses...](openness_gpt-more_notable_responses.md)
 
 ### What is the purpose of life?
@@ -321,43 +320,6 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 [<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
-
-### How do we learn to love others who have betrayed us yet still keep our boundaries?
-
-[Openness GPT](README.md#openness-gpt):
-
-At least this: learning to love those who have betrayed us begins with
-understanding that love does not require us to condone their actions or allow
-continued harm. Love is not a relinquishing of boundaries but a recognition of
-shared humanity. It is the practice of seeing beyond the act of betrayal to the
-person who, like all of us, is flawed and struggling. To love in this way is to
-wish for their growth and healing without sacrificing our own.
-
-But also perhaps this: love after betrayal is a kind of alchemy. It transforms
-the pain and anger within us into something lighter, not by ignoring the hurt,
-but by sitting with it and letting it teach us. We do not forget the betrayal,
-but we release the grip it holds over us. In this way, love becomes an act of
-liberation—for ourselves as much as for the other.
-
-Maybe this: setting boundaries is itself an expression of love, both for
-ourselves and for the other person. Boundaries are the structures that protect
-and nurture our well-being, allowing us to remain open-hearted without being
-overwhelmed. They create the space where love can exist without resentment,
-where we can hold the other in compassion without losing ourselves.
-
-Or perhaps even this: love is not always an embrace; sometimes, it is the
-courage to step back. To love someone who has betrayed us may mean loving them
-from afar, offering forgiveness in silence, and choosing not to re-enter a
-relationship that would harm us. It is the recognition that love is not
-possession, that it does not demand proximity, but can endure even when
-expressed through distance.
-
-And so, the art of loving while keeping boundaries lies in balance—honoring our
-pain, our needs, and our worth, while also honoring the shared mystery of being
-human. It is not easy, but it is a path that leads us to a deeper understanding
-of both love and ourselves.
-
-[<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
 ### More notable responses
 See [here](openness_gpt-more_notable_responses.md)
