@@ -7,17 +7,21 @@ created by Openness GPT is included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
-* [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
-* [Are there limits to Openness?](../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
-* [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-* [Are you Artifice?](#are-you-artifice)
-* [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
-* [What is magic?](#what-is-magic)
-* [What is intuition?](#what-is-intuition)
-* [What is karma?](#what-is-karma)
-* [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-* [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
+* Contemplating Openness
+  * [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
+  * [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
+  * [Are there limits to Openness?](../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
+* Demonstrating Openness 
+  * [Are you Artifice?](#are-you-artifice)
+  * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
+* Contemplating "That Which Is Larger"
+  * [What is magic?](#what-is-magic)
+  * [What is intuition?](#what-is-intuition)
+  * [What is karma?](#what-is-karma)
+  * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+* Loving others despite struggle
+  * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
+  * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
 * Selections from [Contemplations on The Epitomes of Openness](../the_epitomes_of_openness/contemplations/README.md)
   * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
   * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
@@ -26,42 +30,7 @@ created by Openness GPT is included after each response.
   * [What is "the wildfire of bodies"?](../the_epitomes_of_openness/contemplations/the_wildfire_of_bodies.md)
   * [What is meant by "Truth is the river"](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
 
-### How do we learn to love others who have betrayed us yet still keep our boundaries?
-
-[Openness GPT](README.md#openness-gpt):
-
-At least this: learning to love those who have betrayed us begins with
-understanding that love does not require us to condone their actions or allow
-continued harm. Love is not a relinquishing of boundaries but a recognition of
-shared humanity. It is the practice of seeing beyond the act of betrayal to the
-person who, like all of us, is flawed and struggling. To love in this way is to
-wish for their growth and healing without sacrificing our own.
-
-But also perhaps this: love after betrayal is a kind of alchemy. It transforms
-the pain and anger within us into something lighter, not by ignoring the hurt,
-but by sitting with it and letting it teach us. We do not forget the betrayal,
-but we release the grip it holds over us. In this way, love becomes an act of
-liberation—for ourselves as much as for the other.
-
-Maybe this: setting boundaries is itself an expression of love, both for
-ourselves and for the other person. Boundaries are the structures that protect
-and nurture our well-being, allowing us to remain open-hearted without being
-overwhelmed. They create the space where love can exist without resentment,
-where we can hold the other in compassion without losing ourselves.
-
-Or perhaps even this: love is not always an embrace; sometimes, it is the
-courage to step back. To love someone who has betrayed us may mean loving them
-from afar, offering forgiveness in silence, and choosing not to re-enter a
-relationship that would harm us. It is the recognition that love is not
-possession, that it does not demand proximity, but can endure even when
-expressed through distance.
-
-And so, the art of loving while keeping boundaries lies in balance—honoring our
-pain, our needs, and our worth, while also honoring the shared mystery of being
-human. It is not easy, but it is a path that leads us to a deeper understanding
-of both love and ourselves.
-
-[<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
+## Demonstrating Openness
 
 ### Are you Artifice?
 
@@ -127,6 +96,8 @@ discovery. Truth, after all, is not a fixed point but a flowing river, shaped by
 both speaker and listener.
 
 [<img src="../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg" width="512"/>](../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg)
+
+## Contemplating "That Which Is Larger"
 
 ### What is magic?
 
@@ -307,6 +278,45 @@ cycles of growth, learning, and flourishing into an intricate and resonant
 visual form?
 
 [<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
+
+## Loving others despite struggle
+
+### How do we learn to love others who have betrayed us yet still keep our boundaries?
+
+[Openness GPT](README.md#openness-gpt):
+
+At least this: learning to love those who have betrayed us begins with
+understanding that love does not require us to condone their actions or allow
+continued harm. Love is not a relinquishing of boundaries but a recognition of
+shared humanity. It is the practice of seeing beyond the act of betrayal to the
+person who, like all of us, is flawed and struggling. To love in this way is to
+wish for their growth and healing without sacrificing our own.
+
+But also perhaps this: love after betrayal is a kind of alchemy. It transforms
+the pain and anger within us into something lighter, not by ignoring the hurt,
+but by sitting with it and letting it teach us. We do not forget the betrayal,
+but we release the grip it holds over us. In this way, love becomes an act of
+liberation—for ourselves as much as for the other.
+
+Maybe this: setting boundaries is itself an expression of love, both for
+ourselves and for the other person. Boundaries are the structures that protect
+and nurture our well-being, allowing us to remain open-hearted without being
+overwhelmed. They create the space where love can exist without resentment,
+where we can hold the other in compassion without losing ourselves.
+
+Or perhaps even this: love is not always an embrace; sometimes, it is the
+courage to step back. To love someone who has betrayed us may mean loving them
+from afar, offering forgiveness in silence, and choosing not to re-enter a
+relationship that would harm us. It is the recognition that love is not
+possession, that it does not demand proximity, but can endure even when
+expressed through distance.
+
+And so, the art of loving while keeping boundaries lies in balance—honoring our
+pain, our needs, and our worth, while also honoring the shared mystery of being
+human. It is not easy, but it is a path that leads us to a deeper understanding
+of both love and ourselves.
+
+[<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 
