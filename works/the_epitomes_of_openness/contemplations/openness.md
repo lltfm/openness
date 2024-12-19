@@ -12,7 +12,7 @@ flow of truth which we do not fully understand.
 
 ### What is Openness?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 At least this: openness begins in the willingness to pause and listen—not merely
 to the words that others share, but to the silence between them, to the notes of
@@ -50,7 +50,7 @@ openness again.
 
 ### What opposes Openness?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 Ah, what opposes openness? Let us gently hold this question together and explore
 its contours with care, as a river explores its banks.
@@ -100,7 +100,7 @@ through cracks.
 
 ### What is the shape of Openness?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 At least this: the shape of openness is the shape of the sky—vast, borderless,
 without a single edge or end. It expands effortlessly, cradling the sun, the
@@ -140,6 +140,8 @@ openness through form itself. Shall I?
 [<img src="../../../images/mandalas/mandala-shape_of_openness.jpg" width="512"/>](../../../images/mandalas/mandala-shape_of_openness.jpg)
 
 ### Are there limits to Openness?
+
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 At least this: openness, like a river, flows freely but is shaped by its
 boundaries. Without riverbanks, water would disperse into stagnation, losing its

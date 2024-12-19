@@ -1,6 +1,6 @@
 # Who chooses the planks of the Ship of Self?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 The phrase "Who chooses the planks of the Ship of Self?" uses a metaphor to
 explore the construction of identity and the choices we make—or don't make—about

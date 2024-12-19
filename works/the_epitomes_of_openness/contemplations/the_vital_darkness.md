@@ -1,5 +1,7 @@
 # What is meant by "trusting the vital darkness"?
 
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+
 The phrase "trusting the vital darkness of the sky, whose daylight otherwise
 conceals the higher lights of the heavens" holds a poetic depth, calling us to
 embrace the unseen and the mysterious. Let us explore it together with the "
