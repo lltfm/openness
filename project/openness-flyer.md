@@ -12,7 +12,7 @@ forms to emerge. It seeks to integrate & express all experiences, thoughts &
 emotions, chosen & unchosen, desired & undesired. It pays particular attention
 to the uncomfortable, the shameful & the fearful.
 
-| <img src="../images/being-agnes_pelton-600px.jpg" width="100"/> | The Epitomes of Openness | ![](../images/openness-qrcode.png)  |
+| <img src="../images/being-agnes_pelton-600px.jpg" width="200"/> | The Epitomes of Openness | ![](../images/openness-qrcode.png)  |
 |-----------------------------------------------------------------|--------------------------|-------------------------------------|
 
 <small>https://github.com/lltfm/openness</small>
