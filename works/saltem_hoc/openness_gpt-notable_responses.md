@@ -239,7 +239,7 @@ carries within it the seed of transformation.
 
 [<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
 
-### What is the "libido dominandi"?
+### What is "the libido dominandi"?
 
 See [here](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 
