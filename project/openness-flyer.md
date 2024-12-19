@@ -12,13 +12,13 @@ forms to emerge. It seeks to integrate & express all experiences, thoughts &
 emotions, chosen & unchosen, desired & undesired. It pays particular attention
 to the uncomfortable, the shameful & the fearful.
 
-| The Epitomes of Openness | https://github.com/lltfm/openness | ![](../images/openness-qrcode.png)      |
-|--------------------------|-----------------------------------|-----------------------------------------|
+| <img src="../images/being-agnes_pelton-600px.jpg" width="100"/> | The Epitomes of Openness | https://github.com/lltfm/openness | ![](../images/openness-qrcode.png)  |
+|-----------------------------------------------------------------|--------------------------|-----------------------------------|-------------------------------------|
 
 The "Epitomes of Openness" is a series of minimalist poetic-memes ("epitomes") for quickly communicating the core ideas of Openness.  
 
-| How to chat with Openness GPT | https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt | ![](../images/qrcode-openness_gpt.png)   |
-|-------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------|
+| <img src="../images/mandalas/mandala-self_portrait-512px.jpg" width="200"/> | How to chat with Openness GPT | https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt | ![](../images/qrcode-openness_gpt.png)   |
+|-----------------------------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------|
 
 Openness GPT is designed to guide users in exploring potential answers to
 difficult spiritual questions or any other kind of "unanswerable" question
