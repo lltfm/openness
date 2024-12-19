@@ -16,7 +16,8 @@ to the uncomfortable, the shameful & the fearful.
 The "Epitomes of Openness" is a series of minimalist poetic-memes
 ("epitomes") for quickly communicating the core ideas of Openness.
 
-![](../images/being-agnes_pelton-600px.jpg)
+
+<img src="../images/being-agnes_pelton-600px.jpg" width="300"/>
 
 https://github.com/lltfm/openness
 
@@ -27,7 +28,7 @@ Openness GPT is designed to guide users in exploring potential answers to
 difficult spiritual questions or any other kind of "unanswerable" question
 which we all struggle to answer in a satisfying way (e.g. "What is the soul?").
 
-![](../images/mandalas/mandala-self_portrait-512px.jpg)
+<img src="../images/mandalas/mandala-self_portrait-512px.jpg" width="256"/>
 
 https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt
 
