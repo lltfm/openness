@@ -1,4 +1,4 @@
-# Contemplations
+# Contemplations on The Epitomes of Openness
 Contemplations on the [The Epitomes Of Openness](../the_epitomes_of_openness.md)
 * [What is Openness?](openness.md)
 * [What is memento amaris?](memento-amaris.md)
