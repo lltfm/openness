@@ -14,12 +14,14 @@ to the uncomfortable, the shameful & the fearful.
 
 | <img src="../images/being-agnes_pelton-600px.jpg" width="100"/> | The Epitomes of Openness | ![](../images/openness-qrcode.png)  |
 |-----------------------------------------------------------------|--------------------------|-------------------------------------|
+
 <small>https://github.com/lltfm/openness</small>
 
 The "Epitomes of Openness" is a series of minimalist poetic-memes ("epitomes") for quickly communicating the core ideas of Openness.  
 
 | <img src="../images/mandalas/mandala-self_portrait-512px.jpg" width="200"/> | How to chat with Openness GPT | ![](../images/qrcode-openness_gpt.png)   |
 |-----------------------------------------------------------------------------|-------------------------------|------------------------------------------|
+
 <small>https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt</small>
 
 Openness GPT is designed to guide users in exploring potential answers to
