@@ -12,26 +12,14 @@ forms to emerge. It seeks to integrate & express all experiences, thoughts &
 emotions, chosen & unchosen, desired & undesired. It pays particular attention
 to the uncomfortable, the shameful & the fearful.
 
-# The Epitomes Of Openness
-The "Epitomes of Openness" is a series of minimalist poetic-memes
-("epitomes") for quickly communicating the core ideas of Openness.
+| The Epitomes of Openness | https://github.com/lltfm/openness | ![](../images/openness-qrcode.png)      |
+|--------------------------|-----------------------------------|-----------------------------------------|
+The "Epitomes of Openness" is a series of minimalist poetic-memes ("epitomes") for quickly communicating the core ideas of Openness.  
 
-
-<img src="../images/being-agnes_pelton-600px.jpg" width="300"/>
-
-https://github.com/lltfm/openness
-
-![](../images/openness-qrcode.png)
-
-# How to chat with Openness GPT
+| How to chat with Openness GPT | https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt | ![](../images/qrcode-openness_gpt.png)   |
+|-------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------|
 Openness GPT is designed to guide users in exploring potential answers to
 difficult spiritual questions or any other kind of "unanswerable" question
 which we all struggle to answer in a satisfying way (e.g. "What is the soul?").
-
-<img src="../images/mandalas/mandala-self_portrait-512px.jpg" width="256"/>
-
-https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt
-
-![](../images/qrcode-openness_gpt.png)
 
 
