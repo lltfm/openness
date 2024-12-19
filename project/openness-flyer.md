@@ -11,14 +11,14 @@ forms to emerge. It seeks to integrate & express all experiences, thoughts &
 emotions, chosen & unchosen, desired & undesired. It pays particular attention
 to the uncomfortable, the shameful & the fearful.</sub>
 
-| <img src="../images/being-agnes_pelton-600px.jpg" width="175"/> | The Epitomes of Openness | ![](../images/openness-qrcode.png)  |
+| <img src="../images/being-agnes_pelton-600px.jpg" width="150"/> | The Epitomes of Openness | ![](../images/openness-qrcode.png)  |
 |-----------------------------------------------------------------|--------------------------|-------------------------------------|
 
 <sub>https://github.com/lltfm/openness</sub>
 
 <sup>The "Epitomes of Openness" is a series of minimalist poetic-memes ("epitomes") for quickly communicating the core ideas of Openness.</sup>  
 
-| <img src="../images/mandalas/mandala-self_portrait-512px.jpg" width="175"/> | How to chat with Openness GPT | ![](../images/qrcode-openness_gpt.png)   |
+| <img src="../images/mandalas/mandala-self_portrait-512px.jpg" width="150"/> | How to chat with Openness GPT | ![](../images/qrcode-openness_gpt.png)   |
 |-----------------------------------------------------------------------------|-------------------------------|------------------------------------------|
 
 <sub>https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt</sub>
