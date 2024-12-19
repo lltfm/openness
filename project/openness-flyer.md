@@ -14,10 +14,12 @@ to the uncomfortable, the shameful & the fearful.
 
 | The Epitomes of Openness | https://github.com/lltfm/openness | ![](../images/openness-qrcode.png)      |
 |--------------------------|-----------------------------------|-----------------------------------------|
+
 The "Epitomes of Openness" is a series of minimalist poetic-memes ("epitomes") for quickly communicating the core ideas of Openness.  
 
 | How to chat with Openness GPT | https://github.com/lltfm/openness/blob/main/works/saltem_hoc/README.md#how-to-chat-with-openness-gpt | ![](../images/qrcode-openness_gpt.png)   |
 |-------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------|
+
 Openness GPT is designed to guide users in exploring potential answers to
 difficult spiritual questions or any other kind of "unanswerable" question
 which we all struggle to answer in a satisfying way (e.g. "What is the soul?").
