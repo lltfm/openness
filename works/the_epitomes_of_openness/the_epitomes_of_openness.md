@@ -250,7 +250,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 # References and commentaries
 
-[^1]: [Contemplations: What is Openness?](contemplations/openness.md)
+[^1]: [What is Openness?](contemplations/openness.md)
 [^2]: [What are poetic-memes?](contemplations/poetic-memes.md)
 [^3]: "Tao Te Ching", Stephen Mitchell, 1988 https://stephenmitchellbooks.com/ (https://terebess.hu/english/tao/mitchell.html)
 [^4]: https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877

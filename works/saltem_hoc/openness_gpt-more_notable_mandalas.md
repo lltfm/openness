@@ -38,7 +38,7 @@ questions to express its answers visually beyond words.
 ### What is ridicule?
 [<img src="../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../images/mandalas/mandala-ridicule.jpg)
 ### How do we rise above ridicule?
-[<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
+[<img src="../../images/mandalas/mandala-rise_above_ridicule2.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule2.jpg)
 ### What is evil?
 [<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
 ### What is freedom?

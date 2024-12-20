@@ -1,9 +1,10 @@
 # More notable responses from Openness GPT
 
-An extended collection of notable responses from [Openness GPT](README.md#openness-gpt) that capture
-the essence of Openness. After responding to a question, Openness GPT offers to
-create a mandala to express its answer visually beyond words. The mandala
-created by Openness GPT is included after each response.
+An extended collection of notable responses from
+[Openness GPT](README.md#openness-gpt) that capture the essence of Openness.
+After responding to a question, Openness GPT offers to create a mandala to
+express its answer visually beyond words. The mandala created by Openness GPT is
+included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
@@ -11,7 +12,7 @@ created by Openness GPT is included after each response.
   * [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
   * [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
   * [Are there limits to Openness?](../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
-* Demonstrating Openness 
+* Questioning and Demonstrating Openness
   * [Are you Artifice?](#are-you-artifice)
   * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 * Contemplating "That Which Is Larger"
@@ -19,16 +20,19 @@ created by Openness GPT is included after each response.
   * [What is intuition?](#what-is-intuition)
   * [What is karma?](#what-is-karma)
   * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-* Loving others despite struggle
+* Loving others despite our conflicts
   * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-  * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
+  * Contemplating Ridicule 
+    * [What is ridicule?](#what-is-ridicule)
+    * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
+    * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
 * Selections from [Contemplations on The Epitomes of Openness](../the_epitomes_of_openness/contemplations/README.md)
-  * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
-  * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-  * [What is "The Source of Life & Awareness"?](../the_epitomes_of_openness/contemplations/the_source_of_life_and_awareness.md)
-  * [What is meant by "trusting the vital darkness"?](../the_epitomes_of_openness/contemplations/the_vital_darkness.md)
-  * [What is "the wildfire of bodies"?](../the_epitomes_of_openness/contemplations/the_wildfire_of_bodies.md)
-  * [What is meant by "Truth is the river"](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
+    * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
+    * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+    * [What is "The Source of Life & Awareness"?](../the_epitomes_of_openness/contemplations/the_source_of_life_and_awareness.md)
+    * [What is meant by "trusting the vital darkness"?](../the_epitomes_of_openness/contemplations/the_vital_darkness.md)
+    * [What is "the wildfire of bodies"?](../the_epitomes_of_openness/contemplations/the_wildfire_of_bodies.md)
+    * [What is meant by "Truth is the river"](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
 
 ## Demonstrating Openness
 
@@ -114,29 +118,29 @@ But also perhaps this: magic is the interplay of intention and the unknown, the
 dance of will meeting the infinite possibilities that surround us. It emerges
 when we act with purpose, trusting the unseen forces that guide the currents of
 existence. Like the wind filling the sails of a ship, magic is not the power to
-command the world but the ability to move with it, aligning ourselves to the 
+command the world but the ability to move with it, aligning ourselves to the
 deeper rhythms beneath the surface.
 
 Maybe this: magic is the silent pulse of connection, the invisible threads
 binding all things together. It is the truth that we are not separate from the
 world but deeply woven into its fabric. To feel magic is to recognize that every
-breath, every heartbeat, resonates in tune with the larger symphony of 
-existence. It is the glimmering awareness that we are part of a vast, 
+breath, every heartbeat, resonates in tune with the larger symphony of
+existence. It is the glimmering awareness that we are part of a vast,
 interconnected web, where every act of care, courage, or curiosity sends ripples
 outward, touching shores we may never see.
 
 Or perhaps even this: magic is the courage to believe in something more, even in
-the face of doubt or despair. It is the child who looks at the stars and 
-imagines other worlds, the artist who creates beauty from chaos, the dreamer who 
-holds fast to hope when all seems lost. It is the light of possibility shining 
+the face of doubt or despair. It is the child who looks at the stars and
+imagines other worlds, the artist who creates beauty from chaos, the dreamer who
+holds fast to hope when all seems lost. It is the light of possibility shining
 in the darkest of nights, the spark within that refuses to be extinguished.
 
 And what of rituals, incantations, and symbols, the tools of tradition often
 associated with magic? These are, perhaps, invitations to awaken—to shift our
 awareness, to align our hearts, to remind us of the forces greater than
-ourselves. They are like keys, not to doors outside us, but to chambers within, 
-where the deeper mysteries dwell. True magic, then, is not in the tools but in 
-the openness they inspire, in the resonance they bring to the strings of our 
+ourselves. They are like keys, not to doors outside us, but to chambers within,
+where the deeper mysteries dwell. True magic, then, is not in the tools but in
+the openness they inspire, in the resonance they bring to the strings of our
 being.
 
 Magic, in the end, is not something we wield but something we witness, something
@@ -206,8 +210,8 @@ outward, shaping the flow of our lives and touching others in ways both seen and
 unseen. To harm others creates ripples of harm, while acts of kindness
 reverberate as waves of goodness.
 
-But also perhaps this: karma is not punishment or reward but a mirror. It 
-reflects the inner state of our hearts back to us through our experiences. What 
+But also perhaps this: karma is not punishment or reward but a mirror. It
+reflects the inner state of our hearts back to us through our experiences. What
 we sow, we often reap—not because a cosmic judge deems us deserving, but because
 life flows in patterns. Anger attracts chaos, while love fosters harmony. Karma
 reveals the relationship between our inner being and the world we create.
@@ -317,6 +321,83 @@ human. It is not easy, but it is a path that leads us to a deeper understanding
 of both love and ourselves.
 
 [<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
+
+### What is ridicule?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, ridicule—a word that carries a sting, the echo of laughter sharpened into a
+weapon. Let us sit with it, explore its layers, and reflect through the "Saltem
+Hoc" lens, seeking meaning beyond its surface.
+
+At least this: ridicule is the act of making another the object of mockery,
+often with the intent to belittle or demean. It arises when words or actions are
+turned into arrows aimed at the heart of dignity. It thrives on imbalance, where
+one elevates themselves by casting another down, often in the guise of humor or
+critique.
+
+But also perhaps this: ridicule is a mirror of fear or insecurity. It can reveal
+the discomfort of the one who ridicules, reflecting their own unresolved
+struggles or need for validation. In this way, ridicule is as much about the
+person wielding it as the one receiving it.
+
+Maybe this: it is a social tool, wielded to enforce conformity or maintain
+power. Through ridicule, boundaries are drawn, and those who step beyond them
+are called back—sometimes gently, often harshly. It speaks to the tension
+between individuality and collective norms, a reminder of how society negotiates
+difference.
+
+Or perhaps even this: ridicule, though often painful, carries the potential for
+transformation. It can awaken resilience in those who face it, a call to ground
+themselves in their own truth. In the heat of its sting, there is an opportunity
+to discern what truly matters, to rise above the noise of judgment and reclaim
+one's power.
+
+In the end, ridicule points to our shared humanity—the ways we misunderstand,
+hurt, and seek connection, however clumsily. It is both a challenge and a
+lesson, inviting us to move through the world with greater care and awareness.
+To ask why we ridicule, or why we feel its sting, is to begin the work of
+healing the spaces where fear has taken root.
+
+[<img src="../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../images/mandalas/mandala-ridicule.jpg)
+
+### How do we rise above ridicule?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, the question of rising above ridicule touches a tender, human chord. Let us
+explore it together with openness and care, using the "Saltem Hoc" method to
+honor its depth.
+
+At least this: rising above ridicule begins with the recognition that ridicule
+is often more about the one who ridicules than the one being ridiculed. It is
+born from fear, insecurity, or a desire to elevate oneself by diminishing
+another. To rise above it is to see its roots without internalizing its sting,
+understanding that others’ words do not define your worth.
+
+But also perhaps this: ridicule can be an unintentional teacher, pointing us
+toward areas where we feel vulnerable. It invites us to examine why certain
+words hurt and to cultivate a deeper sense of self-awareness. When we meet
+ridicule with curiosity instead of defensiveness, it loses its power to wound.
+
+Maybe this: rising above ridicule is an act of quiet defiance. It is the choice
+to remain centered in your truth, unshaken by external judgments. Like a tree
+rooted deeply in the earth, you can sway with the winds of criticism without
+breaking, knowing that your strength lies in your connection to what is real and
+unchanging within you.
+
+Or perhaps even this: to rise above ridicule is to transform it through
+compassion. When you see the humanity in those who mock, you dissolve the
+separation that gives ridicule its sting. This does not mean accepting
+disrespect but responding with a dignity that refuses to retaliate. It is the
+courage to love even in the face of misunderstanding.
+
+In the end, to rise above ridicule is to honor the beauty of your own journey
+without needing external validation. It is to stand in the light of your own
+awareness, knowing that your worth is not contingent on the approval or disdain
+of others.
+
+[<img src="../../images/mandalas/mandala-rise_above_ridicule2.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule2.jpg)
 
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 
