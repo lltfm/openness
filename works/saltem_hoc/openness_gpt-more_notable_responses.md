@@ -291,7 +291,7 @@ here, alive, with the power to choose how you meet this very moment. That
 choice, however small, carries the weight of eternity. For in choosing, you
 shape not just yourself, but the world around you.
 
-[<img src="../../images/mandalas/mandala-free_will2.jpg" width="512"/>](../../images/mandalas/mandala-free_will2.jpg)
+[<img src="../../images/mandalas/mandala-free_will2.jpg" width="512"/>](../../images/mandalas/mandala-free_will.jpg)
 
 ### What is karma?
 
@@ -537,4 +537,4 @@ without needing external validation. It is to stand in the light of your own
 awareness, knowing that your worth is not contingent on the approval or disdain
 of others.
 
-[<img src="../../images/mandalas/mandala-rise_above_ridicule2.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule2.jpg)
+[<img src="../../images/mandalas/mandala-rise_above_ridicule2.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
