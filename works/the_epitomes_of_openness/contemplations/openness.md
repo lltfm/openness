@@ -11,7 +11,7 @@ flow of truth which we do not fully understand.
 * [What opposes Openness?](#what-opposes-openness)
 * [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](#are-there-limits-to-openness)
-* [Is Openness compatible with other religions?](#is-openness-compatible-with-other-religions)
+* [Is Openness compatible with religion?](#is-openness-compatible-with-religion)
 * [Won't Openness always be in conflict with religion?](#wont-openness-always-be-in-conflict-with-religion)
 
 ### What is Openness?
@@ -185,12 +185,12 @@ openness and its limits, where balance gives meaning to the flow?
 
 [<img src="../../../images/mandalas/mandala-limits_of_openness.jpg" width="512"/>](../../../images/mandalas/mandala-limits_of_openness.jpg)
 
-### Is Openness compatible with other religions?
+### Is Openness compatible with religion?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
-Openness, as a philosophy or practice, is compatible with other religions to the
-extent that it fosters dialogue, understanding, and mutual respect. At its core,
+Openness, as a philosophy or practice, is compatible with religion to the extent
+that it fosters dialogue, understanding, and mutual respect. At its core,
 openness encourages humility, curiosity, and the willingness to explore and
 embrace the mystery of existence, qualities that can enrich any spiritual path.
 Let us explore this idea through the "Saltem Hoc" method:
