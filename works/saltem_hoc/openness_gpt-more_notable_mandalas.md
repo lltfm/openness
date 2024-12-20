@@ -18,6 +18,7 @@ questions to express its answers visually beyond words.
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is laughter?](#what-is-laughter)
 * [What is magic?](#what-is-magic)
+* [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
 * [What is "The Overwhelm"?](#what-is-the-overwhelm)
 * [What is trauma?](#what-is-trauma)
@@ -59,6 +60,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
 ### What are signs?
 [<img src="../../images/mandalas/mandala-signs.jpg" width="512"/>](../../images/mandalas/mandala-signs.jpg)
+### What are symbols?
+[<img src="../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../images/mandalas/mandala-symbols.jpg)
 ### What is "The Overwhelm"?
 [<img src="../../images/mandalas/mandala-the_overwhelm.jpg" width="512"/>](../../images/mandalas/mandala-the_overwhelm.jpg)
 ### What is trauma?

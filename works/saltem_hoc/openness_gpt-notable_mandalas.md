@@ -11,8 +11,8 @@ questions to express its answers visually beyond words.
 * [What is Openness?](#what-is-openness)
 * [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
 * [What is self-transcendence?](#what-is-self-transcendence)
-* [What are symbols?](#what-are-symbols)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+* [What is "The Unchosen"?](#what-is-the-unchosen)
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
@@ -31,12 +31,12 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
 ### What is meant by "Truth is the river"?
 [<img src="../../images/mandalas/mandala-truth_is_the_river.jpg" width="512"/>](../../images/mandalas/mandala-truth_is_the_river.jpg)
-### What are symbols?
-[<img src="../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../images/mandalas/mandala-symbols.jpg)
 ### What is self-transcendence?
 [<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
+### What is "The Unchosen"?
+[<img src="../../images/mandalas/mandala-the_unchosen.jpg" width="512"/>](../../images/mandalas/mandala-the_unchosen.jpg)
 ### Are UFOs a deception?
 [<img src="../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../images/mandalas/mandala-ufo_deception.jpg)
 ### Do you ever lie to me or deceive me? How can I know if you do?
