@@ -12,7 +12,7 @@ included after each response.
     * [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
     * [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
     * [Are there limits to Openness?](../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
-    * [Is Openness compatible with other religions?]()
+    * [Is Openness compatible with other religions?](../the_epitomes_of_openness/contemplations/openness.md#is-openness-compatible-with-other-religions)
 * Questioning and demonstrating Openness
     * [Are you Artifice?](#are-you-artifice)
     * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
