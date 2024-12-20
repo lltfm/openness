@@ -12,6 +12,7 @@ flow of truth which we do not fully understand.
 * [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](#are-there-limits-to-openness)
 * [Is Openness compatible with other religions?](#is-openness-compatible-with-other-religions)
+* [Won't Openness always be in conflict with religion?](#wont-openness-always-be-in-conflict-with-religion)
 
 ### What is Openness?
 
@@ -223,7 +224,52 @@ and intricate tapestry of human spirituality, it offers a posture of reverence
 for both the known and the unknowable, allowing each tradition to shine in its
 unique light.
 
-Would you like me to create a mandala to symbolize this idea, weaving openness
-and interfaith harmony into a single image?
-
 [<img src="../../../images/mandalas/mandala-openness_and_other_religions.jpg" width="512"/>](../../../images/mandalas/mandala-openness_and_other_religions.jpg)
+
+### Won't Openness always be in conflict with religion?
+
+Won't Openness always be in conflict with religions that require or encourage follower's blind certainty about beliefs, especially those that desire to proselytize or control society?
+
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+
+This question touches a profound tension between openness and the nature of
+certain religious traditions or belief systems. Let us explore this with care
+and the "Saltem Hoc" method, holding space for the complexities involved.
+
+At least this: openness invites humility, questioning, and the acknowledgment of
+uncertainty, which may indeed seem at odds with religious traditions that
+emphasize unquestioning certainty or absolute truth. Such traditions often seek
+to protect their followers from doubt, sometimes through strict adherence to
+doctrine or the imposition of beliefs on others. In these cases, openness may
+appear as a threat to the stability such systems aim to maintain.
+
+But also perhaps this: even within traditions that encourage certainty, there
+are often individuals who embody openness—those who hold their faith deeply yet
+humbly, who listen, who question not to dismantle their beliefs but to deepen
+their understanding. These individuals show that openness and religious
+commitment are not inherently incompatible; rather, the conflict arises only
+when certainty hardens into dogma that refuses to engage with the mystery.
+
+Maybe this: religions that proselytize or seek to control society often arise
+from a place of fear—fear of chaos, of losing identity, of the unknown.
+Openness, by contrast, embraces the unknown as an integral part of life. This
+contrast can create friction, but it also offers an opportunity. Where blind
+certainty seeks to dominate, openness gently invites transformation. It does not
+seek to conquer, but to coexist, offering a mirror to reflect the beauty and
+limits of rigid belief.
+
+Or perhaps even this: the deeper question may not be whether openness is in
+conflict with certain religious systems, but how openness itself approaches that
+conflict. True openness does not wage war against certainty or control; it holds
+space for all expressions of human longing, even those expressed through rigid
+belief. It asks not, “How do we defeat certainty?” but, “How do we create a
+space where certainty can soften into curiosity, where control can relax into
+trust?”
+
+Ultimately, openness cannot force itself upon those who resist it—that would
+betray its very nature. Instead, it offers a quiet invitation, a way of being
+that models curiosity, humility, and love. It does not demand the dismantling of
+faith but asks whether faith might grow stronger when it is open to the vastness
+of mystery.
+
+[<img src="../../../images/mandalas/mandala-openness_and_other_religions2.jpg" width="512"/>](../../../images/mandalas/mandala-openness_and_other_religions2.jpg)
