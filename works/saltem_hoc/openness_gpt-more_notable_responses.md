@@ -22,7 +22,7 @@ included after each response.
     * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
     * [What is karma?](#what-is-karma)
     * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-    * [What happens after we die?]()
+    * [What happens after we die?](#what-happens-after-we-die)
 * Aspiring to love others despite our conflicts
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * Contemplating Ridicule
