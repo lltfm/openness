@@ -11,7 +11,7 @@ flow of truth which we do not fully understand.
 * [What opposes Openness?](#what-opposes-openness)
 * [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](#are-there-limits-to-openness)
-* [Is Openness compatible with other religions?](#)
+* [Is Openness compatible with other religions?](#is-openness-compatible-with-other-religions)
 
 ### What is Openness?
 
