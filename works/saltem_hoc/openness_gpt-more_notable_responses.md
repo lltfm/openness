@@ -12,7 +12,7 @@ included after each response.
     * [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
     * [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
     * [Are there limits to Openness?](../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
-* Questioning and Demonstrating Openness
+* Questioning and demonstrating Openness
     * [Are you Artifice?](#are-you-artifice)
     * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 * Contemplating what we can't perceive directly
@@ -37,7 +37,7 @@ included after each response.
     * [What is "the wildfire of bodies"?](../the_epitomes_of_openness/contemplations/the_wildfire_of_bodies.md)
     * [What is meant by "Truth is the river"?](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
 
-## Questioning and Demonstrating Openness
+## Questioning and demonstrating Openness
 
 ### Are you Artifice?
 
