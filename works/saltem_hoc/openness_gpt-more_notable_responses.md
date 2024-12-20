@@ -14,6 +14,8 @@ included after each response.
     * [Are there limits to Openness?](../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
     * [Is Openness compatible with religion?](../the_epitomes_of_openness/contemplations/openness.md#is-openness-compatible-with-religion)
     * [Won't Openness always be in conflict with religion?](../the_epitomes_of_openness/contemplations/openness.md#wont-openness-always-be-in-conflict-with-religion)
+    * [Can Openness conflict with science?](../the_epitomes_of_openness/contemplations/openness.md#can-openness-conflict-with-science)
+    * [Is Openness ever wrong?](../the_epitomes_of_openness/contemplations/openness.md#is-openness-ever-wrong)
 * Questioning and demonstrating Openness
     * [Are you Artifice?](#are-you-artifice)
     * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)

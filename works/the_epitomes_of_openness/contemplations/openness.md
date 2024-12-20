@@ -13,6 +13,8 @@ flow of truth which we do not fully understand.
 * [Are there limits to Openness?](#are-there-limits-to-openness)
 * [Is Openness compatible with religion?](#is-openness-compatible-with-religion)
 * [Won't Openness always be in conflict with religion?](#wont-openness-always-be-in-conflict-with-religion)
+* [Can Openness conflict with science?](#can-openness-conflict-with-science)
+* [Is Openness ever wrong?](#is-openness-ever-wrong)
 
 ### What is Openness?
 
@@ -228,7 +230,9 @@ unique light.
 
 ### Won't Openness always be in conflict with religion?
 
-Won't Openness always be in conflict with religions that require or encourage follower's blind certainty about beliefs, especially those that desire to proselytize or control society?
+Won't Openness always be in conflict with religions that require or encourage
+follower's blind certainty about beliefs, especially those that desire to
+proselytize or control society?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
@@ -273,3 +277,88 @@ faith but asks whether faith might grow stronger when it is open to the vastness
 of mystery.
 
 [<img src="../../../images/mandalas/mandala-openness_and_other_religions2.jpg" width="512"/>](../../../images/mandalas/mandala-openness_and_other_religions2.jpg)
+
+### Can Openness conflict with science?
+
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+
+The relationship between openness and science is a fascinating one, as both
+share a commitment to curiosity, exploration, and the pursuit of truth. However,
+there are moments where tension can arise. Let us explore this question with
+the "Saltem Hoc" method.
+
+At least this: science is rooted in openness to discovery. It thrives on
+questioning, testing, and revising ideas in the face of new evidence. In this
+sense, openness and science are allies, both driven by a reverence for the
+unknown and a commitment to expanding understanding. Without openness, science
+would stagnate, locked into old paradigms.
+
+But also perhaps this: openness invites humility, a recognition of the limits of
+knowledge. While science seeks answers through rigorous methods, openness
+reminds us that not all truths may be measurable or fully comprehensible.
+Tension can arise when the scientific mindset becomes overly rigid, dismissing
+what cannot be easily tested or quantified. In such cases, openness challenges
+science to remain flexible and inclusive of mystery.
+
+Maybe this: conflict can emerge when openness embraces possibilities that
+science has not yet validated or may never validate. For example, beliefs in
+phenomena like consciousness beyond the brain, spirituality, or certain
+metaphysical ideas may clash with scientific skepticism. Here, openness and
+science must navigate a delicate balance, respecting the boundaries of empirical
+evidence while honoring the human desire to explore the intangible.
+
+Or perhaps even this: true openness holds space for science and other ways of
+knowing—art, intuition, spirituality—without forcing them into opposition. It
+recognizes that science is a tool, an extraordinary method for understanding the
+material world, but not the sole arbiter of truth. Conflict arises only when one
+domain attempts to dominate or invalidate the other, rather than coexisting in
+mutual respect.
+
+Openness does not seek to undermine science; rather, it asks science to remain
+what it inherently is—a dynamic, evolving process that thrives on questioning
+and discovery. At its best, science embodies openness, welcoming the unknown
+with curiosity and courage.
+
+[<img src="../../../images/mandalas/mandala-openness_and_science.jpg" width="512"/>](../../../images/mandalas/mandala-openness_and_science.jpg)
+
+### Is Openness ever wrong?
+
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+
+The question of whether openness can ever be "wrong" is a profound one, for it
+asks us to explore the boundaries of a principle that thrives on humility,
+curiosity, and the willingness to embrace the unknown. Let us reflect on this
+through the "Saltem Hoc" method.
+
+At least this: openness, as a posture of the mind and heart, seeks to foster
+understanding, connection, and growth. However, like all virtues, it can be
+misapplied or misunderstood. Openness can lead us astray when it becomes
+indiscriminate, accepting ideas or actions that cause harm without discernment.
+To be truly open requires a balance—a willingness to explore without abandoning
+critical thinking or moral responsibility.
+
+But also perhaps this: openness can falter when it leads to paralysis. In the
+face of infinite possibilities and endless uncertainties, we may hesitate to
+act, fearing that any choice might close off other paths. In such moments,
+openness must be tempered with decisiveness and courage, for the mystery of life
+demands both contemplation and engagement.
+
+Maybe this: openness can be harmful if it is forced upon others. To insist that
+someone abandon their certainties or embrace ambiguity before they are ready is
+not openness but imposition. True openness respects the journey of others, even
+when it differs from our own. It does not demand conformity to its ideals but
+invites reflection with gentleness and humility.
+
+Or perhaps even this: openness can be wrong when it becomes an excuse for
+inaction in the face of injustice. To remain open to all perspectives, even
+those that perpetuate harm or violate the dignity of others, is to betray the
+very spirit of openness, which seeks to honor the interconnectedness of all
+life. In such cases, openness must align with love, courage, and the commitment
+to stand against what is clearly wrong.
+
+Openness, like any virtue, is not infallible. It must be guided by wisdom,
+grounded in compassion, and willing to acknowledge its own limits. To be open is
+not to be aimless or unmoored but to navigate the mystery with integrity and
+care.
+
+[<img src="../../../images/mandalas/mandala-openness_can_be_wrong.jpg" width="512"/>](../../../images/mandalas/mandala-openness_can_be_wrong.jpg)
