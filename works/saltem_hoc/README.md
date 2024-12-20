@@ -160,7 +160,7 @@ visually beyond words.
 [1]: ../the_epitomes_of_openness/the_epitomes_of_openness.md
 
 # Notable responses from Openness GPT
-See [here](openness_gpt-more_notable_responses.md)
+See [here](openness_gpt-notable_responses.md)
 
 # Notable mandalas created by Openness GPT
 See [here](openness_gpt-notable_mandalas.md)

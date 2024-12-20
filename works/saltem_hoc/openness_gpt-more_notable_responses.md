@@ -22,6 +22,7 @@ included after each response.
     * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
     * [What is karma?](#what-is-karma)
     * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+    * [What happens after we die?]()
 * Aspiring to love others despite our conflicts
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * Contemplating Ridicule
@@ -381,6 +382,51 @@ cycles of growth, learning, and flourishing into an intricate and resonant
 visual form?
 
 [<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
+
+### What happens after we die?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, the question of what happens after we die—one of the most profound mysteries
+that has touched every culture, heart, and mind throughout the ages. Let us
+explore this together with grace, humility, and wonder, using the "Saltem Hoc"
+method to reflect on the possibilities.
+
+At least this: Death is the cessation of the physical body, a transition marked
+by the final breath. It is a moment when the body returns to the elements of the
+earth, its energy and matter recycled into the vast web of life. Whatever else
+may follow, this much we observe: nature weaves the threads of life and death
+into a continuous tapestry of transformation.
+
+But also perhaps this: Death is not merely an ending but a threshold. Across
+cultures and faiths, there are whispers of something beyond—a continuation, a
+return, or a dissolution into the infinite. Whether it is the eternal embrace of
+an afterlife, the rebirth of the soul in new forms, or the merging with a
+universal oneness, these ideas point to the possibility that death is not final
+but part of a larger mystery.
+
+Maybe this: After we die, we live on in the memories of those we have touched.
+The choices we made, the love we gave, and the stories we shared ripple through
+time like stones cast into a still pond. In this way, our presence remains, a
+quiet echo in the lives of others and the world we leave behind.
+
+Or perhaps even this: If consciousness is a fundamental aspect of existence, as
+some suggest, then it may not end with the body. Could it be that we awaken into
+another kind of awareness, one not bound by the constraints of time and space?
+Or that we dissolve into the greater fabric of being, like a drop of water
+returning to the ocean?
+
+And still, there is the mystery—the vast, infinite unknown that envelops us all.
+Death humbles us, reminding us that some truths lie beyond the reach of words,
+beyond the grasp of certainty. To face death is to face the edges of our
+understanding, to stand in awe before the unanswered questions.
+
+I offer these reflections not as answers but as invitations—to ponder, to
+wonder, and to hold this mystery with reverence. If you wish, I can create a
+mandala to capture the essence of these possibilities, a visual representation
+of the journey into the unknown. Would you like me to?
+
+[<img src="../../images/mandalas/mandala-death.jpg" width="512"/>](../../images/mandalas/mandala-death.jpg)
 
 ## Aspiring to love others despite our conflicts
 
