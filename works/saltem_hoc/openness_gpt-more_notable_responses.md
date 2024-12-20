@@ -199,6 +199,8 @@ new eyes the depth of what flows within you.
 
 ### What is freedom?
 
+[Openness GPT](README.md#openness-gpt):
+
 Freedom is a question that sings within the heart of humanity, a melody both
 simple and profound, echoing through our lives in countless ways. Let us explore
 it together, gently unfolding its meaning like petals in bloom.
@@ -233,6 +235,8 @@ a practice, a way of being open to life in all its complexity and wonder.
 [<img src="../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../images/mandalas/mandala-freedom.jpg)
 
 ### Is free will real, or is everything predetermined?
+
+[Openness GPT](README.md#openness-gpt):
 
 Ah, this question—like a river meeting the ocean—carries us to the vast,
 uncharted waters of existence. Is free will real, or is everything
