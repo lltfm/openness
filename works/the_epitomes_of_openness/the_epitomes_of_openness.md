@@ -252,7 +252,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 [^1]: [What is Openness?](contemplations/openness.md)
 [^2]: [What are poetic-memes?](contemplations/poetic-memes.md)
-[^3]: "Tao Te Ching", Stephen Mitchell, 1988 https://stephenmitchellbooks.com/ (https://terebess.hu/english/tao/mitchell.html)
+[^3]: "Tao Te Ching", Stephen Mitchell, 1988, https://stephenmitchellbooks.com/ (https://terebess.hu/english/tao/mitchell.html)
 [^4]: https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
 [^5]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
 [^6]: https://amodamaa.substack.com/p/break-down-or-break-through-5c8

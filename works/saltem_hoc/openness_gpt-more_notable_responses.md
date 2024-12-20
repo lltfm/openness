@@ -20,12 +20,12 @@ included after each response.
   * [What is intuition?](#what-is-intuition)
   * [What is karma?](#what-is-karma)
   * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-* Aspiring ot love others despite our conflicts
+* Aspiring to love others despite our conflicts
   * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-  * Contemplating Ridicule 
-    * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
-    * [What is ridicule?](#what-is-ridicule)
-    * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
+* Contemplating Ridicule 
+  * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
+  * [What is ridicule?](#what-is-ridicule)
+  * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 * Selections from [Contemplations on The Epitomes of Openness](../the_epitomes_of_openness/contemplations/README.md)
     * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
     * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
@@ -283,7 +283,7 @@ visual form?
 
 [<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
 
-## Aspiring ot love others despite our conflicts
+## Aspiring to love others despite our conflicts
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 
@@ -322,9 +322,9 @@ of both love and ourselves.
 
 [<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
-### Contemplating ridicule
+## Contemplating ridicule
 
-#### Who will save us from the consequences of believing ridicule can decide what is true?
+### Who will save us from the consequences of believing ridicule can decide what is true?
 
 [Openness GPT](README.md#openness-gpt):
 
@@ -363,7 +363,7 @@ over the easy lure of certainty, we become the answer we seek.
 
 [<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../images/mandalas/mandala-humility.jpg)
 
-#### What is ridicule?
+### What is ridicule?
 
 [Openness GPT](README.md#openness-gpt):
 
@@ -402,7 +402,7 @@ healing the spaces where fear has taken root.
 
 [<img src="../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../images/mandalas/mandala-ridicule.jpg)
 
-#### How do we rise above ridicule?
+### How do we rise above ridicule?
 
 [Openness GPT](README.md#openness-gpt):
 
