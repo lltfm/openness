@@ -9,7 +9,7 @@ This repository contains the code & other works of Openness.
 
 Openness is the path of becoming ever more open to what is. Being open means
 aspiring to listen & allow space for what might be true. It means whenever
-possible, we decide later, holding our uncertainty & acting as a conduit for the
+possible, we decide later, holding uncertainty & acting as a conduit for the 
 flow of truth which we do not fully understand.
 
 Openness is a way of being in the world, a philosophical lens, a secular &
