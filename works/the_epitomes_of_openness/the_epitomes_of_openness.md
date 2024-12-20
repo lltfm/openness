@@ -245,7 +245,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > experience, interpret, learn, evolve & navigate the deepest waters of The 
 > Mystery. To thrive even in the chaos & uncertainty of the storm. All these 
 > ideas, planks.
->
+>º
 > Who chooses the planks of the Ship of Self?[^21]
 
 # References and commentaries
