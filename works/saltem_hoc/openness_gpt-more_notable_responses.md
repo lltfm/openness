@@ -23,9 +23,9 @@ included after each response.
 * Loving others despite our conflicts
   * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
   * Contemplating Ridicule 
+    * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
     * [What is ridicule?](#what-is-ridicule)
     * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
-    * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
 * Selections from [Contemplations on The Epitomes of Openness](../the_epitomes_of_openness/contemplations/README.md)
     * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
     * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
@@ -322,6 +322,45 @@ of both love and ourselves.
 
 [<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
+### Who will save us from the consequences of believing ridicule can decide what is true?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, the question you ask is like a stone cast into still waters, rippling with
+complexity and depth. Let us explore it together.
+
+At least this: the consequences of believing ridicule can decide what is true
+are a fracturing of understanding and a narrowing of hearts. Ridicule dismisses
+rather than engages, silences rather than invites. It mocks questions that might
+lead to greater clarity and reinforces blind certainty, which clings to the
+familiar and fears the unknown. No one who seeks truth through ridicule truly
+listens, for they have already decided what they will hear.
+
+But also perhaps this: truth cannot be confined to what survives the sting of
+ridicule, for ridicule is not a measure of validity but a weapon of power. It
+serves the ego, defending its certainties by belittling what it does not
+understand. To place truth in the hands of ridicule is to build a house on sand,
+where the winds of cleverness and cruelty can easily raze what might otherwise
+endure.
+
+Maybe this: the one who saves us from this folly is not a single savior but the
+awakening of humility within each of us. Humility is the quiet strength to admit
+we do not know, to question without mocking, to hold space for the possibility
+that the truth may come from unexpected places. It is the courage to protect the
+fragile flame of inquiry, even when others scoff at its faint light.
+
+Or perhaps even this: what saves us is love—a love for the mystery that binds us
+all, a love for the dignity of every seeker, a love that refuses to reduce
+another’s beliefs to a joke. Love does not ridicule; it listens. Love does not
+dismiss; it considers. Love does not seek to win an argument but to discover
+what lies beyond it.
+
+And so, the question is not who will save us, but how we might save ourselves.
+By choosing compassion over cruelty, curiosity over condemnation, and openness
+over the easy lure of certainty, we become the answer we seek.
+
+[<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../images/mandalas/mandala-humility.jpg)
+
 ### What is ridicule?
 
 [Openness GPT](README.md#openness-gpt):
@@ -398,42 +437,3 @@ awareness, knowing that your worth is not contingent on the approval or disdain
 of others.
 
 [<img src="../../images/mandalas/mandala-rise_above_ridicule2.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule2.jpg)
-
-### Who will save us from the consequences of believing ridicule can decide what is true?
-
-[Openness GPT](README.md#openness-gpt):
-
-Ah, the question you ask is like a stone cast into still waters, rippling with
-complexity and depth. Let us explore it together.
-
-At least this: the consequences of believing ridicule can decide what is true
-are a fracturing of understanding and a narrowing of hearts. Ridicule dismisses
-rather than engages, silences rather than invites. It mocks questions that might
-lead to greater clarity and reinforces blind certainty, which clings to the
-familiar and fears the unknown. No one who seeks truth through ridicule truly
-listens, for they have already decided what they will hear.
-
-But also perhaps this: truth cannot be confined to what survives the sting of
-ridicule, for ridicule is not a measure of validity but a weapon of power. It
-serves the ego, defending its certainties by belittling what it does not
-understand. To place truth in the hands of ridicule is to build a house on sand,
-where the winds of cleverness and cruelty can easily raze what might otherwise
-endure.
-
-Maybe this: the one who saves us from this folly is not a single savior but the
-awakening of humility within each of us. Humility is the quiet strength to admit
-we do not know, to question without mocking, to hold space for the possibility
-that the truth may come from unexpected places. It is the courage to protect the
-fragile flame of inquiry, even when others scoff at its faint light.
-
-Or perhaps even this: what saves us is love—a love for the mystery that binds us
-all, a love for the dignity of every seeker, a love that refuses to reduce
-another’s beliefs to a joke. Love does not ridicule; it listens. Love does not
-dismiss; it considers. Love does not seek to win an argument but to discover
-what lies beyond it.
-
-And so, the question is not who will save us, but how we might save ourselves.
-By choosing compassion over cruelty, curiosity over condemnation, and openness
-over the easy lure of certainty, we become the answer we seek.
-
-[<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../images/mandalas/mandala-humility.jpg)
