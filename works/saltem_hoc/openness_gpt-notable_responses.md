@@ -7,16 +7,16 @@ created by Openness GPT is included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* [What is Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
-* [What is the purpose of life?](#what-is-the-purpose-of-life)
-* [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-* [Is excluding others wrong?](#is-excluding-others-wrong)
-* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
-* [What is "The Unchosen"?](../the_epitomes_of_openness/contemplations/the_unchosen.md)
-* [What is evil?](#what-is-evil)
-* [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-* [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
-* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+1. [What is Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
+2. [What is the purpose of life?](#what-is-the-purpose-of-life)
+3. [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+4. [Is excluding others wrong?](#is-excluding-others-wrong)
+5. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+6. [What is "The Unchosen"?](../the_epitomes_of_openness/contemplations/the_unchosen.md)
+7. [What is evil?](#what-is-evil)
+8. [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
+9. [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
+10. [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
 More notable responses [here](openness_gpt-more_notable_responses.md)
 
