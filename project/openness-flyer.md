@@ -27,4 +27,4 @@ flow of truth which we do not fully understand.</sub>
 potential answers to difficult spiritual questions or any other kind of
 "unanswerable" question which we all struggle to answer in a satisfying way
 (e.g. "What is the soul?", "Why is there war?", "What is the purpose of life?",
-etc.).</sup>
+"What happens after we die?", "Are UFOs a deception?", etc.).</sup>
