@@ -1,4 +1,4 @@
-# What is "The Unchosen"?
+# What is "the unchosen"?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

@@ -1,4 +1,4 @@
-# What is meant by "Truth is the river"?
+# What is meant by "truth is the river"?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

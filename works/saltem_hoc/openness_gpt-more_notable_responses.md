@@ -42,7 +42,7 @@ included after each response.
     * [What is "The Source of Life & Awareness"?](../the_epitomes_of_openness/contemplations/the_source_of_life_and_awareness.md)
     * [What is meant by "trusting the vital darkness"?](../the_epitomes_of_openness/contemplations/the_vital_darkness.md)
     * [What is "the wildfire of bodies"?](../the_epitomes_of_openness/contemplations/the_wildfire_of_bodies.md)
-    * [What is meant by "Truth is the river"?](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
+    * [What is meant by "truth is the river"?](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
 
 ## Questioning and demonstrating Openness
 
