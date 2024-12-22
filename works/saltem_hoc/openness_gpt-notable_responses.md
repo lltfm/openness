@@ -18,7 +18,7 @@ created by Openness GPT is included after each response.
 9. [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 10. [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
-More notable responses [here](openness_gpt-more_notable_responses.md)
+> More notable responses [here](openness_gpt-more_notable_responses.md)
 
 ### What is the purpose of life?
 

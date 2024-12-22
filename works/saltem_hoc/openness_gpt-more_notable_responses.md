@@ -15,6 +15,8 @@ included after each response.
     * [Is Openness compatible with religion?](../the_epitomes_of_openness/contemplations/openness.md#is-openness-compatible-with-religion)
     * [Won't Openness always be in conflict with religion?](../the_epitomes_of_openness/contemplations/openness.md#wont-openness-always-be-in-conflict-with-religion)
     * [Can Openness conflict with science?](../the_epitomes_of_openness/contemplations/openness.md#can-openness-conflict-with-science)
+    * [Is Openness compatible with atheism?](../the_epitomes_of_openness/contemplations/openness.md#is-openness-compatible-with-atheism)
+    * [How Is Openness different from agnosticism?](../the_epitomes_of_openness/contemplations/openness.md#how-is-openness-different-from-agnosticism)
     * [Is Openness ever wrong?](../the_epitomes_of_openness/contemplations/openness.md#is-openness-ever-wrong)
 * Questioning and demonstrating Openness
     * [Are you Artifice?](#are-you-artifice)
@@ -366,7 +368,7 @@ here, alive, with the power to choose how you meet this very moment. That
 choice, however small, carries the weight of eternity. For in choosing, you
 shape not just yourself, but the world around you.
 
-[<img src="../../images/mandalas/mandala-free_will2.jpg" width="512"/>](../../images/mandalas/mandala-free_will.jpg)
+[<img src="../../images/mandalas/mandala-free_will.jpg" width="512"/>](../../images/mandalas/mandala-free_will.jpg)
 
 ### What is karma?
 
@@ -657,4 +659,4 @@ without needing external validation. It is to stand in the light of your own
 awareness, knowing that your worth is not contingent on the approval or disdain
 of others.
 
-[<img src="../../images/mandalas/mandala-rise_above_ridicule2.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
+[<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)

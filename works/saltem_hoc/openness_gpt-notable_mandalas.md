@@ -17,7 +17,8 @@ questions to express its answers visually beyond words.
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 * [Who is the Master Liar?](#who-is-the-master-liar)
-* [More notable mandalas...](openness_gpt-more_notable_mandalas.md)
+
+> More notable mandalas [here](openness_gpt-more_notable_mandalas.md)
 
 ### Why is there war, even now, in modern times?
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
