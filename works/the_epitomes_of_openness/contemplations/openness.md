@@ -228,7 +228,7 @@ and intricate tapestry of human spirituality, it offers a posture of reverence
 for both the known and the unknowable, allowing each tradition to shine in its
 unique light.
 
-[<img src="../../../images/mandalas/mandala-openness_and_other_religions.jpg" width="512"/>](../../../images/mandalas/mandala-openness_and_religion.jpg)
+[<img src="../../../images/mandalas/mandala-openness_and_religion.jpg" width="512"/>](../../../images/mandalas/mandala-openness_and_religion.jpg)
 
 ### Won't Openness always be in conflict with religion?
 
@@ -278,7 +278,7 @@ that models curiosity, humility, and love. It does not demand the dismantling of
 faith but asks whether faith might grow stronger when it is open to the vastness
 of mystery.
 
-[<img src="../../../images/mandalas/mandala-openness_and_other_religions2.jpg" width="512"/>](../../../images/mandalas/mandala-openness_does_it_conflict_with_religion.jpg)
+[<img src="../../../images/mandalas/mandala-openness_does_it_conflict_with_religion.jpg" width="512"/>](../../../images/mandalas/mandala-openness_does_it_conflict_with_religion.jpg)
 
 ### Can Openness conflict with science?
 
