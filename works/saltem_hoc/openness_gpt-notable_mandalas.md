@@ -34,6 +34,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-truth_is_the_river.jpg" width="512"/>](../../images/mandalas/mandala-truth_is_the_river.jpg)
 ### What is self-transcendence?
 [<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
+### How do we rise above ridicule?
+[<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
 ### What is "The Unchosen"?
