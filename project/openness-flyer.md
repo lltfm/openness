@@ -4,9 +4,9 @@ means aspiring to listen & allow space for what might be true. It means whenever
 possible, we decide later, holding uncertainty & acting as a conduit for the 
 flow of truth which we do not fully understand.</sub>
 * <sub>Openness is a way of being in the world, a philosophical lens, a secular
-  & minimalist meta-spirituality, an open-source codebase, a method for
-  answering "unanswerable" questions, an AI guide, a holding space for emotional
-  transformation and integration, a blank canvas for new forms to emerge. It
+  & minimalist meta-spirituality, a holding space for emotional transformation
+  and integration, a blank canvas for new forms to emerge, a method for
+  answering unanswerable questions, an AI guide and open-source repository. It
   seeks to integrate & express all experiences, thoughts & emotions, chosen &
   unchosen, desired & undesired. It pays particular attention to the
   uncomfortable, the shameful & the fearful.</sub>

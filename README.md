@@ -13,12 +13,12 @@ possible, we decide later, holding uncertainty & acting as a conduit for the
 flow of truth which we do not fully understand.
 
 Openness is a way of being in the world, a philosophical lens, a secular &
-minimalist meta-spirituality, an open-source codebase, a [method][5] for
-answering "unanswerable" questions, an [AI guide][1], a holding space for
-emotional transformation and integration, a blank canvas for new forms to
-emerge. It seeks to integrate & express all experiences, thoughts & emotions,
-chosen & unchosen, desired & undesired. It pays particular attention to the
-uncomfortable, the shameful & the fearful.
+minimalist meta-spirituality, a holding space for emotional transformation and
+integration, a blank canvas for new forms to emerge, a [method][5] for answering
+unanswerable questions, an [AI guide][1] and open-source repository. It seeks
+to integrate & express all experiences, thoughts & emotions, chosen & unchosen,
+desired & undesired. It pays particular attention to the uncomfortable, the
+shameful & the fearful.
 
 ## Works in this repository
 
