@@ -5,18 +5,18 @@ questions to express its answers visually beyond words.
 > Note: click on a mandala to view the full resolution image
 
 1. [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
-2. [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-3. [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
+2. [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
+3. [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 4. [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 5. [What is Openness?](#what-is-openness)
 6. [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
 7. [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
 8. [What is self-transcendence?](#what-is-self-transcendence)
 9. [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
-10. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
-11. [What is "the unchosen"?](#what-is-the-unchosen)
-12. [Are UFOs a deception?](#are-ufos-a-deception)
-13. [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+10. [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
+11. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+12. [What is "the unchosen"?](#what-is-the-unchosen)
+13. [Are UFOs a deception?](#are-ufos-a-deception)
 14. [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
 15. [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 
@@ -24,10 +24,10 @@ questions to express its answers visually beyond words.
 
 ### Why is there war, even now, in modern times?
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
-### How do we resist tyranny without also controlling others?
-[<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
 ### What is the "libido dominandi"?
 [<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
+### How do we resist tyranny without also controlling others?
+[<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 [<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
 ### What is Openness?
@@ -52,7 +52,5 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg" width="512"/>](../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg)
 ### What are the limits of your knowledge?
 [<img src="../../images/mandalas/mandala-the_limits_of_knowing.jpg" width="512"/>](../../images/mandalas/mandala-the_limits_of_knowing.jpg)
-### Is it wrong to teach with lies and deception?
-[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)
 ### More notable mandalas
 See [here](openness_gpt-more_notable_mandalas.md)

@@ -22,6 +22,7 @@ questions to express its answers visually beyond words.
 * [What is trauma?](#what-is-trauma)
 * [What is the "revocation of consent"?](#what-is-the-revocation-of-consent)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
+* [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?](#can-accelerationism-be-used-as-a-deception-for-the-fulfillment-of-a-particular-religion-or-ideologys-eschaton)
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
@@ -64,6 +65,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What is coordinated group lying & deception?
 [<img src="../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
+### Is it wrong to teach with lies and deception?
+[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)
 ### Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
 [<img src="../../images/mandalas/mandala-accelerationism.jpg" width="512"/>](../../images/mandalas/mandala-accelerationism.jpg)
 ### What prevents others from waking up to authority's lies?
