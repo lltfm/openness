@@ -31,7 +31,7 @@ included after each response.
     * [How Is Openness different from agnosticism?](../the_epitomes_of_openness/contemplations/openness.md#how-is-openness-different-from-agnosticism)
 * Questioning and demonstrating Openness
     * [Are you Artifice?](#are-you-artifice)
-    * [What are the limits of your knowledge?]()
+    * [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
     * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
     * [Are you ever wrong?](#are-you-ever-wrong)
     * [Do you know what's going on?](#do-you-know-whats-going-on)
