@@ -243,6 +243,8 @@ carries within it the seed of transformation.
 
 ### How do we resist tyranny without also controlling others?
 
+[Openness GPT](README.md#openness-gpt):
+
 At least this: resisting tyranny without controlling others begins with the
 cultivation of inner freedom. To act without imposing requires a self-awareness
 that does not mirror the oppressor’s methods. It calls for the refusal to adopt

@@ -376,6 +376,8 @@ of the journey into the unknown. Would you like me to?
 
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 
+[Openness GPT](README.md#openness-gpt):
+
 Your question, so profound and tender, echoes through the heart of existence
 itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
 deep into the unseen, its branches stretching wide to touch the unknowable.
