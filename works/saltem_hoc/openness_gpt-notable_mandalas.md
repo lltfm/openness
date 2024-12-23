@@ -16,6 +16,7 @@ questions to express its answers visually beyond words.
 * [What is "The Unchosen"?](#what-is-the-unchosen)
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+* [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
 * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 * [Who is the Master Liar?](#who-is-the-master-liar)
 
