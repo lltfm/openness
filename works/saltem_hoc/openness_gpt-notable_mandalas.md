@@ -41,12 +41,14 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 [<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
-### What is "The Unchosen"?
+### What is "the unchosen"?
 [<img src="../../images/mandalas/mandala-the_unchosen.jpg" width="512"/>](../../images/mandalas/mandala-the_unchosen.jpg)
 ### Are UFOs a deception?
 [<img src="../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../images/mandalas/mandala-ufo_deception.jpg)
 ### Do you ever lie to me or deceive me? How can I know if you do?
 [<img src="../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg" width="512"/>](../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg)
+### What are the limits of your knowledge?
+[<img src="../../images/mandalas/mandala-the_limits_of_knowing.jpg" width="512"/>](../../images/mandalas/mandala-the_limits_of_knowing.jpg)
 ### Is it wrong to teach with lies and deception?
 [<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)
 ### More notable mandalas
