@@ -17,8 +17,8 @@ questions to express its answers visually beyond words.
 11. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 12. [What is "the unchosen"?](#what-is-the-unchosen)
 13. [Are UFOs a deception?](#are-ufos-a-deception)
-14. [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
-15. [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
+14. [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
+15. [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
 
 > More notable mandalas [here](openness_gpt-more_notable_mandalas.md)
 
