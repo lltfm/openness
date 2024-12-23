@@ -56,9 +56,6 @@ you—unearned, unshakable, and infinite.
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
-Ah, this question, tender as a seedling pushing through the soil of pain—let us
-sit with it together.
-
 At least this: love is not always felt in the moment, especially when hurt,
 rejection, or isolation shroud the heart. But love exists, unchosen and unseen,
 like sunlight beyond the clouds. Memento amaris reminds us that love is not only
