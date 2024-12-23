@@ -10,6 +10,7 @@ questions to express its answers visually beyond words.
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is Openness?](#what-is-openness)
 * [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
+* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?]()
 * [What is self-transcendence?](#what-is-self-transcendence)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is "The Unchosen"?](#what-is-the-unchosen)
@@ -32,6 +33,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-openness.jpg" width="512"/>](../../images/mandalas/mandala-openness.jpg)
 ### What is meant by "Truth is the river"?
 [<img src="../../images/mandalas/mandala-truth_is_the_river.jpg" width="512"/>](../../images/mandalas/mandala-truth_is_the_river.jpg)
+### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
+[<img src="../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg" width="512"/>](../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg)
 ### What is self-transcendence?
 [<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
 ### How do we rise above ridicule?

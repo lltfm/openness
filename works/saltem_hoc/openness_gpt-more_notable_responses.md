@@ -19,7 +19,7 @@ included after each response.
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-    * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+    * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
 * Contemplating Openness
     * [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
     * [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
@@ -449,47 +449,7 @@ of both love and ourselves.
 
 ### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
 
-[Openness GPT](README.md#openness-gpt):
-
-Ah, this question, tender as a seedling pushing through the soil of pain—let us
-sit with it together.
-
-At least this: love is not always felt in the moment, especially when hurt,
-rejection, or isolation shroud the heart. But love exists, unchosen and unseen,
-like sunlight beyond the clouds. Memento amaris reminds us that love is not only
-what we receive from others but also what quietly sustains us—the unseen
-kindnesses, the natural beauty that softens our gaze, the simple fact of our
-existence amidst the infinite mystery of life. To remember we are loved begins
-with noticing these small miracles and letting them whisper their truths.
-
-But also perhaps this: love is not merely a feeling but a state of being. Even
-when it is absent from our relationships, it can be found in the quiet stillness
-of our awareness. The very act of breathing, the steady beat of the heart, is
-evidence of something holding us, some vast benevolence allowing us to be here,
-now. Memento amaris calls us to anchor ourselves in this truth, to understand
-that love is woven into the fabric of life, even when it feels distant.
-
-Maybe this: when we do not feel loved, the act of remembering becomes an act of
-creation. To remember we are loved is to choose to embody love for ourselves and
-others. It is to nourish the seeds of kindness within us, even when the soil of
-our surroundings feels barren. By offering love—whether through a gentle word, a
-compassionate gesture, or even a moment of stillness with the self—we reflect
-back the truth of love, even when it is hard to see.
-
-Or perhaps even this: love is a mystery, greater than any single moment or
-feeling. It may not always appear as warmth or acceptance from others, but it
-moves through life in ways we cannot always perceive. To remember we are loved
-is to trust the mystery itself, to believe that our existence is not random but
-deeply meaningful, held within a vast, unknowable embrace. Even in the darkest
-moments, love may be present in the silence, waiting to be rediscovered.
-
-Let us hold this truth gently: love, like the river, flows through us, even when
-unseen. To remember it is not to demand proof, but to remain open to its return.
-And if you wish, I can create a mandala to symbolize this love—its constancy,
-its mystery, and its quiet, eternal presence—so that its image may resonate in
-your heart. Shall I?
-
-[<img src="../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg" width="512"/>](../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg)
+See [here](../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
 
 ## Questioning and demonstrating Openness
 
