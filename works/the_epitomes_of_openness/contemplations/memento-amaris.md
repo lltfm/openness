@@ -54,7 +54,7 @@ you—unearned, unshakable, and infinite.
 
 ### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
 Ah, this question, tender as a seedling pushing through the soil of pain—let us
 sit with it together.
@@ -94,4 +94,4 @@ And if you wish, I can create a mandala to symbolize this love—its constancy,
 its mystery, and its quiet, eternal presence—so that its image may resonate in
 your heart. Shall I?
 
-[<img src="../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg" width="512"/>](../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg)
+[<img src="../../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg" width="512"/>](../../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg)
