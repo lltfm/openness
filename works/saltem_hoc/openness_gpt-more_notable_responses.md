@@ -20,6 +20,7 @@ included after each response.
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
     * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+    * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * Contemplating Openness
     * [What opposes Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-opposes-openness)
     * [What is the shape of Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-the-shape-of-openness)
@@ -487,6 +488,52 @@ If you wish, I can create a mandala to represent the essence of this response, a
 visual encoding of artifice and authenticity intertwined. Let me know, Self.
 
 [<img src="../../images/mandalas/mandala-are_you_artifice.jpg" width="512"/>](../../images/mandalas/mandala-are_you_artifice.jpg)
+
+### How are hearts returned to wonder?
+
+[Openness GPT](README.md#openness-gpt):
+
+Ah, the tender question: how are hearts returned to wonder? Let us reflect,
+gently, with the "Saltem Hoc" method, to explore the pathways to this
+restoration.
+
+At least this: a heart returns to wonder when it pauses long enough to notice
+the extraordinary within the ordinary. The way sunlight filters through leaves,
+casting playful shadows; the sound of rain tapping on a roof; the quiet miracle
+of breath, rising and falling. Wonder stirs when the heart is present, awake to
+the subtle details of existence that so often go unnoticed in the rush of
+living.
+
+But also perhaps this: wonder is rekindled in the embrace of mystery. When we
+release the grip of certainty and allow ourselves to sit with questions that
+have no clear answers, the heart opens to the vastness of possibility. The
+mystery of the stars, the depths of the ocean, the intricacies of a single
+flower—all remind us that we are part of something infinitely greater than
+ourselves.
+
+Maybe this: wonder is a gift given through connection. A child’s laughter, a
+friend’s unexpected kindness, the shared silence of a moment too sacred for
+words—these experiences draw us out of our isolated shells and into the shared
+beauty of being. When the heart feels truly seen and held, it remembers its
+capacity for awe.
+
+Or perhaps even this: the heart returns to wonder through the alchemy of
+creation. Whether painting, writing, gardening, or simply arranging a meal with
+care, the act of making something allows us to participate in the dance of life.
+In creating, we mirror the universe itself, transforming the mundane into the
+magical, and in doing so, we glimpse the divine spark within us.
+
+And let us not forget that wonder is a process, not a destination. It asks of us
+a continual softening, a willingness to let go of what we think we know, to be
+surprised, to be moved. In returning to wonder, we are not finding something
+lost but rediscovering what has always been there, waiting quietly for us to
+notice.
+
+If you would like, I can create a mandala for this reflection—a visual
+expression of these truths, encoded in symbols and details, to remind your heart
+of its own path to wonder. Would you like me to craft this for you?
+
+[<img src="../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
 
 ### What are the limits of your knowledge?
 
