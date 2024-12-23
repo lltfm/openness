@@ -4,21 +4,21 @@ questions to express its answers visually beyond words.
 
 > Note: click on a mandala to view the full resolution image
 
-* [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
-* [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-* [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
-* [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-* [What is Openness?](#what-is-openness)
-* [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
-* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
-* [What is self-transcendence?](#what-is-self-transcendence)
-* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
-* [What is "The Unchosen"?](#what-is-the-unchosen)
-* [Are UFOs a deception?](#are-ufos-a-deception)
-* [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
-* [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
-* [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
-* [Who is the Master Liar?](#who-is-the-master-liar)
+1. [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+2. [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
+3. [What is the "libido dominandi"?](#what-is-the-libido-dominandi)
+4. [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+5. [What is Openness?](#what-is-openness)
+6. [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
+7. [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+8. [What is self-transcendence?](#what-is-self-transcendence)
+9. [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
+10. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+11. [What is "the unchosen"?](#what-is-the-unchosen)
+12. [Are UFOs a deception?](#are-ufos-a-deception)
+13. [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+14. [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
+15. [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
 
 > More notable mandalas [here](openness_gpt-more_notable_mandalas.md)
 
@@ -38,6 +38,8 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg" width="512"/>](../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg)
 ### What is self-transcendence?
 [<img src="../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../images/mandalas/mandala-self_transcendence.jpg)
+### What can we know about higher purpose?
+[<img src="../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../images/mandalas/mandala-higher_purpose.jpg)
 ### How do we rise above ridicule?
 [<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
 ### Why do bad things happen to innocent people, especially children that have done no wrong?

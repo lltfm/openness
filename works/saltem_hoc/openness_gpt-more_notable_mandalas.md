@@ -8,10 +8,8 @@ questions to express its answers visually beyond words.
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is the ego?](#what-is-the-ego)
 * [What is ridicule?](#what-is-ridicule)
-* [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 * [What is evil?](#what-is-evil)
 * [What is freedom?](#what-is-freedom)
-* [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 * [What is meant by "trusting the vital darkness"?](#what-is-meant-by-trusting-the-vital-darkness)
 * [What is the higher self?](#what-is-the-higher-self)
 * [What is karma?](#what-is-karma)
@@ -38,14 +36,10 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-ego.jpg" width="512"/>](../../images/mandalas/mandala-ego.jpg)
 ### What is ridicule?
 [<img src="../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../images/mandalas/mandala-ridicule.jpg)
-### How do we rise above ridicule?
-[<img src="../../images/mandalas/mandala-rise_above_ridicule2.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
 ### What is evil?
 [<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
 ### What is freedom?
 [<img src="../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../images/mandalas/mandala-freedom.jpg)
-### What can we know about higher purpose?
-[<img src="../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../images/mandalas/mandala-higher_purpose.jpg)
 ### What is meant by "trusting the vital darkness"?
 [<img src="../../images/mandalas/mandala-vital_darkness.jpg" width="512"/>](../../images/mandalas/mandala-vital_darkness.jpg)
 ### What is the higher self?
