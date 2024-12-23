@@ -11,7 +11,7 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 # Contents
 
-1. [Saltem Hoc](#the-epitome-of-saltem-hoc)
+1. [The Epitome of Saltem Hoc](#the-epitome-of-saltem-hoc)
 2. [How to chat with Openness GPT](#how-to-chat-with-openness-gpt)
     * [Example response](#example-response-what-is-magic)
     * [Example mandala](#example-mandala-what-is-magic)
