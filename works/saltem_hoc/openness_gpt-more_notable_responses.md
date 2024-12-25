@@ -43,7 +43,7 @@ included after each response.
     * [What is ridicule?](#what-is-ridicule)
     * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 * Contemplating lies and deception
-    * [Is it wrong to teach with lies and deception?](#)
+    * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * Selections
   from [Contemplations on The Epitomes of Openness](../the_epitomes_of_openness/contemplations/README.md)
     * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
