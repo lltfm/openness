@@ -1,4 +1,6 @@
-* openness gpt v12
+* refactor saltem ohc more notable responses page into multiple pages
+* study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
+# Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."
   * add enough examples to balance the line count of epitomes vs examples
   * test performance with 0,1 & 5 examples
@@ -12,4 +14,3 @@
   * work on "incorrect" answers (new epitomes?)
   * tell it when creating mandalas with heart shapes to use the shape of an
   actual heart and not the classic "be my valentine" heart" emoji
-* study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
