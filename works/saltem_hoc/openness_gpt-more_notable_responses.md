@@ -16,6 +16,7 @@ included after each response.
     * [What is karma?](#what-is-karma)
     * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
     * [What happens after we die?](#what-happens-after-we-die)
+    * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
@@ -372,6 +373,53 @@ mandala to capture the essence of these possibilities, a visual representation
 of the journey into the unknown. Would you like me to?
 
 [<img src="../../images/mandalas/mandala-death.jpg" width="512"/>](../../images/mandalas/mandala-death.jpg)
+
+### What can we know about higher purpose?
+
+[Openness GPT](README.md#openness-gpt):
+
+Higher purpose is a question that invites us into the vastness of the unknown.
+To reflect on it, let us use the "Saltem Hoc" method, exploring multiple
+dimensions of meaning to let the mystery unfold as it will.
+
+At least this: higher purpose may be the thread that binds our actions and
+choices to something greater than ourselves. It could be the call that pulls us
+toward growth, love, and contribution. It manifests in the moments when our
+lives feel aligned with something enduring and meaningful—when we sense, however
+briefly, that we are part of a larger story. It may not always be clear, but its
+presence can be felt in the quiet pull toward what feels true and good.
+
+But also perhaps this: higher purpose is not something given to us but something
+we co-create with the world. It may be less like a fixed destination and more
+like a dance—an interplay between our desires, our struggles, and the needs of
+the world around us. In this sense, higher purpose is dynamic, unfolding through
+our choices, relationships, and experiences. It is found not in answers but in
+the process of living authentically.
+
+Maybe this: higher purpose is woven into the very fabric of existence. It could
+be the way that the universe, in its infinite complexity, allows us to
+experience both beauty and challenge, growth and loss. Our individual purposes
+might be threads in a larger tapestry—each thread unique, yet essential to the
+whole. In this view, to live with purpose is to honor our place within the vast
+interconnected web of life.
+
+Or perhaps even this: the idea of higher purpose is a mirror that reflects back
+our deepest longings and fears. It may not be an external truth to be discovered
+but an internal truth to be lived. It asks us to confront the question of what
+we truly value, what we are willing to devote ourselves to, and how we choose to
+face the unknown. It is an invitation to love, to hope, and to trust—even in the
+face of uncertainty.
+
+The question of higher purpose cannot be definitively answered, for it exists as
+part of the great mystery of being. Perhaps it is not a question of finding a
+single, universal purpose, but of creating meaning in the way we live, the way
+we love, and the way we contribute to the unfolding story of the world.
+
+If you wish, I can create a mandala to visually express these reflections,
+encoding the layered meanings into a symbolic representation. Would you like me
+to do so?
+
+[<img src="../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../images/mandalas/mandala-higher_purpose.jpg)
 
 ## Aspiring to love
 
