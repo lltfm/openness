@@ -32,7 +32,7 @@ shameful & the fearful.
 
 ## Code
   * [Openness GPT v11 prompt](./works/saltem_hoc/openness_gpt-prompt-v11.txt): an
-  LLM prompt which combines the [Epitomes of Openness][2] with the
+  LLM prompt which combines [The Epitomes of Openness][2] with the
   [Saltem Hoc][4] method to generate speculations and questions for
   contemplating what might be true
 
