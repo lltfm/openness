@@ -12,10 +12,10 @@ created by Openness GPT is included after each response.
 3. [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 4. [Is excluding others wrong?](#is-excluding-others-wrong)
 5. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
-6. [What is "the unchosen"?](../the_epitomes_of_openness/contemplations/the_unchosen.md)
+6. [What is "the unchosen"?](../the_epitomes_of_openness/contemplations/the_unchosen.md#what-is-the-unchosen)
 7. [What is evil?](#what-is-evil)
 8. [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-9. [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
+9. [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
 10. [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
 > More notable responses [here](openness_gpt-more_notable_responses.md)
