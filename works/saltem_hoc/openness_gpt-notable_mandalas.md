@@ -29,7 +29,7 @@ questions to express its answers visually beyond words.
 ### How do we resist tyranny without also controlling others?
 [<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
 
-<sub>[Full response](./openness_gpt-notable_responses.md#how-do-we-resist-tyranny-without-also-controlling-others)</sub>
+<sub>([source](./openness_gpt-notable_responses.md#how-do-we-resist-tyranny-without-also-controlling-others))</sub>
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 [<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
 ### What is Openness?
