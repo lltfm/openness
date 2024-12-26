@@ -36,8 +36,8 @@ included after each response.
     * [More...](./openness_gpt-responses-contemplating_lies_and_deception.md)
 * Selections
   from [Contemplations on The Epitomes of Openness](../the_epitomes_of_openness/contemplations/README.md)
-    * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md)
-    * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-    * [What is meant by "trusting the vital darkness"?](../the_epitomes_of_openness/contemplations/the_vital_darkness.md)
-    * [What is meant by "truth is the river"?](../the_epitomes_of_openness/contemplations/truth_is_the_river.md)
+    * [What is memento amaris?](../the_epitomes_of_openness/contemplations/memento-amaris.md#what-is-memento-amaris)
+    * [What is "the river-truth of tears"?](../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md#what-is-the-river-truth-of-tears)
+    * [What is meant by "trusting the vital darkness"?](../the_epitomes_of_openness/contemplations/the_vital_darkness.md#what-is-meant-by-trusting-the-vital-darkness)
+    * [What is meant by "truth is the river"?](../the_epitomes_of_openness/contemplations/truth_is_the_river.md#what-is-meant-by-truth-is-the-river)
     * [More...](../the_epitomes_of_openness/contemplations/README.md)
