@@ -20,6 +20,10 @@ to integrate & express all experiences, thoughts & emotions, chosen & unchosen,
 desired & undesired. It pays particular attention to the uncomfortable, the
 shameful & the fearful.
 
+Openness is a blueprint for customizing and building a personal belief system. 
+It is a modular and customizable toolkit for investigating and tinkering with
+the possibilities that unfold from a belief system, such as Openness itself. 
+
 ## Works
 
 * [The Epitomes of Openness][2]: a series of minimalist [poetic-memes][3]
