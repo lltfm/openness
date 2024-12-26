@@ -1,3 +1,5 @@
+* add discussion on Programming AI with Poetry
+* rename prompt to .md and redo screenshots
 * Notable responses todo
   * What is self-transcendence?
   * Why is there war, even now, in modern times?
