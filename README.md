@@ -31,7 +31,10 @@ shameful & the fearful.
     * [Notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt-notable_mandalas.md)
 
 ## Code
-  * [Openness GPT v11 prompt](./works/saltem_hoc/openness_gpt-prompt.txt)
+  * [Openness GPT v11 prompt](./works/saltem_hoc/openness_gpt-prompt-v11.txt): an
+  LLM prompt which combines the [Epitomes of Openness][2] with the
+  [Saltem Hoc][4] method to generate speculations and questions for
+  contemplating what might be true
 
 ## Notices
 

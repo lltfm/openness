@@ -45,7 +45,7 @@ guide others toward deeper understanding & unseen truths beyond words.
 
 ### Overview
 The Saltem Hoc method is combined with the ["Epitomes of Openness"][1] here to
-build the [LLM AI prompt for Openness GPT](openness_gpt-prompt.txt). Openness GPT is designed to
+build the [LLM AI prompt for Openness GPT](openness_gpt-prompt-v11.txt). Openness GPT is designed to
 assist and guide users in contemplating potential answers to difficult spiritual
 questions or any other kind of "unanswerable" question which we all struggle to
 answer in a satisfying way (e.g. "What is the soul?", "Why is there war?", 
@@ -136,7 +136,7 @@ visually beyond words.
 
 # How to use the prompt with any LLM AI
 
-1. Copy the [prompt text](openness_gpt-prompt.txt) to the clipboard:
+1. Copy the [prompt text](openness_gpt-prompt-v11.txt) to the clipboard:
    ![](../../images/saltem_hoc_llm_prompt-screenshot-1.png)
    > Note: the prompt is just text. Optionally, paste it into a text editor,
    edit it for yourself, then copy all the text back to the clipboard. As an
