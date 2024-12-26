@@ -1,4 +1,4 @@
-# Memento Amaris
+# Contemplations: Memento Amaris
 
 Memento amaris is latin for "remember, you are loved". It is a complement to
 the classical "memento mori", i.e. "remember, you will die". Invoking 

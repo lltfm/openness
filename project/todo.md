@@ -1,4 +1,4 @@
-* refactor saltem ohc more notable responses page into multiple pages
+* notable mandala should link to notable response if its available
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."

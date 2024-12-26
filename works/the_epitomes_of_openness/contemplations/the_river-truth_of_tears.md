@@ -1,4 +1,6 @@
-# What is the "river-truth of tears"?
+# Contemplations: The River-Truth of Tears
+
+### What is the "river-truth of tears"?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

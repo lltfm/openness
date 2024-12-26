@@ -1,4 +1,6 @@
-# Who chooses the planks of the Ship of Self?
+# Contemplations: The Ship of Self
+
+### Who chooses the planks of the Ship of Self?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

@@ -1,4 +1,6 @@
-# What is meant by "trusting the vital darkness"?
+# Contemplations: The Vital Darkness
+
+### What is meant by "trusting the vital darkness"?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

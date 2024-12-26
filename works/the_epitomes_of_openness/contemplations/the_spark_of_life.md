@@ -1,4 +1,6 @@
-# What is "the spark of life"?
+# Contemplations: The Spark of Life
+
+### What is "the spark of life"?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

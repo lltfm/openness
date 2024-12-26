@@ -80,5 +80,7 @@
   * added notable responses and mandalas
 * Dec 23 2024
   * added notable responses and mandalas
-* Ddec 25 2024
+* Dec 25 2024
   * added notable responses and mandalas
+* Dec 26 2024
+  * refactored Openness GPT more notable responses page into multiple pages 

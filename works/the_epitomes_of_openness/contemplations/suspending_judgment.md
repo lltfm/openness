@@ -1,4 +1,4 @@
-# Suspending Judgment
+# Contemplations: Suspending Judgment
 
 > Suspended judgment is a cognitive process and a rational state of mind in
 > which one withholds judgments, particularly on the drawing of moral or ethical

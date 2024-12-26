@@ -1,4 +1,4 @@
-# Libido Dominandi
+# Contemplations: The Libido Dominandi
 
 > Libido Dominandi:
 > The term is taken from the first book of Saint Augustine's work De civitate

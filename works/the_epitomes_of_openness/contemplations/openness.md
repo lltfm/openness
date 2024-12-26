@@ -1,4 +1,4 @@
-# Openness
+# Contemplations: Openness
 
 Openness is the path of becoming ever more open to what is. Being open means
 aspiring to listen & allow space for what might be true. It means whenever

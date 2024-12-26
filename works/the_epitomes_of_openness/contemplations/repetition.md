@@ -1,4 +1,6 @@
-# In Openness, what is repetition?
+# Contemplations: Repetition
+
+### In Openness, what is repetition?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 

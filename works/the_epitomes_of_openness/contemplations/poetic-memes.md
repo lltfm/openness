@@ -1,4 +1,4 @@
-# Poetic-memes
+# Contemplations: Poetic-memes
 
 Expanding on the tradition of internet memes, poetic-memes (or “poememes” or
 “epitomes”) are the combination of art and words which interpret the message of

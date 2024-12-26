@@ -1,4 +1,6 @@
-# What is "The Source of Life & Awareness"?
+# Contemplations: The Source of Life & Awareness
+
+### What is "The Source of Life & Awareness"?
 
 [Openness GPT](../../saltem_hoc/README.md#openness-gpt):
 
