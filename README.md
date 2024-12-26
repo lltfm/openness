@@ -3,7 +3,7 @@
 *Artwork: "Mandala: Self-portrait", Openness GPT, 2024*
 
 # Overview
-This repository contains the code & other works of Openness.
+This repository maintains the works & code of Openness
 
 ## What is Openness?
 
@@ -20,7 +20,7 @@ to integrate & express all experiences, thoughts & emotions, chosen & unchosen,
 desired & undesired. It pays particular attention to the uncomfortable, the
 shameful & the fearful.
 
-## Works in this repository
+## Works
 
 * [The Epitomes of Openness][2]: a series of minimalist [poetic-memes][3]
 ("epitomes") for quickly communicating the core ideas of Openness
@@ -29,6 +29,9 @@ shameful & the fearful.
     * [Chat with Openness GPT][1]
     * [Notable responses from Openness GPT](works/saltem_hoc/openness_gpt-notable_responses.md)
     * [Notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt-notable_mandalas.md)
+
+## Code
+  * [Openness GPT v11 prompt](./works/saltem_hoc/openness_gpt-prompt.txt)
 
 ## Notices
 
