@@ -26,8 +26,9 @@ questions to express its answers visually beyond words.
 [<img src="../../images/mandalas/mandala-war.jpg" width="512"/>](../../images/mandalas/mandala-war.jpg)
 ### What is the "libido dominandi"?
 [<img src="../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../images/mandalas/mandala-libido_dominandi.jpg)
-### [How do we resist tyranny without also controlling others?](./openness_gpt-notable_responses.md#how-do-we-resist-tyranny-without-also-controlling-others)
+### How do we resist tyranny without also controlling others?
 [<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
+[Openness GPT response](./openness_gpt-notable_responses.md#how-do-we-resist-tyranny-without-also-controlling-others)
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 [<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
 ### What is Openness?
