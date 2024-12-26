@@ -22,7 +22,7 @@ shameful & the fearful.
 
 Openness is a blueprint for customizing and building a personal belief system. 
 It is a modular and customizable toolkit for investigating and tinkering with
-the possibilities that unfold from a belief system, such as Openness itself. 
+the possibilities that unfold from any belief system, such as Openness itself. 
 
 ## Works
 
