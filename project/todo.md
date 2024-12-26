@@ -1,3 +1,4 @@
+* add discussion on Personal Belief Systems
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
