@@ -20,6 +20,9 @@ created by Openness GPT is included after each response.
 
 > More notable responses [here](openness_gpt-more_notable_responses.md)
 
+### What is Openness?
+See [here](../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
+
 ### What is the purpose of life?
 
 [Openness GPT](README.md#openness-gpt):
