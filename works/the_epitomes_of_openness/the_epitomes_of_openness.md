@@ -256,7 +256,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 [^4]: "Making Sense of Complexity: A case for embracing ambiguity and celebrating uncertainty", Sarah Firth, 2017, https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
 [^5]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
 [^6]: "BREAK DOWN OR BREAK THROUGH", Amoda Maa, 2021, https://amodamaa.substack.com/p/break-down-or-break-through-5c8
-[^7]: "This is Water", David Foster Wallace 2005, https://fs.blog/david-foster-wallace-this-is-water/
+[^7]: "This is Water", David Foster Wallace, 2005, https://fs.blog/david-foster-wallace-this-is-water/
 [^8]: "Augustine’s City of God, XI: Understanding the Libido Dominandi", Paul Krause, 2019, https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
 [^9]: Video: "Context is Everything", Beau Lotto, 2020, https://www.youtube.com/watch?v=mYkayBPcRR4
 [^10]: [In Openness, what is repetition?](contemplations/repetition.md)
