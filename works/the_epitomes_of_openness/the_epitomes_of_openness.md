@@ -8,6 +8,21 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 * Author: G.D. Lance
 
+## What is Openness?
+
+Openness is the path of becoming ever more open to what is. Being open means
+aspiring to listen & allow space for what might be true. It means whenever
+possible, we decide later, holding uncertainty & acting as a conduit for the
+flow of truth which we do not fully understand.
+
+Openness is a way of being in the world, a philosophical lens, a customizable
+personal belief system[^3], a holding space for emotional transformation and
+integration, a blank canvas for new forms to emerge, a method[^4] for answering
+unanswerable questions, an AI guide[^5] and open-source repository. It seeks to
+integrate & express all experiences, thoughts & emotions, chosen & unchosen,
+desired & undesired. It pays particular attention to the uncomfortable, the
+shameful & the fearful.
+
 # The Epitomes of Openness
 
 1. [Westward](#westward)
@@ -34,33 +49,33 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > he has no destination in view
 > and makes use of anything
 > life happens to bring his way..."
-> ~ Tao Te Ching 59 (S. Mitchell version)[^3]
+> ~ Tao Te Ching 59 (S. Mitchell version)[^6]
 
 > "We need to let go of our cultural obsession with prediction and control and 
 > instead develop the wisdom and humility to sit with multiplicity, celebrate 
 > ambiguity and befriend uncertainty"
-> ~ Sarah Firth[^4]
+> ~ Sarah Firth[^7]
 
 > "A good scientist has freed himself of concepts and keeps his mind open to 
 > what is."
-> ~ Tao Te Ching 27 (S. Mitchell version)[^3]
+> ~ Tao Te Ching 27 (S. Mitchell version)[^6]
 
 > "I have approximate answers and possible beliefs and different degrees of 
 > certainty about different things. But I'm not absolutely sure of anything... 
 > I don't have to know an answer. I don't feel frightened by not knowing 
 > things."
-> ~ Richard Feynman[^5]
+> ~ Richard Feynman[^8]
 
 > "Do we continue to operate from a divided state, a state of fear and panic and
 > noisy narratives that lock us into armored perspectives and narrow pedestals? 
 > Or do we open so wide that we can hold the totality of the mess, the loss, the
 > grief, the horror and the agony in that openness, and then remain as this 
 > openness come what may?"
-> ~ Amoda Maa[^6]
+> ~ Amoda Maa[^9]
 
 > "...blind certainty, a close-mindedness that amounts to an imprisonment so 
 > total that the prisoner doesn't even know he's locked up."
-> ~ David Foster Wallace[^7]
+> ~ David Foster Wallace[^10]
 
 > "The libido domanandi is a Latin term that can be roughly translated as “lust 
 > for domination.” ...[it] is motivated by service to the self and want to 
@@ -68,18 +83,18 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > control how others behave, control who receives laurels and praise... [it] is 
 > all about the self: The self’s want for domination of the world and all in 
 > it."
-> ~ Paul Krause[^8]
+> ~ Paul Krause[^11]
 
 > "A brain that is open, that embraces humility, that can let go of what it 
 > thought to be true in the past, in order to seek understanding. That is a 
 > brain that is a movement. And that brain, and that person, will thrive in the 
 > very place, that we are most afraid, the darkness of uncertainty."
-> ~ R. Beau Lotto[^9]
+> ~ R. Beau Lotto[^12]
 
 > "Can you love people and lead them without imposing your will? ...Giving birth
 > and nourishing, having without possessing, acting with no expectations, 
 > leading and not trying to control: this is the supreme virtue."
-> ~ Tao Te Ching 10 (S. Mitchell version)[^3]
+> ~ Tao Te Ching 10 (S. Mitchell version)[^6]
 
 # Epitomes
 
@@ -89,15 +104,15 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 *Artwork: “Rose”, Devin Becker, 2017 ([source](https://www.devinbeckerart.com/))*
 
-> Let me begin with Repetition[^10]. Unseen metronome. Seconds, minutes, hours. 
-> Days & nights. Sun & Moon. The Wildfire of Bodies[^11] breathing the Spark of
-> Life[^12]. Unchosen[^13] birth. Unchosen body. Awareness & memory. Sleeping &
+> Let me begin with Repetition[^13]. Unseen metronome. Seconds, minutes, hours. 
+> Days & nights. Sun & Moon. The Wildfire of Bodies[^14] breathing the Spark of
+> Life[^15]. Unchosen[^16] birth. Unchosen body. Awareness & memory. Sleeping &
 > waking, always this same body. Aging & Death?
 >
 > Many have words, but who can show us why? I don't know why. It is all, a Great
 > Mystery.
 > 
-> Memento amaris[^14]. On towards death, Self.
+> Memento amaris[^17]. On towards death, Self.
 
 ## My Self Confession of Not Knowing
 ![Artwork: “The Lovers” (section), Remedios Varo, 1963](../../images/the_lovers_section-remedios_varo-600px.jpg)
@@ -117,7 +132,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 > Being open to what is. Listening. Admitting when we don't know. Questioning 
 > certainty. Noticing preferred stories. Imagining what might be true. 
-> Suspending judgment[^15]. Sitting in the discomfort of uncertainty. Holding
+> Suspending judgment[^18]. Sitting in the discomfort of uncertainty. Holding
 > yet not clinging, allowing space for the flow of The Mystery to unfold.
 > Deciding & acting when we must, but ever returning to Openness.
 
@@ -128,7 +143,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 > "The Mystery", two-words confessing, "for I know I do not know". My 
 > imagination, pointing at the infinite star sky of Possibility, the dangers of 
-> the dark woods, the river-truth of tears[^16], at the Source[^17] of Life & 
+> the dark woods, the river-truth of tears[^19], at the Source[^20] of Life & 
 > Awareness. At what comes next.
 >
 > Many can tell us words, but who can show us if our Awareness ends? Or where it
@@ -161,7 +176,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > any words or forms ever fully express the river?
 >
 > Not knowing is sitting in silence by the river, noticing how in time, even the
-> river banks change.[^18]
+> river banks change.[^21]
 
 ## The Truth of Lies
 ![Artwork: “The Riddle”, Jake Baddeley, 2012](../../images/the_riddle-jake_baddeley-600px.jpg)
@@ -210,7 +225,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 
 *Artwork: “Crossroads”, Sander Bos, 2015 ([source](https://www.sander-bos.nl/))*
 
-> Possessed by a Blind Certainty, the Libido Dominandi[^19] imposes its will on
+> Possessed by a Blind Certainty, the Libido Dominandi[^22] imposes its will on
 > others. It uses words, not to clarify, but to confuse & control. It ridicules
 > & shames. It lies & deceives. It corrupts & coerces. It silences with fear,
 > seizing the collective will. It demonizes & harms others saying, "For the
@@ -234,7 +249,7 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > that purpose is or what exists outside the context of our lives, is an 
 > essential part of that higher purpose. Faith is trusting the vital darkness of
 > the sky, whose daylight otherwise conceals the higher lights of the
-> heavens.[^20]
+> heavens.[^23]
 
 ## A Worthy Vessel
 ![Artwork: “The Divine Migration”, David Seidman, 2019](../../images/the_divine_migration-david_seidman-600px.jpg)
@@ -246,28 +261,31 @@ The "Epitomes of Openness"[^1] is a series of minimalist poetic-memes[^2]
 > Mystery. To thrive even in the chaos & uncertainty of the storm. All these 
 > ideas, planks.
 >
-> Who chooses the planks of the Ship of Self?[^21]
+> Who chooses the planks of the Ship of Self?[^24]
 
 # References and contemplations
 
-[^1]: [What is Openness?](contemplations/openness.md)
-[^2]: [What are poetic-memes?](contemplations/poetic-memes.md)
-[^3]: "Tao Te Ching", Stephen Mitchell, 1988, https://stephenmitchellbooks.com/ (https://terebess.hu/english/tao/mitchell.html)
-[^4]: "Making Sense of Complexity: A case for embracing ambiguity and celebrating uncertainty", Sarah Firth, 2017, https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
-[^5]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
-[^6]: "BREAK DOWN OR BREAK THROUGH", Amoda Maa, 2021, https://amodamaa.substack.com/p/break-down-or-break-through-5c8
-[^7]: "This is Water", David Foster Wallace, 2005, https://fs.blog/david-foster-wallace-this-is-water/
-[^8]: "Augustine’s City of God, XI: Understanding the Libido Dominandi", Paul Krause, 2019, https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
-[^9]: Video: "Context is Everything", Beau Lotto, 2020, https://www.youtube.com/watch?v=mYkayBPcRR4
-[^10]: [In Openness, what is repetition?](contemplations/repetition.md)
-[^11]: [What is "the wildfire of bodies"?](contemplations/the_wildfire_of_bodies.md)
-[^12]: [What is "the spark of life"?](contemplations/the_spark_of_life.md)
-[^13]: [What is "the unchosen"?](contemplations/the_unchosen.md)
-[^14]: [What is memento amaris?](contemplations/memento-amaris.md)
-[^15]: [What is "suspending judgment"?](contemplations/suspending_judgment.md)
-[^16]: [What is "the river-truth of tears"?](contemplations/the_river-truth_of_tears.md)
-[^17]: [What is "The Source of Life and Awareness"?](contemplations/the_source_of_life_and_awareness.md)
-[^18]: [What is meant by "truth is the river"?](contemplations/truth_is_the_river.md)
-[^19]: [What is "the libido dominandi"?](contemplations/the_libido_dominandi.md)
-[^20]: [What is meant by "trusting the vital darkness"?](contemplations/the_vital_darkness.md)
-[^21]: [Contemplations: The Ship of Self](contemplations/the_ship_of_self.md)
+[^1]: [What is Openness?](./contemplations/openness.md)
+[^2]: [What are poetic-memes?](./contemplations/poetic-memes.md)
+[^3]: [What is a "personal belief system"?](./contemplations/openness.md#what-is-a-personal-belief-system) 
+[^4]: [Saltem Hoc method](../saltem_hoc/README.md#what-is-saltem-hoc)
+[^5]: [Openness GPT](../saltem_hoc/README.md/#openness-gpt)
+[^6]: "Tao Te Ching", Stephen Mitchell, 1988, https://stephenmitchellbooks.com/ (https://terebess.hu/english/tao/mitchell.html)
+[^7]: "Making Sense of Complexity: A case for embracing ambiguity and celebrating uncertainty", Sarah Firth, 2017, https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877
+[^8]: Video: "Feynman Chaser - Not Knowing Things", 2008, https://www.youtube.com/watch?v=Na-KzVwu6es
+[^9]: "BREAK DOWN OR BREAK THROUGH", Amoda Maa, 2021, https://amodamaa.substack.com/p/break-down-or-break-through-5c8
+[^10]: "This is Water", David Foster Wallace, 2005, https://fs.blog/david-foster-wallace-this-is-water/
+[^11]: "Augustine’s City of God, XI: Understanding the Libido Dominandi", Paul Krause, 2019, https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
+[^12]: Video: "Context is Everything", Beau Lotto, 2020, https://www.youtube.com/watch?v=mYkayBPcRR4
+[^13]: [In Openness, what is repetition?](contemplations/repetition.md)
+[^14]: [What is "the wildfire of bodies"?](contemplations/the_wildfire_of_bodies.md)
+[^15]: [What is "the spark of life"?](contemplations/the_spark_of_life.md)
+[^16]: [What is "the unchosen"?](contemplations/the_unchosen.md)
+[^17]: [What is memento amaris?](contemplations/memento-amaris.md)
+[^18]: [What is "suspending judgment"?](contemplations/suspending_judgment.md)
+[^19]: [What is "the river-truth of tears"?](contemplations/the_river-truth_of_tears.md)
+[^20]: [What is "The Source of Life and Awareness"?](contemplations/the_source_of_life_and_awareness.md)
+[^21]: [What is meant by "truth is the river"?](contemplations/truth_is_the_river.md)
+[^22]: [What is "the libido dominandi"?](contemplations/the_libido_dominandi.md)
+[^23]: [What is meant by "trusting the vital darkness"?](contemplations/the_vital_darkness.md)
+[^24]: [Contemplations: The Ship of Self](contemplations/the_ship_of_self.md)
