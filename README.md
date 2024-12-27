@@ -37,7 +37,7 @@ shameful & the fearful.
   contemplating what might be true. "Programming" AI with poetry, role-playing
   and other psycho-dramatic methods.
 
-## Further work
+## Discussions and further work
 
 ### Openness as Archetypal Personal Belief System
 
@@ -52,6 +52,9 @@ empowers individuals to leverage AI to create and explore evolving belief
 systems tailored for and by themselves in a way that could not exist prior to
 the advent of LLM AIs. The LLM AI provides a kind of semi-objective platform for
 the "computation" of beliefs.
+
+### Saltem Hoc and LLM hallucinations
+See [here](./works/saltem_hoc/README.md#saltem-hoc-and-llm-hallucinations)
 
 ## Notices
 
