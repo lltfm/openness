@@ -12,11 +12,11 @@ aspiring to listen & allow space for what might be true. It means whenever
 possible, we decide later, holding uncertainty & acting as a conduit for the 
 flow of truth which we do not fully understand.
 
-Openness is a way of being in the world, a philosophical lens, a secular &
-minimalist meta-spirituality, a holding space for emotional transformation and
+Openness is a way of being in the world, a philosophical lens, a customizable
+personal belief system, a holding space for emotional transformation and
 integration, a blank canvas for new forms to emerge, a [method][1] for answering
-unanswerable questions, an [AI guide][2] and open-source repository. It seeks
-to integrate & express all experiences, thoughts & emotions, chosen & unchosen,
+unanswerable questions, an [AI guide][2] and open-source repository. It seeks to
+integrate & express all experiences, thoughts & emotions, chosen & unchosen,
 desired & undesired. It pays particular attention to the uncomfortable, the
 shameful & the fearful.
 
