@@ -1,3 +1,7 @@
+* refactor openness gpt into folder structure (under saltem hoc?)
+  * openness_gpt
+    * responses
+    * mandalas
 * add discussion on Personal Belief Systems
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
