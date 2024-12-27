@@ -268,7 +268,7 @@ shameful & the fearful.
 [^1]: [What is Openness?](./contemplations/openness.md)
 [^2]: [What are poetic-memes?](./contemplations/poetic-memes.md)
 [^3]: [What is a "personal belief system"?](./contemplations/openness.md#what-is-a-personal-belief-system) 
-[^4]: [Saltem Hoc method](../saltem_hoc/README.md#what-is-saltem-hoc)
+[^4]: [What is "saltem hoc"?](../saltem_hoc/README.md#what-is-saltem-hoc)
 [^5]: [Openness GPT](../saltem_hoc/README.md/#openness-gpt)
 [^6]: "Tao Te Ching", Stephen Mitchell, 1988, https://stephenmitchellbooks.com/ (https://terebess.hu/english/tao/mitchell.html)
 [^7]: "Making Sense of Complexity: A case for embracing ambiguity and celebrating uncertainty", Sarah Firth, 2017, https://humanparts.medium.com/making-sense-of-complexity-ee78755d56b9?gi=1f6b607a0877

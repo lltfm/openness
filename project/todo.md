@@ -1,3 +1,4 @@
+* add discussion on using LLM confabulation to intuitively define new well-named terms
 * refactor openness gpt into folder structure (under saltem hoc?)
   * openness_gpt
     * responses
