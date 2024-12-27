@@ -26,11 +26,11 @@ shameful & the fearful.
 ("epitomes") for quickly communicating the core ideas of Openness
   * [Contemplations on The Epitomes Of Openness](./works/the_epitomes_of_openness/contemplations/README.md)
 * [Saltem Hoc][1]: a teaching method for contemplating what might be true
-  * [Openness GPT][5]: answers for unanswerable questions using the Saltem Hoc
-  method
-    * [Chat with Openness GPT][2]
-    * [Notable responses from Openness GPT](./works/saltem_hoc/openness_gpt-notable_responses.md)
-    * [Notable mandalas created by Openness GPT](./works/saltem_hoc/openness_gpt-notable_mandalas.md)
+* [Openness GPT][5]: answers for unanswerable questions using the Saltem Hoc
+method
+  * [Chat with Openness GPT][2]
+  * [Notable responses from Openness GPT](./works/saltem_hoc/openness_gpt-notable_responses.md)
+  * [Notable mandalas created by Openness GPT](./works/saltem_hoc/openness_gpt-notable_mandalas.md)
 
 ## Code
   * [Openness GPT v11 prompt][6]: an LLM prompt which combines the poetry of
