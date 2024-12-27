@@ -50,7 +50,8 @@ answers out of alignment with expectations, helping to identify beliefs
 to refine, new beliefs to add or perhaps even beliefs to remove. This process
 empowers individuals to leverage AI to create and explore evolving belief
 systems tailored for and by themselves in a way that could not exist prior to
-the advent of LLM AIs.
+the advent of LLM AIs. The LLM AI provides a kind of semi-objective platform for
+the "computation" of beliefs.
 
 ## Notices
 
