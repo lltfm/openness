@@ -37,7 +37,9 @@ shameful & the fearful.
   contemplating what might be true. "Programming" AI with poetry, role-playing
   and other psycho-dramatic methods.
 
-## Openness as Archetypal Personal Belief System
+## Further work
+
+### Openness as Archetypal Personal Belief System
 
 Openness demonstrates a blueprint for building (or customizing) a modular
 personal belief system (i.e. an "open-source religion"). It shows how an LLM AI
@@ -45,10 +47,10 @@ can be instructed to personify the belief system, applying its common sense
 notions about life to the role-play of a true believer guide who has fully
 internalized the belief system. The AI can then be recursively questioned for
 answers out of alignment with expectations, helping to identify beliefs
-to modify, new beliefs to add or even beliefs to remove. This process empowers
-individuals to leverage AI to create and explore evolving belief systems
-tailored for and by themselves in a way that could not exist prior to advent of
-LLM AIs.
+to refine, new beliefs to add or perhaps even beliefs to remove. This process
+empowers individuals to leverage AI to create and explore evolving belief
+systems tailored for and by themselves in a way that could not exist prior to
+the advent of LLM AIs.
 
 ## Notices
 
