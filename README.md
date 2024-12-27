@@ -13,28 +13,28 @@ possible, we decide later, holding uncertainty & acting as a conduit for the
 flow of truth which we do not fully understand.
 
 Openness is a way of being in the world, a philosophical lens, a customizable
-personal belief system, a holding space for emotional transformation and
-integration, a blank canvas for new forms to emerge, a [method][1] for answering
-unanswerable questions, an [AI guide][2] and open-source repository. It seeks to
+[personal belief system][1], a holding space for emotional transformation and
+integration, a blank canvas for new forms to emerge, a [method][2] for answering
+unanswerable questions, an [AI guide][3] and open-source repository. It seeks to
 integrate & express all experiences, thoughts & emotions, chosen & unchosen,
 desired & undesired. It pays particular attention to the uncomfortable, the
 shameful & the fearful.
 
 ## Works
 
-* [The Epitomes of Openness][3]: a series of minimalist [poetic-memes][4]
+* [The Epitomes of Openness][4]: a series of minimalist [poetic-memes][5]
 ("epitomes") for quickly communicating the core ideas of Openness
   * [Contemplations on The Epitomes Of Openness](./works/the_epitomes_of_openness/contemplations/README.md)
-* [Saltem Hoc][1]: a teaching method for contemplating what might be true
-* [Openness GPT][5]: answers for unanswerable questions using the Saltem Hoc
+* [Saltem Hoc][2]: a teaching method for contemplating what might be true
+* [Openness GPT][6]: answers for unanswerable questions using the Saltem Hoc
 method
-  * [Chat with Openness GPT][2]
+  * [Chat with Openness GPT][3]
   * [Notable responses from Openness GPT](./works/saltem_hoc/openness_gpt-notable_responses.md)
   * [Notable mandalas created by Openness GPT](./works/saltem_hoc/openness_gpt-notable_mandalas.md)
 
 ## Code
-  * [Openness GPT v11 prompt][6]: an LLM prompt which combines the poetry of
-  [The Epitomes of Openness][2] with the [Saltem Hoc][4] method to generate
+  * [Openness GPT v11 prompt][7]: an LLM prompt which combines the poetry of
+  [The Epitomes of Openness][3] with the [Saltem Hoc][5] method to generate
   speculations and questions for contemplating what might be true. "Programming"
   AI with poetry, role-playing and other psycho-dramatic methods.
 
@@ -50,9 +50,10 @@ method
 * [CC0-1.0 License](LICENSE.txt)
 * [Contact us](project/contact_us.md)
 
-[1]: ./works/saltem_hoc/README.md#what-is-saltem-hoc
-[2]: ./works/saltem_hoc/README.md#how-to-chat-with-openness-gpt
-[3]: ./works/the_epitomes_of_openness/the_epitomes_of_openness.md
-[4]: ./works/the_epitomes_of_openness/contemplations/poetic-memes.md
-[5]: ./works/saltem_hoc/README.md#openness-gpt
-[6]: ./works/saltem_hoc/openness_gpt-prompt-v11.txt
+[1]: ./works/the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system
+[2]: ./works/saltem_hoc/README.md#what-is-saltem-hoc
+[3]: ./works/saltem_hoc/README.md#how-to-chat-with-openness-gpt
+[4]: ./works/the_epitomes_of_openness/the_epitomes_of_openness.md
+[5]: ./works/the_epitomes_of_openness/contemplations/poetic-memes.md
+[6]: ./works/saltem_hoc/README.md#openness-gpt
+[7]: ./works/saltem_hoc/openness_gpt-prompt-v11.txt
