@@ -20,14 +20,6 @@ to integrate & express all experiences, thoughts & emotions, chosen & unchosen,
 desired & undesired. It pays particular attention to the uncomfortable, the
 shameful & the fearful.
 
-Openness demonstrates a blueprint for building (or customizing) a modular
-personal belief system (i.e. an "open-source religion"). It shows how an LLM AI
-can be instructed to personify the belief system, applying its common sense
-notions about life to the role-play of a true believer who has fully
-internalized the belief system. The AI can then be recursively questioned for
-answers out of alignment with expectations, helping to identify beliefs
-to modify, new beliefs to add or even beliefs to remove.
-
 ## Works
 
 * [The Epitomes of Openness][2]: a series of minimalist [poetic-memes][3]
@@ -44,6 +36,16 @@ to modify, new beliefs to add or even beliefs to remove.
   [Saltem Hoc][4] method to generate speculations and questions for
   contemplating what might be true. "Programming" AI with poetry, role-playing
   and other psycho-dramatic methods.
+
+## Openness as Archetypal Personal Belief System
+
+Openness demonstrates a blueprint for building (or customizing) a modular
+personal belief system (i.e. an "open-source religion"). It shows how an LLM AI
+can be instructed to personify the belief system, applying its common sense
+notions about life to the role-play of a true believer guide who has fully
+internalized the belief system. The AI can then be recursively questioned for
+answers out of alignment with expectations, helping to identify beliefs
+to modify, new beliefs to add or even beliefs to remove.
 
 ## Notices
 
