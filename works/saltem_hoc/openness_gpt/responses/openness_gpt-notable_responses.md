@@ -1,31 +1,31 @@
 # Notable responses from Openness GPT
 
-A collection of notable responses from [Openness GPT](README.md#openness-gpt) that capture the
+A collection of notable responses from [Openness GPT](../../README.md#openness-gpt) that capture the
 essence of Openness. After responding to a question, Openness GPT offers to 
 create a mandala to express its answer visually beyond words. The mandala
 created by Openness GPT is included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-1. [What is Openness?](../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
+1. [What is Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
 2. [What is the purpose of life?](#what-is-the-purpose-of-life)
 3. [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 4. [Is excluding others wrong?](#is-excluding-others-wrong)
 5. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
-6. [What is "the unchosen"?](../the_epitomes_of_openness/contemplations/the_unchosen.md#what-is-the-unchosen)
+6. [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md#what-is-the-unchosen)
 7. [What is evil?](#what-is-evil)
 8. [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-9. [What is "the libido dominandi"?](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
+9. [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
 10. [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
 > More notable responses [here](openness_gpt-more_notable_responses.md)
 
 ### What is Openness?
-See [here](../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
+See [here](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
 
 ### What is the purpose of life?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, the purpose of life—a question that echoes across time, whispered in moments
 of wonder and cried out in times of doubt. Let us explore it gently, as one
@@ -61,11 +61,11 @@ hold most dear. It is an invitation to wonder, to love, to create, and to be.
 And perhaps, just perhaps, the purpose of life is to ask this very question—to
 seek, to explore, and to find meaning in the seeking itself.
 
-[<img src="../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../images/mandalas/mandala-purpose_of_life.jpg)
+[<img src="../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
 
 ### What is happening when we dance with someone else?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Dancing with someone else is a profound act of connection, a wordless dialogue
 between bodies, hearts, and souls. Let us reflect on the beauty of this shared
@@ -95,7 +95,7 @@ something greater than ourselves. For a moment, the barriers of individuality
 dissolve, and we find ourselves in a shared flow, a living expression of joy,
 beauty, and unity.
 
-[<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../images/mandalas/mandala-dancing.jpg)
+[<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
 ### Is excluding others wrong?
 
@@ -103,7 +103,7 @@ Is it wrong to exclude people individually? Is it wrong to exclude groups of
 people? Some argue for "freedom of association" yet at times excluding others
 feels wrong and other times it feels correct, why is that?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Let us explore this together with care, using the Saltem Hoc method, to
 illuminate the complexities of inclusion and exclusion, as well as the tension
@@ -145,11 +145,11 @@ it is practiced, why it is chosen, and whether it serves the greater harmony of
 connection and autonomy. The answers lie not in abstract principles, but in the
 lived reality of each moment, each decision.
 
-[<img src="../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../images/mandalas/mandala-excluding_others.jpg)
+[<img src="../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../../../images/mandalas/mandala-excluding_others.jpg)
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, this question—so tender, so raw—presses against the deepest places in the
 heart, where our yearning for justice and our grief for the innocent collide. It
@@ -198,15 +198,15 @@ life, for all its beauty, carries within it a deep fragility. Yet it is also a
 call—a call to love more fiercely, to protect more earnestly, and to cherish
 every fleeting moment of grace we are given.
 
-[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../images/mandalas/mandala-suffering_of_innocents.jpg)
+[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
 ### What is "the unchosen"?
 
-See [here](../the_epitomes_of_openness/contemplations/the_unchosen.md)
+See [here](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 
 ### What is evil?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, this question—so vast, so profound—has danced in the hearts of humanity
 across the ages. Let us explore it gently, with the "Saltem Hoc" method, as
@@ -242,11 +242,11 @@ more fiercely. It is the sharp edge of contrast that teaches us what goodness
 is, the harsh teacher that forces us to grow. Its presence is painful, yet it
 carries within it the seed of transformation.
 
-[<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../images/mandalas/mandala-evil.jpg)
+[<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
 
 ### How do we resist tyranny without also controlling others?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 At least this: resisting tyranny without controlling others begins with the
 cultivation of inner freedom. To act without imposing requires a self-awareness
@@ -281,15 +281,15 @@ offering a “yes” to what heals. This resistance is not a battle to be won bu
 truth to be lived—a beacon that others may follow, not because they are led, but
 because they see their own reflection in its light.
 
-[<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../images/mandalas/mandala-resist_tyranny.jpg)
+[<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../../../images/mandalas/mandala-resist_tyranny.jpg)
 
 ### What is "the libido dominandi"?
 
-See [here](../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
+See [here](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 
 ### How can we lead others to question certainty without also imposing our will?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 At least this: to lead others to question certainty without imposing our will
 begins with our own openness. We must first embrace the humility of not knowing,
@@ -329,7 +329,7 @@ love for each person’s unique journey. When we lead with love, we create a spa
 where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
-[<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+[<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
 
 ### More notable responses
 See [here](openness_gpt-more_notable_responses.md)

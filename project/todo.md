@@ -1,8 +1,4 @@
 * add discussion on using LLM confabulation to intuitively define new well-named terms
-* refactor openness gpt into folder structure (under saltem hoc?)
-  * openness_gpt
-    * responses
-    * mandalas
 * add discussion on Personal Belief Systems
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
@@ -25,7 +21,7 @@
   * What is coordinated group lying & deception?
   * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
   * What prevents others from waking up to authority's lies?
-  * 
+  * What is "word warfare"?
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."

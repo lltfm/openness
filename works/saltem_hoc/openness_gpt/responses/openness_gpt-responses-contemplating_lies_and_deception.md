@@ -1,7 +1,7 @@
 # More notable responses from Openness GPT
 
 An extended collection of notable responses from
-[Openness GPT](README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -15,7 +15,7 @@ included after each response.
 
 ### Is it wrong to teach with lies and deception?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, let us hold this delicate and vital question with care, as one might cradle
 a fragile flame, for it asks us to explore the ethics of teaching and the trust
@@ -58,4 +58,4 @@ openness, in the willingness to share not only knowledge but also uncertainty.
 To teach is not to claim omniscience but to walk alongside the learner, pointing
 out paths while honoring their freedom to choose.
 
-[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../images/mandalas/mandala-teaching_with_lies.jpg)
+[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../../../images/mandalas/mandala-teaching_with_lies.jpg)

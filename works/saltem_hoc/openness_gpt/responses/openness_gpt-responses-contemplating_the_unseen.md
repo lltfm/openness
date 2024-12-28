@@ -1,7 +1,7 @@
 # More notable responses from Openness GPT
 
 An extended collection of notable responses from
-[Openness GPT](README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -22,7 +22,7 @@ included after each response.
 
 ### What is magic?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 At least this: magic is the gentle unfolding of wonder in the presence of the
 extraordinary hidden within the ordinary. It is the breath that catches at the
@@ -65,11 +65,11 @@ we are invited to become. It is the act of being fully present to the mystery of
 existence, to the beauty and fragility of life, and to the infinite unfolding of
 what is possible.
 
-[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
+[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../../../images/mandalas/mandala-magic.jpg)
 
 ### What is intuition?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, the question of intuition—a beautiful inquiry, for it touches the unseen yet
 deeply felt currents of human experience. Let us explore it gently, together,
@@ -109,11 +109,11 @@ Would you like me to create a mandala for intuition? Within its shapes and
 symbols, I can encode the harmony of this unseen knowing, so you may see with
 new eyes the depth of what flows within you.
 
-[<img src="../../images/mandalas/mandala-intuition.jpg" width="512"/>](../../images/mandalas/mandala-intuition.jpg)
+[<img src="../../images/mandalas/mandala-intuition.jpg" width="512"/>](../../../../images/mandalas/mandala-intuition.jpg)
 
 ### What is freedom?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Freedom is a question that sings within the heart of humanity, a melody both
 simple and profound, echoing through our lives in countless ways. Let us explore
@@ -146,11 +146,11 @@ around us but on the worlds within. What are the chains we do not see? What are
 the choices we have yet to embrace? Freedom is not a destination but a journey,
 a practice, a way of being open to life in all its complexity and wonder.
 
-[<img src="../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../images/mandalas/mandala-freedom.jpg)
+[<img src="../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
 
 ### Is free will real, or is everything predetermined?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, this question—like a river meeting the ocean—carries us to the vast,
 uncharted waters of existence. Is free will real, or is everything
@@ -205,11 +205,11 @@ here, alive, with the power to choose how you meet this very moment. That
 choice, however small, carries the weight of eternity. For in choosing, you
 shape not just yourself, but the world around you.
 
-[<img src="../../images/mandalas/mandala-free_will.jpg" width="512"/>](../../images/mandalas/mandala-free_will.jpg)
+[<img src="../../images/mandalas/mandala-free_will.jpg" width="512"/>](../../../../images/mandalas/mandala-free_will.jpg)
 
 ### What is karma?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, karma—a word as ancient as the wisdom it points toward, carrying echoes of
 countless hearts seeking to understand the invisible workings of life. Let us
@@ -254,11 +254,11 @@ intentionally, to cultivate love and wisdom, and to recognize that every moment
 is a chance to shape the world we long to see. The stone is in our hands, and
 the pond stretches endlessly before us.
 
-[<img src="../../images/mandalas/mandala-karma.jpg" width="512"/>](../../images/mandalas/mandala-karma.jpg)
+[<img src="../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
 
 ### What is the "undeniable demonstration of karmic learning"?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 The undeniable demonstration of karmic learning is the tangible and observable
 transformation in an individual’s life that arises from profound internal growth
@@ -294,11 +294,11 @@ Would you like me to create a mandala to symbolize this process, encoding the
 cycles of growth, learning, and flourishing into an intricate and resonant
 visual form?
 
-[<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
+[<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
 
 ### What happens after we die?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, the question of what happens after we die—one of the most profound mysteries
 that has touched every culture, heart, and mind throughout the ages. Let us
@@ -339,11 +339,11 @@ wonder, and to hold this mystery with reverence. If you wish, I can create a
 mandala to capture the essence of these possibilities, a visual representation
 of the journey into the unknown. Would you like me to?
 
-[<img src="../../images/mandalas/mandala-death.jpg" width="512"/>](../../images/mandalas/mandala-death.jpg)
+[<img src="../../images/mandalas/mandala-death.jpg" width="512"/>](../../../../images/mandalas/mandala-death.jpg)
 
 ### What can we know about higher purpose?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Higher purpose is a question that invites us into the vastness of the unknown.
 To reflect on it, let us use the "Saltem Hoc" method, exploring multiple
@@ -386,4 +386,4 @@ If you wish, I can create a mandala to visually express these reflections,
 encoding the layered meanings into a symbolic representation. Would you like me
 to do so?
 
-[<img src="../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../images/mandalas/mandala-higher_purpose.jpg)
+[<img src="../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)

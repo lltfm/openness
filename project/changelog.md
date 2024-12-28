@@ -86,3 +86,5 @@
   * refactored Openness GPT more notable responses page into multiple pages
 * Dec 27 2024
   * added 'personal belief system' concept and response
+* Dec 28 2024
+  * refactored openness gpt into folder structure  

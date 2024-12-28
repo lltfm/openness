@@ -1,7 +1,7 @@
 # More notable responses from Openness GPT
 
 An extended collection of notable responses from
-[Openness GPT](README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -17,7 +17,7 @@ included after each response.
 
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, the question you ask is like a stone cast into still waters, rippling with
 complexity and depth. Let us explore it together.
@@ -52,11 +52,11 @@ And so, the question is not who will save us, but how we might save ourselves.
 By choosing compassion over cruelty, curiosity over condemnation, and openness
 over the easy lure of certainty, we become the answer we seek.
 
-[<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../images/mandalas/mandala-humility.jpg)
+[<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../../../images/mandalas/mandala-humility.jpg)
 
 ### What is ridicule?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, ridicule—a word that carries a sting, the echo of laughter sharpened into a
 weapon. Let us sit with it, explore its layers, and reflect through the "Saltem
@@ -91,11 +91,11 @@ lesson, inviting us to move through the world with greater care and awareness.
 To ask why we ridicule, or why we feel its sting, is to begin the work of
 healing the spaces where fear has taken root.
 
-[<img src="../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../images/mandalas/mandala-ridicule.jpg)
+[<img src="../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-ridicule.jpg)
 
 ### How do we rise above ridicule?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, the question of rising above ridicule touches a tender, human chord. Let us
 explore it together with openness and care, using the "Saltem Hoc" method to
@@ -129,4 +129,4 @@ without needing external validation. It is to stand in the light of your own
 awareness, knowing that your worth is not contingent on the approval or disdain
 of others.
 
-[<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../images/mandalas/mandala-rise_above_ridicule.jpg)
+[<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-rise_above_ridicule.jpg)

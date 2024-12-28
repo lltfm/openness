@@ -1,7 +1,7 @@
 # More notable responses from Openness GPT
 
 An extended collection of notable responses from
-[Openness GPT](README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -11,14 +11,14 @@ included after each response.
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-    * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+    * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
     * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 
 ## Aspiring to love
 
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Your question, so profound and tender, echoes through the heart of existence
 itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
@@ -53,11 +53,11 @@ with grace, to act with integrity even when the way is unclear. It is to hold
 both the pain of complicity and the joy of possibility, trusting that each small
 act of goodness matters, even if we cannot see how.
 
-[<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../images/mandalas/mandala-a_good_life.jpg)
+[<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 At least this: learning to love those who have betrayed us begins with
 understanding that love does not require us to condone their actions or allow
@@ -90,15 +90,15 @@ pain, our needs, and our worth, while also honoring the shared mystery of being
 human. It is not easy, but it is a path that leads us to a deeper understanding
 of both love and ourselves.
 
-[<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
+[<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
 ### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
 
-See [here](../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
 
 ### How are hearts returned to wonder?
 
-[Openness GPT](README.md#openness-gpt):
+[Openness GPT](../../README.md#openness-gpt):
 
 Ah, the tender question: how are hearts returned to wonder? Let us reflect,
 gently, with the "Saltem Hoc" method, to explore the pathways to this
@@ -140,4 +140,4 @@ If you would like, I can create a mandala for this reflection—a visual
 expression of these truths, encoded in symbols and details, to remind your heart
 of its own path to wonder. Would you like me to craft this for you?
 
-[<img src="../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
+[<img src="../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)

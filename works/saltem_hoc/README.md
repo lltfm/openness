@@ -17,8 +17,8 @@ guide others toward deeper understanding & unseen truths beyond words.
     * [Example mandala](#example-mandala-what-is-magic)
     * [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
 3. [How to use the prompt with any LLM AI](#how-to-use-the-prompt-with-any-llm-ai)
-4. [Notable responses from Openness GPT](./openness_gpt-notable_responses.md)
-5. [Notable mandalas created by Openness GPT](./openness_gpt-notable_mandalas.md)
+4. [Notable responses from Openness GPT](openness_gpt/responses/openness_gpt-notable_responses.md)
+5. [Notable mandalas created by Openness GPT](openness_gpt/mandalas/openness_gpt-notable_mandalas.md)
 6. [Discussions](#discussions)
 
 # The Epitome of Saltem Hoc
@@ -119,7 +119,7 @@ we all struggle to answer in a satisfying way (e.g. "What is the soul?",
 > something we are invited to become. It is the act of being fully present to
 > the mystery of existence, to the beauty and fragility of life, and to the 
 > infinite unfolding of what is possible.
-* [More responses](./openness_gpt-notable_responses.md)
+* [More responses](openness_gpt/responses/openness_gpt-notable_responses.md)
 
 ### Example mandala: "What is magic?"
 The Openness GPT prompt also instructs the LLM to offer to create a mandala
@@ -133,7 +133,7 @@ visually beyond words.
 
 [<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../images/mandalas/mandala-magic.jpg)
 
-* [More mandalas](./openness_gpt-notable_mandalas.md)
+* [More mandalas](openness_gpt/mandalas/openness_gpt-notable_mandalas.md)
 
 # How to use the prompt with any LLM AI
 
@@ -151,7 +151,7 @@ visually beyond words.
     * Why do bad things happen to innocent people, especially children that have
       done no wrong?
     * What is magic?
-    * [Some more test questions](saltem_hoc-test_questions.txt)
+    * [Some more test questions](saltem_hoc-test_questions)
    > Note: sometimes the LLM ignores the default prompt instructions to use the
    > Saltem Hoc method. When this happens just ask it to use the method as part
    of
@@ -162,10 +162,10 @@ visually beyond words.
 [1]: ../the_epitomes_of_openness/the_epitomes_of_openness.md
 
 # Notable responses from Openness GPT
-See [here](openness_gpt-notable_responses.md)
+See [here](openness_gpt/responses/openness_gpt-notable_responses.md)
 
 # Notable mandalas created by Openness GPT
-See [here](openness_gpt-notable_mandalas.md)
+See [here](openness_gpt/mandalas/openness_gpt-notable_mandalas.md)
 
 # Discussions
 
