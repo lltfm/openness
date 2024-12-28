@@ -56,4 +56,4 @@ method
 [4]: ./works/the_epitomes_of_openness/the_epitomes_of_openness.md
 [5]: ./works/the_epitomes_of_openness/contemplations/poetic-memes.md
 [6]: ./works/saltem_hoc/README.md#openness-gpt
-[7]: ./works/saltem_hoc/openness_gpt-prompt-v11.txt
+[7]: works/saltem_hoc/openness_gpt/openness_gpt-prompt-v11.txt
