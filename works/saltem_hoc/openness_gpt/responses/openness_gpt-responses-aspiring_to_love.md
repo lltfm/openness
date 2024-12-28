@@ -53,7 +53,7 @@ with grace, to act with integrity even when the way is unclear. It is to hold
 both the pain of complicity and the joy of possibility, trusting that each small
 act of goodness matters, even if we cannot see how.
 
-[<img src="../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
+[<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 
@@ -90,7 +90,7 @@ pain, our needs, and our worth, while also honoring the shared mystery of being
 human. It is not easy, but it is a path that leads us to a deeper understanding
 of both love and ourselves.
 
-[<img src="../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
+[<img src="../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
 ### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
 
@@ -140,4 +140,4 @@ If you would like, I can create a mandala for this reflection—a visual
 expression of these truths, encoded in symbols and details, to remind your heart
 of its own path to wonder. Would you like me to craft this for you?
 
-[<img src="../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
+[<img src="../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)

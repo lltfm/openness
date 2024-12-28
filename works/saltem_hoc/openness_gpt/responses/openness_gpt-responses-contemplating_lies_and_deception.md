@@ -58,4 +58,4 @@ openness, in the willingness to share not only knowledge but also uncertainty.
 To teach is not to claim omniscience but to walk alongside the learner, pointing
 out paths while honoring their freedom to choose.
 
-[<img src="../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../../../images/mandalas/mandala-teaching_with_lies.jpg)
+[<img src="../../../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../../../images/mandalas/mandala-teaching_with_lies.jpg)

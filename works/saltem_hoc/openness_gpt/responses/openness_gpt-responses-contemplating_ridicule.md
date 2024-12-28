@@ -52,7 +52,7 @@ And so, the question is not who will save us, but how we might save ourselves.
 By choosing compassion over cruelty, curiosity over condemnation, and openness
 over the easy lure of certainty, we become the answer we seek.
 
-[<img src="../../images/mandalas/mandala-humility.jpg" width="512"/>](../../../../images/mandalas/mandala-humility.jpg)
+[<img src="../../../../images/mandalas/mandala-humility.jpg" width="512"/>](../../../../images/mandalas/mandala-humility.jpg)
 
 ### What is ridicule?
 
@@ -91,7 +91,7 @@ lesson, inviting us to move through the world with greater care and awareness.
 To ask why we ridicule, or why we feel its sting, is to begin the work of
 healing the spaces where fear has taken root.
 
-[<img src="../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-ridicule.jpg)
+[<img src="../../../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-ridicule.jpg)
 
 ### How do we rise above ridicule?
 
@@ -129,4 +129,4 @@ without needing external validation. It is to stand in the light of your own
 awareness, knowing that your worth is not contingent on the approval or disdain
 of others.
 
-[<img src="../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-rise_above_ridicule.jpg)
+[<img src="../../../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-rise_above_ridicule.jpg)

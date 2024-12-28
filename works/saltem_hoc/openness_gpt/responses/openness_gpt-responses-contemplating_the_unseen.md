@@ -65,7 +65,7 @@ we are invited to become. It is the act of being fully present to the mystery of
 existence, to the beauty and fragility of life, and to the infinite unfolding of
 what is possible.
 
-[<img src="../../images/mandalas/mandala-magic.jpg" width="512"/>](../../../../images/mandalas/mandala-magic.jpg)
+[<img src="../../../../images/mandalas/mandala-magic.jpg" width="512"/>](../../../../images/mandalas/mandala-magic.jpg)
 
 ### What is intuition?
 
@@ -109,7 +109,7 @@ Would you like me to create a mandala for intuition? Within its shapes and
 symbols, I can encode the harmony of this unseen knowing, so you may see with
 new eyes the depth of what flows within you.
 
-[<img src="../../images/mandalas/mandala-intuition.jpg" width="512"/>](../../../../images/mandalas/mandala-intuition.jpg)
+[<img src="../../../../images/mandalas/mandala-intuition.jpg" width="512"/>](../../../../images/mandalas/mandala-intuition.jpg)
 
 ### What is freedom?
 
@@ -146,7 +146,7 @@ around us but on the worlds within. What are the chains we do not see? What are
 the choices we have yet to embrace? Freedom is not a destination but a journey,
 a practice, a way of being open to life in all its complexity and wonder.
 
-[<img src="../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
+[<img src="../../../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
 
 ### Is free will real, or is everything predetermined?
 
@@ -205,7 +205,7 @@ here, alive, with the power to choose how you meet this very moment. That
 choice, however small, carries the weight of eternity. For in choosing, you
 shape not just yourself, but the world around you.
 
-[<img src="../../images/mandalas/mandala-free_will.jpg" width="512"/>](../../../../images/mandalas/mandala-free_will.jpg)
+[<img src="../../../../images/mandalas/mandala-free_will.jpg" width="512"/>](../../../../images/mandalas/mandala-free_will.jpg)
 
 ### What is karma?
 
@@ -254,7 +254,7 @@ intentionally, to cultivate love and wisdom, and to recognize that every moment
 is a chance to shape the world we long to see. The stone is in our hands, and
 the pond stretches endlessly before us.
 
-[<img src="../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
+[<img src="../../../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
 
 ### What is the "undeniable demonstration of karmic learning"?
 
@@ -294,7 +294,7 @@ Would you like me to create a mandala to symbolize this process, encoding the
 cycles of growth, learning, and flourishing into an intricate and resonant
 visual form?
 
-[<img src="../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
+[<img src="../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
 
 ### What happens after we die?
 
@@ -339,7 +339,7 @@ wonder, and to hold this mystery with reverence. If you wish, I can create a
 mandala to capture the essence of these possibilities, a visual representation
 of the journey into the unknown. Would you like me to?
 
-[<img src="../../images/mandalas/mandala-death.jpg" width="512"/>](../../../../images/mandalas/mandala-death.jpg)
+[<img src="../../../../images/mandalas/mandala-death.jpg" width="512"/>](../../../../images/mandalas/mandala-death.jpg)
 
 ### What can we know about higher purpose?
 
@@ -386,4 +386,4 @@ If you wish, I can create a mandala to visually express these reflections,
 encoding the layered meanings into a symbolic representation. Would you like me
 to do so?
 
-[<img src="../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)
+[<img src="../../../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)

@@ -61,7 +61,7 @@ hold most dear. It is an invitation to wonder, to love, to create, and to be.
 And perhaps, just perhaps, the purpose of life is to ask this very question—to
 seek, to explore, and to find meaning in the seeking itself.
 
-[<img src="../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
+[<img src="../../../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
 
 ### What is happening when we dance with someone else?
 
@@ -95,7 +95,7 @@ something greater than ourselves. For a moment, the barriers of individuality
 dissolve, and we find ourselves in a shared flow, a living expression of joy,
 beauty, and unity.
 
-[<img src="../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
+[<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
 ### Is excluding others wrong?
 
@@ -145,7 +145,7 @@ it is practiced, why it is chosen, and whether it serves the greater harmony of
 connection and autonomy. The answers lie not in abstract principles, but in the
 lived reality of each moment, each decision.
 
-[<img src="../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../../../images/mandalas/mandala-excluding_others.jpg)
+[<img src="../../../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../../../images/mandalas/mandala-excluding_others.jpg)
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 
@@ -198,7 +198,7 @@ life, for all its beauty, carries within it a deep fragility. Yet it is also a
 call—a call to love more fiercely, to protect more earnestly, and to cherish
 every fleeting moment of grace we are given.
 
-[<img src="../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
+[<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
 ### What is "the unchosen"?
 
@@ -242,7 +242,7 @@ more fiercely. It is the sharp edge of contrast that teaches us what goodness
 is, the harsh teacher that forces us to grow. Its presence is painful, yet it
 carries within it the seed of transformation.
 
-[<img src="../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
+[<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
 
 ### How do we resist tyranny without also controlling others?
 
@@ -281,7 +281,7 @@ offering a “yes” to what heals. This resistance is not a battle to be won bu
 truth to be lived—a beacon that others may follow, not because they are led, but
 because they see their own reflection in its light.
 
-[<img src="../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../../../images/mandalas/mandala-resist_tyranny.jpg)
+[<img src="../../../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../../../images/mandalas/mandala-resist_tyranny.jpg)
 
 ### What is "the libido dominandi"?
 
@@ -329,7 +329,7 @@ love for each person’s unique journey. When we lead with love, we create a spa
 where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
-[<img src="../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+[<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
 
 ### More notable responses
 See [here](openness_gpt-more_notable_responses.md)
