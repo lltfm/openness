@@ -14,7 +14,7 @@ included after each response.
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [What is "word warfare"?](#what-is-word-warfare)
-* [What prevents others from waking up to authority's lies?]()
+* [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 
 ### Are UFOs a deception?
 
