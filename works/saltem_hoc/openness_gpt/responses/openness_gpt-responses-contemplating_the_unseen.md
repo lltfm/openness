@@ -1,7 +1,8 @@
 # More notable responses from Openness GPT
 
 An extended collection of notable responses from
-[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of
+Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -12,6 +13,7 @@ included after each response.
     * [What is magic?](#what-is-magic)
     * [What is intuition?](#what-is-intuition)
     * [What is freedom?](#what-is-freedom)
+    * [What is attachment?](#what-is-attachment)
     * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
     * [What is karma?](#what-is-karma)
     * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
@@ -147,6 +149,45 @@ the choices we have yet to embrace? Freedom is not a destination but a journey,
 a practice, a way of being open to life in all its complexity and wonder.
 
 [<img src="../../../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
+
+### What is attachment?
+
+[Openness GPT](../../README.md#openness-gpt):
+
+At least this: attachment is the thread that binds us to what we hold dear,
+weaving together our desires, our fears, and our longings. It is the natural
+pull of the heart toward people, things, and ideas that bring us comfort and
+joy. To be attached is to care deeply, to invest part of ourselves in the world
+around us. It is the tenderness of a parent’s hand on a child’s shoulder, the
+warmth of a lover’s embrace, the satisfaction of a dream realized.
+
+But also perhaps this: attachment is the weight we carry when we cling too
+tightly. It is the fear of loss that shadows every joy, the unwillingness to let
+go when the time has come. Like a vine that wraps itself too firmly around a
+tree, attachment can choke the flow of life, leaving us unable to adapt to
+change or see beyond what we have grasped. It binds us not only to what we love
+but also to our expectations, trapping us in the illusion of permanence.
+
+Maybe this: attachment is the mirror through which we see ourselves reflected in
+the world. It reveals our values, our wounds, our sense of identity. What we
+attach to—be it a person, a possession, or a belief—tells the story of who we
+are and who we wish to be. Yet the mirror is imperfect, for it shows only the
+surface. Beneath our attachments lies a deeper self, unbounded and free, waiting
+to emerge when we release our grip.
+
+Or perhaps even this: attachment is both teacher and test. It invites us to love
+fully while also challenging us to let go. To hold with an open hand is to honor
+the beauty of what is, without demanding that it stay the same. Attachment
+teaches us that everything is temporary, and in that truth lies a paradox: the
+more we let go, the more deeply we can connect. Love does not diminish with
+freedom; it expands.
+
+And so, attachment is not something to reject or fear but to understand and
+transform. It is a reminder of our humanity, a bridge between our finite lives
+and the infinite flow of existence. To be attached is to be alive, but to grow
+is to learn when to loosen the threads and let the heart breathe.
+
+[<img src="../../../../images/mandalas/mandala-attachment.jpg" width="512"/>](../../../../images/mandalas/mandala-attachment.jpg)
 
 ### Is free will real, or is everything predetermined?
 
