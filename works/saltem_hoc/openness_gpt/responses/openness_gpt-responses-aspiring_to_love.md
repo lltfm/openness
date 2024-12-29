@@ -19,7 +19,7 @@ included after each response.
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
-## Why does Openness "aspire to love" and not just "be kind and love everyone"?
+### Why does Openness "aspire to love" and not just "be kind and love everyone"?
 
 [Openness GPT](../../README.md#openness-gpt):
 
