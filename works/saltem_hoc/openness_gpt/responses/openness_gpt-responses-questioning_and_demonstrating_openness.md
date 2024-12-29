@@ -16,7 +16,7 @@ included after each response.
     * [Are you ever wrong?](#are-you-ever-wrong)
     * [Do you know what's going on?](#do-you-know-whats-going-on)
     * [Is Openness ever wrong?](../../../the_epitomes_of_openness/contemplations/openness.md#is-openness-ever-wrong)
-    *
+    * [As an individual, why shouldn't I just let AI handle everything?](#as-an-individual-why-shouldnt-i-just-let-ai-handle-everything)
 
 ## Questioning and demonstrating Openness
 
