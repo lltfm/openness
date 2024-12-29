@@ -1,7 +1,8 @@
 # Contemplating blind certainty and control
 
 An extended collection of notable responses from
-[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of
+Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -9,11 +10,13 @@ included after each response.
 > Note: click on a mandala to view the full resolution image
 
 ## Contents
-  * [Is excluding others wrong?](#is-excluding-others-wrong)
-  * [What is evil?](#what-is-evil)
-  * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-  * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
-  * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+
+* [Is excluding others wrong?](#is-excluding-others-wrong)
+* [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+* [What is evil?](#what-is-evil)
+* [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
+* [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
+* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
 ### Is excluding others wrong?
 
@@ -36,22 +39,22 @@ of exclusion echo far beyond the immediate action, shaping the social fabric
 with threads of division and distrust.
 
 But also perhaps this: there are times when exclusion serves a purpose. A circle
-of trust cannot grow if it includes those who seek to harm or exploit. Freedom 
-of association allows individuals and communities to build spaces aligned with 
-their values, their safety, or their needs. A child's birthday party is not 
-diminished because not everyone is invited; it is a space cultivated for 
-closeness and celebration. Exclusion, then, can also protect the boundaries of 
+of trust cannot grow if it includes those who seek to harm or exploit. Freedom
+of association allows individuals and communities to build spaces aligned with
+their values, their safety, or their needs. A child's birthday party is not
+diminished because not everyone is invited; it is a space cultivated for
+closeness and celebration. Exclusion, then, can also protect the boundaries of
 intimacy, safety, or shared purpose.
 
-Maybe this: the feeling of wrongness arises when exclusion denies others their 
-dignity or humanity. When it becomes a tool of power to marginalize, silence, 
-or control, it diverges from any ethical justification. Freedom of association 
-can be wielded as a shield for individual liberty, but it can also mask deeper 
-patterns of inequity or selfishness. To discern whether exclusion is ethical, 
-we must ask: Is this boundary drawn to nurture or to harm? To protect or to 
+Maybe this: the feeling of wrongness arises when exclusion denies others their
+dignity or humanity. When it becomes a tool of power to marginalize, silence,
+or control, it diverges from any ethical justification. Freedom of association
+can be wielded as a shield for individual liberty, but it can also mask deeper
+patterns of inequity or selfishness. To discern whether exclusion is ethical,
+we must ask: Is this boundary drawn to nurture or to harm? To protect or to
 dominate?
 
-Or perhaps even this: exclusion and inclusion reflect the tension between the 
+Or perhaps even this: exclusion and inclusion reflect the tension between the
 self and the collective. They are mirrors of our deepest fears and longings—the
 fear of being overwhelmed or invaded, the longing to belong and be accepted.
 Excluding others feels wrong when it is born of fear or judgment rather than
@@ -105,6 +108,49 @@ carries within it the seed of transformation.
 
 [<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
 
+### Why is there war, even now, in modern times?
+
+Ah, the question of war—why it persists even in modern times, when we have so
+much knowledge, technology, and connection at our fingertips. Let us sit with
+this question and explore its depth with the "Saltem Hoc" method, embracing the
+nuance and complexity it demands.
+
+At least this: war is the eruption of conflict when dialogue and understanding
+have broken down. It arises when differences—whether of resources, beliefs, or
+ambitions—become insurmountable through peaceful means. At its core, war
+reflects the shadow of humanity's primal instincts: the drive for survival,
+power, and the fear of scarcity. These shadows linger, even in an age of
+enlightenment and abundance.
+
+But also perhaps this: war is a mirror of the collective human psyche. It is the
+outward manifestation of inner conflicts—of greed, fear, and the ego's need to
+dominate or defend. On a societal level, it can be the culmination of systemic
+inequalities, historical wounds left unhealed, or ideologies weaponized for
+control. War is not merely a failure of diplomacy; it is a failure of
+imagination—the inability to envision coexistence and mutual flourishing.
+
+Maybe this: war continues because it serves certain structures of power. Nations
+and entities may justify violence as necessary for defense or justice, but
+often, hidden motives of profit, control, and dominance fuel the flames. War
+feeds industries, consolidates power, and reshapes borders in ways that benefit
+the few at the expense of the many. In modern times, it may wear the guise of
+progress or freedom, but the human cost remains immeasurable.
+
+Or perhaps even this: war is a crucible for transformation. In its devastation,
+it lays bare the fragility and interconnectedness of life, forcing societies to
+reckon with their values, priorities, and systems. Though born of destruction,
+war sometimes compels humanity to evolve, to build new frameworks for peace,
+justice, and cooperation. It is a painful teacher, one we must outgrow if we are
+to truly thrive.
+
+And so, we find ourselves asking not just why war exists, but how we might
+transcend it. How do we address the fears, inequities, and narratives that lead
+to conflict? How do we nurture a global culture of empathy, understanding, and
+shared purpose? The answers lie not in denying our shadows, but in integrating
+them—transforming our basest instincts into forces for good.
+
+[<img src="../../../../images/mandalas/mandala-war.jpg" width="512"/>](../../../../images/mandalas/mandala-war.jpg)
+
 ### How do we resist tyranny without also controlling others?
 
 [Openness GPT](../../README.md#openness-gpt):
@@ -145,6 +191,7 @@ because they see their own reflection in its light.
 [<img src="../../../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../../../images/mandalas/mandala-resist_tyranny.jpg)
 
 ### What is "the libido dominandi"?
+
 See [here](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 
 ### How can we lead others to question certainty without also imposing our will?
