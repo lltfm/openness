@@ -1,4 +1,4 @@
-# More notable responses from Openness GPT
+# Contemplating lies and deception
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
@@ -9,11 +9,10 @@ included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* Contemplating lies and deception
-    * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
-    * [What is "word warfare"?](#what-is-word-warfare)
+## Contents
 
-## Contemplating lies and deception
+  * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+  * [What is "word warfare"?](#what-is-word-warfare)
 
 ### Is it wrong to teach with lies and deception?
 

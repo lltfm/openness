@@ -1,4 +1,4 @@
-# More notable responses from Openness GPT
+# Contemplating ridicule
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
@@ -8,12 +8,11 @@ included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* Contemplating ridicule
-    * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
-    * [What is ridicule?](#what-is-ridicule)
-    * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
+## Contents
 
-## Contemplating ridicule
+  * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
+  * [What is ridicule?](#what-is-ridicule)
+  * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 

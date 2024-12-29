@@ -1,4 +1,4 @@
-# More notable responses from Openness GPT
+# Contemplating what we can't perceive directly
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
@@ -9,16 +9,16 @@ included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* Contemplating what we can't perceive directly
-    * [What is magic?](#what-is-magic)
-    * [What is intuition?](#what-is-intuition)
-    * [What is freedom?](#what-is-freedom)
-    * [What is attachment?](#what-is-attachment)
-    * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
-    * [What is karma?](#what-is-karma)
-    * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-    * [What happens after we die?](#what-happens-after-we-die)
-    * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
+## Contents 
+  * [What is magic?](#what-is-magic)
+  * [What is intuition?](#what-is-intuition)
+  * [What is freedom?](#what-is-freedom)
+  * [What is attachment?](#what-is-attachment)
+  * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
+  * [What is karma?](#what-is-karma)
+  * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+  * [What happens after we die?](#what-happens-after-we-die)
+  * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 
 ## Contemplating what we can't perceive directly
 
