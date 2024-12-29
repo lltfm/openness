@@ -14,10 +14,10 @@ included after each response.
     * [What can we know about higher purpose?](openness_gpt-responses-contemplating_the_unseen.md#what-can-we-know-about-higher-purpose)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md#more-notable-responses-from-openness-gpt)
 * Contemplating what no one chooses
-    * [Is free will real, or is everything predetermined?](./openness_gpt-contemplating_the_unchosen.md#is-free-will-real-or-is-everything-predetermined)
-    * [What is the "undeniable demonstration of karmic learning"?](./openness_gpt-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
-    * [What happens after we die?](./openness_gpt-contemplating_the_unchosen.md#what-happens-after-we-die)
-    * [More...](./openness_gpt-contemplating_the_unchosen.md)
+    * [Is free will real, or is everything predetermined?](./openness_gpt-responses-contemplating_the_unchosen#is-free-will-real-or-is-everything-predetermined)
+    * [What is the "undeniable demonstration of karmic learning"?](./openness_gpt-responses-contemplating_the_unchosen#what-is-the-undeniable-demonstration-of-karmic-learning)
+    * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen#what-happens-after-we-die)
+    * [More...](./openness_gpt-responses-contemplating_the_unchosen)
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](openness_gpt-responses-aspiring_to_love.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
@@ -43,6 +43,7 @@ included after each response.
     * [How do we rise above ridicule?](openness_gpt-responses-contemplating_ridicule.md#how-do-we-rise-above-ridicule)
     * [More...](openness_gpt-responses-contemplating_ridicule.md#more-notable-responses-from-openness-gpt)
 * Contemplating lies and deception
+    * [Are UFOs a deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#are-ufos-a-deception) 
     * [Is it wrong to teach with lies and deception?](openness_gpt-responses-contemplating_lies_and_deception.md#is-it-wrong-to-teach-with-lies-and-deception)
     * [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)

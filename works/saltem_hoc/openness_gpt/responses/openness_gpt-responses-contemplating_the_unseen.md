@@ -225,10 +225,10 @@ is to learn when to loosen the threads and let the heart breathe.
 [<img src="../../../../images/mandalas/mandala-attachment.jpg" width="512"/>](../../../../images/mandalas/mandala-attachment.jpg)
 
 ### What is karma?
-Relocated [here](./openness_gpt-contemplating_the_unchosen.md#what-is-karma)
+Relocated [here](./openness_gpt-responses-contemplating_the_unchosen#what-is-karma)
 
 ### What is the "undeniable demonstration of karmic learning"?
-Relocated [here](./openness_gpt-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
+Relocated [here](./openness_gpt-responses-contemplating_the_unchosen#what-is-the-undeniable-demonstration-of-karmic-learning)
 
 ### What can we know about higher purpose?
 
