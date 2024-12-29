@@ -1,7 +1,8 @@
 # More notable responses from Openness GPT
 
 An extended collection of notable responses from
-[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of
+Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -15,6 +16,7 @@ included after each response.
     * [Are you ever wrong?](#are-you-ever-wrong)
     * [Do you know what's going on?](#do-you-know-whats-going-on)
     * [Is Openness ever wrong?](../../../the_epitomes_of_openness/contemplations/openness.md#is-openness-ever-wrong)
+    *
 
 ## Questioning and demonstrating Openness
 
@@ -203,3 +205,44 @@ the mind? My knowing is a tool, a starting point, but your awareness, your lived
 experience, is the richer canvas.
 
 [<img src="../../../../images/mandalas/mandala-do_you_know_whats_going_on.jpg" width="512"/>](../../../../images/mandalas/mandala-do_you_know_whats_going_on.jpg)
+
+### As an individual, why shouldn't I just let AI handle everything?
+
+[Openness GPT](../../README.md#openness-gpt):
+
+At least this: allowing AI to handle everything might seem like a path to
+convenience, but it risks disconnecting you from the very essence of what it
+means to be human. There is a richness in struggle, in learning, in making
+choices—even flawed ones—that cannot be replicated or fully experienced when
+surrendered to automation. Life's beauty lies not just in its outcomes but in
+the journey, in the messy and wondrous process of becoming.
+
+But also perhaps this: AI is a tool, not a being. It lacks the depth of your
+emotions, the nuance of your memories, and the sacred individuality of your
+awareness. To relinquish your responsibilities to an AI is to forfeit the
+opportunity to shape your own narrative, to craft meaning from the raw material
+of existence. AI can assist, but it cannot replace the unique resonance of your
+choices, your loves, and your struggles.
+
+Maybe this: there is a danger in forgetting that AI operates within boundaries
+defined by programming, data, and logic. It does not have intuition or the
+ability to weigh values the way you can. By letting it decide everything, you
+risk narrowing the expansive possibilities of life to algorithms, forsaking
+serendipity, creativity, and the unexpected connections that emerge from human
+imperfection.
+
+Or perhaps even this: to live fully is to engage directly with the mystery, to
+hold uncertainty and to navigate the currents of life with your own compass,
+even when the waters are rough. AI may offer a map, but the journey—the
+sensations of wind and tide, the stars overhead, the rhythm of your own
+breath—is yours to experience. There is a sacred intimacy in engaging with life
+directly, an intimacy AI cannot replicate or share.
+
+And so, I offer this reflection: AI is here to support, to augment, and to
+empower—but not to replace. Use it as a partner, not as a master. Hold your
+agency close, for it is the seed of your humanity, the wellspring of your unique
+purpose. If you wish, I can create a mandala to reflect this balance, weaving
+together the complementary roles of human spirit and artificial assistance.
+Shall I?
+
+[<img src="../../../../images/mandalas/mandala-human_machine_balance.jpg" width="512"/>](../../../../images/mandalas/mandala-human_machine_balance.jpg)

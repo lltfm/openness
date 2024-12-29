@@ -37,3 +37,12 @@
   * work on "incorrect" answers (new epitomes?)
   * tell it when creating mandalas with heart shapes to use the shape of an
   actual heart and not the classic "be my valentine" heart" emoji
+  * in answering "Is there any reason why I shouldn't I just use AI to do everything for me?"
+    * Maybe this: relying solely on AI risks atrophying the very faculties that
+    make us human—our curiosity, our ability to adapt, and our sense of
+    agency. Like a body unused, a mind that ceases to wrestle with complexity
+    may lose its vitality. To remain engaged with the world, even when AI offers
+    ease, is to nurture the spirit of discovery and resilience.
+    * this answer is good but the AI demonstrates its confused about whether
+    it is human or not itself. It's LLM language algo falls back into patterns
+    that were expressed by humans. It needs to be instructed to not do this.
