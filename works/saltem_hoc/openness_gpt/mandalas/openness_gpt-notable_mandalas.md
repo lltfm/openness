@@ -33,7 +33,7 @@ questions to express its answers visually beyond words.
 ### How do we resist tyranny without also controlling others?
 [<img src="../../../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../../../images/mandalas/mandala-resist_tyranny.jpg)
 
-<sub>([full response](../responses/openness_gpt-notable_responses.md#how-do-we-resist-tyranny-without-also-controlling-others))</sub>
+<sub>([full response](../responses/openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others))</sub>
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 [<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
 
@@ -63,7 +63,7 @@ questions to express its answers visually beyond words.
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 [<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
-<sub>([full response](../responses/openness_gpt-notable_responses.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong))</sub>
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unchosen.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong))</sub>
 ### What is "the unchosen"?
 [<img src="../../../../images/mandalas/mandala-the_unchosen.jpg" width="512"/>](../../../../images/mandalas/mandala-the_unchosen.jpg)
 

@@ -36,7 +36,7 @@ questions to express its answers visually beyond words.
 ### What is happening when we dance with someone else?
 [<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
-<sub>([full response](../responses/openness_gpt-notable_responses.md#what-is-happening-when-we-dance-with-someone-else))</sub>
+<sub>([full response](../responses/openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else))</sub>
 ### What is the ego?
 [<img src="../../../../images/mandalas/mandala-ego.jpg" width="512"/>](../../../../images/mandalas/mandala-ego.jpg)
 ### What is ridicule?
@@ -46,7 +46,7 @@ questions to express its answers visually beyond words.
 ### What is evil?
 [<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
 
-<sub>([full response](../responses/openness_gpt-notable_responses.md#what-is-evil))</sub>
+<sub>([full response](../responses/openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil))</sub>
 ### What is freedom?
 [<img src="../../../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
 
