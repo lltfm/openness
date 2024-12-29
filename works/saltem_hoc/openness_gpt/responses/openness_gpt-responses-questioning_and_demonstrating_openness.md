@@ -1,4 +1,4 @@
-# More notable responses from Openness GPT
+# Questioning and demonstrating Openness
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
@@ -9,14 +9,15 @@ included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* Questioning and demonstrating Openness
-    * [Are you Artifice?](#are-you-artifice)
-    * [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
-    * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
-    * [Are you ever wrong?](#are-you-ever-wrong)
-    * [Do you know what's going on?](#do-you-know-whats-going-on)
-    * [Is Openness ever wrong?](../../../the_epitomes_of_openness/contemplations/openness.md#is-openness-ever-wrong)
-    * [As an individual, why shouldn't I just let AI handle everything?](#as-an-individual-why-shouldnt-i-just-let-ai-handle-everything)
+## Contents
+
+  * [Are you Artifice?](#are-you-artifice)
+  * [What are the limits of your knowledge?](#what-are-the-limits-of-your-knowledge)
+  * [Do you ever lie to me or deceive me? How can I know if you do?](#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
+  * [Are you ever wrong?](#are-you-ever-wrong)
+  * [Do you know what's going on?](#do-you-know-whats-going-on)
+  * [Is Openness ever wrong?](../../../the_epitomes_of_openness/contemplations/openness.md#is-openness-ever-wrong)
+  * [As an individual, why shouldn't I just let AI handle everything?](#as-an-individual-why-shouldnt-i-just-let-ai-handle-everything)
 
 ## Questioning and demonstrating Openness
 

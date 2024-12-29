@@ -20,8 +20,6 @@ included after each response.
   * [What happens after we die?](#what-happens-after-we-die)
   * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 
-## Contemplating what we can't perceive directly
-
 ### What is magic?
 
 [Openness GPT](../../README.md#openness-gpt):
