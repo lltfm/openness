@@ -9,13 +9,19 @@ included after each response.
 > Note: click on a mandala to view the full resolution image
 
 * Contemplating what we can't perceive directly
-    * [What happens after we die?](openness_gpt-responses-contemplating_the_unseen.md#what-happens-after-we-die)
-    * [Is free will real, or is everything predetermined?](openness_gpt-responses-contemplating_the_unseen.md#is-free-will-real-or-is-everything-predetermined)
+    * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
+    * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
     * [What can we know about higher purpose?](openness_gpt-responses-contemplating_the_unseen.md#what-can-we-know-about-higher-purpose)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md#more-notable-responses-from-openness-gpt)
+* Contemplating the unchosen
+    * [Is free will real, or is everything predetermined?](./openness_gpt-contemplating_the_unchosen.md#is-free-will-real-or-is-everything-predetermined)
+    * [What is the "undeniable demonstration of karmic learning"?](./openness_gpt-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
+    * [What happens after we die?](openness_gpt-responses-contemplating_the_unseen.md#what-happens-after-we-die)
+    * [More...](./openness_gpt-contemplating_the_unchosen.md)
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](openness_gpt-responses-aspiring_to_love.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
+    * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
     * [More...](openness_gpt-responses-aspiring_to_love.md#more-notable-responses-from-openness-gpt)
 * Contemplating Openness
     * [Are there limits to Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
@@ -27,6 +33,11 @@ included after each response.
     * [Do you ever lie to me or deceive me? How can I know if you do?](openness_gpt-responses-questioning_and_demonstrating_openness.md#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
     * [Are you ever wrong?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-ever-wrong)
     * [More...](openness_gpt-responses-questioning_and_demonstrating_openness.md#more-notable-responses-from-openness-gpt)
+* Contemplating blind certainty and control
+    * [Is excluding others wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-excluding-others-wrong)
+    * [What is evil?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil)
+    * [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
+    * [More...](./openness_gpt-responses-contemplating_blind_certainty_and_control.md)
 * Contemplating ridicule
     * [What is ridicule?](openness_gpt-responses-contemplating_ridicule.md#what-is-ridicule)
     * [How do we rise above ridicule?](openness_gpt-responses-contemplating_ridicule.md#how-do-we-rise-above-ridicule)

@@ -90,3 +90,5 @@
   * refactored openness gpt into folder structure  
   * refactored code to its own folder
   * added notable responses and mandalas
+* Dec 29 2024
+  * refactored notable responses
