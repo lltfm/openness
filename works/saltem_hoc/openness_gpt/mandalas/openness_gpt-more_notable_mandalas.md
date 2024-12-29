@@ -60,11 +60,11 @@ questions to express its answers visually beyond words.
 ### What is karma?
 [<img src="../../../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
 
-<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unseen.md#what-is-karma))</sub>
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unchosen.md#what-is-karma))</sub>
 ### What is the "undeniable demonstration of karmic learning"?
 [<img src="../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
 
-<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unseen.md#what-is-the-undeniable-demonstration-of-karmic-learning))</sub>
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning))</sub>
 ### What is laughter?
 [<img src="../../../../images/mandalas/mandala-laughter.jpg" width="512"/>](../../../../images/mandalas/mandala-laughter.jpg)
 ### What is magic?
