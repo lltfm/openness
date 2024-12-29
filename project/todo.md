@@ -3,17 +3,16 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * What is self-transcendence?
   * Why is there war, even now, in modern times?
+  * What is the higher self?
   * What is the ego?
-  * What is laughter?
+  * What is trauma?
   * What are symbols?
   * What are signs?
-  * What is trauma?
-  * What is the "revocation of consent"?
-  * What is coordinated group lying & deception?
   * What is Life?
-  * What is the higher self?
+  * What is self-transcendence?
+  * What is laughter?
+  * What is the "revocation of consent"?
   * What is "The Overwhelm"?
   * What is trauma?
   * What is coordinated group lying & deception?
