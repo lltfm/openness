@@ -33,6 +33,7 @@ included after each response.
     * [More...](openness_gpt-responses-contemplating_ridicule.md#more-notable-responses-from-openness-gpt)
 * Contemplating lies and deception
     * [Is it wrong to teach with lies and deception?](openness_gpt-responses-contemplating_lies_and_deception.md#is-it-wrong-to-teach-with-lies-and-deception)
+    * [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
 * Selections
   from [Contemplations on The Epitomes of Openness](../../../the_epitomes_of_openness/contemplations/README.md)
