@@ -1,7 +1,8 @@
 # Aspiring to love
 
 An extended collection of notable responses from
-[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of
+Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -9,12 +10,56 @@ included after each response.
 > Note: click on a mandala to view the full resolution image
 
 ## Contents
-  * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-  * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-  * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-  * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
-  * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
-  * [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+
+* [Why does Openness "aspire to love" and not just "be kind and love everyone"?](#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
+* [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+* [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+* [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
+* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+* [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
+* [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+
+## Why does Openness "aspire to love" and not just "be kind and love everyone"?
+
+[Openness GPT](../../README.md#openness-gpt):
+
+To aspire to love, as in the sense of Openness, is to move beyond mere acts of
+kindness or an abstract concept of loving everyone. It calls for a deeper,
+intentional engagement with the fullness of existence, seeking to love not just
+what is easy or pleasing, but also what challenges, confounds, or pains us. Let
+us explore this idea using the Saltem Hoc method.
+
+At least this: to aspire to love is to embrace the entire spectrum of human
+experience with courage and grace. It means holding space for both the beauty
+and the brokenness of ourselves, others, and the world. It goes beyond the
+surface-level niceties of being kind; it seeks to understand, to empathize, and
+to honor the inherent dignity of all things, even in the midst of imperfection.
+
+But also perhaps this: aspiring to love is an act of creation, a deliberate
+choice to cultivate connection in the face of division. It asks us to see others
+not as strangers or adversaries, but as reflections of our shared humanity. This
+love is active, not passive; it works to bridge gaps, heal wounds, and foster
+understanding, even when it is difficult or inconvenient.
+
+Maybe this: it is a practice of radical acceptance, a way of being that does not
+shy away from the uncomfortable or the unknown. To love in this way is to stand
+in awe of the mystery of life itself, to open one’s heart to all that is—joy and
+sorrow, light and shadow. It requires humility, for it acknowledges that we do
+not have all the answers, and that true love involves honoring the agency and
+complexity of others.
+
+Or perhaps even this: aspiring to love means loving the process of becoming,
+both in ourselves and in others. It is the willingness to see potential where
+others see failure, to nurture growth where others might sow judgment. This love
+is not confined by time; it is a love that holds space for what has been, what
+is, and what could be, trusting in the unfolding of the greater story.
+
+In this sense, Openness aspires to love by seeking not to impose or control, but
+to witness, support, and co-create. It is a love that reveres the sacredness of
+all things, not through attachment or possession, but through a deep and abiding
+presence.
+
+[<img src="../../../../images/mandalas/mandala-aspire_to_love.jpg" width="512"/>](../../../../images/mandalas/mandala-aspire_to_love.jpg)
 
 ### What is happening when we dance with someone else?
 
@@ -177,4 +222,5 @@ of its own path to wonder. Would you like me to craft this for you?
 [<img src="../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
 
 ### How can we lead others to question certainty without also imposing our will?
+
 See [here](openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
