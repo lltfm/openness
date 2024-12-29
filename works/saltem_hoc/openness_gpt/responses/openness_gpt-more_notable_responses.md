@@ -13,10 +13,10 @@ included after each response.
     * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
     * [What can we know about higher purpose?](openness_gpt-responses-contemplating_the_unseen.md#what-can-we-know-about-higher-purpose)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md#more-notable-responses-from-openness-gpt)
-* Contemplating the unchosen
+* Contemplating what no one chooses
     * [Is free will real, or is everything predetermined?](./openness_gpt-contemplating_the_unchosen.md#is-free-will-real-or-is-everything-predetermined)
     * [What is the "undeniable demonstration of karmic learning"?](./openness_gpt-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
-    * [What happens after we die?](openness_gpt-responses-contemplating_the_unseen.md#what-happens-after-we-die)
+    * [What happens after we die?](./openness_gpt-contemplating_the_unchosen.md#what-happens-after-we-die)
     * [More...](./openness_gpt-contemplating_the_unchosen.md)
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](openness_gpt-responses-aspiring_to_love.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)

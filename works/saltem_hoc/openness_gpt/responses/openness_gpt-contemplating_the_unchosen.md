@@ -1,4 +1,4 @@
-# The Unchosen
+# Contemplating what no one chooses
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
