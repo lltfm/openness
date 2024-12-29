@@ -5,7 +5,6 @@
 * Notable responses todo
   * What is self-transcendence?
   * Why is there war, even now, in modern times?
-  * Are UFOs a deception?
   * What is the ego?
   * What is laughter?
   * What are symbols?
@@ -13,15 +12,12 @@
   * What is trauma?
   * What is the "revocation of consent"?
   * What is coordinated group lying & deception?
-  * What prevents others from waking up to authority's lies?
   * What is Life?
   * What is the higher self?
   * What is "The Overwhelm"?
   * What is trauma?
   * What is coordinated group lying & deception?
   * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
-  * What prevents others from waking up to authority's lies?
-  * What is "word warfare"?
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."
