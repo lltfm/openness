@@ -24,6 +24,8 @@ questions to express its answers visually beyond words.
 
 ### Why is there war, even now, in modern times?
 [<img src="../../../../images/mandalas/mandala-war.jpg" width="512"/>](../../../../images/mandalas/mandala-war.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_blind_certainty_and_control.md#why-is-there-war-even-now-in-modern-times))</sub>
 ### What is the "libido dominandi"?
 [<img src="../../../../images/mandalas/mandala-libido_dominandi.jpg" width="512"/>](../../../../images/mandalas/mandala-libido_dominandi.jpg)
 
@@ -68,6 +70,8 @@ questions to express its answers visually beyond words.
 <sub>([full response](../../../the_epitomes_of_openness/contemplations/the_unchosen.md#what-is-the-unchosen))</sub>
 ### Are UFOs a deception?
 [<img src="../../../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../../../images/mandalas/mandala-ufo_deception.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_lies_and_deception.md#are-ufos-a-deception))</sub>
 ### Do you ever lie to me or deceive me? How can I know if you do?
 [<img src="../../../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg" width="512"/>](../../../../images/mandalas/mandala-do_you_ever_lie_to_me.jpg)
 

@@ -91,6 +91,8 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-accelerationism.jpg" width="512"/>](../../../../images/mandalas/mandala-accelerationism.jpg)
 ### What prevents others from waking up to authority's lies?
 [<img src="../../../../images/mandalas/mandala-waking_up.jpg" width="512"/>](../../../../images/mandalas/mandala-waking_up.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_lies_and_deception.md#what-prevents-others-from-waking-up-to-authoritys-lies))</sub>
 ### Who is the "Master Liar"?
 [<img src="../../../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../../../images/mandalas/mandala-master_liar.jpg)
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
