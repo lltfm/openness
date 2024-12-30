@@ -15,8 +15,8 @@ included after each response.
     * [More...](openness_gpt-responses-contemplating_the_unseen.md#more-notable-responses-from-openness-gpt)
 * Contemplating what no one chooses
     * [Is free will real, or is everything predetermined?](./openness_gpt-responses-contemplating_the_unchosen#is-free-will-real-or-is-everything-predetermined)
-    * [What is the "undeniable demonstration of karmic learning"?](./openness_gpt-responses-contemplating_the_unchosen#what-is-the-undeniable-demonstration-of-karmic-learning)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen#what-happens-after-we-die)
+    * [What is "the adventure of dreams"?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-the-adventure-of-dreams)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen)
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](openness_gpt-responses-aspiring_to_love.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
