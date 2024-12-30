@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * Why is there war, even now, in modern times?
   * What is the higher self?
   * What is the ego?
   * What is trauma?
@@ -16,7 +15,6 @@
   * What is the "revocation of consent"?
   * What is "The Overwhelm"?
   * What is trauma?
-  * What is coordinated group lying & deception?
   * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12

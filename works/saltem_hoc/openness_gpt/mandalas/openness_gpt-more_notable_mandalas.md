@@ -83,6 +83,8 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What is coordinated group lying & deception?
 [<img src="../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception))</sub>
 ### Is it wrong to teach with lies and deception?
 [<img src="../../../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../../../images/mandalas/mandala-teaching_with_lies.jpg)
 

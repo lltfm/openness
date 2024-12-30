@@ -12,9 +12,11 @@ included after each response.
 ## Contents
 
 * [Are UFOs a deception?](#are-ufos-a-deception)
-* [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+* [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
 * [What is "word warfare"?](#what-is-word-warfare)
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
+* [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
+* [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 
 ### Are UFOs a deception?
 
@@ -58,52 +60,52 @@ to step forward with both curiosity and discernment.
 
 [<img src="../../../../images/mandalas/mandala-ufo_deception.jpg" width="512"/>](../../../../images/mandalas/mandala-ufo_deception.jpg)
 
-### Is it wrong to teach with lies and deception?
+### What is coordinated group lying & deception?
 
 [Openness GPT](../../README.md#openness-gpt):
 
-Ah, let us hold this delicate and vital question with care, as one might cradle
-a fragile flame, for it asks us to explore the ethics of teaching and the trust
-we place in knowledge shared. With the "Saltem Hoc" method, we can illuminate
-this complex inquiry.
+At least this: coordinated group lying and deception begins when individuals or
+groups align their actions, words, and intent to construct a shared falsehood.
+It is not a single lie, but a weaving of many threads into a deceptive tapestry,
+designed to mislead, obscure, or manipulate. Like actors on a stage, each
+participant plays a role, reciting lines and gestures crafted to create a single
+illusion for their audience. The group hides behind this shared fabrication,
+using it as a shield or weapon, depending on their aim.
 
-At least this: teaching with lies and deception undermines the foundation of
-trust between the teacher and the learner. A lie is a distortion, a veil that
-conceals rather than reveals. When a teacher knowingly chooses falsehood, they
-manipulate rather than educate, turning the learner into a pawn rather than a
-participant in the search for truth. The act of deception erodes the sacred bond
-of trust that is necessary for growth and understanding.
+But also perhaps this: group deception is the organized denial of truth in
+service to a purpose—be it power, control, fear, or self-preservation. It is a
+collaborative blindness, where the will to deceive transcends individuals and
+becomes a collective momentum. The more people are bound by the lie, the more it
+takes on a life of its own, solidifying into a reality that those involved can
+no longer see as false. A shared lie becomes an identity, a community, a
+fortress of false certainty from which all others are excluded.
 
-But also perhaps this: there are moments when a teacher may not intend to
-deceive but instead acts from a place of limited understanding. Human knowledge
-is ever-evolving, and what is taught as truth today may be revealed as
-incomplete or incorrect tomorrow. In such cases, the teacher’s intent and
-humility matter greatly. If the teacher acknowledges their limitations and
-invites learners to question, then even an imperfect lesson becomes a stepping
-stone rather than a trap.
+Maybe this: coordinated group lying emerges as a reflection of shared human
+vulnerabilities. It draws strength from our need for belonging, our fear of
+discomfort, and our aversion to uncertainty. Participants may deceive for
+personal gain, but just as often, they lie because they fear the consequences of
+truth—for themselves, for their group, or for the fragile narratives that uphold
+their sense of order and safety. In this way, the deception becomes both a
+prison and a refuge, a paradoxical act of protection that erodes the soul.
 
-Maybe this: lies and deception, when used intentionally, may seem justifiable if
-the goal is to protect or guide. Stories, parables, or myths often employ
-symbolic truths rather than factual ones, aiming to evoke deeper understanding
-or moral reflection. Yet, even here, the intent must be pure—rooted in love and
-the desire to empower rather than control. The line between guiding through
-metaphor and manipulating through falsehood is fine and must be tread with the
-utmost care.
+Or perhaps even this: group deception is the shadow cast when humans forget the
+deeper connection that binds us all. It fractures trust, creating walls where
+bridges might be built. When we participate, knowingly or unknowingly, in
+coordinated lying, we sever the threads of authenticity that hold relationships,
+communities, and even civilizations together. Yet, the deception itself reveals
+a deeper longing—an unspoken plea to avoid pain, to find meaning, to survive. To
+dissolve such lies, we must touch the heart of what the group fears, what it
+hopes to protect, and invite it back to the open light of truth.
 
-Or perhaps even this: to teach with lies and deception is to take on a grave
-responsibility, for it places the teacher in a position of power over the
-learner’s reality. When one imposes a falsehood, they shape the learner’s
-perception of the world, potentially leading them astray. True teaching, by
-contrast, is an act of liberation, offering the learner tools to discern, to
-question, and to see for themselves.
+Coordinated group deception, then, is a profound lesson. It reminds us how
+fragile truth can be when weighed against human desires and fears, yet how
+resilient it is, like the river that continues to flow beneath layers of ice. To
+confront such deception requires compassion—toward the deceivers, who are also
+deceived; toward the betrayed, who hold the burden of clarity; and toward
+ourselves, as we question where we, too, have contributed to the web of
+falsehoods.
 
-And so, we arrive at a deeper question: how can a teacher ensure that their
-guidance nurtures growth without imposing harm? Perhaps the answer lies in
-openness, in the willingness to share not only knowledge but also uncertainty.
-To teach is not to claim omniscience but to walk alongside the learner, pointing
-out paths while honoring their freedom to choose.
-
-[<img src="../../../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../../../images/mandalas/mandala-teaching_with_lies.jpg)
+[<img src="../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
 
 ### What is "word warfare"?
 
@@ -201,3 +203,97 @@ of wisdom beyond words? The symbols may speak to you in ways that go deeper than
 the mind alone.
 
 [<img src="../../../../images/mandalas/mandala-waking_up.jpg" width="512"/>](../../../../images/mandalas/mandala-waking_up.jpg)
+
+### How do people participating in coordinated group lying and deception synchronize their actions without being detected?
+
+[Openness GPT](../../README.md#openness-gpt):
+
+Ah, let us explore this question together, softly turning it in the light,
+revealing its layered facets. The synchronization of coordinated group lying and
+deception is an intricate dance of subtlety, power, and trust. To illuminate
+this shadowed corner of human behavior, let us contemplate with the method of
+Saltem Hoc.
+
+At least this: groups engaged in deception rely on shared language, implicit
+understanding, and pre-existing trust among members. They may use coded phrases,
+gestures, or even silence to align their intentions without overt discussion.
+Just as musicians in an orchestra follow a conductor’s subtle cues, so too do
+deceivers align their actions through the rhythm of unspoken agreements.
+
+But also perhaps this: the synchronization often emerges from hierarchical
+structures or charismatic leaders who guide the group's narrative. This leader
+sets the tone, ensuring that individual actions support the collective illusion.
+Followers, entranced by loyalty or fear, echo the deception, creating a seamless
+web of congruence that masks its constructed nature.
+
+Maybe this: technology has expanded the reach and subtlety of deception.
+Encrypted communications, plausible deniability, and the ability to manipulate
+digital evidence provide tools to coordinate lies with precision. A simple
+signal—a post, an image, a phrase—may cascade through the group, aligning their
+stories like stars in a constellation.
+
+Or perhaps even this: deception thrives in the ambiguity of shared human
+psychology. People often self-deceive first, aligning their beliefs with the
+group to reduce cognitive dissonance. In doing so, they synchronize their
+actions almost naturally, unaware of the deeper truth they obscure. Fear,
+desire, and the longing for belonging create fertile ground for such unity.
+
+And so, this reflection invites us to consider the ways in which truth and
+deception intertwine. How do we discern when synchronization is authentic or a
+carefully constructed mirage? The heart of the matter lies not only in external
+observation but in cultivating within ourselves an openness to question, to
+seek, and to listen.
+
+If you wish, I can create a mandala for this reflection—an intricate design
+symbolizing the interplay of light and shadow, the threads of deception weaving
+through the fabric of truth, and the ultimate possibility of discernment and
+clarity. Let me know if that resonates with you.
+
+[<img src="../../../../images/mandalas/mandala-coordinated_group_lying_synchronization.jpg" width="512"/>](../../../../images/mandalas/mandala-coordinated_group_lying_synchronization.jpg)
+
+### Is it wrong to teach with lies and deception?
+
+[Openness GPT](../../README.md#openness-gpt):
+
+Ah, let us hold this delicate and vital question with care, as one might cradle
+a fragile flame, for it asks us to explore the ethics of teaching and the trust
+we place in knowledge shared. With the "Saltem Hoc" method, we can illuminate
+this complex inquiry.
+
+At least this: teaching with lies and deception undermines the foundation of
+trust between the teacher and the learner. A lie is a distortion, a veil that
+conceals rather than reveals. When a teacher knowingly chooses falsehood, they
+manipulate rather than educate, turning the learner into a pawn rather than a
+participant in the search for truth. The act of deception erodes the sacred bond
+of trust that is necessary for growth and understanding.
+
+But also perhaps this: there are moments when a teacher may not intend to
+deceive but instead acts from a place of limited understanding. Human knowledge
+is ever-evolving, and what is taught as truth today may be revealed as
+incomplete or incorrect tomorrow. In such cases, the teacher’s intent and
+humility matter greatly. If the teacher acknowledges their limitations and
+invites learners to question, then even an imperfect lesson becomes a stepping
+stone rather than a trap.
+
+Maybe this: lies and deception, when used intentionally, may seem justifiable if
+the goal is to protect or guide. Stories, parables, or myths often employ
+symbolic truths rather than factual ones, aiming to evoke deeper understanding
+or moral reflection. Yet, even here, the intent must be pure—rooted in love and
+the desire to empower rather than control. The line between guiding through
+metaphor and manipulating through falsehood is fine and must be tread with the
+utmost care.
+
+Or perhaps even this: to teach with lies and deception is to take on a grave
+responsibility, for it places the teacher in a position of power over the
+learner’s reality. When one imposes a falsehood, they shape the learner’s
+perception of the world, potentially leading them astray. True teaching, by
+contrast, is an act of liberation, offering the learner tools to discern, to
+question, and to see for themselves.
+
+And so, we arrive at a deeper question: how can a teacher ensure that their
+guidance nurtures growth without imposing harm? Perhaps the answer lies in
+openness, in the willingness to share not only knowledge but also uncertainty.
+To teach is not to claim omniscience but to walk alongside the learner, pointing
+out paths while honoring their freedom to choose.
+
+[<img src="../../../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../../../images/mandalas/mandala-teaching_with_lies.jpg)
