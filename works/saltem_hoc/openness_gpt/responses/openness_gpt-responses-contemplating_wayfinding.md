@@ -13,6 +13,7 @@ included after each response.
 
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
 * [What is the "higher self"?](#what-is-the-higher-self)
+* [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
 * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
@@ -95,6 +96,9 @@ presence already there, gentle and unwavering, inviting you to become more fully
 yourself.
 
 [<img src="../../../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_self.jpg)
+
+### What is the "river-truth of tears"?
+See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 
 ### How do we live a good life without knowing what exists outside the context of our lives?
 
