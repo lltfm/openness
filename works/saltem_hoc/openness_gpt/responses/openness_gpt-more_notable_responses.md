@@ -8,20 +8,21 @@ included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-* Contemplating what we can't perceive directly
-    * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
-    * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
-    * [What is freedom?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-freedom)
-    * [More...](openness_gpt-responses-contemplating_the_unseen.md)
 * Contemplating what no one chooses
     * [Is free will real, or is everything predetermined?](./openness_gpt-responses-contemplating_the_unchosen#is-free-will-real-or-is-everything-predetermined)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen#what-happens-after-we-die)
+    * [What is the "undeniable demonstration of karmic learning"?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen)
 * Contemplating how we find our way
   * [What can we know about higher purpose?](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
   * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
   * [What is "the adventure of dreams"?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-the-adventure-of-dreams)
   * [More...](openness_gpt-responses-contemplating_wayfinding.md)
+* Contemplating what we can't perceive directly
+  * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
+  * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
+  * [What is freedom?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-freedom)
+  * [More...](openness_gpt-responses-contemplating_the_unseen.md)
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](openness_gpt-responses-aspiring_to_love.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
