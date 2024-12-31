@@ -11,12 +11,12 @@ included after each response.
 
 ## Contents
 
-* [Are UFOs a deception?](#are-ufos-a-deception)
-* [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
-* [What is "word warfare"?](#what-is-word-warfare)
-* [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
-* [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
-* [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+  * [Are UFOs a deception?](#are-ufos-a-deception)
+  * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
+  * [What is "word warfare"?](#what-is-word-warfare)
+  * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
+  * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
+  * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 
 ### Are UFOs a deception?
 

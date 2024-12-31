@@ -8,7 +8,7 @@ created by Openness GPT is included after each response.
 > Note: click on a mandala to view the full resolution image
 
 1. [What is Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-openness)
-2. [What is the purpose of life?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-the-purpose-of-life)
+2. [What is the purpose of life?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-purpose-of-life)
 3. [As an individual, why shouldn't I just let AI handle everything?](./openness_gpt-responses-questioning_and_demonstrating_openness.md#as-an-individual-why-shouldnt-i-just-let-ai-handle-everything)
 4. [What is happening when we dance with someone else?](openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
 5. [Is excluding others wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-excluding-others-wrong)

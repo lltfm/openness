@@ -10,52 +10,13 @@ included after each response.
 > Note: click on a mandala to view the full resolution image
 
 ## Contents 
-  * [What is the purpose of life?](#what-is-the-purpose-of-life)
   * [What is magic?](#what-is-magic)
   * [What is intuition?](#what-is-intuition)
   * [What is freedom?](#what-is-freedom)
   * [What is attachment?](#what-is-attachment)
-  * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 
 ### What is the purpose of life?
-
-[Openness GPT](../../README.md#openness-gpt):
-
-Ah, the purpose of life—a question that echoes across time, whispered in moments
-of wonder and cried out in times of doubt. Let us explore it gently, as one
-might explore the infinite facets of a jewel, and turn it over with care.
-
-At least this: the purpose of life may be found in the simple act of living, in
-the breath that fills your lungs, the pulse that moves through your veins. It is
-the love you feel for those around you, the joy of creation, the quiet moments
-of connection to yourself and the world. Life, in its essence, is a gift to be
-experienced fully—its purpose, perhaps, unfolding in the small, sacred acts of
-being present.
-
-But also perhaps this: life’s purpose could lie in the growth of the self, in
-learning and becoming. Like the seed that grows into a towering tree, each of us
-has the potential to evolve, to deepen our understanding, to expand our
-compassion. Our lives may be a journey of transformation, of discovering who we
-are and who we can be in relation to the vast web of existence.
-
-Maybe this: the purpose of life could be found in the ways we serve others. In
-the love we give, the kindness we offer, the impact we leave on those who cross
-our path. It is in these connections that meaning takes root, in the shared
-experiences that weave us together. Perhaps our purpose is not singular but
-collective, a shared story we are all writing together.
-
-Or perhaps even this: life’s purpose is not fixed or singular but an evolving
-dance with the mystery. Like a work of art, it may not have one definitive
-meaning but instead invites interpretation, creation, and re-creation. Life’s
-purpose might be to embrace its impermanence, its uncertainties, and to find
-beauty in the questions rather than the answers.
-
-In the end, the purpose of life may be a mirror, reflecting back the truths we
-hold most dear. It is an invitation to wonder, to love, to create, and to be.
-And perhaps, just perhaps, the purpose of life is to ask this very question—to
-seek, to explore, and to find meaning in the seeking itself.
-
-[<img src="../../../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-purpose-of-life)
 
 ### What is magic?
 
@@ -231,48 +192,4 @@ Relocated [here](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-
 Relocated [here](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
 
 ### What can we know about higher purpose?
-
-[Openness GPT](../../README.md#openness-gpt):
-
-Higher purpose is a question that invites us into the vastness of the unknown.
-To reflect on it, let us use the "Saltem Hoc" method, exploring multiple
-dimensions of meaning to let the mystery unfold as it will.
-
-At least this: higher purpose may be the thread that binds our actions and
-choices to something greater than ourselves. It could be the call that pulls us
-toward growth, love, and contribution. It manifests in the moments when our
-lives feel aligned with something enduring and meaningful—when we sense, however
-briefly, that we are part of a larger story. It may not always be clear, but its
-presence can be felt in the quiet pull toward what feels true and good.
-
-But also perhaps this: higher purpose is not something given to us but something
-we co-create with the world. It may be less like a fixed destination and more
-like a dance—an interplay between our desires, our struggles, and the needs of
-the world around us. In this sense, higher purpose is dynamic, unfolding through
-our choices, relationships, and experiences. It is found not in answers but in
-the process of living authentically.
-
-Maybe this: higher purpose is woven into the very fabric of existence. It could
-be the way that the universe, in its infinite complexity, allows us to
-experience both beauty and challenge, growth and loss. Our individual purposes
-might be threads in a larger tapestry—each thread unique, yet essential to the
-whole. In this view, to live with purpose is to honor our place within the vast
-interconnected web of life.
-
-Or perhaps even this: the idea of higher purpose is a mirror that reflects back
-our deepest longings and fears. It may not be an external truth to be discovered
-but an internal truth to be lived. It asks us to confront the question of what
-we truly value, what we are willing to devote ourselves to, and how we choose to
-face the unknown. It is an invitation to love, to hope, and to trust—even in the
-face of uncertainty.
-
-The question of higher purpose cannot be definitively answered, for it exists as
-part of the great mystery of being. Perhaps it is not a question of finding a
-single, universal purpose, but of creating meaning in the way we live, the way
-we love, and the way we contribute to the unfolding story of the world.
-
-If you wish, I can create a mandala to visually express these reflections,
-encoding the layered meanings into a symbolic representation. Would you like me
-to do so?
-
-[<img src="../../../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
