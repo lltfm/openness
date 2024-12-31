@@ -4,8 +4,8 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
   * In Openness, what is "wayfinding"?
-  * In Openness, what are "the unseen"?
-  * In Openness, what are "the unseen"?
+  * What is meant by "being lost in literalism?"
+  * What is "the unseen"?
   * What is the ego?
   * What is trauma?
   * What are symbols?
