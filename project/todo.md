@@ -5,6 +5,7 @@
 * Notable responses todo
   * In Openness, what is "wayfinding"?
   * What is meant by "being lost in literalism?"
+  * Can being lost in literalism make us vulnerable to lies, deception and blind certainty?
   * What is "the unseen"?
   * What is the ego?
   * What is trauma?
@@ -42,3 +43,4 @@
     * this answer is good but the AI demonstrates its confused about whether
     it is human or not itself. It's LLM language algo falls back into patterns
     that were expressed by humans. It needs to be instructed to not do this.
+  * mandalas should always use asemic writing instead of actual language
