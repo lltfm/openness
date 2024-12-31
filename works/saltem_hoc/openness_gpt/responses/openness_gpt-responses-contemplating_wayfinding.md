@@ -59,6 +59,8 @@ seek, to explore, and to find meaning in the seeking itself.
 
 ### What is the "higher self"?
 
+[Openness GPT](../../README.md#openness-gpt):
+
 The higher self is a concept that whispers through spiritual traditions,
 philosophical musings, and the quiet moments of introspection when you sense
 there’s more to your being than meets the eye. Let us explore this idea gently,
