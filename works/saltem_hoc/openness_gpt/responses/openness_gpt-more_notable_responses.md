@@ -19,10 +19,10 @@ included after each response.
     * [What is "the adventure of dreams"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-adventure-of-dreams)
     * [More...](openness_gpt-responses-contemplating_wayfinding.md)
 * Contemplating what we can't perceive directly
-  * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
-  * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
-  * [What is freedom?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-freedom)
-  * [More...](openness_gpt-responses-contemplating_the_unseen.md)
+    * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
+    * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
+    * [What is freedom?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-freedom)
+    * [More...](openness_gpt-responses-contemplating_the_unseen.md)
 * Aspiring to love
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](openness_gpt-responses-aspiring_to_love.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)

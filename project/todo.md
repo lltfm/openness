@@ -3,6 +3,9 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
+  * In Openness, what is "wayfinding"?
+  * In Openness, what are "the unseen"?
+  * In Openness, what are "the unseen"?
   * What is the ego?
   * What is trauma?
   * What are symbols?
