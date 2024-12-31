@@ -57,6 +57,8 @@ questions to express its answers visually beyond words.
 <sub>([full response](../../../the_epitomes_of_openness/contemplations/the_vital_darkness.md#what-is-meant-by-trusting-the-vital-darkness))</sub>
 ### What is the higher self?
 [<img src="../../../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_self.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_wayfinding.md#what-is-the-higher-self))</sub>
 ### What is karma?
 [<img src="../../../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
 

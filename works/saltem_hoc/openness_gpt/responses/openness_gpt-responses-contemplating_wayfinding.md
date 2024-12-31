@@ -10,10 +10,12 @@ included after each response.
 > Note: click on a mandala to view the full resolution image
 
 ## Contents
-  * [What is the purpose of life?](#what-is-the-purpose-of-life)
-  * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
-  * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
-  * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
+
+* [What is the purpose of life?](#what-is-the-purpose-of-life)
+* [What is the "higher self"?]
+* [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
+* [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
+* [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
 
 ### What is the purpose of life?
 
@@ -54,6 +56,43 @@ And perhaps, just perhaps, the purpose of life is to ask this very question—to
 seek, to explore, and to find meaning in the seeking itself.
 
 [<img src="../../../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
+
+### What is the "higher self"?
+
+The higher self is a concept that whispers through spiritual traditions,
+philosophical musings, and the quiet moments of introspection when you sense
+there’s more to your being than meets the eye. Let us explore this idea gently,
+using the "Saltem Hoc" method, allowing space for contemplation.
+
+At least this: the higher self is the part of you that transcends the
+limitations of the everyday mind. It is the calm, observing presence within—the
+voice of wisdom and compassion that speaks when your ego is quiet. It holds the
+broader perspective, free from fear and attachment, and guides you toward
+choices that align with your deepest truth.
+
+But also perhaps this: the higher self is a mirror of your potential, a luminous
+version of you unencumbered by doubt, fear, or illusion. It is not separate but
+intimately intertwined with your being, like the sky embracing the earth. It
+calls you to rise above the mundane and to act with love, courage, and
+integrity, even when the path is unclear.
+
+Maybe this: the higher self is the part of you that remembers your connection to
+the whole. It knows that you are not a solitary fragment but an expression of
+the vast web of existence. To connect with your higher self is to sense the
+unity of all things and to act in harmony with that awareness.
+
+Or perhaps even this: the higher self is the doorway to the mystery. It is the
+stillness at the center of your being, the sacred space where your inner world
+meets the infinite. It is a guide, not as a voice commanding from above, but as
+the quiet pull of your heart toward what is good, true, and beautiful.
+
+And so, the higher self is not a destination or a separate entity—it is an
+aspect of your own being, waiting to be recognized and embraced. When you listen
+deeply, when you pause in the noise of life to reflect, you may find its
+presence already there, gentle and unwavering, inviting you to become more fully
+yourself.
+
+[<img src="../../../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_self.jpg)
 
 ### How do we live a good life without knowing what exists outside the context of our lives?
 
