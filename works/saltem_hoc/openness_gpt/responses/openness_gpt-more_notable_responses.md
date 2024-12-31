@@ -11,13 +11,13 @@ included after each response.
 * Contemplating what no one chooses
     * [Is free will real, or is everything predetermined?](./openness_gpt-responses-contemplating_the_unchosen.md#is-free-will-real-or-is-everything-predetermined)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen.md#what-happens-after-we-die)
-    * [What is the "undeniable demonstration of karmic learning"?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
+    * [What is karma?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-karma)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
 * Contemplating how we find our way
-  * [What can we know about higher purpose?](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
-  * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
-  * [What is "the adventure of dreams"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-adventure-of-dreams)
-  * [More...](openness_gpt-responses-contemplating_wayfinding.md)
+    * [What can we know about higher purpose?](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
+    * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
+    * [What is "the adventure of dreams"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-adventure-of-dreams)
+    * [More...](openness_gpt-responses-contemplating_wayfinding.md)
 * Contemplating what we can't perceive directly
   * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
   * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
