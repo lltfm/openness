@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
-* [What is the "higher self"?]
+* [What is the "higher self"?](#what-is-the-higher-self)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
 * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)

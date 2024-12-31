@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * What is the higher self?
   * What is the ego?
   * What is trauma?
   * What are symbols?
