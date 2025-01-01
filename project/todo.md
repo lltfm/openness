@@ -6,6 +6,8 @@
   * In Openness, what is "wayfinding"?
   * What is meant by "being lost in literalism?"
   * Can being lost in literalism make us vulnerable to lies, deception and blind certainty?
+  * What is the "mirror of the mind"?
+  * What does it mean to be "chosen" by our past and future selves?
   * What is "the unseen"?
   * What is the ego?
   * What is trauma?
@@ -44,3 +46,7 @@
     it is human or not itself. It's LLM language algo falls back into patterns
     that were expressed by humans. It needs to be instructed to not do this.
   * mandalas should always use asemic writing instead of actual language
+* the one exception to no capitalization rule should be "The Self" since it is
+clearly distinguishes between the individual self and an individuals chosen
+larger Self and the self vs Self is highly intuitive and safe to use with people
+who might not be familiar with the idea
