@@ -14,9 +14,9 @@ included after each response.
     * [What is karma?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-karma)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
 * Contemplating how we find our way
+    * [In Openness, what is "wayfinding"?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-is-wayfinding)
     * [What can we know about higher purpose?](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
-    * [What is "the adventure of dreams"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-adventure-of-dreams)
     * [More...](openness_gpt-responses-contemplating_wayfinding.md)
 * Contemplating what we can't perceive directly
     * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
