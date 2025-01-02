@@ -20,6 +20,21 @@
   * What is "The Overwhelm"?
   * What is trauma?
   * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
+  * What is "the cult of authority"?
+  * What is "domination by dialectic"?
+  * What is "the apotheosis of desire"?
+  * What is "dimensionalization"?
+  * What is "duende"?
+  * In Openness, why are there no wrong feelings?
+  * What is a "sophisticated expression"?
+  * What is the "karmic mindtrap"?
+  * What is "natural law"?
+  * In Openness, what is "westward"?
+  * In Openness, what is "the choosing"?
+  * In Openness, why is there "no higher truth than lies"?
+  * In Openness, what is "a worthy vessel"?
+  * What is the difference between "self" and "Self"?
+  * What does it mean to "weapon words with extra meaning"?
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."
