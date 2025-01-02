@@ -61,8 +61,6 @@ seek, to explore, and to find meaning in the seeking itself.
 
 ### In Openness, what is "wayfinding"?
 
-In the context of Openness, what is "wayfinding"?
-
 [Openness GPT](../../README.md#openness-gpt):
 
 Wayfinding, in the context of Openness, is the art and practice of navigating
