@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * In Openness, what is "wayfinding"?
   * What is meant by "being lost in literalism?"
   * Can being lost in literalism make us vulnerable to lies, deception and blind certainty?
   * What is the "mirror of the mind"?
