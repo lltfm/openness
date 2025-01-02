@@ -20,7 +20,6 @@
   * In Openness, why is there "no higher truth than lies"?
   * What is trauma?
   * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
-  * What is "the cult of authority"?
   * What is "domination by dialectic"?
   * What is "the apotheosis of desire"?
   * What is "dimensionalization"?

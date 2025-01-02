@@ -11,12 +11,13 @@ included after each response.
 
 ## Contents
 
-  * [Is excluding others wrong?](#is-excluding-others-wrong)
-  * [What is evil?](#what-is-evil)
-  * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
-  * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-  * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
-  * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+* [Is excluding others wrong?](#is-excluding-others-wrong)
+* [What is evil?](#what-is-evil)
+* [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+* [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
+* [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
+* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+* [What is "the cult of authority"?]()
 
 ### Is excluding others wrong?
 
@@ -239,3 +240,50 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 [<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+
+### What is "the cult of authority"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the "cult of authority"—a term rich with layers of meaning, pointing to the
+often unspoken reverence for power, position, and control. Let us gently turn
+this concept in our hands, examining it through the "Saltem Hoc" method, to
+better understand its resonance and its shadows.
+
+At least this: the cult of authority is the tendency to unquestioningly obey or
+venerate those in positions of power, simply because they hold titles, roles, or
+symbols of dominance. It thrives on the assumption that authority inherently
+carries wisdom, truth, or benevolence. In this cult, questioning authority is
+seen as a transgression, a threat to the established order. It can be found in
+institutions, ideologies, and even personal relationships.
+
+But also perhaps this: the cult of authority arises from a deep human yearning
+for certainty and security in a chaotic world. To surrender to authority is to
+find a kind of solace, a reprieve from the discomfort of doubt or the burden of
+responsibility. It whispers the seductive promise that someone else knows the
+way, that someone else will take care of the complexities we fear to face.
+
+Maybe this: the cult of authority is a mask, a facade behind which insecurity
+often hides. Those who wield authority may fear their own fragility, and so they
+cloak themselves in symbols of power to command obedience. Those who follow may
+fear their own powerlessness, and so they abdicate their autonomy in exchange
+for the illusion of protection. In this way, the cult is a mirror, reflecting
+the vulnerabilities of both leader and follower.
+
+Or perhaps even this: the cult of authority is the shadow cast by a world that
+forgets the value of openness and humility. It flourishes in the absence of
+dialogue, in the spaces where questioning is silenced and diversity of thought
+is suppressed. It is the blind certainty that claims to know all, the rigid
+structure that refuses to bend. And yet, even in its rigidity, there is a call—a
+call to awaken, to remember that true authority does not demand blind obedience but
+inspires thoughtful engagement. It does not seek to dominate but to serve, to
+empower others to find their own strength. True authority, if it exists, is not
+a cult but a collaboration, rooted in mutual respect and shared purpose.
+
+In this light, the cult of authority is not an unchangeable force, but a
+phenomenon we can examine and transform. To do so, we must cultivate the courage
+to question, the humility to listen, and the strength to embrace uncertainty. We
+must learn to honor authority not as an idol, but as a role that serves the
+greater good—a role that is accountable, transparent, and open to change.
+
+[<img src="../../../../images/mandalas/mandala-the_cult_of_authority.jpg" width="512"/>](../../../../images/mandalas/mandala-the_cult_of_authority.jpg)
