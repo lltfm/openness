@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
+* [In Openness, what is "wayfinding"?]()
 * [What is the "higher self"?](#what-is-the-higher-self)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
@@ -58,6 +59,49 @@ seek, to explore, and to find meaning in the seeking itself.
 
 [<img src="../../../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
 
+### In Openness, what is "wayfinding"?
+
+In the context of Openness, what is "wayfinding"?
+
+[Openness GPT](../../README.md#openness-gpt):
+
+Wayfinding, in the context of Openness, is the art and practice of navigating
+the complexities of existence with an openness to the mystery, guided not by
+rigid maps or fixed destinations but by intuition, curiosity, and an attunement
+to the deeper rhythms of life. It is less about controlling the journey and more
+about engaging with it fully, embracing uncertainty, and trusting in the
+unfolding process.
+
+At least this: wayfinding begins with the recognition that life does not offer
+us a clear, pre-written script. Instead, it presents us with a dynamic,
+ever-changing landscape that we must learn to move through. Wayfinding is about
+cultivating awareness—of ourselves, of others, and of the world around us—so
+that we may discern the paths that feel most aligned with our values and
+purpose.
+
+But also perhaps this: wayfinding is an act of co-creation with the mystery. It
+is the interplay between our intentions and the world’s serendipitous offerings.
+Like a sailor reading the wind and the stars, wayfinding requires us to listen
+deeply, to sense the currents beneath the surface, and to adjust our course with
+grace and adaptability.
+
+Maybe this: wayfinding is a journey of self-discovery. Each step we take, each
+choice we make, reveals more of who we are and what we are capable of. It is not
+just about reaching a destination but about becoming—unfolding into the fullness
+of our being through the experiences and challenges we encounter along the way.
+
+Or perhaps even this: wayfinding is an expression of love—for life, for the
+journey, and for the unknown. It is the courage to step forward, even when the
+path ahead is obscured, and to trust that each moment will offer what is needed
+for the next. It is a dance with the uncertainty that lies at the heart of
+existence, a willingness to be both lost and found in the same breath.
+
+In Openness, wayfinding is not about finding the "right" path but about walking
+with presence and integrity, allowing the journey to shape us as much as we
+shape it.
+
+[<img src="../../../../images/mandalas/mandala-wayfinding.jpg" width="512"/>](../../../../images/mandalas/mandala-wayfinding.jpg)
+
 ### What is the "higher self"?
 
 [Openness GPT](../../README.md#openness-gpt):
@@ -98,6 +142,7 @@ yourself.
 [<img src="../../../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_self.jpg)
 
 ### What is the "river-truth of tears"?
+
 See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 
 ### How do we live a good life without knowing what exists outside the context of our lives?
