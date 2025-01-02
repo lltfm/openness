@@ -2,7 +2,7 @@
 
 ### What is "The Source of Life & Awareness"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Ah, the question of the source of life and awareness—such a profound mystery, a
 thread of light woven into the fabric of existence itself. Let us explore it

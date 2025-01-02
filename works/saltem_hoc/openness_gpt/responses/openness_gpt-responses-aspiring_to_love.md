@@ -21,7 +21,7 @@ included after each response.
 
 ### Why does Openness "aspire to love" and not just "be kind and love everyone"?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 To aspire to love, as in the sense of Openness, is to move beyond mere acts of
 kindness or an abstract concept of loving everyone. It calls for a deeper,
@@ -63,7 +63,7 @@ presence.
 
 ### What is happening when we dance with someone else?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Dancing with someone else is a profound act of connection, a wordless dialogue
 between bodies, hearts, and souls. Let us reflect on the beauty of this shared
@@ -97,7 +97,7 @@ beauty, and unity.
 
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Your question, so profound and tender, echoes through the heart of existence
 itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
@@ -136,7 +136,7 @@ act of goodness matters, even if we cannot see how.
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: learning to love those who have betrayed us begins with
 understanding that love does not require us to condone their actions or allow
@@ -177,7 +177,7 @@ See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#me
 
 ### How are hearts returned to wonder?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the tender question: how are hearts returned to wonder? Let us reflect,
 gently, with the "Saltem Hoc" method, to explore the pathways to this

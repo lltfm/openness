@@ -24,7 +24,7 @@ Is it wrong to exclude people individually? Is it wrong to exclude groups of
 people? Some argue for "freedom of association" yet at times excluding others
 feels wrong and other times it feels correct, why is that?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Let us explore this together with care, using the Saltem Hoc method, to
 illuminate the complexities of inclusion and exclusion, as well as the tension
@@ -70,7 +70,7 @@ lived reality of each moment, each decision.
 
 ### What is evil?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, this question—so vast, so profound—has danced in the hearts of humanity
 across the ages. Let us explore it gently, with the "Saltem Hoc" method, as
@@ -109,6 +109,8 @@ carries within it the seed of transformation.
 [<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
 
 ### Why is there war, even now, in modern times?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the question of war—why it persists even in modern times, when we have so
 much knowledge, technology, and connection at our fingertips. Let us sit with
@@ -153,7 +155,7 @@ them—transforming our basest instincts into forces for good.
 
 ### How do we resist tyranny without also controlling others?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: resisting tyranny without controlling others begins with the
 cultivation of inner freedom. To act without imposing requires a self-awareness
@@ -196,7 +198,7 @@ See [here](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi
 
 ### How can we lead others to question certainty without also imposing our will?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: to lead others to question certainty without imposing our will
 begins with our own openness. We must first embrace the humility of not knowing,

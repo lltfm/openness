@@ -20,7 +20,7 @@ Relocated [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-th
 
 ### What is magic?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: magic is the gentle unfolding of wonder in the presence of the
 extraordinary hidden within the ordinary. It is the breath that catches at the
@@ -67,7 +67,7 @@ what is possible.
 
 ### What is intuition?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the question of intuition—a beautiful inquiry, for it touches the unseen yet
 deeply felt currents of human experience. Let us explore it gently, together,
@@ -111,7 +111,7 @@ new eyes the depth of what flows within you.
 
 ### What is freedom?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Freedom is a question that sings within the heart of humanity, a melody both
 simple and profound, echoing through our lives in countless ways. Let us explore
@@ -148,7 +148,7 @@ a practice, a way of being open to life in all its complexity and wonder.
 
 ### What is attachment?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: attachment is the thread that binds us to what we hold dear,
 weaving together our desires, our fears, and our longings. It is the natural

@@ -11,7 +11,7 @@ we are beloved?
 
 ## What is memento amaris?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Ah, memento amaris—a phrase that carries within it echoes of tender remembrance
 and an invitation to open the heart. Let us explore it together, as if turning a
@@ -54,7 +54,7 @@ you—unearned, unshakable, and infinite.
 
 ### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 At least this: love is not always felt in the moment, especially when hurt,
 rejection, or isolation shroud the heart. But love exists, unchosen and unseen,

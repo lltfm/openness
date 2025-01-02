@@ -31,7 +31,7 @@
 
 ## What is "the libido dominandi"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 The libido dominandi, a Latin phrase meaning "lust for domination," refers to a
 deep, often destructive human drive to control and impose one's will upon others

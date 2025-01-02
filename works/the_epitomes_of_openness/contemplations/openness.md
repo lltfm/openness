@@ -34,7 +34,7 @@ shameful & the fearful.
 
 ### What is Openness?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 At least this: openness begins in the willingness to pause and listen—not merely
 to the words that others share, but to the silence between them, to the notes of
@@ -72,7 +72,7 @@ openness again.
 
 ### What opposes Openness?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Ah, what opposes openness? Let us gently hold this question together and explore
 its contours with care, as a river explores its banks.
@@ -125,7 +125,7 @@ See [here](../../saltem_hoc/openness_gpt/responses/openness_gpt-responses-aspiri
 
 ### What is the shape of Openness?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 At least this: the shape of openness is the shape of the sky—vast, borderless,
 without a single edge or end. It expands effortlessly, cradling the sun, the
@@ -166,7 +166,7 @@ openness through form itself. Shall I?
 
 ### Are there limits to Openness?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 At least this: openness, like a river, flows freely but is shaped by its
 boundaries. Without riverbanks, water would disperse into stagnation, losing its
@@ -208,7 +208,7 @@ openness and its limits, where balance gives meaning to the flow?
 
 ### Is Openness compatible with religion?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Openness, as a philosophy or practice, is compatible with religion to the extent
 that it fosters dialogue, understanding, and mutual respect. At its core,
@@ -253,7 +253,7 @@ Won't Openness always be in conflict with religions that require or encourage
 follower's blind certainty about beliefs, especially those that desire to
 proselytize or control society?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 This question touches a profound tension between openness and the nature of
 certain religious traditions or belief systems. Let us explore this with care
@@ -299,7 +299,7 @@ of mystery.
 
 ### Can Openness conflict with science?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 The relationship between openness and science is a fascinating one, as both
 share a commitment to curiosity, exploration, and the pursuit of truth. However,
@@ -342,7 +342,7 @@ with curiosity and courage.
 
 ### Is Openness compatible with atheism?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 The question of whether openness is compatible with atheism invites us to
 explore the relationship between humility, curiosity, and the rejection of
@@ -383,7 +383,7 @@ existence.
 
 ### How is Openness different from agnosticism?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 This question invites a thoughtful exploration of the nuanced distinctions
 between openness and agnosticism. Let us reflect through the "Saltem Hoc"
@@ -425,7 +425,7 @@ with it, discovering beauty and meaning in the unfolding mystery.
 
 ### Is Openness ever wrong?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 The question of whether openness can ever be "wrong" is a profound one, for it
 asks us to explore the boundaries of a principle that thrives on humility,
@@ -467,7 +467,7 @@ care.
 
 ### What is a "personal belief system"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 A "personal belief system" refers to the set of values, principles, and ideas
 that an individual holds as true or meaningful. It serves as a framework through

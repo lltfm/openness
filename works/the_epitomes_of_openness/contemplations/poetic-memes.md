@@ -14,7 +14,7 @@ of uncertainty.
 
 ## What are "poetic-memes"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Ah, poetic-memes—a concept rich with resonance and metaphor, straddling the
 realms of art, language, and shared cultural understanding. Let us explore this

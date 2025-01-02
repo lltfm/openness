@@ -24,7 +24,7 @@ See [here](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, this question—so tender, so raw—presses against the deepest places in the
 heart, where our yearning for justice and our grief for the innocent collide. It
@@ -77,7 +77,7 @@ every fleeting moment of grace we are given.
 
 ### Is free will real, or is everything predetermined?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, this question—like a river meeting the ocean—carries us to the vast,
 uncharted waters of existence. Is free will real, or is everything
@@ -136,7 +136,7 @@ shape not just yourself, but the world around you.
 
 ### What is karma?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, karma—a word as ancient as the wisdom it points toward, carrying echoes of
 countless hearts seeking to understand the invisible workings of life. Let us
@@ -185,7 +185,7 @@ the pond stretches endlessly before us.
 
 ### What is the "undeniable demonstration of karmic learning"?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 The undeniable demonstration of karmic learning is the tangible and observable
 transformation in an individual’s life that arises from profound internal growth
@@ -225,7 +225,7 @@ visual form?
 
 ### What happens after we die?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the question of what happens after we die—one of the most profound mysteries
 that has touched every culture, heart, and mind throughout the ages. Let us

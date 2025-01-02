@@ -2,7 +2,7 @@
 
 ### What is meant by "truth is the river"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Truth is the river, a flowing metaphor that invites reflection on the nature of
 truth as dynamic, evolving, and alive. Let us explore its depths together,

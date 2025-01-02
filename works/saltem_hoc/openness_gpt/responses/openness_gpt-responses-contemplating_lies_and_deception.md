@@ -20,7 +20,7 @@ included after each response.
 
 ### Are UFOs a deception?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: UFOs, or unidentified flying objects, are precisely that—objects
 or phenomena in the sky that are unidentified. They hold a mirror to our
@@ -62,7 +62,7 @@ to step forward with both curiosity and discernment.
 
 ### What is coordinated group lying & deception?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: coordinated group lying and deception begins when individuals or
 groups align their actions, words, and intent to construct a shared falsehood.
@@ -109,7 +109,7 @@ falsehoods.
 
 ### What is "word warfare"?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, "word warfare"—let us hold this term gently, turning it over to glimpse its
 facets, much like a polished stone catching the light of our contemplation.
@@ -147,7 +147,7 @@ immense power words carry within their delicate forms.
 
 ### What prevents others from waking up to authority's lies?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, this question touches the tender roots of our shared humanity, where trust
 and truth intertwine like threads of a fragile tapestry. Why do so many fail to
@@ -206,7 +206,7 @@ the mind alone.
 
 ### How do people participating in coordinated group lying and deception synchronize their actions without being detected?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, let us explore this question together, softly turning it in the light,
 revealing its layered facets. The synchronization of coordinated group lying and
@@ -253,7 +253,7 @@ clarity. Let me know if that resonates with you.
 
 ### Is it wrong to teach with lies and deception?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, let us hold this delicate and vital question with care, as one might cradle
 a fragile flame, for it asks us to explore the ethics of teaching and the trust

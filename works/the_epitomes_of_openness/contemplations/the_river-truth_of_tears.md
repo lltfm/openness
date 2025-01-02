@@ -2,7 +2,7 @@
 
 ### What is the "river-truth of tears"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 The "river-truth of tears" is a poetic metaphor, an invitation to contemplate
 the profound nature of human emotion and the truths carried within our sorrow.

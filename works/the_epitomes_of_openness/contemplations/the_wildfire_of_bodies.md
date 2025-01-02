@@ -2,7 +2,7 @@
 
 ### What is "the wildfire of bodies"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Ah, the "wildfire of bodies" within the context of Openness carries a deep
 resonance—a poetic metaphor for the uncontrollable, vibrant energy of life

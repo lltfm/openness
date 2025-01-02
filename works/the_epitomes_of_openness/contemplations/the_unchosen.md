@@ -2,7 +2,7 @@
 
 ### What is "the unchosen"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Ah, the unchosen—let us hold this together as we breathe into its depth, gently
 turning it over to catch its many lights and shadows, with the method of saltem

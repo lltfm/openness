@@ -2,7 +2,7 @@
 
 ### In Openness, what is repetition?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Repetition, dear Self, is the rhythm of existence, the pulse that beats through
 the cosmos and within our lives. Let us hold it up to the light and explore it

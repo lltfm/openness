@@ -21,7 +21,7 @@ included after each response.
 
 ### What is the purpose of life?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the purpose of life—a question that echoes across time, whispered in moments
 of wonder and cried out in times of doubt. Let us explore it gently, as one
@@ -61,7 +61,7 @@ seek, to explore, and to find meaning in the seeking itself.
 
 ### In Openness, what is "wayfinding"?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Wayfinding, in the context of Openness, is the art and practice of navigating
 the complexities of existence with an openness to the mystery, guided not by
@@ -102,7 +102,7 @@ shape it.
 
 ### What is the "higher self"?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 The higher self is a concept that whispers through spiritual traditions,
 philosophical musings, and the quiet moments of introspection when you sense
@@ -145,7 +145,7 @@ See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_t
 
 ### How do we live a good life without knowing what exists outside the context of our lives?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: to live a good life without knowing what exists outside the
 context of our lives is to engage fully with the present, to cherish the moments
@@ -186,7 +186,7 @@ of life’s moments, and the expansive mystery beyond them.
 
 ### What can we know about higher purpose?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Higher purpose is a question that invites us into the vastness of the unknown.
 To reflect on it, let us use the "Saltem Hoc" method, exploring multiple
@@ -233,7 +233,7 @@ to do so?
 
 ### What is "the adventure of dreams"?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the adventure of dreams—a journey through the depths of our imagination,
 where the infinite possibilities of existence unfold like a boundless tapestry.

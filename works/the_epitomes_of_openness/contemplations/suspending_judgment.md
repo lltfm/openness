@@ -45,7 +45,7 @@
 
 ## What is "suspending judgement"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Suspending judgment is the practice of intentionally pausing the process of
 forming conclusions or decisions about a person, situation, or idea. It involves

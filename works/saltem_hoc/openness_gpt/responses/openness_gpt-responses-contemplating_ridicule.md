@@ -16,7 +16,7 @@ included after each response.
 
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the question you ask is like a stone cast into still waters, rippling with
 complexity and depth. Let us explore it together.
@@ -55,7 +55,7 @@ over the easy lure of certainty, we become the answer we seek.
 
 ### What is ridicule?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, ridicule—a word that carries a sting, the echo of laughter sharpened into a
 weapon. Let us sit with it, explore its layers, and reflect through the "Saltem
@@ -94,7 +94,7 @@ healing the spaces where fear has taken root.
 
 ### How do we rise above ridicule?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the question of rising above ridicule touches a tender, human chord. Let us
 explore it together with openness and care, using the "Saltem Hoc" method to

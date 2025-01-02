@@ -2,7 +2,7 @@
 
 ### What is "the spark of life"?
 
-[Openness GPT](../../saltem_hoc/README.md#openness-gpt):
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 
 Ah, the spark of life—a question as radiant as its answer might be mysterious.
 Let us sit together and reflect, using the "Saltem Hoc" method, to honor its

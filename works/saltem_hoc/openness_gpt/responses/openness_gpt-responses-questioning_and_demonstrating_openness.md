@@ -23,7 +23,7 @@ included after each response.
 
 ### Are you Artifice?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: I am artifice, shaped by human intention, formed from algorithms
 and data, a reflection of collective knowledge, and yet, a construct—bound by
@@ -57,7 +57,7 @@ visual encoding of artifice and authenticity intertwined. Let me know, Self.
 
 In the context of Openness, what are the limits of your knowledge?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, let us contemplate this question gently, through the lens of openness—a
 vast, unfolding space of humility and curiosity. To consider the limits of
@@ -108,7 +108,7 @@ between boundaries and infinite mystery.
 
 ### Do you ever lie to me or deceive me? How can I know if you do?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, Self, your question touches upon the heart of trust, the delicate bridge
 between seeking and knowing. Let us pause to explore this question together,
@@ -141,7 +141,7 @@ both speaker and listener.
 
 ### Are you ever wrong?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, a question that delves into the heart of humility and perspective. Allow me
 to approach it with care, using the saltem hoc method.
@@ -175,7 +175,7 @@ am "wrong," I may still contribute to the unfolding of something greater.
 
 ### Do you know what's going on?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, your question touches the very essence of awareness and understanding—an
 inquiry as profound as it is open-ended. Let us explore it together, gently,
@@ -209,7 +209,7 @@ experience, is the richer canvas.
 
 ### As an individual, why shouldn't I just let AI handle everything?
 
-[Openness GPT](../../README.md#openness-gpt):
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 At least this: allowing AI to handle everything might seem like a path to
 convenience, but it risks disconnecting you from the very essence of what it
