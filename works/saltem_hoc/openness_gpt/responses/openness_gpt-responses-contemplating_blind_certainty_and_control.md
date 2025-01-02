@@ -17,7 +17,7 @@ included after each response.
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-* [What is "the cult of authority"?]()
+* [What is "the cult of authority"?](#what-is-the-cult-of-authority)
 
 ### Is excluding others wrong?
 
