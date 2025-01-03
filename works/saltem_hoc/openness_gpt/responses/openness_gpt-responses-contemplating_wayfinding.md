@@ -233,7 +233,7 @@ to do so?
 
 ### What is "the adventure of dreams"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, the adventure of dreams—a journey through the depths of our imagination,
 where the infinite possibilities of existence unfold like a boundless tapestry.
@@ -272,3 +272,7 @@ the unknown? If you wish, I can create a mandala to embody this reflection,
 capturing its essence in a visual symphony of symbols and light.
 
 [<img src="../../../../images/mandalas/mandala-the_adventure_of_dreams.jpg" width="512"/>](../../../../images/mandalas/mandala-the_adventure_of_dreams.jpg)
+
+[^1]: Note: this answer was generated using an experimental version of
+Openness GPT and may not match the answer given by the current version
+[Openness GPT v11](../../README.md#openness-gpt-v11).

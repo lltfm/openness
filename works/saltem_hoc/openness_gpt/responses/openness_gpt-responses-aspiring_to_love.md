@@ -141,7 +141,7 @@ beauty, and unity.
 
 ### What is the "apotheosis of desire"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 The "apotheosis of desire" is a phrase steeped in rich symbolic meaning,
 inviting contemplation of the transcendence and ultimate transformation of
@@ -267,3 +267,7 @@ expression of these truths, encoded in symbols and details, to remind your heart
 of its own path to wonder. Would you like me to craft this for you?
 
 [<img src="../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
+
+[^1]: Note: this answer was generated using an experimental version of
+Openness GPT and may not match the answer given by the current version
+[Openness GPT v11](../../README.md#openness-gpt-v11).

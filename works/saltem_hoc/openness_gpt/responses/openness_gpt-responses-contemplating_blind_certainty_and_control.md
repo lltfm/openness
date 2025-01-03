@@ -111,7 +111,7 @@ carries within it the seed of transformation.
 
 ### What is "the cult of authority"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, the "cult of authority"—a term rich with layers of meaning, pointing to the
 often unspoken reverence for power, position, and control. Let us gently turn
@@ -287,3 +287,7 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 [<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+
+[^1]: Note: this answer was generated using an experimental version of
+Openness GPT and may not match the answer given by the current version
+[Openness GPT v11](../../README.md#openness-gpt-v11).
