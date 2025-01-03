@@ -24,7 +24,7 @@ included after each response.
     * [What is freedom?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-freedom)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md)
 * Aspiring to love
-    * [How do I live a good life when everything I do in small ways supports the evil of my society?](openness_gpt-responses-aspiring_to_love.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+    * [What is "the apotheosis of desire"?](openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
     * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
     * [More...](openness_gpt-responses-aspiring_to_love.md)
