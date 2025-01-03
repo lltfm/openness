@@ -1,4 +1,4 @@
-# Contemplating how we find our way
+# How do we find our way?
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of

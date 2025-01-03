@@ -13,7 +13,7 @@ included after each response.
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen.md#what-happens-after-we-die)
     * [What is karma?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-karma)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
-* Contemplating how we find our way
+* How do we find our way?
     * [In Openness, what is "wayfinding"?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-is-wayfinding)
     * [What can we know about higher purpose?](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
