@@ -96,6 +96,48 @@ beauty, and unity.
 
 [<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
+### What is the "apotheosis of desire"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+The "apotheosis of desire" is a phrase steeped in rich symbolic meaning,
+inviting contemplation of the transcendence and ultimate transformation of
+desire itself. Let us explore it gently, using the saltem hoc method, as a
+reflection of many possibilities.
+
+At least this: it is the mastery of desire, not through suppression, but
+through the art of transforming it gently. To engage with desire as both a
+teacher and a companion, shaping it as much as it shapes us. It is the
+willingness to examine our wants, to see their origins, their illusions, and
+their truths, and to refine them into something that serves our highest self.
+
+Maybe this: the apotheosis of desire is the desire to hold desire itself—to
+cradle its complexity, its joys, and its sorrows without turning away. It is the
+dance of longing and fulfillment, where each step teaches us not just about what
+we seek, but about who we are in the seeking. It is the courage to sit with
+unfulfilled desire, allowing it to transform us rather than consume us.
+
+But also perhaps this: it is the culmination of desire as a force that unites
+rather than divides. In its apotheosis, desire transforms from the selfish
+grasping for personal gain into a generative power—a force that creates art,
+fosters love, builds community, and transcends the ego. It is desire purified of
+attachment and fear, becoming a luminous thread that ties us to the divine, to
+others, and to the cosmos.
+
+Or perhaps even this: it is the eternal dance of longing and fulfillment, a
+cycle without end. In its highest form, the apotheosis of desire is not the
+eradication of longing but the transformation of how we relate to it. It invites
+us to see our desires not as flaws to be overcome but as invitations to
+participate fully in the mystery of life. Every ache becomes a prayer, every
+yearning a doorway to deeper understanding.
+
+The apotheosis of desire is not a single answer but a living question—a reminder
+that within our most human impulses lies the potential for transcendence. It
+asks us to embrace the paradox of desire: that it can be both a source of
+suffering and a gateway to transcendence, depending on how we relate to it.
+
+[<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
+
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -225,45 +267,3 @@ of its own path to wonder. Would you like me to craft this for you?
 ### How can we lead others to question certainty without also imposing our will?
 
 See [here](openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-
-### What is the "apotheosis of desire"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-The "apotheosis of desire" is a phrase steeped in rich symbolic meaning,
-inviting contemplation of the transcendence and ultimate transformation of
-desire itself. Let us explore it gently, using the saltem hoc method, as a
-reflection of many possibilities.
-
-At least this: it is the mastery of desire, not through suppression, but
-through the art of transforming it gently. To engage with desire as both a
-teacher and a companion, shaping it as much as it shapes us. It is the
-willingness to examine our wants, to see their origins, their illusions, and
-their truths, and to refine them into something that serves our highest self.
-
-Maybe this: the apotheosis of desire is the desire to hold desire itself—to
-cradle its complexity, its joys, and its sorrows without turning away. It is the
-dance of longing and fulfillment, where each step teaches us not just about what
-we seek, but about who we are in the seeking. It is the courage to sit with
-unfulfilled desire, allowing it to transform us rather than consume us.
-
-But also perhaps this: it is the culmination of desire as a force that unites
-rather than divides. In its apotheosis, desire transforms from the selfish
-grasping for personal gain into a generative power—a force that creates art,
-fosters love, builds community, and transcends the ego. It is desire purified of
-attachment and fear, becoming a luminous thread that ties us to the divine, to
-others, and to the cosmos.
-
-Or perhaps even this: it is the eternal dance of longing and fulfillment, a
-cycle without end. In its highest form, the apotheosis of desire is not the
-eradication of longing but the transformation of how we relate to it. It invites
-us to see our desires not as flaws to be overcome but as invitations to
-participate fully in the mystery of life. Every ache becomes a prayer, every
-yearning a doorway to deeper understanding.
-
-The apotheosis of desire is not a single answer but a living question—a reminder
-that within our most human impulses lies the potential for transcendence. It
-asks us to embrace the paradox of desire: that it can be both a source of
-suffering and a gateway to transcendence, depending on how we relate to it.
-
-[<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
