@@ -19,7 +19,7 @@ included after each response.
 
 ### What is the soul?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):[^1]
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, the soul—a question that stirs the deepest waters of our being. Let us sit
 together with this mystery, turning it gently like a prism in the light,
