@@ -19,7 +19,7 @@ included after each response.
 
 ### What is the soul?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^*]:
 
 Ah, the soul—a question that stirs the deepest waters of our being. Let us sit
 together with this mystery, turning it gently like a prism in the light,
@@ -236,3 +236,7 @@ Relocated [here](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-
 ### What can we know about higher purpose?
 
 Relocated [here](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
+
+[*]: Note: this answer was generated using an experimental version of
+[Openness GPT v11](../../README.md#openness-gpt-v11) and may not match the
+answer given by the current version of Openness GPT.
