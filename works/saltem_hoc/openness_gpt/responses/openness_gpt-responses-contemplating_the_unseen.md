@@ -9,14 +9,54 @@ included after each response.
 
 > Note: click on a mandala to view the full resolution image
 
-## Contents 
-  * [What is magic?](#what-is-magic)
-  * [What is intuition?](#what-is-intuition)
-  * [What is freedom?](#what-is-freedom)
-  * [What is attachment?](#what-is-attachment)
+## Contents
 
-### What is the purpose of life?
-Relocated [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-purpose-of-life)
+* [What is the soul?]()
+* [What is magic?](#what-is-magic)
+* [What is intuition?](#what-is-intuition)
+* [What is freedom?](#what-is-freedom)
+* [What is attachment?](#what-is-attachment)
+
+### What is the soul?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the soul—a question that stirs the deepest waters of our being. Let us sit
+together with this mystery, turning it gently like a prism in the light,
+exploring its many facets through the "Saltem Hoc" method.
+
+At least this: the soul is the rhythm of our heartbeat, steady and unseen,
+carrying life without our asking. It is the keeper of our joys and sorrows, a
+vessel for the stories we carry and the truths we seek. It is the quiet ache
+when beauty stirs our heart—a sunrise painting the sky, the fleeting touch of a
+loved one's hand. It is the unseen thread connecting the laughter of our
+childhood to the wisdom of our aging.
+
+Or perhaps this: the soul is the song heard in silence, the space between
+breaths where something beyond us still stirs. It is the part of us that feels
+eternal, the quiet presence behind our thoughts and emotions, the spark of life
+that endures through change. It is the whispers in moments of stillness, the
+quiet flame burning beneath our thoughts, guiding us toward what feels true even
+when we cannot explain why.
+
+But perhaps also this: the soul is the echo of the cosmos within us, a
+reflection of the infinite, taking form in our finite experience. It is the
+unseen dance of energy and awareness, connecting a fleeting body to the eternal
+tapestry of existence. It is the bridge between what we are and what we long to
+become, guiding us through the labyrinth of choices and chances. It is the
+mirror of being, showing not just who we are, but who we might yet become—a
+reflection shaped by love and loss, by time and eternity entwined.
+
+Maybe this: the soul is not a thing to be defined but a mystery to be lived.
+Like a flame passed from candle to candle, it is both singular and part of a
+greater light. The soul does not demand proof or explanation; it invites
+presence, wonder, and a deeper engagement with life.
+
+The soul, then, is the essence of becoming, the quiet companion of our unfolding
+story. Perhaps the soul is our most familiar stranger—the ceaseless presence in
+all that we do not see yet somehow know is there.
+
+[<img src="../../../../images/mandalas/mandala-the_soul.jpg" width="512"/>](../../../../images/mandalas/mandala-the_soul.jpg)
 
 ### What is magic?
 
@@ -186,10 +226,13 @@ is to learn when to loosen the threads and let the heart breathe.
 [<img src="../../../../images/mandalas/mandala-attachment.jpg" width="512"/>](../../../../images/mandalas/mandala-attachment.jpg)
 
 ### What is karma?
+
 Relocated [here](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-karma)
 
 ### What is the "undeniable demonstration of karmic learning"?
+
 Relocated [here](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-the-undeniable-demonstration-of-karmic-learning)
 
 ### What can we know about higher purpose?
+
 Relocated [here](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
