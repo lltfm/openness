@@ -102,3 +102,5 @@
 * Jan 2 2025
   * added Openness GPT version to responses
   * added notable responses
+* Jan 3 2025
+  * added notable responses and mandalas

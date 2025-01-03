@@ -64,3 +64,9 @@
 clearly distinguishes between the individual self and an individuals chosen
 larger Self and the self vs Self is highly intuitive and safe to use with people
 who might not be familiar with the idea
+* What is the soul?
+  * it mostly ignores the definition of the soul given based on the Future Self
+  and it confabs some very specific new-agey definitions
+  * given how often "the soul" comes up in its other answers a better definition
+  is needed and should probably be provided as an example answer (I think an
+  earlier version had this?)
