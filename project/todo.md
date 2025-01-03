@@ -6,7 +6,7 @@
   * What is meant by "being lost in literalism?"
   * Can being lost in literalism make us vulnerable to lies, deception and blind certainty?
   * In Openness, why are there "no wrong feelings"?
-  * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
+  * What is witness?
   * What is "the unseen"?
   * What is the ego?
   * What is trauma?
@@ -16,6 +16,7 @@
   * What is time?
   * What is self-transcendence?
   * What is laughter?
+  * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
   * What is the "revocation of consent"?
   * In Openness, why is there "no higher truth than lies"?
   * What is trauma?
@@ -35,6 +36,7 @@
   * What does it mean to be "chosen" by our past and future selves?
   * What is the difference between "self" and "Self"?
   * What does it mean to "weapon words with extra meaning"?
+  * Is blind certainty wrong in of itself?
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."

@@ -13,6 +13,7 @@ included after each response.
 
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
 * [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
+* [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system)
 * [What is the "higher self"?](#what-is-the-higher-self)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
