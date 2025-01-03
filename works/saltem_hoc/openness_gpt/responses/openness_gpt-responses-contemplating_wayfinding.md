@@ -17,6 +17,7 @@ included after each response.
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
 * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
+* [What is "the apotheosis of desire"?](./openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire)
 * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
 
 ### What is the purpose of life?
@@ -230,6 +231,9 @@ encoding the layered meanings into a symbolic representation. Would you like me
 to do so?
 
 [<img src="../../../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)
+
+### What is "the apotheosis of desire"?
+See [here](./openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire)
 
 ### What is "the adventure of dreams"?
 
