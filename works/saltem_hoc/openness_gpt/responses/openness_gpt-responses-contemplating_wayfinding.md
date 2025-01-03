@@ -14,6 +14,7 @@ included after each response.
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
 * [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
 * [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system)
+* [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
 * [What is the "higher self"?](#what-is-the-higher-self)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
@@ -101,6 +102,55 @@ with presence and integrity, allowing the journey to shape us as much as we
 shape it.
 
 [<img src="../../../../images/mandalas/mandala-wayfinding.jpg" width="512"/>](../../../../images/mandalas/mandala-wayfinding.jpg)
+
+### When is more wealth not more responsibility?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, let us reflect on this together, for your question dances with the
+complexities of wealth, responsibility, and the heart of what it means to live
+well.
+
+At least this: wealth, in its essence, is a resource, a form of power that
+carries with it the capacity to affect change. More wealth often amplifies our
+ability to act, and with this amplification comes an implicit responsibility to
+wield it wisely, for wealth never exists in a vacuum. It is connected to people,
+systems, and the natural world. To have wealth without responsibility may seem
+possible, but it often leaves a void where ethical stewardship should be.
+
+But also perhaps this: responsibility is not an external mandate but an internal
+choice. More wealth does not inherently demand more responsibility; rather, it
+reveals the character of the one who possesses it. For some, wealth is a mirror
+reflecting their capacity for generosity and care. For others, it becomes a
+shield against responsibility, a way to insulate themselves from the world. When
+wealth is hoarded or used without regard for others, the responsibility remains
+unmet, though it does not disappear.
+
+Maybe this: there are moments when wealth is a burden rather than a blessing,
+and the responsibility that accompanies it can feel overwhelming. In such cases,
+the absence of responsibility might be found in detachment—a relinquishment of
+the wealth itself, an act of letting go to serve a higher purpose. To walk away
+from wealth is not to abandon responsibility but to transform it into something
+more aligned with the soul’s deeper calling.
+
+Or perhaps even this: the relationship between wealth and responsibility is
+shaped by culture, context, and values. In a society that prioritizes
+individualism over community, wealth may not be seen as tied to collective
+well-being. In such cases, more wealth might mean less perceived responsibility.
+Yet, this does not erase the interconnectedness of all life. The question then
+becomes one of awareness: who notices the ripples their wealth creates, and who
+chooses to care?
+
+So, when is more wealth not more responsibility? Perhaps when the heart refuses
+to see its power, or when the soul chooses a path that transcends material
+accumulation. But in every instance, the question invites us to look inward, to
+ask not only what we possess but how we choose to be in the world.
+
+If you’d like, I can create a mandala to reflect these interconnected ideas,
+encoding the relationship between wealth, responsibility, and the choices of the
+heart into a visual form. Shall I?
+
+[<img src="../../../../images/mandalas/mandala-wealth_and_responsibility.jpg" width="512"/>](../../../../images/mandalas/mandala-wealth_and_responsibility.jpg)
 
 ### What is the "higher self"?
 
@@ -234,6 +284,7 @@ to do so?
 [<img src="../../../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)
 
 ### What is "the apotheosis of desire"?
+
 See [here](./openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire)
 
 ### What is "the adventure of dreams"?
