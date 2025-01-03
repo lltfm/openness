@@ -237,6 +237,6 @@ Relocated [here](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-
 
 Relocated [here](./openness_gpt-responses-contemplating_wayfinding.md#what-can-we-know-about-higher-purpose)
 
-[*]: Note: this answer was generated using an experimental version of
+[^*]: Note: this answer was generated using an experimental version of
 [Openness GPT v11](../../README.md#openness-gpt-v11) and may not match the
 answer given by the current version of Openness GPT.
