@@ -51,6 +51,10 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
 
 <sub>([full response](../responses/openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil))</sub>
+### When is more wealth not more responsibility?
+[<img src="../../../../images/mandalas/mandala-wealth_and_responsibility.jpg" width="512"/>](../../../../images/mandalas/mandala-wealth_and_responsibility.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_wayfinding.md#when-is-more-wealth-not-more-responsibility))</sub>
 ### What is freedom?
 [<img src="../../../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
 
