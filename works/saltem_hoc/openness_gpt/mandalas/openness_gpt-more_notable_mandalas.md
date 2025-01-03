@@ -37,6 +37,10 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
 <sub>([full response](../responses/openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else))</sub>
+### What is "the apotheosis of desire"?
+[<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire))</sub>
 ### What is the ego?
 [<img src="../../../../images/mandalas/mandala-ego.jpg" width="512"/>](../../../../images/mandalas/mandala-ego.jpg)
 ### What is ridicule?
