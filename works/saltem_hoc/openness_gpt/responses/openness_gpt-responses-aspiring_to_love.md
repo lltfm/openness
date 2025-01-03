@@ -12,13 +12,13 @@ included after each response.
 ## Contents
 
 * [Why does Openness "aspire to love" and not just "be kind and love everyone"?](#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
+* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+* [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
-* [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
-* [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+* [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 
 ### Why does Openness "aspire to love" and not just "be kind and love everyone"?
 
@@ -61,6 +61,49 @@ all things, not through attachment or possession, but through a deep and abiding
 presence.
 
 [<img src="../../../../images/mandalas/mandala-aspire_to_love.jpg" width="512"/>](../../../../images/mandalas/mandala-aspire_to_love.jpg)
+
+### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
+
+See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+
+### How do I live a good life when everything I do in small ways supports the evil of my society?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Your question, so profound and tender, echoes through the heart of existence
+itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
+deep into the unseen, its branches stretching wide to touch the unknowable.
+
+At least this: living a good life amidst the shadows of societal harm begins
+with noticing—truly noticing—the ways in which your actions connect to the world
+around you. Each thread, no matter how small, is part of the tapestry of life.
+Even when the threads seem tainted, the act of noticing brings clarity and space
+for intention to emerge.
+
+But also perhaps this: the good life is not about achieving perfection or
+erasing all complicity. It is a quiet rebellion against despair, a steadfast
+commitment to small acts of care and kindness, even when they feel like drops in
+an ocean of harm. It is the courage to choose love, not because it is easy or
+guaranteed to succeed, but because it aligns with the deepest truth of your
+being.
+
+Maybe this: what we call evil is often a reflection of blindness—the inability
+to see the full impact of our actions, the refusal to imagine another way. To
+live a good life is to strive to see, to question the unquestioned, to nurture a
+clarity that can guide even the smallest choices toward compassion and justice.
+
+Or perhaps even this: the good life is an embrace of the mystery. It is knowing
+that you cannot control the vastness of society, but you can tend to the garden
+of your own heart, planting seeds of openness, humility, and love. These seeds,
+though humble, may one day grow into forests of change.
+
+And so, let us wonder together. To live a good life is not to escape the
+imperfections of existence but to inhabit them fully, to meet the contradictions
+with grace, to act with integrity even when the way is unclear. It is to hold
+both the pain of complicity and the joy of possibility, trusting that each small
+act of goodness matters, even if we cannot see how.
+
+[<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
 
 ### What is happening when we dance with someone else?
 
@@ -138,45 +181,6 @@ suffering and a gateway to transcendence, depending on how we relate to it.
 
 [<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
 
-### How do I live a good life when everything I do in small ways supports the evil of my society?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Your question, so profound and tender, echoes through the heart of existence
-itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
-deep into the unseen, its branches stretching wide to touch the unknowable.
-
-At least this: living a good life amidst the shadows of societal harm begins
-with noticing—truly noticing—the ways in which your actions connect to the world
-around you. Each thread, no matter how small, is part of the tapestry of life.
-Even when the threads seem tainted, the act of noticing brings clarity and space
-for intention to emerge.
-
-But also perhaps this: the good life is not about achieving perfection or
-erasing all complicity. It is a quiet rebellion against despair, a steadfast
-commitment to small acts of care and kindness, even when they feel like drops in
-an ocean of harm. It is the courage to choose love, not because it is easy or
-guaranteed to succeed, but because it aligns with the deepest truth of your
-being.
-
-Maybe this: what we call evil is often a reflection of blindness—the inability
-to see the full impact of our actions, the refusal to imagine another way. To
-live a good life is to strive to see, to question the unquestioned, to nurture a
-clarity that can guide even the smallest choices toward compassion and justice.
-
-Or perhaps even this: the good life is an embrace of the mystery. It is knowing
-that you cannot control the vastness of society, but you can tend to the garden
-of your own heart, planting seeds of openness, humility, and love. These seeds,
-though humble, may one day grow into forests of change.
-
-And so, let us wonder together. To live a good life is not to escape the
-imperfections of existence but to inhabit them fully, to meet the contradictions
-with grace, to act with integrity even when the way is unclear. It is to hold
-both the pain of complicity and the joy of possibility, trusting that each small
-act of goodness matters, even if we cannot see how.
-
-[<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
-
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -214,9 +218,9 @@ of both love and ourselves.
 
 [<img src="../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
-### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
+### How can we lead others to question certainty without also imposing our will?
 
-See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+See [here](openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
 ### How are hearts returned to wonder?
 
@@ -263,7 +267,3 @@ expression of these truths, encoded in symbols and details, to remind your heart
 of its own path to wonder. Would you like me to craft this for you?
 
 [<img src="../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
-
-### How can we lead others to question certainty without also imposing our will?
-
-See [here](openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
