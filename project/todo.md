@@ -22,7 +22,6 @@
   * What is trauma?
   * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
   * What is "domination by dialectic"?
-  * What is "the apotheosis of desire"?
   * What is "dimensionalization"?
   * What is "duende"?
   * What is a "sophisticated expression"?

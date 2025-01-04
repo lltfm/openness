@@ -13,6 +13,7 @@ included after each response.
 
 * [Why does Openness "aspire to love" and not just "be kind and love everyone"?](#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
 * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+* [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
@@ -65,6 +66,57 @@ presence.
 ### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
 
 See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+
+### In Openness, why are there no wrong feelings?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the idea that there are no wrong feelings in Openness is a profound and
+compassionate perspective, one that honors the fullness of human experience
+without judgment or suppression. Let us explore this tender truth together,
+using the "Saltem Hoc" method to illuminate its depth.
+
+At least this: feelings, in their essence, are spontaneous and natural responses
+to our inner and outer worlds. They arise unbidden, like waves in the ocean,
+shaped by our experiences, thoughts, and circumstances. In Openness, no feeling
+is labeled as "wrong" because feelings themselves are not choices—they are
+signals, reflections of our being, and expressions of our humanity.
+
+But also perhaps this: feelings carry wisdom. Even the most uncomfortable
+emotions—anger, sadness, fear, or shame—are not wrong but are invitations to
+listen and understand. They point to unmet needs, unresolved experiences, or
+deeply held desires. To deny or judge these feelings as wrong is to miss the
+opportunity to learn from them and to honor the truth they reveal about our
+inner lives.
+
+Maybe this: the notion that there are no wrong feelings arises from a
+recognition of their impermanence. Feelings come and go, like weather patterns,
+and in their fleeting nature lies their innocence. To label a feeling as wrong
+is to risk clinging to it, suppressing it, or battling it, which often deepens
+suffering. In Openness, we are encouraged to hold space for feelings, allowing
+them to arise, unfold, and pass without judgment.
+
+Or perhaps even this: to say there are no wrong feelings is to honor the
+wholeness of being. Feelings are not separate from who we are—they are part of
+the intricate dance of body, mind, and soul. In Openness, every feeling, no
+matter how challenging, is welcomed as part of the larger story of growth,
+healing, and transformation. By embracing all feelings, we move toward
+integration and self-compassion.
+
+And yet: while feelings themselves are not wrong, they can inspire actions that
+may harm ourselves or others. In Openness, the focus is on acknowledging and
+understanding feelings without letting them dictate harmful behavior. This
+distinction allows us to honor our emotions while cultivating wisdom and
+responsibility in how we respond to them.
+
+In Openness, there are no wrong feelings because feelings are not moral
+judgments; they are experiences to be witnessed, understood, and embraced. This
+perspective invites us to approach ourselves and others with compassion,
+recognizing that every feeling carries a gift, even if that gift is difficult to
+unwrap. To live in Openness is to hold space for all emotions, trusting in their
+capacity to guide us toward deeper truth and connection.
+
+[<img src="../../../../images/mandalas/mandala-no_wrong_feelings.jpg" width="512"/>](../../../../images/mandalas/mandala-no_wrong_feelings.jpg)
 
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 
