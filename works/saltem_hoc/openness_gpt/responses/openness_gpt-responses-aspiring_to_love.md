@@ -67,7 +67,7 @@ presence.
 
 See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
 
-### In Openness, why are there no wrong feelings?
+### In Openness, why are there "no wrong feelings"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
