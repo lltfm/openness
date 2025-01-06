@@ -21,7 +21,7 @@ included after each response.
 * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire)
 * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
-* [What is meant by "being lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
+* [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
 
 ### What is the purpose of life?
 
@@ -330,7 +330,7 @@ capturing its essence in a visual symphony of symbols and light.
 
 [<img src="../../../../images/mandalas/mandala-the_adventure_of_dreams.jpg" width="512"/>](../../../../images/mandalas/mandala-the_adventure_of_dreams.jpg)
 
-### What is meant by "being lost in literalism"?
+### What is meant by being "lost in literalism"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
