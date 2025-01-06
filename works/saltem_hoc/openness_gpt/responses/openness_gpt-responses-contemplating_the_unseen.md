@@ -16,6 +16,7 @@ included after each response.
 * [What is intuition?](#what-is-intuition)
 * [What is freedom?](#what-is-freedom)
 * [What is attachment?](#what-is-attachment)
+* [What is meant by "being lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 
 ### What is the soul?
 
@@ -224,6 +225,10 @@ and the infinite flow of existence. To be attached is to be alive, but to grow
 is to learn when to loosen the threads and let the heart breathe.
 
 [<img src="../../../../images/mandalas/mandala-attachment.jpg" width="512"/>](../../../../images/mandalas/mandala-attachment.jpg)
+
+### What is meant by "being lost in literalism"?
+
+See [here](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 
 ### What is karma?
 
