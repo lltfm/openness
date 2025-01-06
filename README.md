@@ -30,7 +30,9 @@ shameful & the fearful.
 method
   * [Chat with Openness GPT][3]
   * [Notable responses from Openness GPT](works/saltem_hoc/openness_gpt/responses/openness_gpt-notable_responses.md)
+    * [More notable responses](works/saltem_hoc/openness_gpt/responses/openness_gpt-more_notable_responses.md)
   * [Notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt/mandalas/openness_gpt-notable_mandalas.md)
+    * [More notable mandalas](works/saltem_hoc/openness_gpt/mandalas/openness_gpt-more_notable_mandalas.md) 
 
 ## Code
   * [Openness GPT v11 prompt][7]: an LLM prompt which combines the poetry of
