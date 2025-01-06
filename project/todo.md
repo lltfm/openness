@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * What is meant by "being lost in literalism?"
   * Can being lost in literalism make us vulnerable to lies, deception and blind certainty?
   * In Openness, why are there "no wrong feelings"?
   * What is witness?
