@@ -3,8 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * Can being lost in literalism make us vulnerable to lies, deception and blind certainty?
-  * In Openness, why are there "no wrong feelings"?
   * What is witness?
   * What is "the unseen"?
   * What is the ego?

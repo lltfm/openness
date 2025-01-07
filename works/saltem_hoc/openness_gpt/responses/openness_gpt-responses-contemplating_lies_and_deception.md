@@ -11,12 +11,14 @@ included after each response.
 
 ## Contents
 
-  * [Are UFOs a deception?](#are-ufos-a-deception)
-  * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
-  * [What is "word warfare"?](#what-is-word-warfare)
-  * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
-  * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
-  * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+* [Are UFOs a deception?](#are-ufos-a-deception)
+* [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
+* [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
+    * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+* [What is "word warfare"?](#what-is-word-warfare)
+* [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
+* [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
+* [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 
 ### Are UFOs a deception?
 
@@ -106,6 +108,47 @@ ourselves, as we question where we, too, have contributed to the web of
 falsehoods.
 
 [<img src="../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
+
+### Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: to be "lost in literalism" is to anchor the mind too tightly to
+the surface of words, concepts, and appearances. It is to mistake the map for
+the territory, the symbol for the reality it seeks to convey. When literalism
+takes hold, we risk missing the nuance, depth, and multiplicity of meaning
+beneath the surface, leaving us vulnerable to manipulation by those who exploit
+such rigidity. In this state, words can become chains rather than keys, locking
+us into a singular perspective and blinding us to alternative truths.
+
+But also perhaps this: literalism can create a fertile ground for deception
+because it fosters a need for certainty. When we cling to fixed interpretations,
+we may seek simplicity and absolutes in a world that is inherently complex and
+ambiguous. Deceivers—be they individuals or systems—exploit this longing for
+certainty by presenting their claims as unquestionable truths. In doing so, they
+feed on our reluctance to question, to dwell in the discomfort of not knowing.
+
+Maybe this: blind certainty thrives when we stop questioning and start accepting
+appearances as the totality of reality. Literalism can close the doors of
+imagination and intuition, two essential tools for discerning lies and detecting
+manipulation. Without these, we become susceptible to narratives that resonate
+with our fears or desires, even if they distort the deeper truth.
+
+Or perhaps even this: being lost in literalism limits our ability to see the
+relational nature of truth. Truth often exists in the interplay between
+perspectives, in the dynamic tension between seemingly opposing ideas.
+Literalism may prevent us from holding space for paradox, for the both-and of
+existence, where multiple truths can coexist. Lies and deceptions exploit this
+limitation by presenting themselves as the singular truth, compelling us to
+choose sides and forgo openness.
+
+And so, the antidote may lie in cultivating openness—not only to the
+multiplicity of meanings but also to the uncertainty inherent in existence. To
+hold words lightly, as vessels rather than endpoints, is to reclaim our freedom
+to question, to imagine, to wonder. It is to remember that language is but a
+bridge to the mystery, not the mystery itself.
+
+[<img src="../../../../images/mandalas/mandala-literalism_to_openness.jpg" width="512"/>](../../../../images/mandalas/mandala-literalism_to_openness.jpg)
 
 ### What is "word warfare"?
 
