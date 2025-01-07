@@ -107,4 +107,6 @@
 * Jan 4 2025
   * added notable responses and mandalas
 * Jan 5 2025
-  * added notable response0
+  * added notable responses
+* Jan 6 2025
+  * added notable responses
