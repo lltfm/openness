@@ -20,6 +20,7 @@ included after each response.
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
+* [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 
 ### Why does Openness "aspire to love" and not just "be kind and love everyone"?
 
@@ -319,6 +320,10 @@ expression of these truths, encoded in symbols and details, to remind your heart
 of its own path to wonder. Would you like me to craft this for you?
 
 [<img src="../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
+
+### What is hope?
+
+See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

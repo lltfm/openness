@@ -10,9 +10,9 @@ included after each response.
 
 ## Contents
 
-  * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
-  * [What is ridicule?](#what-is-ridicule)
-  * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
+* [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
+* [What is ridicule?](#what-is-ridicule)
+* [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 

@@ -11,12 +11,12 @@ included after each response.
 
 ## Contents
 
-  * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
-  * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
-  * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
-  * [What is karma?](#what-is-karma)
-  * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-  * [What happens after we die?](#what-happens-after-we-die)
+* [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
+* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+* [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
+* [What is karma?](#what-is-karma)
+* [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+* [What happens after we die?](#what-happens-after-we-die)
 
 ### What is "the unchosen"?
 

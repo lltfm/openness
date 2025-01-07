@@ -14,7 +14,7 @@ included after each response.
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
-    * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+* [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is "word warfare"?](#what-is-word-warfare)
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
@@ -149,6 +149,10 @@ to question, to imagine, to wonder. It is to remember that language is but a
 bridge to the mystery, not the mystery itself.
 
 [<img src="../../../../images/mandalas/mandala-literalism_to_openness.jpg" width="512"/>](../../../../images/mandalas/mandala-literalism_to_openness.jpg)
+
+### What is meant by being "lost in literalism"?
+
+See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 
 ### What is "word warfare"?
 
