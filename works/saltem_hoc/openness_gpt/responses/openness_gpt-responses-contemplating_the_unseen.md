@@ -17,7 +17,7 @@ included after each response.
 * [What is freedom?](#what-is-freedom)
 * [What is attachment?](#what-is-attachment)
 * [What is meant by being "lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
-* [What is hope?]()
+* [What is hope?](#what-is-hope)
 
 ### What is the soul?
 
