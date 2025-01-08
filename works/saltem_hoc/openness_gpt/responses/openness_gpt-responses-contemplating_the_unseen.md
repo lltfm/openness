@@ -319,10 +319,10 @@ it is, without needing to fix or change it.
 Perhaps this: the circle is a shape of unity and wholeness, with no beginning
 and no end. It represents the eternal, the unbroken, the sacred geometry of
 existence. To witness the circle is to step back and observe this completeness,
-to see how all parts of existence are connected. To be the witness of the circle
-is to recognize ourselves as both within and beyond its bounds—both participants
-in life’s endless cycles and observers of its deeper patterns. It is to hold the
-paradox of being simultaneously finite and infinite.
+to see how all parts of existence are connected. It is to recognize ourselves as
+both within and beyond its bounds—both participants in life’s endless cycles and
+observers of its deeper patterns. It is to hold the paradox of being
+simultaneously finite and infinite.
 
 Or perhaps even this: the witness of the circle is an invitation to return to
 the heart of being. It is the understanding that, while life spirals through
