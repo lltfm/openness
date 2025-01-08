@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * What is witness?
   * What is "the unseen"?
   * What is the ego?
   * What is trauma?
@@ -13,6 +12,7 @@
   * What is time?
   * What is self-transcendence?
   * What is laughter?
+  * How can Openness be used to create my own "personal belief system"?
   * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
   * What is the "revocation of consent"?
   * In Openness, why is there "no higher truth than lies"?
