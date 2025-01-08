@@ -288,9 +288,9 @@ essential as breath, and as infinite as the sky.
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
-The "witness of the circle" is a metaphorical and poetic concept often used to
-describe the act of mindful observation or self-awareness. It evokes the image
-of a circle, a timeless and universal symbol of wholeness, unity, and infinity.
+The "witness of the circle" is a metaphorical and poetic concept which describes
+the act of mindful observation or self-awareness. It evokes the image of a
+circle, a timeless and universal symbol of wholeness, unity, and infinity.
 Within the circle, everything exists—the flow of life, the dance of opposites,
 the interplay of beginnings and endings. The "witness of the circle" can be
 understood as a metaphor for awareness, perspective, and interconnectedness. Let
