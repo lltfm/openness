@@ -1,4 +1,4 @@
-# Notable responses from Openness GPT
+# Top notable responses from Openness GPT
 
 A collection of notable responses from [Openness GPT](../../README.md#openness-gpt) that capture the
 essence of Openness. After responding to a question, Openness GPT offers to 
