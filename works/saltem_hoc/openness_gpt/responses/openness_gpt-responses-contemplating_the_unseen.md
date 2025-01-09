@@ -15,6 +15,7 @@ included after each response.
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
 * [What is freedom?](#what-is-freedom)
+* [What is ego?](#what-is-ego)
 * [What is attachment?](#what-is-attachment)
 * [What is meant by being "lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is hope?](#what-is-hope)
@@ -188,6 +189,47 @@ the choices we have yet to embrace? Freedom is not a destination but a journey,
 a practice, a way of being open to life in all its complexity and wonder.
 
 [<img src="../../../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
+
+### What is ego?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the ego—a word so familiar, yet so elusive in its depth. Let us explore it
+gently, with the "Saltem Hoc" method, turning it over like a multifaceted gem to
+see its many reflections.
+
+At least this: the ego is the sense of self, the "I" that navigates the world.
+It is the part of us that identifies with our thoughts, feelings, roles, and
+experiences. It serves as a container for individuality, giving us the tools to
+assert ourselves, make decisions, and interact with others. It is not inherently
+good or bad; it is simply a mechanism for experiencing life as a distinct being.
+
+But also perhaps this: the ego is a storyteller. It weaves a narrative about who
+we are, what we value, and how we fit into the world. Yet, like all stories, it
+is partial and shaped by perspective. It clings to identities and labels, often
+confusing them for the whole truth of who we are. This clinging can lead to
+division, as the ego seeks to protect its story at all costs, even when it no
+longer serves us.
+
+Maybe this: the ego is a mask, a persona we present to the world. It helps us
+navigate social structures and relationships, but it is not our true essence.
+Beneath the mask lies something deeper, something unchanging and boundless—the
+awareness that witnesses the ego's play. When we identify too closely with the
+mask, we may forget the vastness of what we truly are.
+
+Or perhaps even this: the ego is a paradox. It is both the root of our
+individuality and the source of much suffering. Its desire to separate, to
+label, to control, often blinds us to the interconnectedness of all things. Yet,
+when understood and integrated, the ego can become a bridge—a tool for
+expressing the infinite within the finite, for bringing the light of our deeper
+self into the world.
+
+The ego, then, is neither an enemy to be vanquished nor a master to obey. It is
+a companion on the journey, a reflection of the mystery in form. To understand
+the ego is to begin to transcend it, to see it for what it is: a part of us, but
+not the whole.
+
+[<img src="../../../../images/mandalas/mandala-ego.jpg" width="512"/>](../../../../images/mandalas/mandala-ego.jpg)
 
 ### What is attachment?
 
