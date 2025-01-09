@@ -18,4 +18,4 @@ created by Openness GPT is included after each response.
 9. [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
 10. [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
 
-> More notable responses [here](openness_gpt-more_notable_responses.md)
+> More notable responses [here](./README.md)
