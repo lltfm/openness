@@ -13,6 +13,7 @@ included after each response.
 
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
 * [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
+* [Who chooses the planks of the Ship of Self?](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
 * [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
 * [What is the "higher self"?](#what-is-the-higher-self)
