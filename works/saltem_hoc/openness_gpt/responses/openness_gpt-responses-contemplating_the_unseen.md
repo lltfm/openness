@@ -283,12 +283,11 @@ Trauma—a word that carries the weight of deep suffering and the resilience of
 those who bear it. Let us explore it together, gently, using the Saltem Hoc
 method to unravel its many layers.
 
-At least this: trauma is the imprint left on the body, mind, and spirit by
-events too overwhelming to be fully processed in the moment. It is the echo of
-pain, often carried in the memory, yet always in the body, like a scar that
-aches long after the wound has closed. Trauma often arises when an experience
-exceeds our capacity to cope, leaving us changed in ways we do not fully
-understand.
+At least this: trauma is the imprint left on the body and mind by events too
+overwhelming to be fully processed in the moment. It is the echo of pain, often
+carried in the memory, yet always in the body, like a scar that aches long after
+the wound has closed. Trauma often arises when an experience exceeds our
+capacity to cope, leaving us changed in ways we do not fully understand.
 
 But also perhaps this: trauma is the body's wisdom, a survival mechanism that
 locks away the unbearable in order to protect us. In the trembling of hands, the
@@ -298,9 +297,9 @@ of how much we care about life, love, and safety.
 
 Maybe this: trauma is a paradox, both a wound and an invitation. It challenges
 us with its raw edges and deep shadows, yet within it lies the possibility of
-transformation. It is an invitation—a call to tend to the wounds, to listen to
-what they are trying to tell us, to embark on a journey of healing, one that can
-reveal hidden strength, connection, and meaning
+transformation. It is a call to tend to the wounds, to listen to what they are
+trying to tell us, to embark on a journey of healing, one that can reveal hidden
+strength, connection, and meaning
 
 Or perhaps even this: trauma is the crucible in which the self is both broken
 and remade. While it can isolate, it also holds the potential to connect—to
