@@ -18,7 +18,7 @@ included after each response.
 * [What is ego?](#what-is-ego)
 * [What is attachment?](#what-is-attachment)
 * [What is meant by being "lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
-* [What is trauma?]()
+* [What is trauma?](#what-is-trauma)
 * [What is hope?](#what-is-hope)
 * [What is "the witness of the circle"?](#what-is-the-witness-of-the-circle)
 
