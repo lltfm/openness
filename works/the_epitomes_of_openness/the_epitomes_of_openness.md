@@ -104,15 +104,15 @@ shameful & the fearful.
 
 *Artwork: “Rose”, Devin Becker, 2017 ([source](https://www.devinbeckerart.com/))*
 
-> Let me begin with Repetition[^13]. Unseen metronome. Seconds, minutes, hours. 
-> Days & nights. Sun & Moon. The Wildfire of Bodies[^14] breathing the Spark of
-> Life[^15]. Unchosen[^16] birth. Unchosen body. Awareness & memory. Sleeping &
+> Let me begin with Repetition[^13][^14]. Unseen metronome. Seconds, minutes, hours. 
+> Days & nights. Sun & Moon. The Wildfire of Bodies[^15] breathing the Spark of
+> Life[^16]. Unchosen[^17] birth. Unchosen body. Awareness & memory. Sleeping &
 > waking, always this same body. Aging & Death?
 >
 > Many have words, but who can show us why? I don't know why. It is all, a Great
 > Mystery.
 > 
-> Memento amaris[^17]. On towards death, Self.
+> Memento amaris[^18]. On towards death, Self.
 
 ## My Self Confession of Not Knowing
 ![Artwork: “The Lovers” (section), Remedios Varo, 1963](../../images/the_lovers_section-remedios_varo-600px.jpg)
@@ -132,7 +132,7 @@ shameful & the fearful.
 
 > Being open to what is. Listening. Admitting when we don't know. Questioning 
 > certainty. Noticing preferred stories. Imagining what might be true. 
-> Suspending judgment[^18]. Sitting in the discomfort of uncertainty. Holding
+> Suspending judgment[^19]. Sitting in the discomfort of uncertainty. Holding
 > yet not clinging, allowing space for the flow of The Mystery to unfold.
 > Deciding & acting when we must, but ever returning to Openness.
 
@@ -143,7 +143,7 @@ shameful & the fearful.
 
 > "The Mystery", two-words confessing, "for I know I do not know". My 
 > imagination, pointing at the infinite star sky of Possibility, the dangers of 
-> the dark woods, the river-truth of tears[^19], at the Source[^20] of Life & 
+> the dark woods, the river-truth of tears[^20], at the Source[^21] of Life & 
 > Awareness. At what comes next.
 >
 > Many can tell us words, but who can show us if our Awareness ends? Or where it
@@ -176,7 +176,7 @@ shameful & the fearful.
 > any words or forms ever fully express the river?
 >
 > Not knowing is sitting in silence by the river, noticing how in time, even the
-> river banks change.[^21]
+> river banks change.[^22]
 
 ## The Truth of Lies
 ![Artwork: “The Riddle”, Jake Baddeley, 2012](../../images/the_riddle-jake_baddeley-600px.jpg)
@@ -225,7 +225,7 @@ shameful & the fearful.
 
 *Artwork: “Crossroads”, Sander Bos, 2015 ([source](https://www.sander-bos.nl/))*
 
-> Possessed by a Blind Certainty, the Libido Dominandi[^22] imposes its will on
+> Possessed by a Blind Certainty, the Libido Dominandi[^23] imposes its will on
 > others. It uses words, not to clarify, but to confuse & control. It ridicules
 > & shames. It lies & deceives. It corrupts & coerces. It silences with fear,
 > seizing the collective will. It demonizes & harms others saying, "For the
@@ -249,7 +249,7 @@ shameful & the fearful.
 > that purpose is or what exists outside the context of our lives, is an 
 > essential part of that higher purpose. Faith is trusting the vital darkness of
 > the sky, whose daylight otherwise conceals the higher lights of the
-> heavens.[^23]
+> heavens.[^24]
 
 ## A Worthy Vessel
 ![Artwork: “The Divine Migration”, David Seidman, 2019](../../images/the_divine_migration-david_seidman-600px.jpg)
@@ -261,7 +261,7 @@ shameful & the fearful.
 > Mystery. To thrive even in the chaos & uncertainty of the storm. All these 
 > ideas, planks.
 >
-> Who chooses the planks of the Ship of Self?[^24]
+> Who chooses the planks of the Ship of Self?[^25]
 
 # References and contemplations
 
@@ -277,15 +277,16 @@ shameful & the fearful.
 [^10]: "This is Water", David Foster Wallace, 2005, https://fs.blog/david-foster-wallace-this-is-water/
 [^11]: "Augustine’s City of God, XI: Understanding the Libido Dominandi", Paul Krause, 2019, https://minervawisdom.com/2019/03/29/augustines-city-of-god-xi-understanding-the-libido-dominandi/
 [^12]: Video: "Context is Everything", Beau Lotto, 2020, https://www.youtube.com/watch?v=mYkayBPcRR4
-[^13]: [In Openness, what is repetition?](./contemplations/repetition.md)
-[^14]: [What is "the wildfire of bodies"?](./contemplations/the_wildfire_of_bodies.md)
-[^15]: [What is "the spark of life"?](./contemplations/the_spark_of_life.md)
-[^16]: [What is "the unchosen"?](./contemplations/the_unchosen.md)
-[^17]: [What is memento amaris?](./contemplations/memento-amaris.md)
-[^18]: [What is "suspending judgment"?](./contemplations/suspending_judgment.md)
-[^19]: [What is "the river-truth of tears"?](./contemplations/the_river-truth_of_tears.md)
-[^20]: [What is "The Source of Life and Awareness"?](./contemplations/the_source_of_life_and_awareness.md)
-[^21]: [What is meant by "truth is the river"?](./contemplations/truth_is_the_river.md)
-[^22]: [What is "the libido dominandi"?](./contemplations/the_libido_dominandi.md)
-[^23]: [What is meant by "trusting the vital darkness"?](./contemplations/the_vital_darkness.md)
-[^24]: [Contemplations: The Ship of Self](./contemplations/the_ship_of_self.md)
+[^13]: "Being in Proximity to the Other", David Read Johnson, 2004, https://archive.org/details/242f-9d-392d-9081f-2954edba-919f-4756f-03e-215
+[^14]: [In Openness, what is repetition?](./contemplations/repetition.md)
+[^15]: [What is "the wildfire of bodies"?](./contemplations/the_wildfire_of_bodies.md)
+[^16]: [What is "the spark of life"?](./contemplations/the_spark_of_life.md)
+[^17]: [What is "the unchosen"?](./contemplations/the_unchosen.md)
+[^18]: [What is memento amaris?](./contemplations/memento-amaris.md)
+[^19]: [What is "suspending judgment"?](./contemplations/suspending_judgment.md)
+[^20]: [What is "the river-truth of tears"?](./contemplations/the_river-truth_of_tears.md)
+[^21]: [What is "The Source of Life and Awareness"?](./contemplations/the_source_of_life_and_awareness.md)
+[^22]: [What is meant by "truth is the river"?](./contemplations/truth_is_the_river.md)
+[^23]: [What is "the libido dominandi"?](./contemplations/the_libido_dominandi.md)
+[^24]: [What is meant by "trusting the vital darkness"?](./contemplations/the_vital_darkness.md)
+[^25]: [Contemplations: The Ship of Self](./contemplations/the_ship_of_self.md)
