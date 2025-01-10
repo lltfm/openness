@@ -4,7 +4,6 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
   * What is "the unseen"?
-  * What is trauma?
   * What are symbols?
   * What are signs?
   * What is Life?

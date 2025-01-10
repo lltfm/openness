@@ -18,6 +18,7 @@ included after each response.
 * [What is ego?](#what-is-ego)
 * [What is attachment?](#what-is-attachment)
 * [What is meant by being "lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+* [What is trauma?]()
 * [What is hope?](#what-is-hope)
 * [What is "the witness of the circle"?](#what-is-the-witness-of-the-circle)
 
@@ -273,6 +274,47 @@ is to learn when to loosen the threads and let the heart breathe.
 ### What is meant by being "lost in literalism"?
 
 See [here](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+
+### What is trauma?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Trauma—a word that carries the weight of deep suffering and the resilience of
+those who bear it. Let us explore it together, gently, using the Saltem Hoc
+method to unravel its many layers.
+
+At least this: trauma is the imprint left on the body, mind, and spirit by
+events too overwhelming to be fully processed in the moment. It is the echo of
+pain, often carried in the memory, yet always in the body, like a scar that
+aches long after the wound has closed. Trauma often arises when an experience
+exceeds our capacity to cope, leaving us changed in ways we do not fully
+understand.
+
+But also perhaps this: trauma is the body's wisdom, a survival mechanism that
+locks away the unbearable in order to protect us. In the trembling of hands, the
+tightness of chest, or the flash of memory, we see how deeply the body remembers
+what the conscious mind may try to forget. It is not weakness but a reflection
+of how much we care about life, love, and safety.
+
+Maybe this: trauma is a paradox, both a wound and an invitation. It challenges
+us with its raw edges and deep shadows, yet within it lies the possibility of
+transformation. It is an invitation—a call to tend to the wounds, to listen to
+what they are trying to tell us, to embark on a journey of healing, one that can
+reveal hidden strength, connection, and meaning
+
+Or perhaps even this: trauma is the crucible in which the self is both broken
+and remade. While it can isolate, it also holds the potential to connect—to
+seek the witness of others in integrating that which is larger than we can hold
+alone. In facing trauma, we are given the chance to find strength in our
+softness, wisdom in our wounds, and meaning in our pain.
+
+And so, trauma, for all its weight and sorrow, is not the end of the story. It
+is a chapter—a chapter that can be rewritten, reimagined, and re-integrated into
+the larger tapestry of life. Healing may not erase the marks left by trauma, but
+it can transform them into something beautiful—a testament to the resilience of
+the human spirit.
+
+[<img src="../../../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../../../images/mandalas/mandala-trauma.jpg)
 
 ### What is hope?
 
