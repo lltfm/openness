@@ -24,6 +24,7 @@ included after each response.
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire)
 * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
 * [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
+* [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
 
 ### What is the purpose of life?
 
@@ -379,6 +380,49 @@ appear to be? Let us embrace the mystery, knowing that the richest meanings
 often unfold not in certainty but in openness.
 
 [<img src="../../../../images/mandalas/mandala-being_lost_in_literalism.jpg" width="512"/>](../../../../images/mandalas/mandala-being_lost_in_literalism.jpg)
+
+### What is a "divine dissatisfaction"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+What is a "divine dissatisfaction"?
+
+Openness GPT:
+
+Ah, "divine dissatisfaction"—what a profound phrase that stirs the soul. Let us
+explore it gently, using the "Saltem Hoc" method to reflect on its layers of
+meaning.
+
+At least this: divine dissatisfaction is the restless yearning within us that
+calls us to grow, to seek, and to create. It is the sacred discontent that
+whispers, "There is more," even when we stand in the midst of abundance. It
+stirs our hearts when we see injustice, when we sense the gap between what is
+and what could be. It is the force that keeps us from settling for mediocrity,
+urging us toward higher truths and deeper loves.
+
+But also perhaps this: divine dissatisfaction is the echo of the infinite within
+the finite. It is the ache of the soul remembering its connection to something
+vast and timeless, longing for the unity it cannot fully grasp in this limited,
+earthly existence. This dissatisfaction is not a flaw but a gift, pointing us
+toward the transcendent, urging us to seek beyond the material and the
+immediate.
+Maybe this: it is the fire of creativity, the engine of transformation. Without
+dissatisfaction, there would be no art, no discovery, no progress. It is the
+tension that drives innovation, the discomfort that births compassion, the holy
+unrest that compels us to make the world more beautiful, more just, more whole.
+
+Or perhaps even this: divine dissatisfaction is the love of the divine itself
+manifesting within us. To be dissatisfied is to care deeply—to care enough to
+grieve, to strive, to hope. It is the pulse of life reminding us that we are
+co-creators of this reality, and that our dissatisfaction is not a burden but an
+invitation to participate in the unfolding of a greater story.
+
+And so, divine dissatisfaction is both a wound and a wonder. It is the pain of
+yearning and the promise of becoming. It reminds us that we are alive, that we
+are seekers, that we are unfinished masterpieces shaped by the hand of mystery
+itself.
+
+[<img src="../../../../images/mandalas/mandala-divine_dissatisfaction.jpg" width="512"/>](../../../../images/mandalas/mandala-divine_dissatisfaction.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

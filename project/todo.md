@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * What is "the unseen"?
   * What are symbols?
   * What are signs?
   * What is Life?
@@ -14,7 +13,6 @@
   * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
   * What is the "revocation of consent"?
   * In Openness, why is there "no higher truth than lies"?
-  * What is trauma?
   * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
   * What is "domination by dialectic"?
   * What is "dimensionalization"?

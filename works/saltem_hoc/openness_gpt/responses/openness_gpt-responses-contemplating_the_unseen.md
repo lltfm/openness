@@ -11,6 +11,7 @@ included after each response.
 
 ## Contents
 
+* [What is "the unseen"?](#what-is-the-unseen)
 * [What is the soul?](#what-is-the-soul)
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
@@ -21,6 +22,51 @@ included after each response.
 * [What is trauma?](#what-is-trauma)
 * [What is hope?](#what-is-hope)
 * [What is "the witness of the circle"?](#what-is-the-witness-of-the-circle)
+
+### What is "the unseen"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+The unseen is a word that gestures toward the mysteries and realities beyond the
+limits of our immediate perception. It is the vast, hidden fabric of existence,
+encompassing forces, truths, and connections that we cannot directly observe or
+fully comprehend. Let us explore the idea of the unseen using the "Saltem Hoc"
+method:
+
+At least this: the unseen includes everything that eludes our senses but
+influences our world—gravity, the currents of the wind, the inner workings of
+another's heart, the thoughts behind their eyes. Though invisible, these forces
+shape our lives in profound ways, reminding us that not all that matters can be
+seen or touched.
+
+But also perhaps this: the unseen is the infinite space of possibility, where
+potential resides before it takes form, the void from which all things arise and
+to which all things return. It is the source of creativity, the reservoir of
+inspiration that flows through the artist, the poet, the thinker. It is the
+silence before the song exists, the blank canvas before the first brushstroke.
+It is the shadowy contours of the dream that will be dreamed, the vast unknown
+that invites us to wonder and create.
+
+Maybe this: the unseen is the interconnected web of life that unites all things,
+even when we cannot trace the threads. It is the whisper of intuition, the pull
+of a tide we cannot name, the inexplicable feeling that we are part of something
+greater than ourselves. Though invisible, it is felt—in the kindness of a
+stranger, the synchronicity of events, the inexplicable moments of clarity that
+transcend logic. To glimpse the unseen is to touch the sacred unity of
+existence.
+
+Or perhaps even this: the unseen is the domain of faith, hope, and love—the
+invisible forces that move us to act with courage, to trust in what we cannot
+prove, to cherish what we cannot hold. It is the deep current beneath the
+surface of life, carrying us forward even when we feel lost.
+
+The unseen, then, is not a single thing but a kaleidoscope of meanings, a
+reminder that reality is richer and deeper than what meets the eye. It calls us
+to look beyond the visible, to listen with the ears of the heart, to live with
+openness and humility, to honor the mystery, and to trust that even in the
+absence of certainty, there is beauty and truth.
+
+[<img src="../../../../images/mandalas/mandala-the_unseen.jpg" width="512"/>](../../../../images/mandalas/mandala-the_unseen.jpg)
 
 ### What is the soul?
 
