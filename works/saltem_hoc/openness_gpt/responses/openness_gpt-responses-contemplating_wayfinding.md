@@ -385,10 +385,6 @@ often unfold not in certainty but in openness.
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
-What is a "divine dissatisfaction"?
-
-Openness GPT:
-
 Ah, "divine dissatisfaction"—what a profound phrase that stirs the soul. Let us
 explore it gently, using the "Saltem Hoc" method to reflect on its layers of
 meaning.
