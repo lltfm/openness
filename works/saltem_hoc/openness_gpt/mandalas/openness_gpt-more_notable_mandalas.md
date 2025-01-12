@@ -91,6 +91,8 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-the_overwhelm.jpg" width="512"/>](../../../../images/mandalas/mandala-the_overwhelm.jpg)
 ### What is trauma?
 [<img src="../../../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../../../images/mandalas/mandala-trauma.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unseen.md#what-is-trauma))</sub>
 ### What is the "revocation of consent"?
 [<img src="../../../../images/mandalas/mandala-revocation_of_consent.jpg" width="512"/>](../../../../images/mandalas/mandala-revocation_of_consent.jpg)
 ### What is coordinated group lying & deception?
