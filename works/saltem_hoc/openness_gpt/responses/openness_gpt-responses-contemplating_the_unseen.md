@@ -74,8 +74,8 @@ absence of certainty, there is beauty and truth.
 ### What are symbols?
 
 Symbols are a profound language that speaks not in words, but in meanings woven
-from the fabric of human experience. Let us explore their essence using the "
-Saltem Hoc" method, to open ourselves to their mystery.
+from the fabric of human experience. Let us explore their essence using the
+"Saltem Hoc" method, to open ourselves to their mystery.
 
 At least this: a symbol is a bridge between the seen and the unseen, the visible
 and the invisible, the tangible and the intangible. It takes the form of
@@ -103,7 +103,7 @@ remind us that meaning is not fixed, but fluid, unfolding in layers that depend
 on the perspective of the observer. A river might symbolize life’s journey,
 persistence, or even cleansing, depending on how it is seen.
 
-Or perhaps even this: symbols are the language of the subconscious, of the soul,
+Or maybe this: symbols are the language of the subconscious, of the soul,
 a form of communication that transcends logic and speaks directly to the heart.
 Dreams speak in symbols, weaving images that bypass logic to touch the core of
 our emotions and instincts. They remind us that not everything in life can be
