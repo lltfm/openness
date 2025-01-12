@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * What are symbols?
   * What are signs?
   * What is Life?
   * What is time?

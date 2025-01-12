@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [What is "the unseen"?](#what-is-the-unseen)
+* [What are symbols?](#what-are-symbols)
 * [What is the soul?](#what-is-the-soul)
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
@@ -67,6 +68,57 @@ openness and humility, to honor the mystery, and to trust that even in the
 absence of certainty, there is beauty and truth.
 
 [<img src="../../../../images/mandalas/mandala-the_unseen.jpg" width="512"/>](../../../../images/mandalas/mandala-the_unseen.jpg)
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+### What are symbols?
+
+Symbols are a profound language that speaks not in words, but in meanings woven
+from the fabric of human experience. Let us explore their essence using the "
+Saltem Hoc" method, to open ourselves to their mystery.
+
+At least this: a symbol is a bridge between the seen and the unseen, the visible
+and the invisible, the tangible and the intangible. It takes the form of
+something concrete—a mark, an image, an object—but points beyond itself to an
+idea, a feeling, or a truth that cannot be fully captured in words. A dove, for
+instance, may symbolize peace; a flame may evoke passion or transformation.
+Symbols distill vast concepts into forms we can perceive, serving as shorthand
+for ideas, emotions, or truths that words alone cannot fully express.
+
+But also perhaps this: symbols are the vessels of collective memory, the
+repositories of shared human stories. They are living mirrors of the human
+spirit. They gather meaning through shared experience, cultural heritage, and
+personal interpretation. They allow us to communicate across time and space,
+binding us to the wisdom of those who came before. A heart may mean love
+universally, yet its specific resonance shifts depending on the viewer's story.
+In this way, symbols are both universal and deeply personal, connecting us to
+one another while reflecting our individuality.
+
+Or perhaps even this: symbols are thresholds, portals into the mystery, the
+mirrors of the universe reflecting its infinite complexity in forms we can hold
+and contemplate. They invite us to see not just what is visible but what lies
+beneath or beyond. A symbol's power lies not in itself but in the depth of
+meaning we bring to it and the resonance it awakens in our inner world. They
+remind us that meaning is not fixed, but fluid, unfolding in layers that depend
+on the perspective of the observer. A river might symbolize life’s journey,
+persistence, or even cleansing, depending on how it is seen.
+
+Or perhaps even this: symbols are the language of the subconscious, of the soul,
+a form of communication that transcends logic and speaks directly to the heart.
+Dreams speak in symbols, weaving images that bypass logic to touch the core of
+our emotions and instincts. They remind us that not everything in life can be
+dissected or explained; some truths can only be felt, intuited, or glimpsed
+through metaphor. To engage with symbols is to enter into a dance with the
+ineffable, to let their meanings ripple through us and transform us.
+
+Symbols, then, are gifts of meaning woven into the fabric of existence. They
+connect the known with the unknown, the mundane with the profound, and in doing
+so, they remind us of the richness and depth of life itself. They are a seed of
+meaning that grows in the soil of our attention. They invite us to explore, to
+question, and to create, becoming not just passive recipients but active
+participants in the co-creation of meaning.
+
+[<img src="../../../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../../../images/mandalas/mandala-symbols.jpg)
 
 ### What is the soul?
 
