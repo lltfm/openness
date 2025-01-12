@@ -85,6 +85,8 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-signs.jpg" width="512"/>](../../../../images/mandalas/mandala-signs.jpg)
 ### What are symbols?
 [<img src="../../../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../../../images/mandalas/mandala-symbols.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unseen.md#what-are-symbols))</sub>
 ### What is "The Overwhelm"?
 [<img src="../../../../images/mandalas/mandala-the_overwhelm.jpg" width="512"/>](../../../../images/mandalas/mandala-the_overwhelm.jpg)
 ### What is trauma?
