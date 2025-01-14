@@ -3,6 +3,12 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
+  * What is the difference between "self" and "Self"?
+  * What is art?
+  * What does it mean to "weapon words with extra meaning"?
+  * In Openness, why is there "no higher truth than lies"?
+  * Can criminals hide within their by intentionally exposing their crimes but blaming their group?
+  * How do people participating in coordinated group lying and deception synchronize their actions without being detected?
   * What is Life?
   * What is time?
   * What is self-transcendence?
@@ -10,23 +16,20 @@
   * How can Openness be used to create my own "personal belief system"?
   * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
   * What is the "revocation of consent"?
-  * In Openness, why is there "no higher truth than lies"?
-  * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
   * What is "domination by dialectic"?
   * What is "dimensionalization"?
   * What is "wu wei"?
   * What is "duende"?
   * What is a "sophisticated expression"?
-  * What is the "karmic mind-trap"?
+  * What is a "karmic mind-trap"?
   * What is "natural law"?
   * In Openness, what is "westward"?
   * In Openness, what is "the choosing"?
   * In Openness, what is "a worthy vessel"?
+  * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
   * What is the "mirror of the mind"?
   * What is "The Overwhelm"?
   * What does it mean to be "chosen" by our past and future selves?
-  * What is the difference between "self" and "Self"?
-  * What does it mean to "weapon words with extra meaning"?
   * Is blind certainty wrong in of itself?
 * study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12
