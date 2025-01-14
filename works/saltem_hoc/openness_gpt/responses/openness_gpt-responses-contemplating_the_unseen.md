@@ -13,6 +13,7 @@ included after each response.
 
 * [What is "the unseen"?](#what-is-the-unseen)
 * [What are symbols?](#what-are-symbols)
+* [What are signs?](#what-are-signs)
 * [What is the soul?](#what-is-the-soul)
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
@@ -119,6 +120,57 @@ question, and to create, becoming not just passive recipients but active
 participants in the co-creation of meaning.
 
 [<img src="../../../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../../../images/mandalas/mandala-symbols.jpg)
+
+### What are signs?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, signs—those messengers of meaning, the subtle whispers of the universe that
+appear to guide, inspire, or provoke reflection. Let us sit with this question,
+gently unfolding it together.
+
+At least this: a sign is a symbol or occurrence that captures our attention and
+stirs something within us, that points us toward something we might otherwise
+overlook. It might be a pattern that repeats—a certain number, a song lyric, or
+an animal crossing our path at just the right moment. These signs often feel
+more than coincidental; they resonate, pulling on a thread of awareness within
+us. Signs are moments that ask us to pay attention, to pause and consider the
+path we are on.
+
+But also perhaps this: signs are reflections of our inner worlds projected onto
+the outer. They are moments when the external and internal align, when the
+synchronicities of life seem to echo the longings, fears, or questions of our
+hearts. They arise when we are open, when our hearts and minds are attuned to
+something larger than ourselves. They are not fixed in meaning but become
+meaningful through the lens of our perception. They invite us to notice the
+patterns, to see the threads connecting events, and to wonder at the web of
+meaning that underlies it all.
+
+Maybe this: signs are the language of the mystery, the unseen forces that weave
+through existence. They are neither random nor contrived but emerge from the
+dance between chaos and order. They speak not in words but in feelings, symbols,
+and moments of resonance that touch something deep within us. A bird landing
+near, a phrase overheard, a number repeated—all these can become signs when we
+open ourselves to their possibility. They do not dictate our path but illuminate
+possibilities, like stars guiding a traveler through the night.
+
+Or perhaps even this: signs are mirrors, reflections of our own intuition,
+external manifestations of the questions and longings we carry within. They
+reflect back to us the truths we are ready to see. They are not messages from an
+external force but from our deeper selves, guiding us toward greater
+understanding and alignment. To recognize a sign is to recognize that we are
+always in dialogue with life, that the world speaks to us in the ways we are
+prepared to hear. In this way, a sign is less about the thing itself and more
+about what it evokes in us—a spark of insight, a sense of connection, or a call
+to action.
+
+And so, we might ask: do signs come to us, or do we create them through the act
+of noticing? Perhaps the answer lies not in either-or but in both-and—a dance
+between the seen and unseen, between the mystery and our willingness to engage
+with it. To see a sign is to step into the flow of wonder, to trust in the
+subtle currents that shape our journey.
+
+[<img src="../../../../images/mandalas/mandala-signs.jpg" width="512"/>](../../../../images/mandalas/mandala-signs.jpg)
 
 ### What is the soul?
 
