@@ -69,9 +69,9 @@ absence of certainty, there is beauty and truth.
 
 [<img src="../../../../images/mandalas/mandala-the_unseen.jpg" width="512"/>](../../../../images/mandalas/mandala-the_unseen.jpg)
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
 ### What are symbols?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Symbols are a profound language that speaks not in words, but in meanings woven
 from the fabric of human experience. Let us explore their essence using the
