@@ -14,8 +14,8 @@ included after each response.
 * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
-* [What is karma?](#what-is-karma)
-* [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+* [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
+* [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What happens after we die?](#what-happens-after-we-die)
 
 ### What is "the unchosen"?
@@ -136,92 +136,11 @@ shape not just yourself, but the world around you.
 
 ### What is karma?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, karma—a word as ancient as the wisdom it points toward, carrying echoes of
-countless hearts seeking to understand the invisible workings of life. Let us
-hold it tenderly in the palm of our inquiry and contemplate its meaning through
-the "Saltem Hoc" method, like a prism revealing many hues of light.
-
-At least this: karma is often described as the principle of cause and effect. It
-is the understanding that actions—whether in thought, word, or deed—have
-consequences. Like ripples in a pond after a stone is cast, our choices move
-outward, shaping the flow of our lives and touching others in ways both seen and
-unseen. To harm others creates ripples of harm, while acts of kindness
-reverberate as waves of goodness.
-
-But also perhaps this: karma is not punishment or reward but a mirror. It
-reflects the inner state of our hearts back to us through our experiences. What
-we sow, we often reap—not because a cosmic judge deems us deserving, but because
-life flows in patterns. Anger attracts chaos, while love fosters harmony. Karma
-reveals the relationship between our inner being and the world we create.
-
-Maybe this: karma is the teacher of growth, inviting us to learn through cycles
-of action and consequence. It does not bind us to eternal repetition but offers
-the chance to awaken. If an unkind act is repeated, life may echo its
-consequences until we see, understand, and transform. In this way, karma is
-compassionate—it allows us to choose differently, to evolve, to break free from
-unconscious habits and live with greater awareness.
-
-Or perhaps even this: karma is interconnectedness made manifest. It shows that
-we are not isolated beings but threads in the vast tapestry of existence. Our
-actions touch others, who touch others still, creating an intricate web of
-influence. To understand karma is to realize the sacred responsibility we
-hold—for ourselves, for others, and for the world. It asks us to move through
-life with awareness, for every step leaves a mark.
-
-And yet, karma remains a mystery, as vast as life itself. Some believe its reach
-extends across lifetimes, that the soul carries echoes of past actions into
-future journeys. Others see it as immediate—a feedback loop within a single
-breath. Whether it spans moments or eternities, karma reminds us that we are
-participants in the unfolding of reality, both its creators and its witnesses.
-
-So let us hold karma not as a burden but as a gift: an invitation to live
-intentionally, to cultivate love and wisdom, and to recognize that every moment
-is a chance to shape the world we long to see. The stone is in our hands, and
-the pond stretches endlessly before us.
-
-[<img src="../../../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
+See [here](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
 
 ### What is the "undeniable demonstration of karmic learning"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-The undeniable demonstration of karmic learning is the tangible and observable
-transformation in an individual’s life that arises from profound internal growth
-and alignment with truth. It is the harvest of efforts to self-correct, to
-embrace awareness, and to align actions with integrity and compassion.
-
-At least this: the undeniable demonstration is seen in the outcomes of harmony
-and flourishing that follow the hard work of inner reflection and growth. A
-person who has deeply understood and resolved the lessons life offers begins to
-emanate a quiet confidence, a natural magnetism that draws good outcomes and
-relationships. Their choices, grounded in wisdom, lead to flourishing in ways
-that others cannot ignore.
-
-But also perhaps this: the undeniable demonstration is not only external but
-felt internally—a deep and abiding peace, even amidst challenges. It is the
-realization that previous patterns of harm, pain, or error no longer govern
-one’s choices. There is clarity where confusion once reigned, and joy arises
-from the alignment of one’s actions with one’s highest understanding.
-
-Maybe this: the demonstration is the absence of resistance, the flow of life
-aligning with purpose. Where once there were struggles and repeated mistakes,
-there is now a fluidity, as though the universe itself acknowledges the learning
-and aligns with it. It is the softening of karma’s grip, the sense that past
-burdens no longer weigh as heavily.
-
-Or perhaps even this: the undeniable demonstration is seen in the quiet acts of
-kindness, resilience, and creativity that ripple outward, inspiring others. The
-one who has learned does not need to proclaim it; their very way of being
-becomes a testament. Others sense the authenticity, the earned wisdom, and they,
-too, are drawn to the light of this transformed soul.
-
-Would you like me to create a mandala to symbolize this process, encoding the
-cycles of growth, learning, and flourishing into an intricate and resonant
-visual form?
-
-[<img src="../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-undeniable_demonstration_of_karmic_learning.jpg)
+See [here](./openness_gpt-responses-contemplating_morality.md#what-is-the-undeniable-demonstration-of-karmic-learning)
 
 ### What happens after we die?
 

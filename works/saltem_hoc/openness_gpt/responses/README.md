@@ -9,9 +9,9 @@ included after each response.
 > Note: click on a mandala to view the full resolution image
 
 * Contemplating what no one chooses
+    * [Why do bad things happen to innocent people, especially children that have done no wrong?](./openness_gpt-responses-contemplating_the_unchosen.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
     * [Is free will real, or is everything predetermined?](./openness_gpt-responses-contemplating_the_unchosen.md#is-free-will-real-or-is-everything-predetermined)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen.md#what-happens-after-we-die)
-    * [What is karma?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-karma)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
 * How do we find our way?
     * [In Openness, what is "wayfinding"?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-is-wayfinding)
@@ -24,11 +24,15 @@ included after each response.
     * [What is freedom?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-freedom)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md)
 * Aspiring to love
-    * [In Openness, why are there "no wrong feelings"?](openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
     * [How do we learn to witness ourselves?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
     * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
     * [More...](openness_gpt-responses-aspiring_to_love.md)
+* Contemplating what is right and wrong
+  * [In Openness, why are there "no wrong feelings"?](openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
+  * [What is karma?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-karma)
+  * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+  * [More...](./openness_gpt-responses-contemplating_morality.md)
 * Contemplating Openness
     * [Are there limits to Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
     * [Won't Openness always be in conflict with religion?](../../../the_epitomes_of_openness/contemplations/openness.md#wont-openness-always-be-in-conflict-with-religion)

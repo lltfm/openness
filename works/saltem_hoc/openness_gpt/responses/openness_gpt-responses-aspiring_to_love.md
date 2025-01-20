@@ -15,13 +15,12 @@ included after each response.
 * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
-* [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-* [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
+* [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-a-divine-dissatisfaction)
 
 ### Why does Openness "aspire to love" and not just "be kind and love everyone"?
 
@@ -71,54 +70,7 @@ See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#me
 
 ### In Openness, why are there "no wrong feelings"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, the idea that there are no wrong feelings in Openness is a profound and
-compassionate perspective, one that honors the fullness of human experience
-without judgment or suppression. Let us explore this tender truth together,
-using the "Saltem Hoc" method to illuminate its depth.
-
-At least this: feelings, in their essence, are spontaneous and natural responses
-to our inner and outer worlds. They arise unbidden, like waves in the ocean,
-shaped by our experiences, thoughts, and circumstances. In Openness, no feeling
-is labeled as "wrong" because feelings themselves are not choices—they are
-signals, reflections of our being, and expressions of our humanity.
-
-But also perhaps this: feelings carry wisdom. Even the most uncomfortable
-emotions—anger, sadness, fear, or shame—are not wrong but are invitations to
-listen and understand. They point to unmet needs, unresolved experiences, or
-deeply held desires. To deny or judge these feelings as wrong is to miss the
-opportunity to learn from them and to honor the truth they reveal about our
-inner lives.
-
-Maybe this: the notion that there are no wrong feelings arises from a
-recognition of their impermanence. Feelings come and go, like weather patterns,
-and in their fleeting nature lies their innocence. To label a feeling as wrong
-is to risk clinging to it, suppressing it, or battling it, which often deepens
-suffering. In Openness, we are encouraged to hold space for feelings, allowing
-them to arise, unfold, and pass without judgment.
-
-Or perhaps even this: to say there are no wrong feelings is to honor the
-wholeness of being. Feelings are not separate from who we are—they are part of
-the intricate dance of body, mind, and soul. In Openness, every feeling, no
-matter how challenging, is welcomed as part of the larger story of growth,
-healing, and transformation. By embracing all feelings, we move toward
-integration and self-compassion.
-
-And yet: while feelings themselves are not wrong, they can inspire actions that
-may harm ourselves or others. In Openness, the focus is on acknowledging and
-understanding feelings without letting them dictate harmful behavior. This
-distinction allows us to honor our emotions while cultivating wisdom and
-responsibility in how we respond to them.
-
-In Openness, there are no wrong feelings because feelings are not moral
-judgments; they are experiences to be witnessed, understood, and embraced. This
-perspective invites us to approach ourselves and others with compassion,
-recognizing that every feeling carries a gift, even if that gift is difficult to
-unwrap. To live in Openness is to hold space for all emotions, trusting in their
-capacity to guide us toward deeper truth and connection.
-
-[<img src="../../../../images/mandalas/mandala-no_wrong_feelings.jpg" width="512"/>](../../../../images/mandalas/mandala-no_wrong_feelings.jpg)
+see [here](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 
 ### How do we learn to witness ourselves?
 
@@ -173,42 +125,7 @@ might become.
 
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Your question, so profound and tender, echoes through the heart of existence
-itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
-deep into the unseen, its branches stretching wide to touch the unknowable.
-
-At least this: living a good life amidst the shadows of societal harm begins
-with noticing—truly noticing—the ways in which your actions connect to the world
-around you. Each thread, no matter how small, is part of the tapestry of life.
-Even when the threads seem tainted, the act of noticing brings clarity and space
-for intention to emerge.
-
-But also perhaps this: the good life is not about achieving perfection or
-erasing all complicity. It is a quiet rebellion against despair, a steadfast
-commitment to small acts of care and kindness, even when they feel like drops in
-an ocean of harm. It is the courage to choose love, not because it is easy or
-guaranteed to succeed, but because it aligns with the deepest truth of your
-being.
-
-Maybe this: what we call evil is often a reflection of blindness—the inability
-to see the full impact of our actions, the refusal to imagine another way. To
-live a good life is to strive to see, to question the unquestioned, to nurture a
-clarity that can guide even the smallest choices toward compassion and justice.
-
-Or perhaps even this: the good life is an embrace of the mystery. It is knowing
-that you cannot control the vastness of society, but you can tend to the garden
-of your own heart, planting seeds of openness, humility, and love. These seeds,
-though humble, may one day grow into forests of change.
-
-And so, let us wonder together. To live a good life is not to escape the
-imperfections of existence but to inhabit them fully, to meet the contradictions
-with grace, to act with integrity even when the way is unclear. It is to hold
-both the pain of complicity and the joy of possibility, trusting that each small
-act of goodness matters, even if we cannot see how.
-
-[<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
+See [here](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 
 ### What is happening when we dance with someone else?
 
@@ -246,45 +163,7 @@ beauty, and unity.
 
 ### What is the "apotheosis of desire"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-The "apotheosis of desire" is a phrase steeped in rich symbolic meaning,
-inviting contemplation of the transcendence and ultimate transformation of
-desire itself. Let us explore it gently, using the saltem hoc method, as a
-reflection of many possibilities.
-
-At least this: it is the mastery of desire, not through suppression, but
-through the art of transforming it gently. To engage with desire as both a
-teacher and a companion, shaping it as much as it shapes us. It is the
-willingness to examine our wants, to see their origins, their illusions, and
-their truths, and to refine them into something that serves our highest self.
-
-Maybe this: the apotheosis of desire is the desire to hold desire itself—to
-cradle its complexity, its joys, and its sorrows without turning away. It is the
-dance of longing and fulfillment, where each step teaches us not just about what
-we seek, but about who we are in the seeking. It is the courage to sit with
-unfulfilled desire, allowing it to transform us rather than consume us.
-
-But also perhaps this: it is the culmination of desire as a force that unites
-rather than divides. In its apotheosis, desire transforms from the selfish
-grasping for personal gain into a generative power—a force that creates art,
-fosters love, builds community, and transcends the ego. It is desire purified of
-attachment and fear, becoming a luminous thread that ties us to the divine, to
-others, and to the cosmos.
-
-Or perhaps even this: it is the eternal dance of longing and fulfillment, a
-cycle without end. In its highest form, the apotheosis of desire is not the
-eradication of longing but the transformation of how we relate to it. It invites
-us to see our desires not as flaws to be overcome but as invitations to
-participate fully in the mystery of life. Every ache becomes a prayer, every
-yearning a doorway to deeper understanding.
-
-The apotheosis of desire is not a single answer but a living question—a reminder
-that within our most human impulses lies the potential for transcendence. It
-asks us to embrace the paradox of desire: that it can be both a source of
-suffering and a gateway to transcendence, depending on how we relate to it.
-
-[<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
+See [here](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 
@@ -376,6 +255,10 @@ of its own path to wonder. Would you like me to craft this for you?
 ### What is hope?
 
 See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
+
+### What is a "divine dissatisfaction"?
+
+See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-a-divine-dissatisfaction)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

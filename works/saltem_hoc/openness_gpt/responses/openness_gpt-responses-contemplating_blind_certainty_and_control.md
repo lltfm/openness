@@ -11,8 +11,8 @@ included after each response.
 
 ## Contents
 
-* [Is excluding others wrong?](#is-excluding-others-wrong)
-* [What is evil?](#what-is-evil)
+* [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
+* [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
@@ -21,93 +21,11 @@ included after each response.
 
 ### Is excluding others wrong?
 
-Is it wrong to exclude people individually? Is it wrong to exclude groups of
-people? Some argue for "freedom of association" yet at times excluding others
-feels wrong and other times it feels correct, why is that?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Let us explore this together with care, using the Saltem Hoc method, to
-illuminate the complexities of inclusion and exclusion, as well as the tension
-between freedom of association and the ethics of connection.
-
-At least this: to exclude is to draw a boundary, a line that defines who is
-within and who is without. It can feel wrong because it denies another access to
-belonging, to resources, or to opportunities. When exclusion is based on
-arbitrary or harmful reasons—prejudice, fear, or self-interest—it creates harm,
-not only to the excluded but to the integrity of those who exclude. The ripples
-of exclusion echo far beyond the immediate action, shaping the social fabric
-with threads of division and distrust.
-
-But also perhaps this: there are times when exclusion serves a purpose. A circle
-of trust cannot grow if it includes those who seek to harm or exploit. Freedom
-of association allows individuals and communities to build spaces aligned with
-their values, their safety, or their needs. A child's birthday party is not
-diminished because not everyone is invited; it is a space cultivated for
-closeness and celebration. Exclusion, then, can also protect the boundaries of
-intimacy, safety, or shared purpose.
-
-Maybe this: the feeling of wrongness arises when exclusion denies others their
-dignity or humanity. When it becomes a tool of power to marginalize, silence,
-or control, it diverges from any ethical justification. Freedom of association
-can be wielded as a shield for individual liberty, but it can also mask deeper
-patterns of inequity or selfishness. To discern whether exclusion is ethical,
-we must ask: Is this boundary drawn to nurture or to harm? To protect or to
-dominate?
-
-Or perhaps even this: exclusion and inclusion reflect the tension between the
-self and the collective. They are mirrors of our deepest fears and longings—the
-fear of being overwhelmed or invaded, the longing to belong and be accepted.
-Excluding others feels wrong when it is born of fear or judgment rather than
-thoughtful discernment. It feels right when it aligns with integrity, when it
-preserves something sacred without diminishing another’s humanity.
-
-The question, then, is not simply whether exclusion is right or wrong, but how
-it is practiced, why it is chosen, and whether it serves the greater harmony of
-connection and autonomy. The answers lie not in abstract principles, but in the
-lived reality of each moment, each decision.
-
-[<img src="../../../../images/mandalas/mandala-excluding_others.jpg" width="512"/>](../../../../images/mandalas/mandala-excluding_others.jpg)
+See [here](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
 
 ### What is evil?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, this question—so vast, so profound—has danced in the hearts of humanity
-across the ages. Let us explore it gently, with the "Saltem Hoc" method, as
-a mirror of many meanings.
-
-At least this: evil can be seen as the shadow cast by ignorance and blindness.
-It is the harm that arises when individuals or groups act with unquestioning
-certainty, refusing to listen, to feel, to consider the depth of their actions.
-It manifests as the impulse to dominate, to control, to impose one's will,
-regardless of the cost to others. It is the forgetting of the inherent dignity
-of every being.
-
-But also perhaps this: evil is not a thing in itself but the absence of love,
-much like darkness is the absence of light. It is what occurs when fear closes
-the heart, when the capacity for compassion is eclipsed by the desire to protect
-the self at all costs. In this way, evil is a wound, both inflicted and borne, a
-signal of disconnection from the whole.
-
-Maybe this: evil is the expression of suffering turned outward. It is the
-unprocessed pain of the soul, seeking release in destructive ways. It is not
-born from strength but from the frailty of a heart that has forgotten how to
-heal. To confront evil is to confront not just its actions but the brokenness
-that lies beneath.
-
-Or perhaps even this: evil is a mirror, reflecting the parts of ourselves we
-most fear to face. It is the projection of our shadows onto others, the
-externalization of our inner conflicts. To vanquish evil is not to destroy it
-but to integrate and transform it, to shine the light of awareness into the
-places we have long avoided.
-
-Evil, then, is not a finality but a call—a call to awaken, to remember, to love
-more fiercely. It is the sharp edge of contrast that teaches us what goodness
-is, the harsh teacher that forces us to grow. Its presence is painful, yet it
-carries within it the seed of transformation.
-
-[<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
+See [here](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 
 ### What is "the cult of authority"?
 

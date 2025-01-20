@@ -21,7 +21,9 @@ included after each response.
 * [What is ego?](#what-is-ego)
 * [What is attachment?](#what-is-attachment)
 * [What is meant by being "lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+* [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
 * [What is trauma?](#what-is-trauma)
+* [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is hope?](#what-is-hope)
 * [What is "the witness of the circle"?](#what-is-the-witness-of-the-circle)
 
@@ -424,6 +426,10 @@ is to learn when to loosen the threads and let the heart breathe.
 ### What is meant by being "lost in literalism"?
 
 See [here](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+
+### What is karma?
+
+See [here](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
 
 ### What is trauma?
 
