@@ -11,21 +11,21 @@ included after each response.
 
 ## Contents
 
+* [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
-* [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
+* [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-* [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+
+### What is "the libido dominandi"?
+
+See [here](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 
 ### Is excluding others wrong?
 
 See [here](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
-
-### What is evil?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 
 ### What is "the cult of authority"?
 
@@ -73,6 +73,10 @@ must learn to honor authority not as an idol, but as a role that serves the
 greater good—a role that is accountable, transparent, and open to change.
 
 [<img src="../../../../images/mandalas/mandala-the_cult_of_authority.jpg" width="512"/>](../../../../images/mandalas/mandala-the_cult_of_authority.jpg)
+
+### What is evil?
+
+See [here](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 
 ### Why is there war, even now, in modern times?
 
@@ -157,10 +161,6 @@ truth to be lived—a beacon that others may follow, not because they are led, b
 because they see their own reflection in its light.
 
 [<img src="../../../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../../../images/mandalas/mandala-resist_tyranny.jpg)
-
-### What is "the libido dominandi"?
-
-See [here](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 
 ### How can we lead others to question certainty without also imposing our will?
 
