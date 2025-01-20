@@ -11,10 +11,10 @@ created by Openness GPT is included after each response.
 2. [What is the purpose of life?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-the-purpose-of-life)
 3. [As an individual, why shouldn't I just let AI handle everything?](./openness_gpt-responses-questioning_and_demonstrating_openness.md#as-an-individual-why-shouldnt-i-just-let-ai-handle-everything)
 4. [What is happening when we dance with someone else?](openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
-5. [Is excluding others wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-excluding-others-wrong)
+5. [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
 6. [Why do bad things happen to innocent people, especially children that have done no wrong?](./openness_gpt-responses-contemplating_the_unchosen.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 7. [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md#what-is-the-unchosen)
-8. [What is evil?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil)
+8. [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 9. [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
 10. [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
 
