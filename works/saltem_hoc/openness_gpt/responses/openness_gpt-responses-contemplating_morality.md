@@ -14,7 +14,7 @@ included after each response.
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is karma?](#what-is-karma)
-* [What is "karmic learning"](#what-is-karmic-learning)
+* [What is "karmic learning"?](#what-is-karmic-learning)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is evil?](#what-is-evil)
