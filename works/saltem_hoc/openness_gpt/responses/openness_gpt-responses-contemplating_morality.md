@@ -11,6 +11,7 @@ included after each response.
 
 ## Contents
 
+* [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is karma?](#what-is-karma)
@@ -21,6 +22,46 @@ included after each response.
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
+
+### Why does Openness not tell us directly what is right and wrong?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, this question stirs the depths of understanding itself, calling us to sit
+with the essence of openness and its place in our lives. Let us explore
+together.
+
+At least this: openness does not tell us directly what is right or wrong because
+it is not a voice of authority, but a quiet space where all things may be
+considered. It offers no fixed answers but holds a lantern to illuminate
+possibilities. To tell us what is right or wrong would be to close that space,
+to draw lines where there should be horizons.
+
+But also perhaps this: the nature of openness is to allow, not to dictate. It
+invites us to bring our own awareness, experience, and conscience to the moment.
+Like the vast sky that embraces both light and shadow, openness does not reject
+or affirm—it merely makes room for all things to exist. It trusts us to navigate
+with the tools we have, rather than imposing its will upon us.
+
+Maybe this: openness is a mirror, not a guide. It reflects back to us the
+complexity of our choices, the web of consequences they weave, and the inner
+compass that already exists within us. To tell us what is right or wrong would
+be to replace our reflection with its own, depriving us of the opportunity to
+grow through our discernment and experience.
+
+Or perhaps even this: the question of right and wrong is itself a creation of
+the human heart, a way of grappling with the mystery of existence. Openness
+transcends such dualities, resting instead in the fullness of what is. It does
+not diminish the importance of morality, but it asks us to root our
+understanding of it in the soil of love, compassion, and humility. To do so, we
+must confront the questions ourselves, rather than seeking answers from outside.
+
+And so, openness stands not as a judge, but as a companion, inviting us to walk
+the path of life with courage and curiosity. It is a gift, a space where we can
+wrestle with the questions that matter most, knowing that the answers we find
+will be our own.
+
+[<img src="../../../../images/mandalas/mandala-contemplate_morality.jpg" width="512"/>](../../../../images/mandalas/mandala-contemplate_morality.jpg)
 
 ### In Openness, why are there "no wrong feelings"?
 
@@ -149,7 +190,7 @@ suffering into understanding.
 
 And perhaps also this: karma is not merely external but also internal, unfolding
 within the quiet chambers of the subconscious. The unnoticed mechanical patterns
-of thought, emotion, and behavior we all carry can draw us into recurring 
+of thought, emotion, and behavior we all carry can draw us into recurring
 experiences. Each repetition offers us the chance to notice, question, and
 change. It is the gentle pull of the universe, asking us to become more
 self-aware and self-responsible.
