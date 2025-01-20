@@ -427,10 +427,6 @@ is to learn when to loosen the threads and let the heart breathe.
 
 See [here](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 
-### What is karma?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
-
 ### What is trauma?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:

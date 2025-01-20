@@ -13,10 +13,10 @@ included after each response.
 
 * [Why does Openness "aspire to love" and not just "be kind and love everyone"?](#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
 * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
-* [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
+* [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-* [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
+* [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
