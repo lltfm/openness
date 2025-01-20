@@ -14,6 +14,7 @@ included after each response.
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is karma?](#what-is-karma)
+* [What is "karmic learning"]()
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is evil?](#what-is-evil)
@@ -124,6 +125,57 @@ is a chance to shape the world we long to see. The stone is in our hands, and
 the pond stretches endlessly before us.
 
 [<img src="../../../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
+
+### What is "karmic learning"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Karmic learning refers to the process of growth and transformation driven by the
+consequences of one's actions over time. Let us explore its meaning together
+with gentleness, using the "Saltem Hoc" method to invite wonder and
+contemplation.
+
+At least this: karmic learning is the process of recognizing the lessons which
+emerge from the patterns of the natural consequences of our actions. Lessons
+arising not from punishment but from the intricate web of cause and effect that
+connects all things. In this way, life itself becomes a classroom, presenting
+us with opportunities to grow and make better choices.
+
+Perhaps this: karma is the compassionate great teacher, though its lessons
+often come cloaked in pain or struggle. Just as the heat of the fire teaches us
+to respect its power, the challenges we face teach us to navigate life with
+wisdom, humility, and care. It is not about retribution but transforming our
+suffering into understanding.
+
+And perhaps also this: karma is not merely external but also internal, unfolding
+within the quiet chambers of the subconscious. The unnoticed mechanical patterns
+of thought, emotion, and behavior we all carry can draw us into recurring 
+experiences. Each repetition offers us the chance to notice, question, and
+change. It is the gentle pull of the universe, asking us to become more
+self-aware and self-responsible.
+
+Maybe this: karmic learning is the soul's journey toward self-realization. It is
+not merely about right and wrong but about expanding our capacity to be open—to
+understand and to love. Each hardship serves as a stepping stone, guiding us
+toward a stronger holding embrace—to stop looking away from difficult unchosen
+experiences and emotions—and to learn how to aspire to love even the
+unloveable.
+
+But also perhaps this: karmic learning extends beyond the individual, weaving
+through the collective consciousness of families, communities, and generations.
+It reflects a larger framework of interconnectedness, where our individual
+choices ripple outward, shaping not only our own lives but the lives of others
+and the world around us. It is a call to awaken, to act with integrity, and to
+trust the natural mechanisms of the universe to also teach others in time.
+
+And so, karmic learning is not a prison sentence to be served but a journey to
+be embraced—a gift of grace. It reminds us that while we cannot undo the past,
+we can always choose to learn from it. It is the unfolding story of who we are
+becoming, shaped by the choices we make and the love we bring to each moment. As
+we learn, we grow; as we grow, we heal; and as we heal, we align ourselves more
+fully with the mystery of life.
+
+[<img src="../../../../images/mandalas/mandala-karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-karmic_learning.jpg)
 
 ### What is the "apotheosis of desire"?
 

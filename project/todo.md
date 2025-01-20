@@ -3,7 +3,6 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * What is "karmic learning"? 
   * What is the difference between "self" and "Self"?
   * What is art?
   * What does it mean to "weapon words with extra meaning"?
