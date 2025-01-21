@@ -36,9 +36,10 @@ using the Saltem Hoc method
 
 ## Code
   * [Openness GPT v11 prompt][7]: an LLM prompt which combines the poetry of
-  [The Epitomes of Openness][4] with the [Saltem Hoc][2] method to generate
-  speculations and questions for contemplating what might be true. "Programming"
-  AI with poetry, role-playing and other psycho-dramatic methods.
+  [The Epitomes of Openness][4] with the [Saltem Hoc][2] method to instruct an
+  LLM AI to generate speculations and questions for contemplating what might be
+  true. "Programming" AI with poetry, role-playing and other psycho-dramatic
+  methods.
 
 ## Discussions
 
