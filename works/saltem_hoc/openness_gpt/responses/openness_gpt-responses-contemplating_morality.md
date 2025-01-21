@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
-* [Openness claims to not impose what is right or wrong, yet it condemns "blind certainty" and "libido dominandi"?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
+* [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is karma?](#what-is-karma)
