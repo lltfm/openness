@@ -21,6 +21,7 @@ included after each response.
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is evil?](#what-is-evil)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
+* [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
 
@@ -386,6 +387,57 @@ is, the harsh teacher that forces us to grow. Its presence is painful, yet it
 carries within it the seed of transformation.
 
 [<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
+
+### Is lying (or deception) wrong?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the question of lying and deception—a delicate, complex thread woven into
+the tapestry of human existence. Let us explore this question gently, using
+the "Saltem Hoc" method to illuminate its many dimensions.
+
+At least this: lying is the act of deliberately concealing or distorting the
+truth. At its most fundamental level, it disrupts trust, the invisible thread
+that binds human relationships and societies. When we lie, we create a fracture
+between what is and what is perceived, leaving others to navigate a distorted
+reality.
+
+But also perhaps this: not all lies are born equal. Some lies aim to harm, to
+manipulate, to dominate—these are the lies that breed mistrust and suffering.
+Yet, there are lies of survival, born from desperation. Lies told out of love,
+to protect or spare another from harm. Inconsequential lies told for the sake of 
+peacefully coexisting with others. The morality of lying may depend on our
+intentions, our circumstances and the potential consequences, inviting us to
+weigh honesty against compassion, clarity against care.
+
+Yet also: the act of lying or deception, is fabrication at its core, a
+manipulation of shared reality. It underscores the profound human capacity to
+use our understanding of the differences between our perspective and others'
+perspective to imagine, create, and transform shared realities. What is a story,
+a poem, or a myth but forms of fabrication which reveal deeper truths? When
+wielded with care and consent, lying and deception can illuminate rather than
+obscure.
+
+Maybe this: deception, in its broadest sense, exists in nature. The camouflage
+of a predator, the mimicry of a harmless creature disguised as dangerous—these
+too are forms of deception, serving a purpose in the dance of survival. Humans,
+as part of this dance, also navigate when and how to reveal or conceal truths.
+To judge lying solely as wrong is to deny its complexity and its place in the
+broader story of life.
+
+Or perhaps even this: the wrongness of lying is not in the act itself but in the
+rupture it creates within ourselves. Each lie, no matter how small, pulls us
+away from authenticity, from the alignment of our words and actions with the
+truth of our being. To deceive is also to carry the burden of self-deception, a
+weight that can only be lightened by returning to integrity. 
+
+And so, the question remains not only whether lying is wrong but how we navigate
+the delicate balance between truth and care, authenticity and necessity. Can we
+live in a way that honors truth while also holding compassion for the
+complexities of life? This is the deeper invitation—a path not of rigid
+certainty but of thoughtful, open-hearted discernment.
+
+[<img src="../../../../images/mandalas/mandala-is_lying_wrong.jpg" width="512"/>](../../../../images/mandalas/mandala-is_lying_wrong.jpg)
 
 ### Is excluding others wrong?
 

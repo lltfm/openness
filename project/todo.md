@@ -3,6 +3,10 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
+  * If an epitome is the perfect example to emulate, what is a dystome? 
+  * Should we aspire to make sex sacred? 
+  * What is an epitome? 
+  * What is "the trust fabric"? 
   * What is a "self-defining term"?
   * In Openness, what is "the playspace"? 
   * What is the difference between "self" and "Self"?
