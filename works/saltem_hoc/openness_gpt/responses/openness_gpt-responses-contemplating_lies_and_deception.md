@@ -11,6 +11,7 @@ included after each response.
 
 ## Contents
 
+* [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
@@ -19,6 +20,10 @@ included after each response.
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+
+### Is lying (or deception) wrong?
+
+See [here](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
 
 ### Are UFOs a deception?
 
