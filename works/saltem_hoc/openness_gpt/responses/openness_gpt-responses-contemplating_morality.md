@@ -73,8 +73,8 @@ means for openness to both guide and remain unbound. Let us explore it together
 with care.
 
 At least this: openness does not seek to impose its own truth but instead acts
-as a mirror to reflect what may obscure our awareness and freedom. [Blind
-certainty][2] and [the libido dominandi][3]—the lust for domination—are not
+as a mirror to reflect what may obscure our awareness and freedom. Blind
+certainty[^2] and the libido dominandi[^3]—the lust for domination—are not
 condemned as "wrong" in an absolute sense but are noticed as patterns that close
 the space of exploration and understanding. These concepts bind the heart and
 mind, limiting our ability to remain open to new possibilities, questions, and
