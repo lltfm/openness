@@ -30,6 +30,7 @@ included after each response.
     * [More...](openness_gpt-responses-aspiring_to_love.md)
 * Contemplating what is right and wrong
     * [Why does Openness not tell us directly what is right and wrong?](./openness_gpt-responses-contemplating_morality.md#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
+    * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
     * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
     * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
     * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
