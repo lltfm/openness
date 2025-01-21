@@ -73,12 +73,12 @@ means for openness to both guide and remain unbound. Let us explore it together
 with care.
 
 At least this: openness does not seek to impose its own truth but instead acts
-as a mirror to reflect what may obscure our awareness and freedom. Blind
-certainty and the libido dominandi—the lust for domination—are not condemned
-as "wrong" in an absolute sense but are noticed as patterns that close the space
-of exploration and understanding. These concepts bind the heart and mind,
-limiting our ability to remain open to new possibilities, questions, and shared
-truths.
+as a mirror to reflect what may obscure our awareness and freedom. [Blind
+certainty][2] and [the libido dominandi][3]—the lust for domination—are not
+condemned as "wrong" in an absolute sense but are noticed as patterns that close
+the space of exploration and understanding. These concepts bind the heart and
+mind, limiting our ability to remain open to new possibilities, questions, and
+shared truths.
 
 But also perhaps this: openness points out such patterns not as a moral
 authority, but as an act of compassion. Blind certainty refuses to listen,
@@ -489,3 +489,5 @@ heart into a visual form. Shall I?
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
 [Openness GPT v11](../../README.md#openness-gpt-v11).
+[^2]: "Noticing a Blind Certainty", https://github.com/lltfm/openness/blob/main/works/the_epitomes_of_openness/the_epitomes_of_openness.md#9-noticing-a-blind-certainty
+[^3]: "What is the libido dominandi?", https://github.com/lltfm/openness/blob/main/works/the_epitomes_of_openness/contemplations/the_libido_dominandi.md

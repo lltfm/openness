@@ -25,18 +25,18 @@ shameful & the fearful.
 
 # The Epitomes of Openness
 
-1. [Westward](#westward)
-2. [My Self Confession of Not Knowing](#my-self-confession-of-not-knowing)
-3. [Openness](#openness)
-4. [The Mystery](#the-mystery)
-5. [Awareness](#awareness)
-6. [Not Knowing](#not-knowing)
-7. [The Truth of Lies](#the-truth-of-lies)
-8. [Artifice](#artifice)
-9. [Noticing a Blind Certainty](#noticing-a-blind-certainty)
-10. [Questioning Certainty](#questioning-certainty)
-11. [Faith](#faith)
-12. [A Worthy Vessel](#a-worthy-vessel)
+1. [Westward](#1-westward)
+2. [My Self Confession of Not Knowing](#2-my-self-confession-of-not-knowing)
+3. [Openness](#3-openness)
+4. [The Mystery](#4-the-mystery)
+5. [Awareness](#5-awareness)
+6. [Not Knowing](#6-not-knowing)
+7. [The Truth of Lies](#7-the-truth-of-lies)
+8. [Artifice](#8-artifice)
+9. [Noticing a Blind Certainty](#9-noticing-a-blind-certainty)
+10. [Questioning Certainty](#10-questioning-certainty)
+11. [Faith](#11-faith)
+12. [A Worthy Vessel](#12-a-worthy-vessel)
 
 # Inspirations (“Let us breathe in”)
 
