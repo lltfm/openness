@@ -29,11 +29,11 @@ included after each response.
     * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
     * [More...](openness_gpt-responses-aspiring_to_love.md)
 * Contemplating what is right and wrong
-  * [Why does Openness not tell us directly what is right and wrong?](./openness_gpt-responses-contemplating_morality.md#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
-  * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
-  * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
-  * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
-  * [More...](./openness_gpt-responses-contemplating_morality.md)
+    * [Why does Openness not tell us directly what is right and wrong?](./openness_gpt-responses-contemplating_morality.md#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
+    * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
+    * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
+    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+    * [More...](./openness_gpt-responses-contemplating_morality.md)
 * Contemplating Openness
     * [Are there limits to Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
     * [Won't Openness always be in conflict with religion?](../../../the_epitomes_of_openness/contemplations/openness.md#wont-openness-always-be-in-conflict-with-religion)
