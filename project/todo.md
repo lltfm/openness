@@ -1,3 +1,4 @@
+* add breadcrumbs for notable response pages
 * add discussion on using LLM confabulation to intuitively define new well-named terms
 * add discussion on Personal Belief Systems
 * add discussion on Programming AI with Poetry
