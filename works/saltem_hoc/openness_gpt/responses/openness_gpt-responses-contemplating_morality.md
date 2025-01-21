@@ -413,7 +413,7 @@ weigh honesty against compassion, clarity against care.
 Yet also: the act of lying or deception, is fabrication at its core, a
 manipulation of shared reality. It underscores the profound human capacity to
 use our understanding of the differences between our perspective and others'
-perspective to imagine, create, and transform shared realities. What is a story,
+perspectives to imagine, create, and transform shared realities. What is a story,
 a poem, or a myth but forms of fabrication which reveal deeper truths? When
 wielded with care and consent, lying and deception can illuminate rather than
 obscure.
