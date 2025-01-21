@@ -3,12 +3,13 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
+  * What is a "self-defining term"?
+  * In Openness, what is "the playspace"? 
   * What is the difference between "self" and "Self"?
   * What is art?
   * What does it mean to "weapon words with extra meaning"?
   * In Openness, why is there "no higher truth than lies"?
-  * Can criminals hide within their by intentionally exposing their crimes but blaming their group?
-  * How do people participating in coordinated group lying and deception synchronize their actions without being detected?
+  * Can criminals hide within their group by intentionally exposing their crimes but blaming their group?
   * What is Life?
   * What is time?
   * What is self-transcendence?
@@ -41,7 +42,7 @@
   that it does vary the exact text of each speculation but the idea of each
   speculation matches the example exactly. It shouldn't return exactly the same
   ideas each time? Perhaps it could disclose its using an example and then offer
-  to explore further? Otherwise it might intentionally skip its best ideas just
+  to explore further? Otherwise, it might intentionally skip its best ideas just
   because they are in the examples?
   * work on "incorrect" answers (new epitomes?)
   * tell it when creating mandalas with heart shapes to use the shape of an

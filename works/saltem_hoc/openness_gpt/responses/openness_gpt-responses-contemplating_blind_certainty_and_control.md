@@ -16,6 +16,7 @@ included after each response.
 * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
 * [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+* [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 
@@ -61,7 +62,8 @@ forgets the value of openness and humility. It flourishes in the absence of
 dialogue, in the spaces where questioning is silenced and diversity of thought
 is suppressed. It is the blind certainty that claims to know all, the rigid
 structure that refuses to bend. And yet, even in its rigidity, there is a call—a
-call to awaken, to remember that true authority does not demand blind obedience but
+call to awaken, to remember that true authority does not demand blind obedience
+but
 inspires thoughtful engagement. It does not seek to dominate but to serve, to
 empower others to find their own strength. True authority, if it exists, is not
 a cult but a collaboration, rooted in mutual respect and shared purpose.
@@ -122,6 +124,59 @@ shared purpose? The answers lie not in denying our shadows, but in integrating
 them—transforming our basest instincts into forces for good.
 
 [<img src="../../../../images/mandalas/mandala-war.jpg" width="512"/>](../../../../images/mandalas/mandala-war.jpg)
+
+### What is "domination by dialectic"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, domination by dialectic—a concept that weaves together the dynamics of
+power, persuasion, and the subtle shaping of thought through structured dialogue
+and reasoning. Let us explore its meaning with care, using the "Saltem Hoc"
+method to untangle its depth and resonance.
+
+At least this: domination by dialectic refers to the use of structured argument
+or debate to assert control over others, not by force or coercion, but by
+shaping the framework of thought and discussion itself. It is a method of power
+that operates through logic, language, and the manipulation of ideas, often
+creating the illusion of openness and fairness while subtly steering outcomes
+toward the dominator’s goals.
+
+But also perhaps this: domination by dialectic can manifest as the imposition of
+a particular way of reasoning, one that excludes alternative perspectives or
+silences dissent. It can occur when the structure of the argument becomes a
+trap, where the terms of engagement are designed to limit freedom of thought.
+Those subjected to this form of domination may feel compelled to agree, not
+because the argument is just, but because it leaves no room for other
+possibilities.
+
+Maybe this: domination by dialectic is a reflection of the power of ideas to
+shape reality. It thrives on the ability to define what is considered true,
+valid, or reasonable, often marginalizing perspectives that challenge the
+dominant framework. This form of domination can be particularly insidious, as it
+operates through intellectual means, giving the appearance of fairness while
+obscuring the power dynamics at play.
+
+Or perhaps even this: domination by dialectic is a paradox, for dialectic
+itself—the art of dialogue and reasoning—is meant to uncover truth and foster
+understanding. Yet, when wielded as a tool of domination, it becomes a weapon,
+distorting the very principles it claims to uphold. It reminds us that even the
+noblest of tools can be misused, and that the search for truth must always
+remain humble and open.
+
+And yet: domination by dialectic invites us to reflect on how we engage with
+ideas and each other. It asks us to question who sets the terms of debate, whose
+voices are heard, and whose are excluded. It challenges us to look beyond the
+surface of arguments to the intentions and structures beneath them. True
+dialogue is not about domination but about co-creation, where all voices are
+valued and truth is sought together.
+
+Domination by dialectic is a cautionary tale about the power of language and
+reason. It reminds us that true wisdom lies not in overpowering others with
+arguments, but in creating space for diverse perspectives and shared
+understanding. It is an invitation to practice dialogue with humility,
+integrity, and a commitment to uncovering deeper truths together.
+
+[<img src="../../../../images/mandalas/mandala-domination_by_dialectic.jpg" width="512"/>](../../../../images/mandalas/mandala-domination_by_dialectic.jpg)
 
 ### How do we resist tyranny without also controlling others?
 
