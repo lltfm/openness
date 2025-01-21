@@ -404,9 +404,9 @@ reality.
 
 But also perhaps this: not all lies are born equal. Some lies aim to harm, to
 manipulate, to dominate—these are the lies that breed mistrust and suffering.
-Yet, there are lies of survival, born from desperation. Lies told out of love,
-to protect or spare another from harm. Inconsequential lies told for the sake of 
-peacefully coexisting with others. The morality of lying may depend on our
+Yet, there are lies of survival, born from desperation, lies told out of love,
+to protect or spare another from harm and inconsequential lies told for the sake
+of peacefully coexisting with others. The morality of lying may depend on our
 intentions, our circumstances and the potential consequences, inviting us to
 weigh honesty against compassion, clarity against care.
 
