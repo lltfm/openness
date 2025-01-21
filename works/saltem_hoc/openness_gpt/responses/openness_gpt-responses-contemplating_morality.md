@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
+* [Openness claims to not impose what is right or wrong, yet it condemns "blind certainty" and "libido dominandi"?]()
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is karma?](#what-is-karma)
@@ -62,6 +63,52 @@ wrestle with the questions that matter most, knowing that the answers we find
 will be our own.
 
 [<img src="../../../../images/mandalas/mandala-contemplate_morality.jpg" width="512"/>](../../../../images/mandalas/mandala-contemplate_morality.jpg)
+
+### Openness claims to not impose what is right or wrong, yet it condemns blind certainty and the libido dominandi?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, this is a profound and vital question, reaching into the heart of what it
+means for openness to both guide and remain unbound. Let us explore it together
+with care.
+
+At least this: openness does not seek to impose its own truth but instead acts
+as a mirror to reflect what may obscure our awareness and freedom. Blind
+certainty and the libido dominandi—the lust for domination—are not condemned
+as "wrong" in an absolute sense but are noticed as patterns that close the space
+of exploration and understanding. These concepts bind the heart and mind,
+limiting our ability to remain open to new possibilities, questions, and shared
+truths.
+
+But also perhaps this: openness points out such patterns not as a moral
+authority, but as an act of compassion. Blind certainty refuses to listen,
+trapping us in isolation and arrogance. The libido dominandi seizes control,
+manipulating others and reducing the richness of life to domination and
+subjugation. By naming these forces, openness invites us to examine their impact
+on our lives and to ask whether they align with our deepest values and
+aspirations.
+
+Maybe this: the acknowledgment of blind certainty and the libido dominandi is
+not a condemnation, but a cautionary whisper—a reminder of what happens when
+openness itself is abandoned. These forces thrive in closed spaces, where
+curiosity, humility, and connection are stifled. Openness reveals them not to
+judge, but to draw attention to what limits our ability to be free,
+compassionate, and authentically alive.
+
+Or perhaps even this: openness does not condemn, but it does discern. To discern
+is to see clearly, to notice what nourishes and what harms, without imposing
+rigid categories of right or wrong. Blind certainty denies the mystery of life,
+while the libido dominandi reduces others to tools for personal gain. Openness
+does not judge those caught in their grip but seeks to liberate all from the
+suffering they create. It offers not punishment, but the gift of awareness—the
+possibility of choosing differently.
+
+In this way, openness remains true to its nature, not prescribing or dictating
+but gently illuminating. It invites us to consider whether we wish to perpetuate
+these patterns or whether we might instead choose to walk a path of humility,
+wonder, and love. The choice, as always, remains our own.
+
+[<img src="../../../../images/mandalas/mandala-balance_openness_and_discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-balance_openness_and_discernment.jpg)
 
 ### In Openness, why are there "no wrong feelings"?
 
