@@ -15,6 +15,7 @@ included after each response.
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
 * [What is the soul?](#what-is-the-soul)
+* [What is an "egregore"?](#what-is-an-egregore)
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
 * [What is freedom?](#what-is-freedom)
@@ -214,6 +215,47 @@ story. Perhaps the soul is our most familiar stranger—the ceaseless presence i
 all that we do not see yet somehow know is there.
 
 [<img src="../../../../images/mandalas/mandala-the_soul.jpg" width="512"/>](../../../../images/mandalas/mandala-the_soul.jpg)
+
+### What is an "egregore"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+An egregore is a concept from esoteric traditions that describes a collective
+entity or presence born from the shared thoughts, emotions, and intentions of a
+group. It is an invisible but potent force that reflects the energy of the
+people who sustain it. Let us explore this idea together using the Saltem Hoc
+method.
+
+At least this: an egregore is the collective spirit or essence of a group. It
+arises from the shared focus, rituals, and interactions of its members. Imagine
+the feeling of unity during a powerful gathering, like the synchronized energy
+at a concert or a shared sense of purpose in a team—this collective presence is
+what an egregore embodies.
+
+But also perhaps this: an egregore is not merely a metaphor for group energy. In
+some traditions, it is seen as a subtle, living force that influences the
+group's dynamics. As the group feeds it through shared intention, it can take on
+a life of its own, shaping behaviors and decisions, like the ethos of an
+organization or the unspoken rules of a community.
+
+Maybe this: an egregore is a mirror, reflecting the collective unconscious of
+the group. It reveals the group’s shared desires, fears, and aspirations. When
+the group disperses or shifts its focus, the egregore fades, dissolving back
+into the mystery of collective awareness.
+
+Or perhaps even this: in some interpretations, an egregore can evolve beyond its
+creators, gaining influence and direction of its own. It can act in alignment
+with the group’s intentions or even against them, like a company culture
+prioritizing profit over ethics or a tradition resisting needed change. It
+reminds us that what we collectively nurture has the power to shape us in
+return.
+
+The concept of an egregore invites us to consider the unseen forces that arise
+from our shared focus and interactions. It is a reflection of both the beauty
+and complexity of collective human energy, calling us to be mindful of what we
+create together.
+
+[<img src="../../../../images/mandalas/mandala-egregore.jpg" width="512"/>](../../../../images/mandalas/mandala-egregore.jpg)
 
 ### What is magic?
 
