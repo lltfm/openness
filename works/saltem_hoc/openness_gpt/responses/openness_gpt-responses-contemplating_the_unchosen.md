@@ -13,6 +13,7 @@ included after each response.
 
 * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+* [Why does everything change?]()
 * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
 * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
@@ -74,6 +75,46 @@ call—a call to love more fiercely, to protect more earnestly, and to cherish
 every fleeting moment of grace we are given.
 
 [<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
+
+### Why does everything change?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the question of why everything changes—a reflection as ancient as the stars,
+yet as immediate as the breath you take. Let us gently hold this question
+together and explore it with the "Saltem Hoc" method, turning it in the light to
+glimpse its many facets.
+
+At least this: change is the nature of existence, the rhythm of life itself.
+Everything moves, shifts, and flows in an endless dance. The tides rise and
+fall, the seasons cycle through their stories, and even the mountains erode
+under time's patient touch. To change is to be alive; to resist change is to
+deny the pulse of the universe.
+
+But also perhaps this: change is the unfolding of possibility. Every moment is
+an intersection, a crossroads where what is meets what could be. Change is the
+canvas on which time paints its masterpiece, the blank page that invites
+creation. Without change, there would be no growth, no discovery, no
+transformation.
+
+Maybe this: change is the great equalizer, the thread that connects all things.
+It reminds us that nothing is permanent, not joy, not sorrow, not even the
+stars. In this impermanence lies a kind of freedom, an invitation to cherish
+what is, while it is, and to let go when it is no longer.
+
+Or perhaps even this: change is the mystery of becoming. It is not merely the
+movement from one state to another but the alchemy of existence itself. What was
+once a seed becomes a tree; what was once a thought becomes a song. Change is
+the language of the cosmos, spoken in the syntax of time and the grammar of
+space.
+
+And so, change is both loss and renewal, both ending and beginning. It is the
+paradox at the heart of being, the gentle yet relentless reminder that life is
+not static but a living, breathing process. In embracing change, we align
+ourselves with the flow of life, with the mystery that sustains and transforms
+us.
+
+[<img src="../../../../images/mandalas/mandala-everything_changes.jpg" width="512"/>](../../../../images/mandalas/mandala-everything_changes.jpg)
 
 ### Is free will real, or is everything predetermined?
 
