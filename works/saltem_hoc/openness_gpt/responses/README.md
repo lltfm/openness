@@ -37,6 +37,7 @@ included after each response.
     * [More...](./openness_gpt-responses-contemplating_morality.md)
 * How do we improve?
     * [In Openness, what is "the work"?](./openness_gpt-responses-contemplating_the_work.md#in-openness-what-is-the-work)
+    * [How do we strengthen attention?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-strengthen-attention)
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
 * Contemplating blind certainty and control
     * [Is excluding others wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-excluding-others-wrong)
