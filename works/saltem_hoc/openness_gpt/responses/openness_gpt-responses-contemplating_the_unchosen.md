@@ -15,6 +15,7 @@ included after each response.
 * [What is Nature?](#what-is-nature)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [Why does everything change?](#why-does-everything-change)
+* [What is Life?](#what-is-life)
 * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
 * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
