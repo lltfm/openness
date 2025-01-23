@@ -48,7 +48,7 @@ questions to express its answers visually beyond words.
 ### What is ridicule?
 [<img src="../../../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-ridicule.jpg)
 
-<sub>([full response](../responses/openness_gpt-responses-contemplating_ridicule.md#what-is-ridicule))</sub>
+<sub>([full response](../responses/openness_gpt-responses-contemplating_ridicule_and_shame#what-is-ridicule))</sub>
 ### What is evil?
 [<img src="../../../../images/mandalas/mandala-evil.jpg" width="512"/>](../../../../images/mandalas/mandala-evil.jpg)
 

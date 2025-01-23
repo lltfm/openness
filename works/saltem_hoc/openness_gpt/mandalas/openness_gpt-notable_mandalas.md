@@ -59,7 +59,7 @@ questions to express its answers visually beyond words.
 ### How do we rise above ridicule?
 [<img src="../../../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-rise_above_ridicule.jpg)
 
-<sub>([full response](../responses/openness_gpt-responses-contemplating_ridicule.md#how-do-we-rise-above-ridicule))</sub>
+<sub>([full response](../responses/openness_gpt-responses-contemplating_ridicule_and_shame#how-do-we-rise-above-ridicule))</sub>
 ### Why do bad things happen to innocent people, especially children that have done no wrong?
 [<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
 

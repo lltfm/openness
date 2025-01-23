@@ -43,10 +43,10 @@ included after each response.
     * [What is evil?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil)
     * [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
     * [More...](./openness_gpt-responses-contemplating_blind_certainty_and_control.md)
-* Contemplating ridicule
-    * [What is ridicule?](openness_gpt-responses-contemplating_ridicule.md#what-is-ridicule)
-    * [How do we rise above ridicule?](openness_gpt-responses-contemplating_ridicule.md#how-do-we-rise-above-ridicule)
-    * [More...](openness_gpt-responses-contemplating_ridicule.md)
+* Contemplating ridicule and shame
+    * [What is ridicule?](openness_gpt-responses-contemplating_ridicule_and_shame#what-is-ridicule)
+    * [How do we rise above ridicule?](openness_gpt-responses-contemplating_ridicule_and_shame#how-do-we-rise-above-ridicule)
+    * [More...](openness_gpt-responses-contemplating_ridicule_and_shame)
 * Contemplating lies and deception
     * [Are UFOs a deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#are-ufos-a-deception)
     * [What is coordinated group lying & deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
