@@ -4,36 +4,43 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
-  * How can Openness be used to create my own "personal belief system"?
-  * Is blind certainty wrong in of itself?
-  * What is Life?
-  * What is time?
-  * What is the difference between "self" and "Self"?
-  * What is self-transcendence?
-  * What is laughter?
-  * What is "dimensionalization"?
-  * What is "wu wei"?
-  * What is "duende"?
-  * What is a "karmic mind-trap"?
-  * What is "natural law"?
-  * In Openness, what is "the playspace"?
-  * What is "the trust fabric"?
-  * What is the "revocation of consent"?
-  * What does it mean to "weapon words with extra meaning"?
-  * In Openness, why is there "no higher truth than lies"?
-  * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
-  * Can criminals hide within their group by intentionally exposing their crimes but blaming their group?
-  * "be humble even in humility" 
-  * If an epitome is the perfect example to emulate, what is a dystome?
-  * Should we aspire to make sex sacred? 
-  * What is an epitome? 
-  * What is a "self-defining term"?
-  * What is art?
-  * What is a "sophisticated expression"?
-  * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
-  * In Openness, what is "westward"?
-  * In Openness, what is "the choosing"?
-  * In Openness, what is "a worthy vessel"?
+  * Contemplating the unchosen 
+    * What is Life?
+    * What is time?
+    * What is "natural law"?
+    * What is laughter?
+  * Contemplating praxis
+    * How can Openness be used to create my own "personal belief system"?
+    * What is "dimensionalization"?
+    * What is "wu wei"?
+    * What is "duende"?
+    * In Openness, what is "the playspace"?
+    * What is the "revocation of consent"?
+    * "be humble even in humility"
+    * What is art?
+    * What is a "sophisticated expression"?
+  * Contemplating morality
+    * Is blind certainty wrong in of itself?
+    * What is a "karmic mind-trap"?
+    * Should we aspire to make sex sacred?
+  * Contemplating wayfinding
+    * What is self-transcendence?
+  * Contemplating the unseen
+    * What is the difference between "self" and "Self"?
+  * Contemplating lies and deception
+    * What is "the trust fabric"?
+    * What does it mean to "weapon words with extra meaning"?
+    * In Openness, why is there "no higher truth than lies"?
+    * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
+    * Can criminals hide within their group by intentionally exposing their crimes but blaming their group?
+  * Contemplating Openness
+    * If an epitome is the perfect example to emulate, what is a dystome?
+    * What is an epitome? 
+    * What is a "self-defining term"?
+    * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
+    * In Openness, what is "westward"?
+    * In Openness, what is "the choosing"?
+    * In Openness, what is "a worthy vessel"?
   * What is the "mirror of the mind"?
   * What is "The Overwhelm"?
   * What does it mean to be "chosen" by our past and future selves?
