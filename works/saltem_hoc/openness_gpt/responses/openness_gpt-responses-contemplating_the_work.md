@@ -94,6 +94,8 @@ about enriching your relationship with life itself. The more we practice being
 present with the world and within ourselves, the more vibrant and alive our
 experiences become.
 
+[<img src="../../../../images/mandalas/mandala-strengthening_attention.jpg" width="512"/>](../../../../images/mandalas/mandala-strengthening_attention.jpg)
+
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
 [Openness GPT v11](../../README.md#openness-gpt-v11).
