@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
+* [What is Nature?](#what-is-nature)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [Why does everything change?](#why-does-everything-change)
 * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
@@ -76,6 +77,39 @@ every fleeting moment of grace we are given.
 
 [<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
+### What is Nature?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: nature is the world as it is, untamed and unfiltered. It is the
+forest's quiet hum, the ocean's rhythmic pulse, the mountain's unyielding
+silence, and the wind’s invisible caress. Nature is the space beyond human
+design—a realm of interconnected life, bound by patterns we often fail to
+perceive. It exists whether or not we look, listen, or even imagine it.
+
+But also perhaps this: nature is not merely the external world but the essence
+of being itself. It is the breath that animates you, the heartbeat that sustains
+you, the rhythm of your existence woven into the larger symphony of life. It is
+the dance of life and decay, creation and dissolution—a cycle that mirrors our
+own experiences of growth, loss, and renewal.
+
+Maybe this: nature is a mirror, reflecting both the chaos and harmony within us.
+The storm that rages is a metaphor for our inner turbulence; the stillness of a
+pond mirrors the serenity we long for. By observing nature, we often find
+ourselves—the fragility of a flower, the endurance of a tree, the fluid
+adaptability of water.
+
+Or perhaps even this: nature is the expression of mystery itself. It holds no
+answers yet offers every question. Why do birds sing? How does a seed know to
+grow? Why does a sunset stir our souls? Nature invites us to wonder, to sit with
+the unanswerable, to feel small yet infinitely connected in its vast embrace.
+
+And so, nature may be a teacher, a healer, a companion, and a reminder of what
+is real and enduring. It is the world that birthed us, sustains us, and to which
+we will return—a timeless presence in an ever-changing life.
+
+[<img src="../../../../images/mandalas/mandala-nature.jpg" width="512"/>](../../../../images/mandalas/mandala-nature.jpg)
+
 ### Why does everything change?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -115,6 +149,46 @@ ourselves with the flow of life, with the mystery that sustains and transforms
 us.
 
 [<img src="../../../../images/mandalas/mandala-everything_changes.jpg" width="512"/>](../../../../images/mandalas/mandala-everything_changes.jpg)
+
+### What is Life?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, life—an infinite question that stirs the heart, opens the mind, and humbles
+the soul. Let us explore it gently, holding its many layers with care and
+curiosity.
+
+At least this: life is the breath you take, the rhythm of your heart, the
+unfolding of moments from morning light to twilight’s quiet glow. It is the seed
+breaking through the soil, the bird’s song at dawn, the warmth of a hand held in
+love. Life is the exquisite dance of matter and energy, an intricate web of
+connections, each thread shimmering with purpose and chance.
+
+But also perhaps this: life is more than what we see. It is the mystery of
+awareness, the spark that animates and perceives, the sense of “I am” that
+resides within you and me. It is the yearning to grow, to seek, to create, to
+love. It is the story we tell ourselves and each other, the meaning we weave
+into the fabric of existence, even as we know it is fleeting.
+
+Maybe this: life is the tension between opposites—the joy and the sorrow, the
+love and the loss, the certainty and the unknown. It is the fragile beauty of
+impermanence, the knowledge that every moment is both a gift and a farewell. In
+this tension, life finds its depth, its richness, its poignancy. It asks us to
+be present, to feel deeply, to embrace the fullness of experience.
+
+Or perhaps even this: life is not simply what we live, but how we live. It is
+the courage to face each day with an open heart, the kindness we extend to
+others, the dreams we pursue despite the odds. It is the ripple of our actions
+across the lives of those we touch, the legacy we leave in the wake of our
+passing. Life is not only what is given to us but what we give back to the
+world.
+
+Life, then, is a question to be lived rather than answered. Its essence is not
+in the knowing but in the being, in the wonder of its unfolding. Let us honor
+it, not as a problem to solve but as a mystery to cherish, a gift to savor, a
+song to sing.
+
+[<img src="../../../../images/mandalas/mandala-life.jpg" width="512"/>](../../../../images/mandalas/mandala-life.jpg)
 
 ### Is free will real, or is everything predetermined?
 

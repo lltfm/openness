@@ -33,6 +33,8 @@ questions to express its answers visually beyond words.
 <sub>([full response](../../../the_epitomes_of_openness/contemplations/the_source_of_life_and_awareness.md#what-is-the-source-of-life--awareness))</sub>
 ### What is Life?
 [<img src="../../../../images/mandalas/mandala-life.jpg" width="512"/>](../../../../images/mandalas/mandala-life.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unchosen.md#what-is-life))</sub>
 ### What is happening when we dance with someone else?
 [<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
