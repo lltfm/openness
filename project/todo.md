@@ -1,4 +1,3 @@
-* add breadcrumbs for notable response pages
 * add discussion on using LLM confabulation to intuitively define new well-named terms
 * add discussion on Personal Belief Systems
 * add discussion on Programming AI with Poetry
@@ -9,6 +8,7 @@
     * What is time?
     * What is "natural law"?
     * What is laughter?
+    * What is "The Overwhelm"?
   * Contemplating praxis
     * How can Openness be used to create my own "personal belief system"?
     * What is "dimensionalization"?
@@ -23,8 +23,10 @@
     * Is blind certainty wrong in of itself?
     * What is a "karmic mind-trap"?
     * Should we aspire to make sex sacred?
+    * What is the "mirror of the mind"?
   * Contemplating wayfinding
     * What is self-transcendence?
+    * What does it mean to be "chosen" by our past and future selves?
   * Contemplating the unseen
     * What is the difference between "self" and "Self"?
   * Contemplating lies and deception
@@ -41,10 +43,6 @@
     * In Openness, what is "westward"?
     * In Openness, what is "the choosing"?
     * In Openness, what is "a worthy vessel"?
-  * What is the "mirror of the mind"?
-  * What is "The Overwhelm"?
-  * What does it mean to be "chosen" by our past and future selves?
-* study original webp vs jpeg mandala images to see if jpg lossiness is affecting rendered image
 # Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."
   * add enough examples to balance the line count of epitomes vs examples
