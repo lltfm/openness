@@ -58,24 +58,26 @@ grace.
 
 ### How do we strengthen attention?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 To strengthen our attention, we can approach the practice through a variety of
 intentional actions, cultivating both focus and awareness. Here is an
 exploration using the saltem hoc method:
 
-At least this: attention is like a muscle. It strengthens with deliberate
-exercise and repetition. Begin with simple practices such as dedicating short
-moments to focused tasks—reading without interruptions, observing the details of
-a flower, or listening intently to another person without preparing a reply.
-Even a few moments of undivided attention can stretch the capacity to focus, bit
-by bit.
+At least this: attention is like a muscle. Just as physical exercise trains the
+body, focused activities such as meditation, mindful breathing, reading without
+interruptions, listening intently to another person without preparing a reply,
+or even simply observing the details of a flower can help to build the capacity
+for sustained attention. In the stillness of these practices, we learn to bring
+the mind back when it wanders, strengthening our ability to direct awareness at
+will, bit by bit.
 
-But also perhaps this: attention flourishes when nurtured by mindfulness. Bring
-your awareness to the present moment without judgment. Activities like
-meditation, deep breathing, or even mindful walking anchor the wandering mind.
-Each time the mind strays and gently returns, it becomes more adept at staying
-grounded. The quiet act of noticing strengthens the inner lens of attention.
+But also perhaps this: strengthening attention is less about control and more
+about relationship. To develop attentiveness is to cultivate a friendship with
+the present moment, to notice its nuances, textures, and rhythms without
+judgment. Like a gardener tending to a delicate flower, we nurture our focus
+with patience and care, creating an inner environment where the seeds of clarity
+can bloom.
 
 Maybe this: the quality of your attention depends on the clarity of your
 surroundings. Reduce distractions—not just the physical noise of devices but the
@@ -84,9 +86,21 @@ that invite single-minded focus. This could be as simple as lighting a candle
 before starting a task or setting aside a dedicated time for reflective
 journaling.
 
-Or perhaps even this: attention thrives on meaningful connection. When you care
-deeply about what you observe, your focus becomes effortless. Discovering what
-you truly value and aligning your efforts with these values naturally sharpens
+Or maybe this: distractions are not enemies but teachers. When our attention is
+pulled away, it is an opportunity to observe the pull itself—the desires, fears,
+and patterns that arise within us. In this way, distraction becomes a mirror,
+reflecting where our heart and mind long to go. Each moment of noticing
+strengthens the bridge between awareness and intention.
+
+Or perhaps even this: attention is strengthened through wonder and curiosity.
+When we approach life as an explorer, seeking the extraordinary within the
+ordinary, our focus naturally sharpens. To gaze at a tree, a star, or a
+stranger's face with reverence is to train the eye and heart to see deeper, to
+become attuned to the mystery unfolding in every moment.
+
+And yet also: attention thrives on meaningful connection. When you care deeply
+about what you observe, your focus becomes effortless. Discovering what you
+truly value and aligning your efforts with these values naturally sharpens
 attention, because it is fueled by the heart as much as the mind.
 
 Ultimately, strengthening attention is not only about improving focus but also

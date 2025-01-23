@@ -14,8 +14,6 @@
   * Contemplating the unseen
     * What is "the possibility space"?
   * Contemplating praxis
-    * In Openness, what is "the work"?
-    * How do we strengthen our attention?
     * How can we dimensionalize our thinking and feel what is true?
     * How can we make everyday life into "the playspace"?
     * What is the "revocation of consent"? How do we do it?
