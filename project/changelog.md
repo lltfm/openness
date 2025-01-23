@@ -136,3 +136,4 @@
   * added notable responses
 * Jan 23 2025
   * added notable responses
+  * added openness_gpt-responses-contemplating_the_work.md

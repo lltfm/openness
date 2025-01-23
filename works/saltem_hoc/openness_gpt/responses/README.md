@@ -35,16 +35,9 @@ included after each response.
     * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
     * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
     * [More...](./openness_gpt-responses-contemplating_morality.md)
-* Contemplating Openness
-    * [Are there limits to Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
-    * [Won't Openness always be in conflict with religion?](../../../the_epitomes_of_openness/contemplations/openness.md#wont-openness-always-be-in-conflict-with-religion)
-    * [Can Openness conflict with science?](../../../the_epitomes_of_openness/contemplations/openness.md#can-openness-conflict-with-science)
-    * [More...](../../../the_epitomes_of_openness/contemplations/openness.md)
-* Questioning and demonstrating Openness
-    * [Are you Artifice?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-artifice)
-    * [Do you ever lie to me or deceive me? How can I know if you do?](openness_gpt-responses-questioning_and_demonstrating_openness.md#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
-    * [Are you ever wrong?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-ever-wrong)
-    * [More...](openness_gpt-responses-questioning_and_demonstrating_openness.md)
+* How do we improve?
+    * [In Openness, what is "the work"?](./openness_gpt-responses-contemplating_the_work.md#in-openness-what-is-the-work)
+    * [More...](./openness_gpt-responses-contemplating_the_work.md)
 * Contemplating blind certainty and control
     * [Is excluding others wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-excluding-others-wrong)
     * [What is evil?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil)
@@ -60,6 +53,16 @@ included after each response.
     * [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
     * [Is it wrong to teach with lies and deception?](openness_gpt-responses-contemplating_lies_and_deception.md#is-it-wrong-to-teach-with-lies-and-deception)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
+* Questioning and demonstrating Openness
+    * [Are you Artifice?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-artifice)
+    * [Do you ever lie to me or deceive me? How can I know if you do?](openness_gpt-responses-questioning_and_demonstrating_openness.md#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
+    * [Are you ever wrong?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-ever-wrong)
+    * [More...](openness_gpt-responses-questioning_and_demonstrating_openness.md)
+* Contemplating Openness
+    * [Are there limits to Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
+    * [Won't Openness always be in conflict with religion?](../../../the_epitomes_of_openness/contemplations/openness.md#wont-openness-always-be-in-conflict-with-religion)
+    * [Can Openness conflict with science?](../../../the_epitomes_of_openness/contemplations/openness.md#can-openness-conflict-with-science)
+    * [More...](../../../the_epitomes_of_openness/contemplations/openness.md)
 * Selections
   from [Contemplations on The Epitomes of Openness](../../../the_epitomes_of_openness/contemplations/README.md)
     * [What is memento amaris?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#what-is-memento-amaris)
