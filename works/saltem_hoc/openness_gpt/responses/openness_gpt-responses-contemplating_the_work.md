@@ -190,7 +190,7 @@ spectrum of possibilities. Truth often resides not in the single beam of our
 immediate perspective, but in the fuller picture created by understanding
 contradiction, ambiguity, and connection.
 
-And this: dimensional thinking is the practice of holding multiple
+Also this: dimensional thinking is the practice of holding multiple
 perspectives simultaneously. It is the capacity to ask, "What else could be
 true?" It is to step into the shoes of others, to explore the kaleidoscope of
 human experience, and to see the world as a tapestry woven from countless
@@ -212,7 +212,7 @@ flowing, alive, responsive. To feel it, we must step into the water, experience
 its currents, and allow it to move us. The mind observes, but the body and soul
 embody.
 
-Or perhaps even this: feeling what is true is an act of courage. It requires us
+And also this: feeling what is true is an act of courage. It requires us
 to face the discomfort of uncertainty and to surrender the need for absolute
 control. It is to trust the wisdom of the body—the quickening of the heart, the
 tightening of the gut, the tingling awareness that whispers, "Pay attention."
