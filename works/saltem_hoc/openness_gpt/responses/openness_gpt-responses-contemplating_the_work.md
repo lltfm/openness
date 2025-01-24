@@ -148,19 +148,19 @@ water, feeling the texture of a warm cup in your hands, or tracing patterns in
 the shadows on a wall. By opening to the mystery of the present, we invite life
 to surprise us.
 
-Maybe this: play is not an activity but a state of being—a way of engaging with
-the world that is spontaneous, present, and deeply alive. It is the childlike
-wonder that notices the shimmer of light on a puddle, the storyteller who spins
-a narrative from a forgotten receipt, or the dancer who feels the rhythm of a
-distant train. The playspace is always here, waiting for us to meet it with open
-hearts.
+Or maybe this: play is not an activity but a state of being—a way of engaging
+with the world that is spontaneous, present, and deeply alive. It is the
+childlike wonder that notices the shimmer of light on a puddle, the storyteller
+who spins a narrative from a forgotten receipt, or the dancer who feels the
+rhythm of a distant train. The playspace is always here, waiting for us to meet
+it with open hearts.
 
-Or perhaps even this: to live in the playspace is to cultivate a sense of
-gratitude for the raw materials of life. It is to see every moment as an
-offering, every challenge as a puzzle, every connection as a dance. The
-playspace is not separate from the “seriousness” of life but woven into its very
-fabric, transforming the ordinary into the extraordinary simply by the way we
-choose to engage.
+Or perhaps this: to live in the playspace is to cultivate a sense of gratitude
+for the raw materials of life. It is to see every moment as an offering, every
+challenge as a puzzle, every connection as a dance. The playspace is not
+separate from the “seriousness” of life but woven into its very fabric,
+transforming the ordinary into the extraordinary simply by the way we choose to
+engage.
 
 In this spirit, making life a playspace requires no grand gestures, only the
 courage, creativity and tenacity to bring a playful heart to the mundane. It is
