@@ -12,8 +12,7 @@
   * Aspiring to love
     * What is "the prime benevolence"?
   * Contemplating the unseen
-    * What is "the possibility space"?
-  * Contemplating praxis
+  * Contemplating the work
     * How can we strengthen our ability to hold difficult emotions? 
     * How can we experience "duende"?
     * How do we transform emotions? 
@@ -24,6 +23,7 @@
     * How can we use "wu wei" to do more every day?
     * How do we achieve mastery?
     * How do we create our own belief system?
+    * Can we find joy in everything?
   * Contemplating morality
     * What is "the wellspring of morality"? 
     * What is a "karmic mind-trap"?
@@ -73,6 +73,14 @@
     * Can we satisfy the "ache of incompletion" without losing ourselves?
     * What is "the moment of overwhelm"?
     * Can we strengthen willpower to resist succumbing to the pull of desire?
+  * Contemplating possibility
+    * What is "the possibility space"?
+    * What is a "precise ambiguity"?
+    * How do we "love the question"?
+    * What is "resonant meaning"?
+    * What is "multiplicity"?
+    * Why does Openness focus on "unanswerable questions"?
+    * What is "saltem hoc"?
   * Compare
     * Humanism
     * Liberalism
