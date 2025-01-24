@@ -13,19 +13,17 @@
     * What is "the prime benevolence"?
   * Contemplating the unseen
     * What is "the possibility space"?
-    * What are emotions?
   * Contemplating praxis
-    * What is the "revocation of consent"? How do we do it?
-    * How do we achieve "self-deculturation"?
-    * How do we create our own "personal belief system"?
-    * How do we accomplish more with "wu wei"?
+    * How can we strengthen our ability to hold difficult emotions? 
     * How can we experience "duende"?
-    * How can we be humble even in our humility?
+    * How do we transform emotions? 
+    * How can we make transforming emotion into art part of daily life?
+    * How do we become sovereign in our minds?
+    * How can humility limit who we might grow to become?
     * How do we create a "sophisticated expression"?
-    * What is art? How do we create it?
+    * How can we use "wu wei" to do more every day?
     * How do we achieve mastery?
-    * personal ritual
-    * art/poetry
+    * How do we create our own belief system?
   * Contemplating morality
     * What is "the wellspring of morality"? 
     * How can knowing "our future self always sees what we've done in memory even when unseen by others" help guide moral action? 
@@ -35,6 +33,7 @@
     * What is "the choosing"? 
     * What is self-transcendence?
     * What does it mean to be "chosen" by our past and future selves?
+    * What are synchronicities?
   * Contemplating the unseen
     * What is the difference between "self" and "Self"?
   * Contemplating lies and deception
