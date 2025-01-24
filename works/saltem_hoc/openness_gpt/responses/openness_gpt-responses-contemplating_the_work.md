@@ -12,11 +12,11 @@ included after each response.
 ## Contents
 
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
+* [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
 * [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
-* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md)
 
 ### In Openness, what is "the work"?
 
@@ -58,6 +58,10 @@ student and creator, holding ourselves accountable while remaining open to
 grace.
 
 [<img src="../../../../images/mandalas/mandala-the_work.jpg" width="512"/>](../../../../images/mandalas/mandala-the_work.jpg)
+
+### How do we remember we are loved?
+
+See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 
 ### How do we strengthen attention?
 

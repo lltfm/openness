@@ -52,7 +52,10 @@ you—unearned, unshakable, and infinite.
 
 [<img src="../../../images/mandalas/mandala-memento_amaris.jpg" width="512"/>](../../../images/mandalas/mandala-memento_amaris.jpg)
 
-### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
+### How do we remember we are loved?
+
+Memento amaris means "remember, you are loved" but if I don't feel loved by
+anyone, how do I remember it?
 
 [Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
 

@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [Why does Openness "aspire to love" and not just "be kind and love everyone"?](#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
-* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+* [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
@@ -64,9 +64,9 @@ presence.
 
 [<img src="../../../../images/mandalas/mandala-aspire_to_love.jpg" width="512"/>](../../../../images/mandalas/mandala-aspire_to_love.jpg)
 
-### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
+### How do we remember we are loved?
 
-See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 
 ### In Openness, why are there "no wrong feelings"?
 
