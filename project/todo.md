@@ -26,6 +26,8 @@
     * How do we create a "sophisticated expression"?
     * What is art? How do we create it?
     * How do we achieve mastery?
+    * personal ritual
+    * art/poetry
   * Contemplating morality
     * What is "the wellspring of morality"? 
     * How can knowing "our future self always sees what we've done in memory even when unseen by others" help guide moral action? 

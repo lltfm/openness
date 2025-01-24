@@ -136,12 +136,12 @@ embrace the unpredictable. By allowing life’s uncertainties to be the canvas, 
 give ourselves permission to color outside the lines, to laugh at our missteps,
 and to savor the imperfect beauty of being alive.
 
-Maybe this: To live in the playspace is to connect with others as collaborators
+Maybe this: to live in the playspace is to connect with others as collaborators
 in an unfolding story. Conversations with friends, coworkers, or strangers can
 become improvisational dances, where we listen deeply and respond authentically,
 creating shared moments of laughter, insight, or connection.
 
-Or perhaps even this: The playspace is a form of mindfulness, a practice of
+Or perhaps even this: the playspace is a form of mindfulness, a practice of
 being fully present and engaging with the moment as it is, not as we expect it
 to be. It is finding joy in the simplest of acts—watching sunlight sparkle on
 water, feeling the texture of a warm cup in your hands, or tracing patterns in
