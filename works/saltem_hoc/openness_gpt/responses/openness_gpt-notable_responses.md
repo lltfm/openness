@@ -21,7 +21,7 @@ created by Openness GPT is included after each response.
 12. [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 13. [Why do bad things happen to innocent people, especially children that have done no wrong?](./openness_gpt-responses-contemplating_the_unchosen.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 14. [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
-15. [What is the "libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
+15. [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
 16. [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 17. [What is "word warfare"?](openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
 18. [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
