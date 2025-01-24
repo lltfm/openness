@@ -42,12 +42,11 @@ control, our power lies in how we respond. It is the act of choosing our
 responses wisely, aligning them with the higher purpose we seek, even when that
 purpose remains mysterious.
 
-Or perhaps even this: the work is the courage to embrace the mystery, to
-surrender our need for certainty, and to navigate life with an openness to its
-unfolding. It is recognizing that mistakes are not failures, but essential steps
-on the path. The work teaches us that it is not perfection we seek, but
-progress—the refinement of choosing again and again, with greater wisdom each
-time.
+Or perhaps this: the work is the courage to embrace the mystery, to surrender
+our need for certainty, and to navigate life with an openness to its unfolding.
+It is recognizing that mistakes are not failures, but essential steps on the
+path. The work teaches us that it is not perfection we seek, but progress—the
+refinement of choosing again and again, with greater wisdom each time.
 
 The work is deeply personal, yet universal. It invites us to become a worthy
 vessel for life’s mystery, to integrate all aspects of self, and to co-create
