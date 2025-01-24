@@ -76,6 +76,8 @@ absence of certainty, there is beauty and truth.
 
 ### What are emotions?
 
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
 Ah, emotions—the language of the heart, the unspoken symphony that flows through
 our being, shaping how we connect to the world. Let us sit with this question,
 allowing its nuances to unfold like petals opening to the sun.
