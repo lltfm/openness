@@ -38,6 +38,7 @@ included after each response.
 * How do we improve?
     * [In Openness, what is "the work"?](./openness_gpt-responses-contemplating_the_work.md#in-openness-what-is-the-work)
     * [How do we strengthen attention?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-strengthen-attention)
+    * [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
 * Contemplating blind certainty and control
     * [Is excluding others wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-excluding-others-wrong)
