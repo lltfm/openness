@@ -13,7 +13,7 @@ included after each response.
 
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
-*
+* [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 
 ### In Openness, what is "the work"?
 
