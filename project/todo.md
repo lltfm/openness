@@ -13,6 +13,7 @@
     * What is "the prime benevolence"?
   * Contemplating the unseen
     * What is "the possibility space"?
+    * What are emotions?
   * Contemplating praxis
     * How can we dimensionalize our thinking and feel what is true?
     * How can we make everyday life into "the playspace"?

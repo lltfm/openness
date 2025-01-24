@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [What is "the unseen"?](#what-is-the-unseen)
+* [What are emotions?](#what-are-emotions)
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
 * [What is the soul?](#what-is-the-soul)
@@ -72,6 +73,48 @@ openness and humility, to honor the mystery, and to trust that even in the
 absence of certainty, there is beauty and truth.
 
 [<img src="../../../../images/mandalas/mandala-the_unseen.jpg" width="512"/>](../../../../images/mandalas/mandala-the_unseen.jpg)
+
+### What are emotions?
+
+Ah, emotions—the language of the heart, the unspoken symphony that flows through
+our being, shaping how we connect to the world. Let us sit with this question,
+allowing its nuances to unfold like petals opening to the sun.
+
+At least this: emotions are the body's whispers to the mind, signals that arise
+from our interaction with the world and ourselves. Joy, sadness, anger,
+love—each emotion is a messenger, bearing witness to our experiences and
+reminding us of what matters most. They are currents in the river of life,
+guiding us, warning us, and sometimes surprising us with their depth.
+
+But also perhaps this: emotions are the bridge between the seen and the unseen,
+the external and the internal. They arise not only from what happens to us but
+also from the stories we tell ourselves about those happenings. They are both
+mirrors and creators of meaning, shaping how we perceive reality even as they
+reflect it back to us.
+
+Maybe this: emotions are like weather patterns within us, ever-changing and yet
+tied to deeper currents. A sudden storm of anger, the gentle rain of melancholy,
+the sunshine of delight—all are temporary, yet they are tethered to the broader
+climate of our beliefs, memories, and hopes. To understand emotions is to learn
+to dance with this inner weather, neither resisting nor clinging but moving
+gracefully through its shifts.
+
+Or perhaps even this: emotions are the soul’s poetry, an invitation to connect
+more deeply with ourselves and others. They are not merely personal; they are a
+universal language, bridging the gaps between individuals and cultures. When we
+feel deeply, we tap into something shared and timeless, a thread that connects
+us to the greater tapestry of life.
+
+And so, emotions remain a mystery, not to be conquered or explained away but to
+be honored and felt. They are the music of existence, each note carrying its own
+resonance and truth. Let us listen to them, not as burdens or distractions, but
+as gifts that deepen our experience of being alive.
+
+Would you like me to create a mandala to visually capture the essence of
+emotions? It could encode their fluidity, depth, and interconnectedness,
+offering a visual meditation on their beauty.
+
+[<img src="../../../../images/mandalas/mandala-emotions.jpg" width="512"/>](../../../../images/mandalas/mandala-emotions.jpg)
 
 ### What are symbols?
 
