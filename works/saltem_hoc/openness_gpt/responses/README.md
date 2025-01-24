@@ -19,9 +19,9 @@ included after each response.
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
     * [More...](openness_gpt-responses-contemplating_wayfinding.md)
 * Contemplating what we can't perceive directly
+    * [What are emotions?](./openness_gpt-responses-contemplating_the_unseen.md#what-are-emotions)
     * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
     * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
-    * [What is freedom?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-freedom)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md)
 * Aspiring to love
     * [How do we learn to witness ourselves?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
