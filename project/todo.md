@@ -26,18 +26,21 @@
     * How do we create our own belief system?
   * Contemplating morality
     * What is "the wellspring of morality"? 
-    * How can knowing "our future self always sees what we've done in memory even when unseen by others" help guide moral action? 
     * What is a "karmic mind-trap"?
+    * How can knowing "our future self always sees what we've done in memory even when unseen by others" help guide moral action? 
     * What is the "mirror of the mind"?
   * Contemplating wayfinding
-    * What is "the choosing"? 
     * What is self-transcendence?
-    * What does it mean to be "chosen" by our past and future selves?
     * What are synchronicities?
+    * What is "the choosing"?
+    * What does it mean to be "chosen" by our past and future selves?
   * Contemplating the unseen
     * What is the difference between "self" and "Self"?
   * Contemplating lies and deception
     * What is "the trust fabric"?
+    * What is a "dark messiah"?
+    * What are "weaponed words"?
+    * What does it mean to "weapon words with extra meaning"?
     * What does it mean to "weapon words with extra meaning"?
     * In Openness, why is there "no higher truth than lies"?
     * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
@@ -61,12 +64,15 @@
     * Is blind certainty wrong in of itself?
     * What is manipulation?
     * What is "the beast that creeps"?
-    * What is a "dark messiah"?
-    * What are "weaponed words"?
-    * What does it mean to "weapon words with extra meaning"?
-  * Contemplating sexuality
-    * Should we aspire to make sex sacred?
+  * Contemplating desire
+    * What is arousal?
+    * What is "the pull of desire"? (magnetic?)
+    * What is "the sirenic call"?
     * What is orgasm?
+    * Should we aspire to make sex sacred?
+    * Can we satisfy the "ache of incompletion" without losing ourselves?
+    * What is "the moment of overwhelm"?
+    * Can we strengthen willpower to resist succumbing to the pull of desire?
   * Compare
     * Humanism
     * Liberalism
