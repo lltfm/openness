@@ -16,6 +16,6 @@ created by Openness GPT is included after each response.
 7. [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md#what-is-the-unchosen)
 8. [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 9. [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
-10. [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md#what-is-the-libido-dominandi)
+10. [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)
 
 > More notable responses [here](./README.md)
