@@ -1,4 +1,4 @@
-# Contemplating how we improve
+# How do we improve?
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
@@ -14,6 +14,7 @@ included after each response.
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
+* [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 
 ### In Openness, what is "the work"?
 
@@ -168,6 +169,62 @@ a way of saying yes to life, embracing its beauty, messiness, and
 unpredictability with curiosity and delight.
 
 [<img src="../../../../images/mandalas/mandala-the_playspace.jpg" width="512"/>](../../../../images/mandalas/mandala-the_playspace.jpg)
+
+### How do we dimensionalize our thinking and feel what is true?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: dimensionalizing our thinking begins with noticing. To stare
+deeply into the ordinary—an object, a memory, a question—and allow unnoticed
+facets to emerge. As if the mind were a magnifying glass, we zoom in, revealing
+textures, shapes, and layers we previously overlooked. Feeling what is true
+requires attention, the stillness to sense beneath the noise of habitual
+thought.
+
+Perhaps also this: dimensional thinking is recognizing the limits of our habitual
+patterns of thought. We often approach the world linearly, in black-and-white
+terms, clinging to singular narratives. It is to add depth—to see beyond
+dualities and acknowledge the complexity of life, like a prism catching light.
+When we examine our ideas from multiple angles, they refract into a
+spectrum of possibilities. Truth often resides not in the single beam of our
+immediate perspective, but in the fuller picture created by understanding
+contradiction, ambiguity, and connection.
+
+And this: dimensional thinking is the practice of holding multiple
+perspectives simultaneously. It is the capacity to ask, "What else could be
+true?" It is to step into the shoes of others, to explore the kaleidoscope of
+human experience, and to see the world as a tapestry woven from countless
+threads. When we dimensionalize our thinking, we do not discard certainty
+altogether but hold it lightly, knowing that it is one perspective among many.
+
+Perhaps this: to feel what is true requires an attunement of both mind and
+heart. To feel this resonance requires that we quiet our inner noise—the chatter
+of ego, expectation, and fear—and listen to the silence within. In this silence,
+the heart often perceives what the mind cannot. Truth is not only an
+intellectual discovery but an embodied experience. It arises when our thoughts,
+emotions, and intuition align. It is the still, small voice that resonates
+within, like the hum of a tuning fork. To feel truth is to listen not only with
+our ears but with our entire being.
+
+And this: dimensionalizing and feeling truth is not a process of seeking a final
+answer, but of deepening the question. Truth is like a river: not static, but
+flowing, alive, responsive. To feel it, we must step into the water, experience
+its currents, and allow it to move us. The mind observes, but the body and soul
+embody.
+
+Or perhaps even this: feeling what is true is an act of courage. It requires us
+to face the discomfort of uncertainty and to surrender the need for absolute
+control. It is to trust the wisdom of the body—the quickening of the heart, the
+tightening of the gut, the tingling awareness that whispers, "Pay attention."
+Truth, when felt, often defies words, yet it is unmistakable in its clarity.
+
+Dimensional thinking and feeling truth are ultimately acts of openness. They are
+the willingness to remain curious, to suspend judgment, and to invite the
+mystery to reveal itself. They are the recognition that truth is not a static
+destination but a living process—a dance between what we know and what we have
+yet to discover.
+
+[<img src="../../../../images/mandalas/mandala-dimensional_thinking.jpg" width="512"/>](../../../../images/mandalas/mandala-dimensional_thinking.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

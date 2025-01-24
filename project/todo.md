@@ -15,8 +15,6 @@
     * What is "the possibility space"?
     * What are emotions?
   * Contemplating praxis
-    * How can we dimensionalize our thinking and feel what is true?
-    * How can we make everyday life into "the playspace"?
     * What is the "revocation of consent"? How do we do it?
     * How do we achieve "self-deculturation"?
     * How do we create our own "personal belief system"?
