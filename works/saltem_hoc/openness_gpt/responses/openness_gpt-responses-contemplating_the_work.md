@@ -125,7 +125,7 @@ and wonder. When we approach daily tasks—not as burdens or obligations—but a
 opportunities for improvisation, joy, or experimentation—we open the door to
 playfulness. Folding laundry can become a game of precision or beauty, the
 kitchen a stage for culinary artistry, conversations an orchestra of connection
-and discovery, or perhaps even the commute can turn into moments for practicing
+and discovery, or perhaps even our commute can turn into moments for practicing
 deep observation, noticing the colors of the leaves, the shapes of the clouds,
 or the rhythms of our movement.
 
