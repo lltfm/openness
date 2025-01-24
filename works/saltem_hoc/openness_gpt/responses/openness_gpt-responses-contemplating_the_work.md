@@ -13,8 +13,10 @@ included after each response.
 
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
+* [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
+* [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md)
 
 ### In Openness, what is "the work"?
 
@@ -110,6 +112,10 @@ present with the world and within ourselves, the more vibrant and alive our
 experiences become.
 
 [<img src="../../../../images/mandalas/mandala-strengthening_attention.jpg" width="512"/>](../../../../images/mandalas/mandala-strengthening_attention.jpg)
+
+### How do we learn to witness ourselves?
+
+See [here](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 
 ### How can we make everyday life into "the playspace"?
 
