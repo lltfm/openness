@@ -20,7 +20,7 @@ included after each response.
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
-* [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-a-divine-dissatisfaction)
+* [What is a "divine dissatisfaction"?](/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
 
 ### Why does Openness "aspire to love" and not just "be kind and love everyone"?
 
@@ -258,7 +258,7 @@ See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 
 ### What is a "divine dissatisfaction"?
 
-See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-a-divine-dissatisfaction)
+See [here](/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
