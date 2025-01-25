@@ -62,15 +62,15 @@
     * Is blind certainty wrong in of itself?
     * What is manipulation?
     * What is "the beast that creeps"?
-  * Contemplating desire
+  * Contemplating desire and sexuality
     * What is arousal?
     * What is "the pull of desire"? (magnetic?)
     * What is "the sirenic call"?
     * What is orgasm?
     * Should we aspire to make sex sacred?
-    * Can we satisfy the "ache of incompletion" without losing ourselves?
+    * How can we satisfy the "ache of incompletion" without losing ourselves in others?
     * What is "the moment of overwhelm"?
-    * Can we strengthen willpower to resist succumbing to the pull of desire?
+    * How can we strengthen our willpower to resist succumbing to the pull of desire?
   * Contemplating possibility
     * What is "the possibility space"?
     * What is a "precise ambiguity"?

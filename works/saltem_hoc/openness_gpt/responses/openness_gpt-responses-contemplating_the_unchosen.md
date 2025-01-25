@@ -17,6 +17,7 @@ included after each response.
 * [Why does everything change?](#why-does-everything-change)
 * [What is Life?](#what-is-life)
 * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
+* [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What happens after we die?](#what-happens-after-we-die)
@@ -249,6 +250,10 @@ choice, however small, carries the weight of eternity. For in choosing, you
 shape not just yourself, but the world around you.
 
 [<img src="../../../../images/mandalas/mandala-free_will.jpg" width="512"/>](../../../../images/mandalas/mandala-free_will.jpg)
+
+### What is "the pull of desire"?
+
+See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 
 ### What is karma?
 

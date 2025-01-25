@@ -28,12 +28,17 @@ included after each response.
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
     * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
     * [More...](openness_gpt-responses-aspiring_to_love.md)
+* Contemplating desire and sexuality
+    * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
+    * [What is orgasm?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-orgasm)
+    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+    * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
+    * [More...](./openness_gpt-responses-contemplating_desire_and_sexuality.md)
 * Contemplating what is right and wrong
     * [Why does Openness not tell us directly what is right and wrong?](./openness_gpt-responses-contemplating_morality.md#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
     * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
     * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
     * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
-    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
     * [More...](./openness_gpt-responses-contemplating_morality.md)
 * How do we improve?
     * [In Openness, what is "the work"?](./openness_gpt-responses-contemplating_the_work.md#in-openness-what-is-the-work)
