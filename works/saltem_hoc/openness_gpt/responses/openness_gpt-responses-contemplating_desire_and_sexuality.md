@@ -14,6 +14,7 @@ included after each response.
 * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
 * [What is happening when we dance with someone else?](./openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
+* [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-a-divine-dissatisfaction)
 * [What is orgasm?](#what-is-orgasm)
 * [Is sex sacred?](#is-sex-sacred)
 
@@ -128,6 +129,10 @@ asks us to embrace the paradox of desire: that it can be both a source of
 suffering and a gateway to transcendence, depending on how we relate to it.
 
 [<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
+
+### What is a "divine dissatisfaction"?
+
+See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-a-divine-dissatisfaction)
 
 ### What is orgasm?
 

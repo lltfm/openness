@@ -13,6 +13,7 @@ included after each response.
 
 * [What is "the unseen"?](#what-is-the-unseen)
 * [What are emotions?](#what-are-emotions)
+* [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
 * [What is the soul?](#what-is-the-soul)
