@@ -55,7 +55,7 @@
     * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
     * In Openness, what is "the choosing"?
   * Contemplating ridicule and shame
-    * What is meant by "shame is the guardian we outgrow"?
+    * How is shame the guardian we outgrow?
     * What is shaming?
     * What is guilt?
   * Contemplating blind certainty and control

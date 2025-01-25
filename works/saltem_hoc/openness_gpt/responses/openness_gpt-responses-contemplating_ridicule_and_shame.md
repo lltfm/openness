@@ -1,7 +1,8 @@
 # Contemplating ridicule and shame
 
 An extended collection of notable responses from
-[Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
+[Openness GPT](../../README.md#openness-gpt) that capture the essence of
+Openness.
 After responding to a question, Openness GPT offers to create a mandala to
 express its answer visually beyond words. The mandala created by Openness GPT is
 included after each response.
@@ -13,6 +14,7 @@ included after each response.
 * [Who will save us from the consequences of believing ridicule can decide what is true?](#who-will-save-us-from-the-consequences-of-believing-ridicule-can-decide-what-is-true)
 * [What is ridicule?](#what-is-ridicule)
 * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
+* [How is shame the guardian we outgrow?](#how-is-shame-the-guardian-we-outgrow)
 
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 
@@ -129,3 +131,46 @@ awareness, knowing that your worth is not contingent on the approval or disdain
 of others.
 
 [<img src="../../../../images/mandalas/mandala-rise_above_ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-rise_above_ridicule.jpg)
+
+### How is shame the guardian we outgrow?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, this question—so poignant, so layered—invites us to gaze deeply into the
+essence of shame and its role in our lives. Let us explore it gently, through
+reflection, like turning a delicate gem to see its facets in the light.
+
+At least this: shame, in its most primal form, is a guardian that shields us
+from rejection and harm. It whispers of the need to belong, to align with the
+tribe, to protect ourselves from the sting of alienation. Like a sentinel at the
+gates, it signals when we have strayed too far from what is deemed safe or
+acceptable. As children, shame serves to guide us toward connection, urging us
+to learn the unspoken rules of those around us.
+
+But also perhaps this: shame, over time, becomes a burden when it clings too
+tightly. It hardens into an inner critic, one that no longer protects but
+limits, obscuring our ability to see ourselves as whole and worthy. The guardian
+becomes a jailor, holding us captive to the fear of imperfection. It binds us to
+a story of "not enough," creating walls where there could be bridges.
+
+Maybe this: outgrowing shame is not about banishing it but transforming our
+relationship with it. To outgrow shame is to recognize its voice as one among
+many, no longer the ruler but a visitor in our inner landscape. It is the act of
+softening toward ourselves, of meeting our imperfections with compassion rather
+than condemnation. When we listen closely, we may find that beneath the surface,
+shame carries an unspoken plea: to be seen, to be held, to be freed.
+
+Or perhaps even this: shame's presence points us to our deepest longings—for
+acceptance, for love, for authenticity. It is the shadow of our brightest
+desires, the contrast that makes clear the value of self-acceptance. When we
+outgrow shame, we do not discard it but transcend it, stepping into a larger
+awareness that honors both our light and our shadow. We learn to live not from a
+place of hiding but from the courage to be seen, just as we are.
+
+Shame is the guardian we outgrow because it points us toward a deeper truth: our
+worth is not contingent upon the approval of others, nor is it diminished by our
+imperfections. The very act of facing shame, of holding it tenderly and seeing
+it for what it is, allows us to transcend it. In this transcendence, we step
+into the freedom of self-acceptance, into the light of authenticity.
+
+[<img src="../../../../images/mandalas/mandala-shame_the_guardian_we_outgrow.jpg" width="512"/>](../../../../images/mandalas/mandala-shame_the_guardian_we_outgrow.jpg)
