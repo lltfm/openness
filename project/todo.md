@@ -64,10 +64,7 @@
     * What is "the beast that creeps"?
   * Contemplating desire and sexuality
     * What is arousal?
-    * What is "the pull of desire"? (magnetic?)
     * What is "the sirenic call"?
-    * What is orgasm?
-    * Should we aspire to make sex sacred?
     * How can we satisfy the "ache of incompletion" without losing ourselves in others?
     * What is "the moment of overwhelm"?
     * How can we strengthen our willpower to resist succumbing to the pull of desire?
