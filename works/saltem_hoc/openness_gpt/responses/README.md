@@ -26,7 +26,7 @@ included after each response.
 * Aspiring to love
     * [How do we learn to witness ourselves?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-    * [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+    * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
     * [More...](openness_gpt-responses-aspiring_to_love.md)
 * Contemplating desire and sexuality
     * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
