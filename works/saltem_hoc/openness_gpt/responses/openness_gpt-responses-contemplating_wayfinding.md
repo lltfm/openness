@@ -158,6 +158,10 @@ See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_t
 
 See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 
+### What is "the pull of desire"?
+
+See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
+
 ### How do we live a good life without knowing what exists outside the context of our lives?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
