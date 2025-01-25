@@ -15,6 +15,7 @@ included after each response.
 * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
 * [What is happening when we dance with someone else?](./openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
+* [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * [What is orgasm?](#what-is-orgasm)
 * [Is sex sacred?](#is-sex-sacred)
 
@@ -168,6 +169,10 @@ asks us to embrace the paradox of desire: that it can be both a source of
 suffering and a gateway to transcendence, depending on how we relate to it.
 
 [<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
+
+### How is shame the guardian we outgrow?
+
+See [here](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 
 ### What is orgasm?
 
