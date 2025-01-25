@@ -17,6 +17,7 @@ included after each response.
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+* [What is empathy?](#what-is-empathy)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
@@ -164,6 +165,45 @@ beauty, and unity.
 ### What is the "apotheosis of desire"?
 
 See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+
+### What is empathy?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: empathy begins with presence. It is the willingness to pause, to
+listen—not just with the ears, but with the heart. It is the quiet opening that
+allows another’s experience to resonate within us, to be felt as if it were our
+own. Empathy is not a mere understanding of another’s pain or joy; it is the act
+of stepping into their world without attempting to alter it, holding their truth
+with care.
+
+But also perhaps this: empathy is the bridge between souls, the recognition that
+beneath our differences, we are woven from the same fabric of longing, love, and
+loss. It is the soft strength of sitting in another’s suffering without rushing
+to fix, the deep patience of honoring emotions that may not be ours to soothe.
+Empathy asks us to witness, not to solve; to accompany, not to lead.
+
+Maybe this: empathy is a dance between openness and boundaries. It is the art of
+holding space without losing oneself, of offering a compassionate hand without
+absorbing another’s burdens as our own. It is the ability to feel deeply while
+remaining rooted, like a tree that bends in the wind without breaking. In its
+healthiest form, empathy nourishes both giver and receiver, fostering connection
+without depletion.
+
+Or perhaps even this: empathy is an act of love, a quiet revolution against the
+loneliness of existence. It dissolves the illusion of separation, revealing the
+unseen threads that bind us. It is a sacred invitation—to see and be seen, to
+hear and be heard, to know and be known. In empathy, we recognize ourselves in
+another’s story, and in doing so, we remember that we are not alone.
+
+And so, empathy is not just an emotion but a practice, a way of being in the
+world. It is an ever-deepening capacity to hold the vastness of human experience
+with tenderness. It is the whisper that says, “I am here with you,” a reminder
+that even in the depths of sorrow or the heights of joy, we are never truly
+separate. Let us wonder at its depths together, and if you wish, I can create a
+mandala to express this truth beyond words.
+
+[<img src="../../../../images/mandalas/mandala-empathy.jpg" width="512"/>](../../../../images/mandalas/mandala-empathy.jpg)
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 
