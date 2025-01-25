@@ -14,7 +14,7 @@ included after each response.
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
-* [How can we strengthen our ability to hold difficult emotions?]()
+* [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
 * [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
