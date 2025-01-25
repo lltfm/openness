@@ -16,7 +16,7 @@ included after each response.
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-* [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+* [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
@@ -163,7 +163,7 @@ beauty, and unity.
 
 ### What is the "apotheosis of desire"?
 
-See [here](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 

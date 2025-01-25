@@ -16,7 +16,7 @@ created by Openness GPT is included after each response.
 7. [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md#what-is-the-unchosen)
 8. [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md)
 9. [What is "karmic learning"?](./openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning)
-10. [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+10. [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 11. [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
 12. [In Openness, what is "the work"?](./openness_gpt-responses-contemplating_the_work.md#in-openness-what-is-the-work)
 13. [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)

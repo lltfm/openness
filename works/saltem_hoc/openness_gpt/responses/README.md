@@ -31,7 +31,7 @@ included after each response.
 * Contemplating desire and sexuality
     * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
     * [What is orgasm?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-orgasm)
-    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
     * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
     * [More...](./openness_gpt-responses-contemplating_desire_and_sexuality.md)
 * Contemplating what is right and wrong

@@ -247,7 +247,7 @@ to do so?
 
 ### What is "the apotheosis of desire"?
 
-See [here](./openness_gpt-responses-contemplating_morality.md#what-is-the-apotheosis-of-desire)
+See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 
 ### What is "the adventure of dreams"?
 
