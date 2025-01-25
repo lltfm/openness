@@ -13,7 +13,6 @@
     * What is "the prime benevolence"?
   * Contemplating the unseen
   * Contemplating the work
-    * How can we strengthen our ability to hold difficult emotions? 
     * How can we experience "duende"?
     * How do we transform emotions? 
     * How can we make transforming emotion into art part of daily life?
@@ -40,7 +39,6 @@
     * What is "the trust fabric"?
     * What is a "dark messiah"?
     * What are "weaponed words"?
-    * What does it mean to "weapon words with extra meaning"?
     * What does it mean to "weapon words with extra meaning"?
     * In Openness, why is there "no higher truth than lies"?
     * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?

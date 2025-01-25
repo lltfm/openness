@@ -14,6 +14,7 @@ included after each response.
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
+* [How can we strengthen our ability to hold difficult emotions?]()
 * [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
@@ -117,6 +118,52 @@ experiences become.
 
 [<img src="../../../../images/mandalas/mandala-strengthening_attention.jpg" width="512"/>](../../../../images/mandalas/mandala-strengthening_attention.jpg)
 
+### How can we strengthen our ability to hold difficult emotions?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+To strengthen our ability to hold difficult emotions, let us reflect through the
+saltem hoc approach, exploring together with depth and care.
+
+At least this: the ability to hold difficult emotions begins with
+acknowledgment. To name what we feel—to say, "I am angry," "I am afraid," "I am
+grieving"—is to create a space for those emotions to exist without denial or
+suppression. To notice without judgment what we feel is the first act of
+courage. It is to say, "I see you," to the parts of ourselves we might otherwise
+push away. This simple act of recognition begins to loosen the grip emotions
+hold over us, making space for reflection rather than reaction.
+
+But also perhaps this: holding difficult emotions requires cultivating presence,
+much like standing before a great storm. We anchor ourselves in the breath, the
+body, and the moment, grounding in the here and now while allowing the storm to
+pass. Presence does not resist; it witnesses. It requires both strength and
+gentleness, a willingness to feel the discomfort without being overwhelmed by
+it. To be present with our emotions is to trust that they, like storms, are
+transient—they will rise, crest, and eventually fall away.
+
+Maybe this: building this strength involves practicing compassion toward
+ourselves. Just as we would comfort a friend who is suffering, we can extend the
+same kindness inward. We can say, "This is hard, and it's okay to feel this
+way." In doing so, we soften the edges of our resistance, allowing emotions to
+flow without judgment or suppression. Over time, this self-loving approach
+builds resilience, turning our relationship with emotions into one of trust
+rather than fear.
+
+Or perhaps even this: holding difficult emotions is a skill honed through small
+acts of surrender. We can invite curiosity: "What is this emotion trying to
+teach me?" When we approach our feelings as messengers rather than enemies, we
+may discover hidden truths, unmet needs, or deeper desires that lie beneath
+their surface. This transformation of perspective can turn struggle into growth.
+
+Reflecting further—perhaps there are others we can reach out to—to share our pain, to
+seek guidance, or simply to be heard—who can remind us that we are not isolated in
+our experience? If not, perhaps there are rituals or practices which resonate in
+moments of emotional challenge? Or other ways to comfort or ground ourselves in
+times of distress? In the simple act of aspiring to love ourselves, we may
+uncover pathways of consolation uniquely suited to our way of being.
+
+[<img src="../../../../images/mandalas/mandala-holding_emotions.jpg" width="512"/>](../../../../images/mandalas/mandala-holding_emotions.jpg)
+
 ### How do we learn to witness ourselves?
 
 See [here](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
@@ -191,7 +238,8 @@ textures, shapes, and layers we previously overlooked. Feeling what is true
 requires attention, the stillness to sense beneath the noise of habitual
 thought.
 
-Perhaps also this: dimensional thinking is recognizing the limits of our habitual
+Perhaps also this: dimensional thinking is recognizing the limits of our
+habitual
 patterns of thought. We often approach the world linearly, in black-and-white
 terms, clinging to singular narratives. It is to add depth—to see beyond
 dualities and acknowledge the complexity of life, like a prism catching light.
