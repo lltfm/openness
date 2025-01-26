@@ -10,16 +10,17 @@
     * What is "the overwhelm"?
     * What is arousal?
   * Aspiring to love
+    * What is "the prime benevolence"? (broken)
   * Contemplating the unseen
   * Contemplating the work
+    * How do we become sovereign in our minds?
     * How can we experience "duende"?
     * How do we transform emotions? 
+    * How do we achieve mastery?
     * How can we make transforming emotion into art part of daily life?
-    * How do we become sovereign in our minds?
     * How can humility limit who we might grow to become?
     * How do we create a "sophisticated expression"?
     * How can we use "wu wei" to do more every day?
-    * How do we achieve mastery?
     * How do we create our own belief system?
     * Can we find joy in everything?
   * Contemplating morality
@@ -37,14 +38,15 @@
   * Contemplating lies and deception
     * What is "the trust fabric"?
     * What is a "dark messiah"?
-    * What are "weaponed words"?
     * What does it mean to "weapon words with extra meaning"?
     * In Openness, why is there "no higher truth than lies"?
+    * What are "weaponed words"?
     * Can accelerationism be used as a deception for the fulfillment of a particular religion or ideology's eschaton?
     * Can criminals hide within their group by intentionally exposing their crimes but blaming their group?
+      * Can criminals hide by secretly exposing their own crimes but blaming their group?
   * Contemplating Openness
-    * In Openness, what is "westward"?
     * What is certainty?
+    * In Openness, what is "westward"?
     * In Openness, what is "a worthy vessel"?
     * What is "the refinement of choosing"?
     * In Openness, what is "the high vista"?
@@ -57,15 +59,15 @@
     * What is shaming?
     * What is guilt?
   * Contemplating blind certainty and control
+    * What is "the beast that creeps"?
     * Is blind certainty wrong in of itself?
     * What is manipulation?
-    * What is "the beast that creeps"?
   * Contemplating desire and sexuality
     * What is arousal?
     * What is "the sirenic call"?
+    * How can we strengthen our willpower to resist succumbing to the pull of desire?
     * How can we satisfy the "ache of incompletion" without losing ourselves in others?
     * What is "the moment of overwhelm"?
-    * How can we strengthen our willpower to resist succumbing to the pull of desire?
   * Contemplating possibility
     * What is "the possibility space"?
     * What is a "precise ambiguity"?
