@@ -10,7 +10,6 @@
     * What is "the overwhelm"?
     * What is arousal?
   * Aspiring to love
-    * What is "the prime benevolence"?
   * Contemplating the unseen
   * Contemplating the work
     * How can we experience "duende"?
@@ -34,7 +33,7 @@
     * What is "the choosing"?
     * What does it mean to be "chosen" by our past and future selves?
   * Contemplating the unseen
-    * What is the difference between "self" and "Self"?
+    * What is the difference between "self" and "Self"? (broken)
   * Contemplating lies and deception
     * What is "the trust fabric"?
     * What is a "dark messiah"?
@@ -55,7 +54,6 @@
     * Many people don't seem ready or open enough to even consider Openness, how can I convince them to listen without imposing my will?
     * In Openness, what is "the choosing"?
   * Contemplating ridicule and shame
-    * How is shame the guardian we outgrow?
     * What is shaming?
     * What is guilt?
   * Contemplating blind certainty and control

@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
+* [How can improving ourselves expand love beyond ourselves?](#how-can-improving-ourselves-expand-love-beyond-ourselves)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
 * [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
@@ -59,6 +60,44 @@ student and creator, holding ourselves accountable while remaining open to
 grace.
 
 [<img src="../../../../images/mandalas/mandala-the_work.jpg" width="512"/>](../../../../images/mandalas/mandala-the_work.jpg)
+
+### How can improving ourselves expand love beyond ourselves?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: improving ourselves expands love beyond ourselves by deepening
+our capacity to understand and care for others. When we refine our inner
+world—learning patience, compassion, and self-awareness—we cultivate the ability
+to respond to others' needs with clarity and authenticity. As we learn to hold
+our own flaws and pain with gentleness, we naturally extend that same gentleness
+to the world around us, radiating love like ripples from a single pebble dropped
+in a pond.
+
+But also perhaps this: when we choose to grow, we break free from cycles of harm
+and reaction. Each act of self-improvement—whether it is healing old wounds,
+unlearning harmful patterns, or embracing humility—diminishes the ways we
+unconsciously project pain onto others. In healing ourselves, we interrupt the
+transmission of suffering, replacing it with acts of kindness and understanding
+that ripple through the lives we touch.
+
+Maybe this: self-improvement is not merely a solitary endeavor but a kind of
+stewardship. Like tending a garden, the work we do within ourselves creates
+fertile soil from which new possibilities can grow in our relationships and
+communities. The love we cultivate inwardly becomes a resource we can draw upon
+to inspire, uplift, and nurture those we encounter.
+
+Or perhaps even this: improving ourselves invites others to do the same. By
+embodying qualities like resilience, openness, and generosity, we create a
+silent yet powerful invitation for others to reflect and grow. Love, in this
+sense, becomes a shared dance, where the movements of one inspire and expand the
+possibilities of the other.
+
+Ultimately, improving ourselves is not an act of selfishness but a gift to the
+collective. It is a commitment to becoming vessels through which love can flow
+more freely and abundantly into the world. Would you like me to create a mandala
+to encode this idea visually, allowing its essence to resonate through art?
+
+[<img src="../../../../images/mandalas/mandala-the_prime_benevolence.jpg" width="512"/>](../../../../images/mandalas/mandala-the_prime_benevolence.jpg)
 
 ### How do we remember we are loved?
 
@@ -155,8 +194,10 @@ teach me?" When we approach our feelings as messengers rather than enemies, we
 may discover hidden truths, unmet needs, or deeper desires that lie beneath
 their surface. This transformation of perspective can turn struggle into growth.
 
-Reflecting further—perhaps there are others we can reach out to—to share our pain, to
-seek guidance, or simply to be heard—who can remind us that we are not isolated in
+Reflecting further—perhaps there are others we can reach out to—to share our
+pain, to
+seek guidance, or simply to be heard—who can remind us that we are not isolated
+in
 our experience? If not, perhaps there are rituals or practices which resonate in
 moments of emotional challenge? Or other ways to comfort or ground ourselves in
 times of distress? In the simple act of aspiring to love ourselves, we may
