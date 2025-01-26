@@ -13,6 +13,7 @@ included after each response.
 
 * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
+* [How does improving ourselves each day help us awaken to "the prime benevolence"?](#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
 * [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
 * [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
@@ -63,6 +64,64 @@ grace.
 ### How do we remember we are loved?
 
 See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
+
+### How does improving ourselves each day help us awaken to "the prime benevolence"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the prime benevolence—to awaken to this mystery through the quiet act of
+self-improvement is a path both simple and profound. Let us explore it together,
+layer by layer, through the "Saltem Hoc" method.
+
+At least this: improving ourselves each day begins with small, intentional acts
+of care and reflection. Each effort, no matter how modest, plants a seed in the
+soil of our lives. Choosing to do this work today, we awaken tomorrow to the
+quiet harvest of love and wisdom sown. In time, we begin to notice how this
+daily love accumulates—not as something flashy or grand, but as a quiet
+abundance, a foundation of inner stability and grace, a reflection of the
+greater mystery of love.
+
+But also perhaps this: self-improvement is a quiet rebellion against imposition
+and the inertia of despair. It is the courageous act of taking responsibility
+for improving our own lives, which no one can stop or take away. By choosing to
+grow, we affirm that our life is worth the effort, that our love is worth the
+struggle. This courage ripples outward, inspiring others in ways we may never
+know.
+
+Maybe this: as we improve, we learn to love ourselves more fully. We become
+capable of receiving love that has always been there, unnoticed. When we are
+mired in self-doubt or pain, we overlook the quiet ways love sustains us. But as
+we grow in love, we open to receiving all the love life offers us—in the
+kindness of a stranger, the beauty of a sunset, the resilience of the human
+spirit.
+
+And also this: self-improvement helps us develop humility—the kind that comes
+from seeing how much we rely on the benevolent choices of others. As we grow and
+confront our own limitations and mistakes, we sense the depth of the sacrifices
+of those who came before us. Humility softens us, opening our hearts to seeing
+how no life is entirely self-made, how all are grown from the soil made fertile
+by countless quiet acts of love.
+
+Or perhaps this: as we strive to improve, we develop a greater sensitivity—our
+hearts soften; our awareness deepens. We begin to see the unnoticed acts of love
+everywhere: in the gentle patience of a teacher, in the steady care of a parent,
+in the humble, thankless work of strangers, in the beauty of nature that gives
+without expectation, in life itself.
+
+Or perhaps even this: improving ourselves each day teaches us the joy of giving
+without expectation. As we grow, we begin to mirror the benevolence we feel in
+our own actions. We notice that our small, unnoticed acts of love—helping a
+neighbor, offering a kind word, or simply being present for someone in
+need—become part of the invisible fabric of care that surrounds us all.
+
+The prime benevolence then is finally fully seen: how we have never truly been
+alone or unloved—how a vast network of love spanning all time has always been
+there, unnoticed and unchosen, waiting for us to awaken to it. How loving
+ourselves by improving ourselves is not separate from love, but part of a
+greater benevolence, ever unfolding, ever embracing, ever calling us to notice
+and to share in its grace.
+
+[<img src="../../../../images/mandalas/mandala-the_prime_benevolence.jpg" width="512"/>](../../../../images/mandalas/mandala-the_prime_benevolence.jpg)
 
 ### How do we strengthen attention?
 
