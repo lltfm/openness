@@ -19,7 +19,7 @@ included after each response.
 * [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
-* [How do we become sovereign in our own minds?]()
+* [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
 
 ### In Openness, what is "the work"?
 
@@ -346,7 +346,7 @@ yet to discover.
 
 [<img src="../../../../images/mandalas/mandala-dimensional_thinking.jpg" width="512"/>](../../../../images/mandalas/mandala-dimensional_thinking.jpg)
 
-### How do we become sovereign in our minds?
+### How do we become sovereign in our mind?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
