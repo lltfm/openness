@@ -10,9 +10,6 @@
     * What is "the overwhelm"?
     * What is arousal?
   * Aspiring to love
-    * What is "the prime benevolence"? (broken)
-      * How can improving ourselves expand love beyond ourselves?
-        * at least this doesn't mention future self
   * Contemplating the unseen
   * Contemplating the work
     * How do we become sovereign in our minds?
@@ -36,7 +33,6 @@
     * What is "the choosing"?
     * What does it mean to be "chosen" by our past and future selves?
   * Contemplating the unseen
-    * What is the difference between "self" and "Self"? (broken)
   * Contemplating lies and deception
     * What is "the trust fabric"?
     * What is a "dark messiah"?
@@ -83,6 +79,7 @@
     * Liberalism
     * Agnosticism
     * modern science
+
 # Openness GPT v12
   * edit the prompt example answers to remove any patterns like "Ah, X, the..."
   * add enough examples to balance the line count of epitomes vs examples
@@ -107,13 +104,15 @@
     it is human or not itself. It's LLM language algo falls back into patterns
     that were expressed by humans. It needs to be instructed to not do this.
   * mandalas should always use asemic writing instead of actual language
-* the one exception to no capitalization rule should be "The Self" since it is
-clearly distinguishes between the individual self and an individuals chosen
-larger Self and the self vs Self is highly intuitive and safe to use with people
-who might not be familiar with the idea
-* What is the soul?
-  * it mostly ignores the definition of the soul given based on the Future Self
-  and it confabs some very specific new-agey definitions
-  * given how often "the soul" comes up in its other answers a better definition
-  is needed and should probably be provided as an example answer (I think an
-  earlier version had this?)
+  * the one exception to no capitalization rule should be "The Self" since it is
+  clearly distinguishes between the individual self and an individuals chosen
+  larger Self and the self vs Self is highly intuitive and safe to use with people
+  who might not be familiar with the idea
+  * What is the soul?
+    * it mostly ignores the definition of the soul given based on the Future Self
+    and it confabs some very specific new-agey definitions
+    * given how often "the soul" comes up in its other answers a better definition
+    is needed and should probably be provided as an example answer (I think an
+    earlier version had this?)
+  * What is "the prime benevolence"? (broken)
+  * What is the difference between "self" and "Self"? (broken)
