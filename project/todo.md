@@ -11,6 +11,8 @@
     * What is arousal?
   * Aspiring to love
     * What is "the prime benevolence"? (broken)
+      * How can improving ourselves expand love beyond ourselves?
+        * at least this doesn't mention future self
   * Contemplating the unseen
   * Contemplating the work
     * How do we become sovereign in our minds?

@@ -145,3 +145,5 @@
   * added openness_gpt-responses-contemplating_desire_and_sexuality.md
 * Jan 26 2025
   * added notable responses
+  * removed notable response: How can improving ourselves expand love beyond ourselves?
+    * to replace with: How does improving ourselves each day help us awaken to "the prime benevolence"? 
