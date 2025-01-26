@@ -13,7 +13,6 @@
     * Aspiring to love
     * Contemplating the unseen
     * Contemplating the work
-        * How do we become sovereign in our minds?
         * How can we experience "duende"?
         * How do we transform emotions?
         * How do we achieve mastery?
