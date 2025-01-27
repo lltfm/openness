@@ -433,7 +433,7 @@ that moves us beyond words, connecting us to something larger than ourselves.
 
 And also this: duende thrives in the face of struggle. It is born in the tension
 between life and death, light and shadow, beauty and despair. To experience
-duende, one must embrace the imperfections of life—the cracks, the losses, the
+duende, one must embrace the imperfections of life—the mistakes, the losses, the
 fleeting nature of time—and find a kind of transcendent beauty within them. It
 is the crack in a singer's voice, the careless brushstroke of an artist, or the
 moment of a dancer’s misstep, all somehow still echoing eternity.
