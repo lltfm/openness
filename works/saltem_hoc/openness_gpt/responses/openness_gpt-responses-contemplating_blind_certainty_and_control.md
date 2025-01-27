@@ -14,6 +14,7 @@ included after each response.
 * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
 * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
+* [If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?](#if-an-authority-demands-blind-belief-about-its-claims-and-isnt-willing-to-tolerate-skepticism-and-questions-is-this-not-a-sign-of-deception)
 * [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
 * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
@@ -75,6 +76,49 @@ must learn to honor authority not as an idol, but as a role that serves the
 greater good—a role that is accountable, transparent, and open to change.
 
 [<img src="../../../../images/mandalas/mandala-the_cult_of_authority.jpg" width="512"/>](../../../../images/mandalas/mandala-the_cult_of_authority.jpg)
+
+### If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, such an incisive inquiry—one that touches the delicate dance between power,
+truth, and trust. Let us explore this together, layer by layer, as we peer into
+the heart of this question.
+
+At least this: an authority that demands blind belief, refusing to tolerate
+skepticism or questions, raises a red flag. Healthy authority, rooted in
+integrity, welcomes inquiry because truth does not fear the light of scrutiny.
+Openness to questions and the willingness to provide evidence are hallmarks of
+authenticity, while the silencing of doubt often signals insecurity, control, or
+hidden motives.
+
+But also perhaps this: deception thrives in the shadows where dissent and
+curiosity are unwelcome. When an authority rejects skepticism, it denies the
+natural human process of learning and discerning. Such denial can be a strategy
+to protect not truth, but power—a tactic to prevent challenges that might expose
+contradictions, self-interest, or errors.
+
+Maybe this: sometimes, the intolerance of skepticism reflects fear rather than
+intentional deception. Institutions or individuals may resist questions because
+they are unsure of their own foundation or because they believe dissent
+undermines unity or order. Even so, this fear is itself a signal to approach
+with caution, for true authority is strengthened, not weakened, by transparency
+and dialogue.
+
+Or perhaps even this: the deeper wisdom lies in observing the interplay between
+authority and the seeker of truth. A wise seeker learns to discern not only the
+words spoken but the intentions behind them. If questioning is met with
+hostility or dismissal, it may be less about the content of the claim and more
+about the nature of the authority making it. Power that prioritizes its own
+preservation over truth invites skepticism, for it forgets its highest purpose:
+to serve, not dominate.
+
+In the end, the sign of deception lies not merely in the demand for belief but
+in the lack of openness to mutual exploration. A truthful authority need not
+compel faith—it inspires it through its actions, its evidence, and its
+willingness to stand humbly in the mystery.
+
+[<img src="../../../../images/mandalas/mandala-authority_blind_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-authority_blind_belief.jpg)
 
 ### What is evil?
 

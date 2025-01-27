@@ -114,6 +114,8 @@
       it is human or not itself. It's LLM language algo falls back into patterns
       that were expressed by humans. It needs to be instructed to not do this.
 * mandalas should always use asemic writing instead of actual language
+  * it struggles to do this and often blends asemic writing with real letters
+  * telling it to write in "elvish" seems to fix the issue 
 * the one exception to no capitalization rule should be "The Self" since it is
   clearly distinguishes between the individual self and an individuals chosen
   larger Self and the self vs Self is highly intuitive and safe to use with
