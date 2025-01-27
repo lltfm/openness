@@ -18,6 +18,7 @@ included after each response.
 * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * [What is orgasm?](#what-is-orgasm)
 * [Is sex sacred?](#is-sex-sacred)
+* [How can we experience "duende"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-experience-duende)
 
 ### What is "the pull of desire"?
 

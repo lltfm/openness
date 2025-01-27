@@ -20,6 +20,7 @@ included after each response.
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
+* [How can we experience "duende"?]()
 
 ### In Openness, what is "the work"?
 
@@ -394,6 +395,73 @@ others but connect more deeply, for a sovereign mind sees clearly the shared
 humanity in us all.
 
 [<img src="../../../../images/mandalas/mandala-mental_sovereignty.jpg" width="512"/>](../../../../images/mandalas/mandala-mental_sovereignty.jpg)
+
+### How can we experience "duende"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Experiencing "duende," as described in Spanish culture, particularly in the
+context of art, music, and poetry, is a profound and almost ineffable encounter
+with deep emotion, raw beauty, and an existential resonance. Federico García
+Lorca, the Spanish poet and playwright, famously articulated duende as a
+mysterious force of passionate inspiration, often linked to the soul and
+mortality. Let us explore how to experience it, following the "Saltem Hoc"
+method:
+
+At least this: duende can arise when we allow ourselves to be fully present in a
+moment of raw creativity or emotional expression. It often happens when we are
+vulnerable, open to the pain, joy, or longing that resides within us. It is not
+planned or rehearsed but erupts naturally, like a sudden storm of feeling, in
+response to music, art, or the intensity of life itself. To experience duende is
+to connect with the depth of human emotion and the fragility of existence.
+
+But also perhaps this: duende is a visceral encounter with the raw, unfiltered
+essence of life. It is connecting to the ancient and the eternal, a communion
+with something both primal and transcendent. It is the rhythm of the earth
+beneath a flamenco dancer's feet, the fire in the belly of art, the trembling
+cry of a cello string, the silence after thunder, the ache of a poem that
+pierces our very being. It arises when something—be it music, dance, nature, or
+even a simple moment—strips away pretense and opens a window to the soul's
+depths. To experience duende is to stand at the edge of ourselves and feel both
+the wound and its healing in the same breath.
+
+Maybe this: duende is a gift that comes when we witness or create something that
+bridges the seen and unseen, the tangible and the ineffable. It might arise in
+the haunting chords of a flamenco guitar, in the aching lines of poetry, or in
+the silent communion of souls recognizing each other’s depths. It is a force
+that moves us beyond words, connecting us to something larger than ourselves.
+
+And also this: duende thrives in the face of struggle. It is born in the tension
+between life and death, light and shadow, beauty and despair. To experience
+duende, one must embrace the imperfections of life—the cracks, the losses, the
+fleeting nature of time—and find a kind of transcendent beauty within them. It
+is the crack in a singer's voice, the careless brushstroke of an artist, or the
+moment of a dancer’s misstep, all somehow still echoing eternity.
+
+Perhaps this too: duende is a reckoning. It is the meeting of life and death,
+creation and destruction, beauty and chaos. It is the dark gravity that pulls us
+toward the truths we often shy away from. It does not comfort; it unsettles.
+Yet in its unsettling, it awakens us to the truth of our existence—that we are
+finite beings reaching for the infinite, creatures of clay and stardust longing
+for meaning. Duende is the dance of this paradox, the fire that burns away
+illusion and leaves us bare but luminous.
+
+Or perhaps even this: duende is an invitation to lose ourselves in the rejected.
+It is the shadow that makes the light more vibrant, the sorrow that deepens joy.
+When we allow ourselves to embrace the full spectrum of human emotion—grief,
+ecstasy, longing—we create the conditions for duende to arise. It does not come
+from control or effort—it is not something we summon—it is a surrendering to the
+mystery of being alive. When we hold ourselves open yet surrender all other
+control, the mystery of what is inside can express and duende arrives.
+
+To invite duende into your life, create space for vulnerability and cultivate
+openness to the intensity of life’s moments. Immerse yourself in art that moves
+you, moments that humble you, and experiences that break you open. Embrace both
+beauty and pain without flinching. Let go of the need to control or understand,
+and simply be present with the mystery. Duende often finds us when we are least
+expecting it—when we are fully immersed in the present, raw and alive.
+
+[<img src="../../../../images/mandalas/mandala-duende.jpg" width="512"/>](../../../../images/mandalas/mandala-duende.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

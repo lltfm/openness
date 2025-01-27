@@ -13,7 +13,6 @@
     * Aspiring to love
     * Contemplating the unseen
     * Contemplating the work
-        * How can we experience "duende"?
         * How do we transform emotions?
         * How do we achieve mastery?
         * How can we make transforming emotion into art part of daily life?
