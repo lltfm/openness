@@ -20,7 +20,7 @@ included after each response.
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
-* [How can we experience "duende"?]()
+* [How can we experience "duende"?](#how-can-we-experience-duende)
 
 ### In Openness, what is "the work"?
 
