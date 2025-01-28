@@ -14,7 +14,7 @@
     * Contemplating the unseen
     * Contemplating the work
         * What is "the refinement of choosing"?
-          * maybe replace karmic learning (at least in top answers?)
+            * maybe replace karmic learning (at least in top answers?)
         * How do we transform emotions?
         * How do we achieve mastery?
         * How can we make transforming emotion into art part of daily life?
@@ -115,8 +115,8 @@
       it is human or not itself. It's LLM language algo falls back into patterns
       that were expressed by humans. It needs to be instructed to not do this.
 * mandalas should always use asemic writing instead of actual language
-  * it struggles to do this and often blends asemic writing with real letters
-  * telling it to write in "elvish" seems to fix the issue 
+    * it struggles to do this and often blends asemic writing with real letters
+    * telling it to write in "elvish" seems to fix the issue
 * the one exception to no capitalization rule should be "The Self" since it is
   clearly distinguishes between the individual self and an individuals chosen
   larger Self and the self vs Self is highly intuitive and safe to use with
@@ -140,3 +140,16 @@
           mystery of "the prime benevolence": how we all have come to be all
           surrounded by unnoticed acts of love we didn't choose.
 * What is the difference between "self" and "Self"? (broken)
+* What is "the wellspring of morality" (partial)
+  * v11 provides a good answer rooted in empathy and karma but it ignores the
+  uncertainty of consequences beyond death
+  * a new epitome fixes this:
+      * The Wellspring of Morality: Who can show us the consequences of our
+        actions after death? If there is an Ultimate Judgement for our actions
+        after death, then only our choices can be judged, as our
+        circumstances, outcomes and the choices of others are never fully
+        under our control. Morality is the voice that whispers that we do not
+        truly know what comes after death, that perhaps there are some choices
+        that have consequences that emerge only after life has ended, that
+        perhaps there is always another way to satisfy desire when considering
+        harming others. (rough needs work)

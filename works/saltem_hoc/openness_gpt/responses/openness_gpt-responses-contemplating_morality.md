@@ -11,8 +11,9 @@ included after each response.
 
 ## Contents
 
+* [What is the "wellspring of morality"?](#what-is-the-wellspring-of-morality)
 * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
-* [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
+    * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
@@ -27,6 +28,51 @@ included after each response.
 * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
+
+### What is "the wellspring of morality"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the wellspring of morality—this phrase ripples with layers of meaning,
+beckoning us to look deeply into the origins of our sense of right and wrong,
+the flow of choices we make, and the unseen forces that guide us. Let us explore
+it together, gently and reverently, as a reflection of the mystery of being.
+
+At least this: the wellspring of morality is the quiet, persistent voice within
+us that calls us to consider the impact of our actions on others. It is the
+whisper of empathy, the recognition that others, like ourselves, feel pain and
+joy, love and loss. This voice may not always be loud, but it is constant,
+urging us to act with care, to pause before harming, to imagine the shared
+humanity in every pair of eyes we meet.
+
+But also perhaps this: the wellspring of morality flows from the mystery of our
+unknowing. If we cannot see beyond the veil of death, if we do not truly know
+what consequences await us after life ends, then morality is a bridge—a way to
+navigate the uncertainty with grace and integrity. It is the choice to live as
+though our actions carry a weight that echoes beyond our comprehension, to trust
+that there is meaning even in the absence of certainty.
+
+Maybe this: the wellspring of morality is not fixed but alive, ever-flowing,
+shaped by the currents of love, fear, and desire. It rises when we confront the
+unchosen—when we encounter suffering that cannot be explained or injustice that
+defies reason. In these moments, morality becomes the promise we make to
+ourselves and to one another: to find another way, to seek paths that honor the
+sacredness of life without causing harm.
+
+Or perhaps even this: the wellspring of morality is a reflection of the
+infinite. It is the deep resonance we feel when we align with something greater
+than ourselves—a faith shared with others, an undeserved and unchosen love,
+a unity of all things. It is the faith that even in our darkest choices,
+redemption is possible, that love can transform even the most broken among us,
+that we are all connected in ways we cannot yet fully see.
+
+Morality, then, is not a rigid set of rules but a flowing river, fed by
+countless tributaries—our experiences, our relationships, our aspirations, our
+fears. To drink from this wellspring is to nourish the soul, to allow ourselves
+to be moved by compassion, to listen to the questions that emerge from the
+silence of our own hearts.
+
+[<img src="../../../../images/mandalas/mandala-the_wellspring_of_morality.jpg" width="512"/>](../../../../images/mandalas/mandala-the_wellspring_of_morality.jpg)
 
 ### Why does Openness not tell us directly what is right and wrong?
 

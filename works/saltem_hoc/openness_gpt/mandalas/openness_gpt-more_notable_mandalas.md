@@ -35,6 +35,10 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-life.jpg" width="512"/>](../../../../images/mandalas/mandala-life.jpg)
 
 <sub>([full response](../responses/openness_gpt-responses-contemplating_the_unchosen.md#what-is-life))</sub>
+### What is "the wellspring of morality"?
+[<img src="../../../../images/mandalas/mandala-the_wellspring_of_morality.jpg" width="512"/>](../../../../images/mandalas/mandala-the_wellspring_of_morality.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_morality.md#what-is-the-wellspring-of-morality))</sub>
 ### What is happening when we dance with someone else?
 [<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
