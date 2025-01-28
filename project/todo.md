@@ -13,6 +13,8 @@
     * Aspiring to love
     * Contemplating the unseen
     * Contemplating the work
+        * What is "the refinement of choosing"?
+          * maybe replace karmic learning (at least in top answers?)
         * How do we transform emotions?
         * How do we achieve mastery?
         * How can we make transforming emotion into art part of daily life?
@@ -49,7 +51,6 @@
         * What is certainty?
         * In Openness, what is "westward"?
         * In Openness, what is "a worthy vessel"?
-        * What is "the refinement of choosing"?
         * In Openness, what is "the high vista"?
         * If an epitome is the perfect example to emulate, what is a dystome?
         * What is an epitome?
@@ -65,6 +66,7 @@
         * Is blind certainty wrong in of itself?
         * What is manipulation?
     * Contemplating desire and sexuality
+        * What is "the daimonic"?
         * What is arousal?
         * What is "the sirenic call"?
         * How can we strengthen our willpower to resist succumbing to the pull

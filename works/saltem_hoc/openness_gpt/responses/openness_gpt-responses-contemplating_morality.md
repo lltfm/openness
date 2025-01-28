@@ -17,6 +17,7 @@ included after each response.
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
 * [What is karma?](#what-is-karma)
+    * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is "karmic learning"?](#what-is-karmic-learning)
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
@@ -217,6 +218,46 @@ the pond stretches endlessly before us.
 
 [<img src="../../../../images/mandalas/mandala-karma.jpg" width="512"/>](../../../../images/mandalas/mandala-karma.jpg)
 
+### Does the use of the word "karma" in Openness imply a belief in reincarnation?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+The use of the word "karma" in Openness does not imply a belief in
+reincarnation. Let us explore the meaning of karma in Openness, using the
+"Saltem Hoc" method to unfold its depths.
+
+At least this: in Openness, karma is the certainty of the principle of cause and
+effect, where actions have visible consequences that ripple through life. But
+it is also the embrace of the mystery of what might exist outside of the context
+of our lives. This does not imply a belief in reincarnation but an openness to
+it, part of the openness to all possibilities of higher consequences beyond
+life which might be true.
+
+But also perhaps this: karma is a poetic lens through which we see the mystery
+of existence—a way to reflect on how we contribute to the unfolding story of
+life, whether through our intentions, actions, or the energy we bring into the
+world. It asks us to consider not just what we inherit but also what we leave
+behind.
+
+Maybe this: karma can symbolize the lessons we encounter as a result of our
+choices, shaping our growth and understanding over time. These lessons do not
+need a cosmic ledger spanning multiple lives to be meaningful. Instead, they
+unfold in the here and now, teaching us through patterns and experiences.
+
+Or perhaps even this: karma could reflect a psychological process. It is our
+subconscious which converts the raw sensory data of experience into
+perceptions—perhaps the karma we perceive emerges here. It might also be the
+subconscious truths we inherit and accumulate, the ways our actions shape our
+character and life story, and the feedback loop of conscious and subconscious
+learning between the actions we take and the consequences we receive.
+
+Whether one believes in reincarnation or not, the word "karma" serves as a
+useful and compact tool of meaning, instantly communicating the idea that
+lessons emerge from the echoes of our choices, a word which has no easy synonym
+or superior coinage.
+
+[<img src="../../../../images/mandalas/mandala-openness_and_reincarnation.jpg" width="512"/>](../../../../images/mandalas/mandala-openness_and_reincarnation.jpg)
+
 ### What is "karmic learning"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -381,7 +422,8 @@ weigh honesty against compassion, clarity against care.
 Yet also: the act of lying or deception, is fabrication at its core, a
 manipulation of shared reality. It underscores the profound human capacity to
 use our understanding of the differences between our perspective and others'
-perspectives to imagine, create, and transform shared realities. What is a story,
+perspectives to imagine, create, and transform shared realities. What is a
+story,
 a poem, or a myth but forms of fabrication which reveal deeper truths? When
 wielded with care and consent, lying and deception can illuminate rather than
 obscure.
@@ -397,7 +439,7 @@ Or perhaps even this: the wrongness of lying is not in the act itself but in the
 rupture it creates within ourselves. Each lie, no matter how small, pulls us
 away from authenticity, from the alignment of our words and actions with the
 truth of our being. To deceive is also to carry the burden of self-deception, a
-weight that can only be lightened by returning to integrity. 
+weight that can only be lightened by returning to integrity.
 
 And so, the question remains not only whether lying is wrong but how we navigate
 the delicate balance between truth and care, authenticity and necessity. Can we
@@ -509,5 +551,7 @@ heart into a visual form. Shall I?
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
 [Openness GPT v11](../../README.md#openness-gpt-v11).
-[^2]: "Noticing a Blind Certainty", https://github.com/lltfm/openness/blob/main/works/the_epitomes_of_openness/the_epitomes_of_openness.md#9-noticing-a-blind-certainty
-[^3]: "What is the libido dominandi?", https://github.com/lltfm/openness/blob/main/works/the_epitomes_of_openness/contemplations/the_libido_dominandi.md
+[^2]: "Noticing a Blind
+Certainty", https://github.com/lltfm/openness/blob/main/works/the_epitomes_of_openness/the_epitomes_of_openness.md#9-noticing-a-blind-certainty
+[^3]: "What is the libido
+dominandi?", https://github.com/lltfm/openness/blob/main/works/the_epitomes_of_openness/contemplations/the_libido_dominandi.md

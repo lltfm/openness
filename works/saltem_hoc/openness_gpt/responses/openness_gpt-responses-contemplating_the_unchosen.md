@@ -19,6 +19,7 @@ included after each response.
 * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
+  * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](./openness_gpt-responses-contemplating_morality.md#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What happens after we die?](#what-happens-after-we-die)
 

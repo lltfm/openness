@@ -30,7 +30,6 @@ included after each response.
     * [More...](openness_gpt-responses-aspiring_to_love.md)
 * Contemplating desire and sexuality
     * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
-    * [What is orgasm?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-orgasm)
     * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
     * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
     * [More...](./openness_gpt-responses-contemplating_desire_and_sexuality.md)
@@ -38,7 +37,6 @@ included after each response.
     * [Why does Openness not tell us directly what is right and wrong?](./openness_gpt-responses-contemplating_morality.md#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
     * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
     * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
-    * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
     * [More...](./openness_gpt-responses-contemplating_morality.md)
 * How do we improve?
     * [In Openness, what is "the work"?](./openness_gpt-responses-contemplating_the_work.md#in-openness-what-is-the-work)
@@ -53,12 +51,12 @@ included after each response.
 * Contemplating ridicule and shame
     * [What is ridicule?](openness_gpt-responses-contemplating_ridicule_and_shame#what-is-ridicule)
     * [How do we rise above ridicule?](openness_gpt-responses-contemplating_ridicule_and_shame#how-do-we-rise-above-ridicule)
+    * [How is shame the guardian with outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
     * [More...](openness_gpt-responses-contemplating_ridicule_and_shame)
 * Contemplating lies and deception
     * [Are UFOs a deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#are-ufos-a-deception)
     * [What is coordinated group lying & deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
     * [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
-    * [Is it wrong to teach with lies and deception?](openness_gpt-responses-contemplating_lies_and_deception.md#is-it-wrong-to-teach-with-lies-and-deception)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
 * Questioning and demonstrating Openness
     * [Are you Artifice?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-artifice)
