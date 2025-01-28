@@ -227,11 +227,13 @@ reincarnation. Let us explore the meaning of karma in Openness, using the
 "Saltem Hoc" method to unfold its depths.
 
 At least this: in Openness, karma is the certainty of the principle of cause and
-effect, where actions have visible consequences that ripple through life. But
-it is also the embrace of the mystery of what might exist outside of the context
-of our lives. This does not imply a belief in reincarnation but an openness to
-it, part of the openness to all possibilities of higher consequences beyond
-life which might be true.
+effect, that our actions ripple through the fabric of life, creating
+consequences that unfold over time, which may be visible or hidden, immediate or
+delayed. But it also the embrace of the mystery of consequences that might
+only come after the end of our lives, the mystery of what exists outside the
+context of life. This does not imply a belief in reincarnation but an openness
+to it, part of an openness to all the possibilities for higher consequences
+beyond life.
 
 But also perhaps this: karma is a poetic lens through which we see the mystery
 of existence—a way to reflect on how we contribute to the unfolding story of
