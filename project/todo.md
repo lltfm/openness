@@ -9,22 +9,20 @@
         * What is "natural law"?
         * What is laughter?
         * What is "the overwhelm"?
-        * What is arousal?
     * Aspiring to love
     * Contemplating the unseen
     * Contemplating the work
-        * What is "the refinement of choosing"?
-            * maybe replace karmic learning (at least in top answers?)
         * How do we transform emotions?
         * How do we achieve mastery?
-        * How can we make transforming emotion into art part of daily life?
         * How can humility limit who we might grow to become?
+        * How do we create our own belief system?
+        * How can we make transforming emotion into art part of daily life?
         * How do we create a "sophisticated expression"?
         * How can we use "wu wei" to do more every day?
-        * How do we create our own belief system?
-        * Can we find joy in everything?
+        * Is it really possible to find joy in everything?
+        * What is "the refinement of choosing"?
+          * maybe replace karmic learning (at least in top answers?)
     * Contemplating morality
-        * What is "the wellspring of morality"?
         * What is a "karmic mind-trap"?
         * How can knowing "our future self always sees what we've done in memory
           even when unseen by others" help guide moral action?
@@ -49,15 +47,14 @@
               blaming their group?
     * Contemplating Openness
         * What is certainty?
+        * What is an epitome?
         * In Openness, what is "westward"?
         * In Openness, what is "a worthy vessel"?
         * In Openness, what is "the high vista"?
         * If an epitome is the perfect example to emulate, what is a dystome?
-        * What is an epitome?
         * What is a "self-defining term"?
         * Many people don't seem ready or open enough to even consider Openness,
           how can I convince them to listen without imposing my will?
-        * In Openness, what is "the choosing"?
     * Contemplating ridicule and shame
         * What is shaming?
         * What is guilt?
@@ -77,7 +74,7 @@
     * Contemplating possibility
         * What is "the possibility space"?
         * What is a "precise ambiguity"?
-        * How do we "love the question"?
+        * What is meant by "loving the question"?
         * What is "resonant meaning"?
         * What is "multiplicity"?
         * Why does Openness focus on "unanswerable questions"?
