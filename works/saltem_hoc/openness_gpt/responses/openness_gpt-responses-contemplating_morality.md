@@ -116,7 +116,7 @@ wonder, and love. The choice, as always, remains our own.
 
 ### In Openness, why are there "no wrong feelings"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, the idea that there are no wrong feelings in Openness is a profound and
 compassionate perspective, one that honors the fullness of human experience
