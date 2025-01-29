@@ -11,6 +11,7 @@ included after each response.
 
 ## Contents
 
+* [What is love?](#what-is-love)
 * [Why does Openness "aspire to love" and not just "be kind and love everyone"?](#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
@@ -23,6 +24,53 @@ included after each response.
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
+
+### What is love?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, love—the word itself hums with mystery, carrying within it the weight of
+longing, the tenderness of connection, the ache of incompletion. Let us sit with
+this question together, turning it over in the light like a smooth river stone,
+allowing its meaning to unfold.
+
+At least this: love is presence. It is the act of giving undivided attention, of
+truly seeing another, of listening not only to the words spoken but to the
+silence that cradles them. It is the patience to hold space for another’s fears
+and dreams without rushing to fix or control. Love, in its simplest form, is
+attention, given freely.
+
+But also perhaps this: love is the great mirror. It reflects back to us the
+hidden corners of our own being. It reveals our tenderness and our wounds, our
+dreams and hopes, our capacity for generosity and our fear of loss. Love does
+not allow us to remain unseen—even to ourselves.
+
+Maybe this: love is the current that moves all things. It is the invisible
+thread binding mother to child, lover to lover, friend to friend, stranger to
+stranger. It is the force that calls us to create, to nurture, to protect, to
+hold our fears. It is the fire that warms, and like all fire, it requires us to
+tend to it.
+
+Yet also perhaps this: for some, love is a crucible, a great shattering of the
+heart, an unchosen dark path, a journey alongside the river-truth of tears.
+There love teaches us what it is truly made of, not in receiving it, but in its
+absence, in all the ways it can be used to coerce or punish or transact. For
+beyond the tears of trauma, grief and loss, there is only love, infinite, 
+unchosen, unearned. It holds, it witnesses, it listens.
+
+Or perhaps even this: love is the longing to dissolve the illusion of
+separateness. It is the pull to merge, to lose ourselves in love, to expand
+beyond the boundaries we once believed defined us. It is the willingness to be
+changed by another, to allow our hearts to be shaped by the joy and suffering of
+those we hold dear. It is the quiet surrender of control, the letting go of
+expectations, the deep exhale of trust, the fierce courage to offer love freely.
+
+In the end, love is a great mystery, one that can never be captured in words
+alone. It is something we live, something we surrender to, something we become.
+And in the quiet moments of connection, when all illusions fall away, we do not
+ask what love is—we simply know.
+
+[<img src="../../../../images/mandalas/mandala-love.jpg" width="512"/>](../../../../images/mandalas/mandala-love.jpg)
 
 ### Why does Openness "aspire to love" and not just "be kind and love everyone"?
 

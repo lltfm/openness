@@ -13,6 +13,7 @@ included after each response.
 
 * [What is "the unseen"?](#what-is-the-unseen)
 * [What are emotions?](#what-are-emotions)
+* [What is love?](./openness_gpt-responses-aspiring_to_love.md#what-is-love)
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
@@ -119,6 +120,10 @@ emotions? It could encode their fluidity, depth, and interconnectedness,
 offering a visual meditation on their beauty.
 
 [<img src="../../../../images/mandalas/mandala-emotions.jpg" width="512"/>](../../../../images/mandalas/mandala-emotions.jpg)
+
+### What is love?
+
+See [here](./openness_gpt-responses-aspiring_to_love.md#what-is-love)
 
 ### What are symbols?
 

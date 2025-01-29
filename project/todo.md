@@ -11,10 +11,11 @@
         * What is "the overwhelm"?
         * What is "the terrible becoming"?
     * Aspiring to love
-        * Love: Calm focused attention. Listening to what is said. Acceptance.
-          Offering affection and closeness. Being authentic. Not hiding our true
-          selves. We come to know what Love is made of, not in receiving it, but
-          in the ways it is withheld from us, to coerce or punish or transact.
+        * What is love?
+          * Love: Calm focused attention. Listening to what is said. Acceptance.
+            Offering affection and closeness. Being authentic. Not hiding our true
+            selves. We come to know what Love is made of, not in receiving it, but
+            in the ways it is withheld from us, to coerce or punish or transact.
     * Contemplating the unseen
     * Contemplating the work
         * How do we transform emotions?
