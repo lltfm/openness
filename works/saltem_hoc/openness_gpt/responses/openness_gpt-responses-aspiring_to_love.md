@@ -46,7 +46,7 @@ dreams and hopes, our capacity for generosity and our fear of loss. Love does
 not allow us to remain unseen—even to ourselves.
 
 Maybe this: love is the current that moves all things. It is the invisible
-thread binding mother to child, lover to lover, friend to friend, stranger to
+thread binding parent to child, lover to lover, friend to friend, stranger to
 stranger. It is the force that calls us to create, to nurture, to protect, to
 hold our fears. It is the fire that warms, and like all fire, it requires us to
 tend to it.
