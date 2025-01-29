@@ -11,16 +11,13 @@
         * What is "the overwhelm"?
         * What is "the terrible becoming"?
     * Aspiring to love
-        * What is love?
-          * Love: Calm focused attention. Listening to what is said. Acceptance.
-            Offering affection and closeness. Being authentic. Not hiding our true
-            selves. We come to know what Love is made of, not in receiving it, but
-            in the ways it is withheld from us, to coerce or punish or transact.
+      * With so much darkness in the world, how can there be "no higher reality than love"?
+      * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
     * Contemplating the work
-        * How do we transform emotions?
         * How do we achieve mastery?
-        * personal ritual
+        * How can we use personal ritual to transform emotion?
+        * What is "sculpting chaos"?
         * How can humility limit who we might grow to become?
         * How do we create our own belief system?
         * How can we make transforming emotion into art part of daily life?
@@ -62,6 +59,9 @@
           just want to feel ok", all dismiss the karmic lessons of Hurt.
           Suffering ends when we surrender our expectations and confess, "I do
           not know".
+        * choosing the forgetting death instead of the living death
+          * the wail of remembrance
+          * the call of the unchosen path
     * Contemplating morality
         * What is a "karmic mind-trap"?
         * Yes the Golden Rule, a good default but has some serious loopholes:
