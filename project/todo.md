@@ -18,7 +18,7 @@
         * How do we achieve mastery?
         * How can we use personal ritual to transform emotion?
         * What is "sculpting chaos"?
-        * How can humility limit who we might grow to become?
+        * Can humility limit who we might grow to become?
         * How do we create our own belief system?
         * How can we make transforming emotion into art part of daily life?
         * How do we create a "sophisticated expression"?
