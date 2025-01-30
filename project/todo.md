@@ -44,7 +44,7 @@
         * Inculcation: internalized voices of parents, teachers, relatives,
           friends, lovers, culture, whose approval we value(d) more than our
           authentic Self-Truth. Pleasing others we avoid The Work, to discern
-          and nuture our voice above others "Why do I want this? Where did I
+          and nurture our voice above others "Why do I want this? Where did I
           learn this?"
         * Behold, The Choosing: The Living Death or The Forgetting Death? Die
           before you die or forget into a new dream? Let go of impossible
@@ -183,6 +183,9 @@
         * loss
         * exile
         * abandonment
+        * abuse
+        * trauma
+        * overwhelm
     * Compare
         * Humanism
         * Liberalism
