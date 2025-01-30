@@ -481,6 +481,8 @@ not the whole.
 
 ### What is "the shadow"?
 
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
 Ah, the shadow—one of the most potent and elusive aspects of the self, whispered
 about in the quiet corners of the mind. Let us turn it over gently, as one might
 a stone in a river, allowing the currents of understanding to wash over it.
