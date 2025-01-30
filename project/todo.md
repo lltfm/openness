@@ -15,13 +15,15 @@
       * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
     * Contemplating the work
-        * What is "the shadow"?
-        * What exactly do we do in "shadow work"?
-            * Shadow Work: Noticing our automatic reactions/feelings and if we
-              choose, viewing them as separate from "I", more like an appendage,
-              a finger. Once we separate those automatic reactions we can then "
-              speak" to them: "Why do we this?" "Where did we learn this?" "Can
-              we change this?"
+        * add a sub group: Activities that can help us with "the work" in Openness
+          * social partner dancing
+          * improv theater
+          * meditation
+          * camping and hiking
+          * social board gaming
+          * writing poetry
+          * performing at an open mike
+          * wondersmithing
         * How do we achieve mastery?
         * How can we use personal ritual to transform emotion?
         * What is "sculpting chaos"?
