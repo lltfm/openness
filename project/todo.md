@@ -15,6 +15,13 @@
       * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
     * Contemplating the work
+        * What is "the shadow"?
+        * What exactly do we do in "shadow work"?
+            * Shadow Work: Noticing our automatic reactions/feelings and if we
+              choose, viewing them as separate from "I", more like an appendage,
+              a finger. Once we separate those automatic reactions we can then "
+              speak" to them: "Why do we this?" "Where did we learn this?" "Can
+              we change this?"
         * How do we achieve mastery?
         * How can we use personal ritual to transform emotion?
         * What is "sculpting chaos"?
@@ -92,13 +99,6 @@
         * What does it mean to be "chosen" by our past and future selves?
     * Contemplating the unseen
     * Contemplating lies and deception
-        * What is "the shadow"?
-        * What is "collective shadow"?
-            * Shadow Work: Noticing our automatic reactions/feelings and if we
-              choose, viewing them as separate from "I", more like an appendage,
-              a finger. Once we separate those automatic reactions we can then "
-              speak" to them: "Why do we this?" "Where did we learn this?" "Can
-              we change this?"
         * What is "the trust fabric"?
         * What is a "dark messiah"?
         * What is self-deception?
@@ -136,6 +136,7 @@
         * What is guilt?
         * Play reveals to us the limits of our Openness
     * Contemplating blind certainty and control
+        * What is "the collective shadow"?
         * What is "the beast that creeps"?
         * Is blind certainty wrong in of itself?
         * What is manipulation?
@@ -176,12 +177,12 @@
           exploring. The Nexus is the hub of infinite Conditional Speculation: "
           If Awareness continues after death, then our choices today matter."
         * meta-truth
-        * New "Dealing with loss" section?
-            * grief
-            * suicide
-            * loss
-            * exile
-            * abandonment
+    * New "Dealing with loss" section?
+        * grief
+        * suicide
+        * loss
+        * exile
+        * abandonment
     * Compare
         * Humanism
         * Liberalism
