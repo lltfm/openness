@@ -11,19 +11,23 @@
         * What is "the overwhelm"?
         * What is "the terrible becoming"?
     * Aspiring to love
+      * What is meant by "it's not enough to be right"?
       * With so much darkness in the world, how can there be "no higher reality than love"?
       * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
     * Contemplating the work
+        * How do we grow in discernment? 
         * add a sub group: Activities that can help us with "the work" in Openness
           * social partner dancing
           * improv theater
-          * meditation
+          * daily meditation
           * camping and hiking
           * social board gaming
           * writing poetry
           * performing at an open mike
           * wondersmithing
+          * exercising outside
+          * travel and museums
         * How do we achieve mastery?
         * How can we use personal ritual to transform emotion?
         * What is "sculpting chaos"?
@@ -36,7 +40,6 @@
         * What is "the refinement of choosing"?
             * maybe replace karmic learning (at least in top answers?)
         * How can we disagree with others and still love them?
-            * It's Not Enough To Be Right
         * How do we handle grief?
         * What are "impossible expectations"?
         * personal responsibility; no one is coming Tto save us
@@ -101,6 +104,8 @@
         * What does it mean to be "chosen" by our past and future selves?
     * Contemplating the unseen
     * Contemplating lies and deception
+        * What is discernment? 
+        * Should we punish or seek retribution against people who deceive us?
         * What is "the trust fabric"?
         * What is a "dark messiah"?
         * What is self-deception?
