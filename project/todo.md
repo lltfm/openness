@@ -142,6 +142,7 @@
         * What is manipulation?
         * Mental Tyranny
         * transacting
+    * New section on authority?
     * Contemplating desire and sexuality
         * What is "the daimonic"?
         * What is arousal?

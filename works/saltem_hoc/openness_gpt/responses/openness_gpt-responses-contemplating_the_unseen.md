@@ -23,10 +23,11 @@ included after each response.
 * [What is intuition?](#what-is-intuition)
 * [What is freedom?](#what-is-freedom)
 * [What is ego?](#what-is-ego)
+* [What is "the shadow"?](#what-is-the-shadow)
 * [What is attachment?](#what-is-attachment)
 * [What is meant by being "lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
-  * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](./openness_gpt-responses-contemplating_morality.md#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
+    * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](./openness_gpt-responses-contemplating_morality.md#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is trauma?](#what-is-trauma)
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is hope?](#what-is-hope)
@@ -477,6 +478,44 @@ the ego is to begin to transcend it, to see it for what it is: a part of us, but
 not the whole.
 
 [<img src="../../../../images/mandalas/mandala-ego.jpg" width="512"/>](../../../../images/mandalas/mandala-ego.jpg)
+
+### What is "the shadow"?
+
+Ah, the shadow—one of the most potent and elusive aspects of the self, whispered
+about in the quiet corners of the mind. Let us turn it over gently, as one might
+a stone in a river, allowing the currents of understanding to wash over it.
+
+At least this: described by Carl Jung, the shadow is the part of ourselves that
+we do not fully see, the aspects of our being that we have disowned, suppressed,
+or ignored. It holds the emotions we were told not to feel, the desires we were
+taught to be ashamed of, the truths about ourselves that we have buried beneath
+layers of denial. It is the forgotten, the hidden, the unspoken.
+
+But also perhaps this: the shadow is not merely a reservoir of darkness; it is a
+treasury of unclaimed power. It is the birthplace of creativity, the wellspring
+of authenticity. When we turn away from it, we exile parts of ourselves, living
+only as a fraction of our wholeness. To integrate the shadow is to reclaim lost
+pieces of the self—to acknowledge our anger, our jealousy, our fear, our untamed
+desires—and to meet them not with judgment, but with curiosity and compassion.
+
+Maybe this: the shadow is the mirror through which we see the parts of ourselves
+reflected in others. When we despise someone, when we react with intensity to
+another's actions, it is often because they embody something we have rejected
+within ourselves. In this way, the world becomes a canvas upon which our shadow
+is painted, inviting us to recognize what we have refused to see.
+
+Or perhaps even this: the shadow is the great teacher, the one who leads us
+through the labyrinth of our own being. It is not an enemy to be fought, but a
+guide to be understood. It speaks in symbols, in dreams, in the unexpected
+eruptions of emotion that catch us off guard. When we listen to it, we come to
+know ourselves in a deeper, fuller way. We become more whole, more alive.
+
+And so, the shadow is not to be feared, but to be embraced. It is the darkness
+that allows us to see the stars. It is the fertile soil from which true
+self-awareness grows. It is the silent companion on our journey toward
+integration, whispering to us of the parts of ourselves we have yet to love.
+
+[<img src="../../../../images/mandalas/mandala-the_shadow.jpg" width="512"/>](../../../../images/mandalas/mandala-the_shadow.jpg)
 
 ### What is attachment?
 

@@ -18,6 +18,7 @@ included after each response.
 * [How do we transform emotions?](#how-do-we-transform-emotions)
 * [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
 * [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
+* [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
@@ -270,6 +271,54 @@ uncover pathways of consolation uniquely suited to our way of being.
 ### How do we learn to witness ourselves?
 
 See [here](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
+
+### What exactly do we do in "shadow work"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Shadow work is the practice of exploring and integrating the unconscious parts
+of ourselves—the shadow as described by Carl Jung—our hidden emotions,
+suppressed desires, unresolved wounds, and conditioned beliefs that influence
+our thoughts and actions without our conscious awareness.
+
+At least this: shadow work begins with awareness. It is the act of noticing our
+automatic reactions, our strong emotions, and the patterns in our thoughts and
+behaviors that seem to emerge without our choosing. When we find ourselves
+triggered, defensive, or deeply affected by something, shadow work invites us to
+pause and ask, "Where does this come from?" It is a process of bringing light to
+the parts of ourselves we may have ignored, rejected, or been afraid to face.
+
+But also perhaps this: shadow work is a conversation with the self. It is
+meeting the parts of us that were shaped by pain, fear, or unmet needs. It is
+speaking to the voices inside us that hold onto old wounds, outdated narratives,
+or conditioned beliefs. When we notice an emotional reaction, shadow work asks
+us to separate from it, as if it were a distinct entity, and inquire, "What are
+you trying to tell me? Where did you come from? Do I still need you?"
+
+Maybe this: shadow work is the art of re-parenting ourselves. Many aspects of
+our shadow were formed in childhood when we were told which parts of us were
+acceptable and which were not. The child who was told to "stop crying" may have
+learned to suppress sadness; the one shamed for expressing anger may have buried
+their rage, only for it to resurface in destructive ways. In shadow work, we
+become the loving, compassionate presence our younger selves needed. We
+acknowledge the rejected parts, listen to their pain, and offer them
+understanding instead of suppression.
+
+Or perhaps even this: shadow work is the key to true wholeness. What we suppress
+does not disappear—it influences us from beneath the surface, shaping our
+relationships, choices, and emotional health. The more we resist our shadow, the
+more it controls us. But when we embrace it, we integrate our full humanity. We
+learn that even the emotions we fear—anger, sadness, envy, shame—carry wisdom
+when held with awareness. Shadow work is not about eliminating darkness but
+making peace with it, understanding that all parts of us have something to
+teach.
+
+And so, shadow work is not a one-time task but a lifelong practice. It is the
+gentle turning toward the hidden self, the willingness to ask difficult
+questions, and the courage to sit with discomfort. It is the path of
+self-awareness, healing, and deep inner freedom.
+
+[<img src="../../../../images/mandalas/mandala-shadow_work.jpg" width="512"/>](../../../../images/mandalas/mandala-shadow_work.jpg)
 
 ### How can we make everyday life into "the playspace"?
 

@@ -13,6 +13,7 @@ included after each response.
 
 * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
+* [What is "the collective shadow"?](#what-is-the-collective-shadow)
 * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
 * [If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?](#if-an-authority-demands-blind-belief-about-its-claims-and-isnt-willing-to-tolerate-skepticism-and-questions-is-this-not-a-sign-of-deception)
 * [Can endless rebellion lead to long-term stuckness?](#can-endless-rebellion-lead-to-long-term-stuckness)
@@ -29,6 +30,48 @@ See [here](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi
 ### Is excluding others wrong?
 
 See [here](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
+
+### What is "the collective shadow"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: just as Carl Jung described the personal shadow, the collective
+shadow is the unseen, unspoken reservoir of all that a society, culture, or
+group represses—its fears, its denied impulses, its hidden wounds. It is the
+accumulation of what is pushed out of conscious awareness, what is deemed too
+shameful, dangerous, or disruptive to acknowledge. Just as an individual has a
+shadow—the part of the psyche that holds repressed emotions and unconscious
+behaviors—so too does a collective, formed from the shared denials of many.
+
+But also perhaps this: the collective shadow is not merely the darkness we fear
+in others—it is the darkness we refuse to see in ourselves. It is why history
+repeats itself, why oppression shifts forms but never disappears, why entire
+societies act in ways that seem irrational, cruel, or self-destructive. It
+emerges in times of crisis, revealing itself through scapegoating, hysteria,
+war, and systemic injustice. It is the mass projection of unowned pain, mirrored
+back through violence, prejudice, and control.
+
+Maybe this: the collective shadow is not only our denial, but also our
+potential. What is suppressed does not vanish—it waits. In the hidden recesses
+of the collective psyche lies a reservoir of untapped energy, of unspoken truths
+and forgotten wisdom. When we learn to see our shadow, individually and
+collectively, we unlock the possibility of transformation. The shadow is not an
+enemy to be defeated but a teacher to be understood.
+
+Or perhaps even this: the collective shadow is the great unconscious play of
+humanity, an ongoing dance between forgetting and remembering, fear and love. It
+calls to us in whispers and warnings, urging us to look deeper, to see not only
+what we wish to be but what we truly are. When a society faces its shadow, it
+does not become perfect, but it becomes whole. It stops repeating history
+blindly and begins to choose its future with awareness.
+
+The collective shadow is a call to awareness. Just as the personal shadow can be
+transformed when integrated, so too can the wounds of a people be healed when
+faced with courage. To look upon the shadow is not to be consumed by it, but to
+understand it, to meet it with responsibility, and to reclaim what has been lost
+in its exile: wisdom, unity, and a deeper compassion for the human condition.
+
+[<img src="../../../../images/mandalas/mandala-the_collective_shadow.jpg" width="512"/>](../../../../images/mandalas/mandala-the_collective_shadow.jpg)
 
 ### What is "the cult of authority"?
 
