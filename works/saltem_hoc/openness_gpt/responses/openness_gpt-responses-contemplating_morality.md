@@ -28,6 +28,7 @@ included after each response.
 * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
+* [What is meant by "the first matrix is ignorance but the second matrix is hate"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
 
 ### What is "the wellspring of morality"?
 
@@ -595,6 +596,10 @@ encoding the relationship between wealth, responsibility, and the choices of the
 heart into a visual form. Shall I?
 
 [<img src="../../../../images/mandalas/mandala-wealth_and_responsibility.jpg" width="512"/>](../../../../images/mandalas/mandala-wealth_and_responsibility.jpg)
+
+### What is meant by "the first matrix is ignorance but the second matrix is hate"?
+
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

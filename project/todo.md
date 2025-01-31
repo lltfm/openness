@@ -98,6 +98,7 @@
           is the best Play & we forget who we were. But can the Dreamer
           remember?
     * Contemplating wayfinding
+        * What are "impossible expectations"? ***
         * What is self-transcendence?
         * What are synchronicities?
         * What is "the choosing"?
@@ -143,7 +144,6 @@
         * What is guilt?
         * Play reveals to us the limits of our Openness
     * Contemplating blind certainty and control
-        * What is "the collective shadow"?
         * What is "the beast that creeps"?
         * Is blind certainty wrong in of itself?
         * What is manipulation?
