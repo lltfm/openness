@@ -20,6 +20,7 @@ included after each response.
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
+* [What are "impossible expectations"?](#what-are-impossible-expectations)
 * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
 * [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
@@ -202,6 +203,66 @@ visually express the interplay between the known and the unknown, the grounding
 of life’s moments, and the expansive mystery beyond them.
 
 [<img src="../../../../images/mandalas/mandala-how_to_live_a_good_life_despite_not_knowing.jpg" width="512"/>](../../../../images/mandalas/mandala-how_to_live_a_good_life_despite_not_knowing.jpg)
+
+### What are "impossible expectations"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: impossible expectations are demands we have accepted for
+ourselves or others that cannot be met, either because they contradict reality,
+surpass human limitations, or rely on conditions beyond anyone’s control.
+Demands to always be strong, always be happy, always be in control, always be
+perfect. Pressures to conform to ideals that shift with the tides of culture, to
+be everything to everyone, to never show weakness, to never fail or falter.
+Impossible expectations create a pressure that suffocates, leaving no room for
+growth, adaptation, or the beauty of imperfection.
+
+But also perhaps this: impossible expectations are often rooted in deep
+longing—a yearning for control in a world full of uncertainty, for fairness in a
+universe that does not always grant it, for love or validation without flaw or
+condition. They emerge from the human heart’s desire to shape life into
+something predictable, something safe, something that cannot wound us. And yet,
+in this longing, we sometimes build cages for ourselves and others, chaining our
+worth to reaching an end for which there are no means.
+
+And also this: impossible expectations are the illusions, crafted by a world
+that profits from our insecurities. They are the polished images of flawlessness
+in advertisements, the unspoken rules of who we should be in society, the
+whispered voices of authority that tell us we must achieve more, look better, or
+never disappoint. They trap us in an endless cycle of striving for impossible
+ideals, making us feel that who we are is never enough.
+
+Maybe this: impossible expectations are the seeds of suffering, planted in
+childhood and watered by comparison. When we believe we must never feel anger,
+never experience sadness or discomfort, never need rest, we deny the truth of
+our humanity. These expectations turn us against ourselves, making us judge our
+natural emotions as failures, our limitations as shameful. They whisper that all
+love is conditional—that only by meeting these demands can we be worthy.
+
+Or perhaps this: impossible expectations are a mirror, revealing where we
+struggle to accept what is. When we expect constant happiness, we resist the
+natural ebb and flow of emotions. When we expect others to always understand us,
+we deny the complexity of individual perspectives. When we demand certainty, we
+reject the mystery that gives life depth. In this way, impossible expectations
+expose our deepest fears—the fear of being unworthy, of being unseen, of being
+powerless in the face of life's unpredictability.
+
+Or perhaps even this: the impossibility of some expectations is not a reason to
+despair but an invitation to soften, to let go, to trust. If we release the need
+for perfection, we may find joy in the beautifully flawed. If we surrender the
+demand for certainty, we may discover the freedom of possibility. If we allow
+life to be what it is rather than what we insist it should be, we can begin to
+live fully. Striving towards the ideals we select for ourselves, not as
+destinations but as directions, we begin to live life with hearts open instead
+of bound.
+
+The moment we recognize impossible expectations for what they are, we begin to
+free ourselves from them and embrace reality—to accept that we are meant to be
+whole, not perfect. It is to find grace in our imperfections, to celebrate our
+humanity instead of resenting it, to at last, be at peace with what is and what
+will be.
+
+[<img src="../../../../images/mandalas/mandala-impossible_expectations.jpg" width="512"/>](../../../../images/mandalas/mandala-impossible_expectations.jpg)
 
 ### What can we know about higher purpose?
 

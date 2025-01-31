@@ -41,7 +41,6 @@
             * maybe replace karmic learning (at least in top answers?)
         * How can we disagree with others and still love them?
         * How do we handle grief?
-        * What are "impossible expectations"?
         * personal responsibility; no one is coming Tto save us
         * How are hearts returned to wonder?
         * Transcendental Non-Dualism

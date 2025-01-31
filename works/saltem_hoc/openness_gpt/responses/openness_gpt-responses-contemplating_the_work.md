@@ -19,6 +19,7 @@ included after each response.
 * [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
 * [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
 * [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
+* [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
@@ -319,6 +320,10 @@ questions, and the courage to sit with discomfort. It is the path of
 self-awareness, healing, and deep inner freedom.
 
 [<img src="../../../../images/mandalas/mandala-shadow_work.jpg" width="512"/>](../../../../images/mandalas/mandala-shadow_work.jpg)
+
+### What are "impossible expectations"?
+
+See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
 
 ### How can we make everyday life into "the playspace"?
 
