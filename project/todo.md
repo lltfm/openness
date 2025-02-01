@@ -11,7 +11,6 @@
         * What is "the overwhelm"?
         * What is "the terrible becoming"?
     * Aspiring to love
-      * What is meant by "it's not enough to be right"?
       * With so much darkness in the world, how can there be "no higher reality than love"?
       * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
@@ -74,6 +73,7 @@
           * the wail of remembrance
           * the call of the unchosen path
     * Contemplating morality
+        * In Openness, what is hate? 
         * What is a "karmic mind-trap"?
         * Yes the Golden Rule, a good default but has some serious loopholes:
           What if you didn't mind when it was done to you but other people do?

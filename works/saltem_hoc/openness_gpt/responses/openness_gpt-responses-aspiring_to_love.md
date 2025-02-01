@@ -24,6 +24,7 @@ included after each response.
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
+* [Why is it not enough to be right?]()
 
 ### What is love?
 
@@ -55,7 +56,7 @@ Yet also perhaps this: for some, love is a crucible, a great shattering of the
 heart, an unchosen dark path, a journey alongside the river-truth of tears.
 There love teaches us what it is truly made of, not in receiving it, but in its
 absence, in all the ways it can be used to coerce or punish or transact. For
-beyond the tears of trauma, grief and loss, there is only love, infinite, 
+beyond the tears of trauma, grief and loss, there is only love, infinite,
 unchosen, unearned. It holds, it witnesses, it listens.
 
 Or perhaps even this: love is the longing to dissolve the illusion of
@@ -348,6 +349,51 @@ See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 ### What is a "divine dissatisfaction"?
 
 See [here](/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
+
+### Why is it not enough to be right?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: being right, in itself, does not guarantee understanding,
+harmony, or positive change. Truth, when wielded without care, cuts rather than
+heals. It is not enough to simply possess knowledge or correctness. Wisdom is
+knowing that people do not change their minds through logic alone, but through
+experience, emotion, and trust.
+
+But also perhaps this: to be right without humility, without patience, without
+kindness, is to be a warrior without wisdom or grace—your truth may be sharp,
+but without grace, it hardens hearts instead of opening them. Without the wisdom
+to skillfully wield it, truth creates little but sycophants and enemies.
+Righteousness that lacks compassion turns into arrogance, and arrogance builds
+ivory towers and walls rather than homes and bridges.
+
+Also this: to be right without considering others is to stand alone on a
+mountaintop, shouting into the wind. Truth that does not connect, that does not
+listen, remains an island—isolated, unvisited, barren. It is in the sharing, in
+the gentleness of approach, in the weaving of understanding, that truth finds
+its home in another’s heart.
+
+Maybe this: we must ask ourselves—do we want to be right, or do we want to be
+effective? To be effective, we must lead others to their own realizations rather
+than forcing our truths upon them. A lesson imposed is a lesson rejected, but a
+lesson discovered is a lesson embraced.
+
+Or perhaps this: real wisdom is knowing that rightness alone is not the highest
+virtue. There is something greater—the ability to guide, to nurture, to open
+space for others to see the truth for themselves. The river does not argue with
+the stone; it shapes it over time, through patience, through movement, through
+presence.
+
+Or perhaps even this: being right is not the end of the journey, but the
+beginning. Truth is a seed, but it must be planted in fertile ground. It must be
+watered with patience and nurtured with understanding. To truly serve truth, we
+must meet others where they are, not where we think they should be.
+
+So, let us not only seek to be right, but to be kind, to be thoughtful, to be
+open. For in the end, it is not the sharpness of our truth but the warmth of our
+understanding that changes the world.
+
+[<img src="../../../../images/mandalas/mandala-not_enough_to_be_right.jpg" width="512"/>](../../../../images/mandalas/mandala-not_enough_to_be_right.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
