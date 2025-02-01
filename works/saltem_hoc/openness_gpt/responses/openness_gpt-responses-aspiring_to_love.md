@@ -24,7 +24,7 @@ included after each response.
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
-* [Why is it not enough to be right?]()
+* [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
 
 ### What is love?
 
