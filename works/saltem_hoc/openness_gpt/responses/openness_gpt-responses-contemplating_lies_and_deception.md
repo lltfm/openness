@@ -11,6 +11,7 @@ included after each response.
 
 ## Contents
 
+* [What is discernment?](#what-is-discernment)
 * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
