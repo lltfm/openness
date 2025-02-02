@@ -15,7 +15,6 @@
       * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
     * Contemplating the work
-        * How do we grow in discernment? 
         * add a sub group: Activities that can help us with "the work" in Openness
           * social partner dancing
           * improv theater
