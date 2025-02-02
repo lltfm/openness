@@ -20,7 +20,7 @@ included after each response.
 * [What is karma?](#what-is-karma)
     * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is "karmic learning"?](#what-is-karmic-learning)
-* [What is discernment?](#what-is-discernment)
+* [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)

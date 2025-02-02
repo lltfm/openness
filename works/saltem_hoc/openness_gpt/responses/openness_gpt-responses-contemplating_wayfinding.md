@@ -109,6 +109,14 @@ shape it.
 
 [<img src="../../../../images/mandalas/mandala-wayfinding.jpg" width="512"/>](../../../../images/mandalas/mandala-wayfinding.jpg)
 
+### Who chooses the planks of the Ship of Self?
+
+See [here](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
+
+### What is discernment?
+
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
+
 ### When is more wealth not more responsibility?
 
 See [here](./openness_gpt-responses-contemplating_morality.md#when-is-more-wealth-not-more-responsibility)
