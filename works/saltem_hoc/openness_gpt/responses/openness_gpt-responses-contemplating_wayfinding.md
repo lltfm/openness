@@ -14,6 +14,7 @@ included after each response.
 * [What is the purpose of life?](#what-is-the-purpose-of-life)
 * [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
 * [Who chooses the planks of the Ship of Self?](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
+* [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
 * [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system)
 * [What is the "higher self"?](#what-is-the-higher-self)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)

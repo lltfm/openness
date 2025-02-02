@@ -20,7 +20,7 @@ included after each response.
 * [What is karma?](#what-is-karma)
     * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is "karmic learning"?](#what-is-karmic-learning)
-* [What is discernment"?]()
+* [What is discernment?](#what-is-discernment)
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
 * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
@@ -361,50 +361,7 @@ fully with the mystery of life.
 
 ### What is discernment?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Here is a reflection on discernment, offered through the Saltem Hoc method:
-
-At least this: discernment is the quiet art of seeing clearly. It is the inner
-compass that helps us distinguish between what appears true and what truly is,
-between the noise of the world and the voice within. It is not simply the act of
-choosing but the capacity to perceive the subtle threads that weave meaning
-beneath the surface of things. Like a musician tuning an instrument, discernment
-attunes the heart and mind to the resonance of authenticity.
-
-But also perhaps this: discernment is the ability to sit in the ambiguity of the
-unknown and feel which direction carries the weight of authenticity. It does not
-rush to judgment; instead, it waits, observing how things unfold, how patterns
-emerge, how intentions reveal themselves over time. It is the patience to sit
-with complexity, to allow contradictions to breathe, and to hold questions as
-gifts rather than burdens.
-
-Maybe this: discernment is the dance between intuition and wisdom. It is less
-about finding the “right” answer and more about sensing what aligns with the
-deeper current of truth flowing through our lives. It is a form of wisdom that
-trusts the quiet spaces between thoughts, where deeper understanding often
-whispers. It is the inner compass that doesn’t demand certainty but senses
-alignment.
-
-Or perhaps this: discernment is less about having answers and more about asking
-the right questions. It’s the courage to doubt even our most cherished beliefs,
-to challenge our assumptions, and to remain open to new insights. It’s not a
-rigid skill but a living process—dynamic, fluid, evolving as we grow. Like
-tasting a complex dish, discernment notices the hidden spices, the balance of
-flavors, the subtle notes that others might overlook.
-
-Or perhaps even this: true discernment is an act of love—love for truth, for
-clarity, and for the well-being of oneself and others. It asks us to be honest
-with ourselves, to recognize when ego, fear, or desire cloud our vision. It is
-the gentle refusal to be deceived by appearances, the courage to look beyond the
-comforting mask of easy answers. It’s recognizing the wonder in the mundane, the
-potential within the flawed, the lessons hidden in challenges.
-
-In this way, discernment is not a destination but a practice, a continual
-refining of our ability to see with both the eyes of the mind and the eyes of
-the heart.
-
-[<img src="../../../../images/mandalas/mandala-discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-discernment.jpg)
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
 
 ### What is the "apotheosis of desire"?
 
