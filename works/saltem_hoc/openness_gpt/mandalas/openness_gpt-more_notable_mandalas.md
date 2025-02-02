@@ -4,6 +4,7 @@ questions to express its answers visually beyond words.
 
 > Note: click on a mandala to view the full resolution image
 
+* [What is discernment?](#what-is-discernment)
 * [What is "the Source of Life & Awareness"?](#what-is-the-source-of-life--awareness)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is the ego?](#what-is-the-ego)
