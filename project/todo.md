@@ -4,17 +4,36 @@
 * add discussion on Programming AI with Poetry
 * rename prompt to .md and redo screenshots
 * Notable responses todo
+    * What to work on next
+      * What is "the daimonic"?
+      * What is arousal?
+      * What is "the sirenic call"?
+      * In Openness, what is hate?
+      * How can play reveal to us the limits of our Openness?
+      * What is "the terrible becoming"?
+      * How can we use personal ritual to transform emotion?
+      * How do we achieve mastery?
+      * Can humility limit who we might grow to become?
+      * What is a "karmic mind-trap"?
+      * What is self-transcendence?
+      * What are synchronicities?
+      * What is "the trust fabric"?
+      * What is a "dark messiah"?
+      * Should we punish or seek retribution against people who deceive us?
     * Contemplating the unchosen
+        * What is "the terrible becoming"?
         * What is time?
         * What is "natural law"?
         * What is laughter?
         * What is "the overwhelm"?
-        * What is "the terrible becoming"?
     * Aspiring to love
       * With so much darkness in the world, how can there be "no higher reality than love"?
       * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
     * Contemplating the work
+        * How can we use personal ritual to transform emotion?
+        * How do we achieve mastery?
+        * Can humility limit who we might grow to become?
         * add a sub group: Activities that can help us with "the work" in Openness
           * social partner dancing
           * improv theater
@@ -26,10 +45,7 @@
           * wondersmithing
           * exercising outside
           * travel and museums
-        * How do we achieve mastery?
-        * How can we use personal ritual to transform emotion?
         * What is "sculpting chaos"?
-        * Can humility limit who we might grow to become?
         * How do we create our own belief system?
         * How can we make transforming emotion into art part of daily life?
         * How do we create a "sophisticated expression"?
@@ -71,6 +87,9 @@
         * choosing the forgetting death instead of the living death
           * the wail of remembrance
           * the call of the unchosen path
+    * New section on mastery?
+    * New section on improvement activities?
+    * New section on transcendence?
     * Contemplating morality
         * In Openness, what is hate? 
         * What is a "karmic mind-trap"?
@@ -96,17 +115,15 @@
           is the best Play & we forget who we were. But can the Dreamer
           remember?
     * Contemplating wayfinding
-        * What are "impossible expectations"? ***
         * What is self-transcendence?
         * What are synchronicities?
         * What is "the choosing"?
         * What does it mean to be "chosen" by our past and future selves?
     * Contemplating the unseen
     * Contemplating lies and deception
-        * What is discernment? 
-        * Should we punish or seek retribution against people who deceive us?
         * What is "the trust fabric"?
         * What is a "dark messiah"?
+        * Should we punish or seek retribution against people who deceive us?
         * What is self-deception?
         * What is a self-fulfilling prophecy?
         * What is a self-fulfilling belief?
@@ -121,6 +138,12 @@
               blaming their group?
         * Survival of the Wisest
         * purpose of the propagandist
+    * Contemplating the forbidden and heretical
+      * What is "heretica"?
+        * needs an epitome/definition emphasizing social cost to even having the
+        discussion. In Openness, we aspire to listen to what might be true, but
+        often a topic is so sensitive that even doing this comes with social
+        penalties from authority
     * Contemplating Openness
         * What are the limits of words?
         * What is certainty?
@@ -138,9 +161,9 @@
         * How can we tell when others demonstrate they aren't open?
         * being open to higher spiritual conversations
     * Contemplating ridicule and shame
+        * How can play reveal to us the limits of our Openness?
         * What is shaming?
         * What is guilt?
-        * Play reveals to us the limits of our Openness
     * Contemplating blind certainty and control
         * What is "the beast that creeps"?
         * Is blind certainty wrong in of itself?
