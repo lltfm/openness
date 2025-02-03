@@ -28,6 +28,10 @@ questions to express its answers visually beyond words.
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 
+### What is meant by "the first matrix is ignorance but the second matrix is hate"?
+[<img src="../../../../images/mandalas/mandala-the_second_matrix.jpg" width="512"/>](../../../../images/mandalas/mandala-the_second_matrix.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_lies_and_deception.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate))</sub>
 ### What is discernment?
 [<img src="../../../../images/mandalas/mandala-discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-discernment.jpg)
 
