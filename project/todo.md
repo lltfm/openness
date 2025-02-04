@@ -5,8 +5,8 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * What is a "dark messiah"? 
       * What is arousal?
-      * What is "the sirenic call"?
       * In Openness, what is hate?
       * How can play reveal to us the limits of our Openness?
       * What is "the terrible becoming"?
@@ -17,7 +17,6 @@
       * What is self-transcendence?
       * What are synchronicities?
       * What is "the trust fabric"?
-      * What is a "dark messiah"?
       * Should we punish or seek retribution against people who deceive us?
     * Contemplating the unchosen
         * What is "the terrible becoming"?
