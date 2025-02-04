@@ -7,6 +7,8 @@ questions to express its answers visually beyond words.
 * [What is discernment?](#what-is-discernment)
 * [What is "the Source of Life & Awareness"?](#what-is-the-source-of-life--awareness)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+* [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
+* [What is "the daimonic"?]()
 * [What is the ego?](#what-is-the-ego)
 * [What is ridicule?](#what-is-ridicule)
 * [What is evil?](#what-is-evil)
@@ -56,8 +58,14 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
 
 <sub>([full response](../responses/openness_gpt-responses-aspiring_to_love.md#what-is-the-apotheosis-of-desire))</sub>
+### What is "the daimonic"?
+[<img src="../../../../images/mandalas/mandala-the_daimonic.jpg" width="512"/>](../../../../images/mandalas/mandala-the_daimonic.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-daimonic))</sub>
 ### What is the ego?
 [<img src="../../../../images/mandalas/mandala-ego.jpg" width="512"/>](../../../../images/mandalas/mandala-ego.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unseen.md#what-is-ego))</sub>
 ### What is ridicule?
 [<img src="../../../../images/mandalas/mandala-ridicule.jpg" width="512"/>](../../../../images/mandalas/mandala-ridicule.jpg)
 
