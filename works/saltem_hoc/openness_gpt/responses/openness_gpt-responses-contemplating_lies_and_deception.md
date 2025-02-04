@@ -21,6 +21,7 @@ included after each response.
 * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
+* [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
 
 ### What is discernment?
@@ -398,6 +399,47 @@ To teach is not to claim omniscience but to walk alongside the learner, pointing
 out paths while honoring their freedom to choose.
 
 [<img src="../../../../images/mandalas/mandala-teaching_with_lies.jpg" width="512"/>](../../../../images/mandalas/mandala-teaching_with_lies.jpg)
+
+### Should we punish or seek retribution against people who deceive us?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: when we are deceived, there is a natural urge to seek
+retribution, to restore balance, to ensure that deception does not thrive
+unchecked. Justice, in its simplest form, is the attempt to correct a wrong, to
+make right what has been twisted. Without some form of accountability, deceit
+can spread, eroding trust and dismantling the fabric of relationships and
+societies.
+
+But also perhaps this: punishment often mirrors the harm it seeks to address. If
+deception is rooted in manipulation, fear, or desperation, responding with
+vengeance may only deepen the cycle of harm. Punishment, when driven by anger
+alone, may not restore what was lost, nor teach what must be learned. Instead of
+merely reacting, we might ask: what response truly prevents further deception?
+What fosters integrity?
+
+Maybe this: rather than retribution, the most powerful response to deception is
+illumination. To expose the truth, to teach discernment, to cultivate
+wisdom—these may do more to weaken deceit than any act of punishment. Deception
+relies on darkness, on ignorance, on the willingness of others to believe
+without question. When we strengthen awareness and encourage questioning, we
+make deception more difficult to sustain.
+
+Or perhaps even this: deception, at its core, reveals something about both the
+deceiver and the deceived. Those who deceive often do so out of fear, greed, or
+a misguided sense of necessity. And those who are deceived—what within us
+allowed the deception? Were we too trusting, too unquestioning, too eager to
+hear what we wished to be true? If we focus only on punishing the deceiver, we
+may overlook the lesson within ourselves. What if, instead of retribution, we
+focused on transformation—both of ourselves and of those who deceive?
+
+So then, the question becomes not whether to punish, but how best to respond.
+Should we seek revenge, or should we seek to make deception less powerful?
+Should we seek to harm, or should we seek to heal? Justice need not always wear
+the face of punishment; sometimes, its highest form is understanding,
+correction, and wisdom.
+
+[<img src="../../../../images/mandalas/mandala-should_we_punish_deceivers.jpg" width="512"/>](../../../../images/mandalas/mandala-should_we_punish_deceivers.jpg)
 
 ### What is meant by "the first matrix is ignorance but the second matrix is hate"?
 
