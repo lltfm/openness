@@ -106,6 +106,8 @@ questions to express its answers visually beyond words.
 <sub>([full response](../responses/openness_gpt-responses-contemplating_the_unseen.md#what-is-magic))</sub>
 ### What are signs?
 [<img src="../../../../images/mandalas/mandala-signs.jpg" width="512"/>](../../../../images/mandalas/mandala-signs.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_the_unseen.md#what-are-signs))</sub>
 ### What are symbols?
 [<img src="../../../../images/mandalas/mandala-symbols.jpg" width="512"/>](../../../../images/mandalas/mandala-symbols.jpg)
 
