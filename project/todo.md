@@ -5,7 +5,6 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * What is "the daimonic"?
       * What is arousal?
       * What is "the sirenic call"?
       * In Openness, what is hate?

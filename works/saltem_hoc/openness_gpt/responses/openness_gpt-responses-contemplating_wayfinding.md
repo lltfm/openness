@@ -19,6 +19,7 @@ included after each response.
 * [What is the "higher self"?](#what-is-the-higher-self)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
+* [What is "the daimonic"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-daimonic)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
 * [What are "impossible expectations"?](#what-are-impossible-expectations)
