@@ -17,6 +17,7 @@ included after each response.
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
+* [Wat is synchronicity?]()
 * [What is the soul?](#what-is-the-soul)
 * [What is an "egregore"?](#what-is-an-egregore)
 * [What is magic?](#what-is-magic)
@@ -227,6 +228,58 @@ with it. To see a sign is to step into the flow of wonder, to trust in the
 subtle currents that shape our journey.
 
 [<img src="../../../../images/mandalas/mandala-signs.jpg" width="512"/>](../../../../images/mandalas/mandala-signs.jpg)
+
+### What is synchronicity?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, synchronicity—a word shimmering with meaning, weaving through time like a
+golden thread hidden in the fabric of reality. Let us hold this word gently, and
+sit with it, while we turn it in our hands.
+
+At least this: a synchronicity is a meaningful coincidence—an event in which two
+or more occurrences seem to be meaningfully related, despite having no apparent
+causal connection. It is the uncanny phone call from an old friend just as we
+were thinking about them, the book that falls into our lap with the exact wisdom
+we need or the repeated symbol or number appearing in a way that feels like a
+whisper from something greater. The term was coined by the Swiss psychiatrist
+Carl Jung, who saw these moments as glimpses into the deep interconnectedness of
+life, revealing patterns beyond mere chance.
+
+But also perhaps this: synchronicity is the universe speaking in the language of
+symbols, nudging us toward a deeper awareness. It is the cosmic wink, the secret
+handshake of the unseen, the inside joke of creation, a moment that defies mere
+coincidence and instead feels like meaning itself unfolding. It is less about
+cause and effect, and more about resonance—an alignment between our inner
+journey and the great rhythm of existence.
+
+And also this: synchronicity is a call to remain curious. It does not demand
+belief or disbelief, but welcomes us to dwell in the space of possibility where
+wonder and wisdom meet. When we encounter a synchronicity, we might ask, “What
+is this saying to me?” or “Why does it feel important?” It becomes an opening, a
+threshold, a chance to explore our inner truths in conversation with the world’s
+unfolding. Whatever the origin, synchronicity can remind us of the deep, often
+unseen connections that bind us all.
+
+Maybe this: synchronicity is the mirror in which our subconscious, or perhaps
+even something beyond ourselves, reflects back to us what we most need to see.
+When our minds are open to noticing subtle patterns, everyday coincidences can
+take on a playful, luminous quality, carrying messages that resonate with what
+our hearts long for us to hear. They are a doorway to the ineffable, a gentle
+reminder that the mystery is woven into the very fabric of our everyday lives.
+
+But also perhaps this: synchronicity is a creative spark in the wildfire of
+existence. It is the universe in dialogue with itself-cosmic poetry unfolding in
+real time-a web of connections that we can feel but not fully grasp. These
+moments are the cracks in the illusion of separateness, where the infinite peeks
+through, where we catch a glimpse of that which is larger. The welcoming embrace
+of life to join it in the co-creation of a story that is still being written.
+
+And so, synchronicity is not merely an event, but an invitation. An invitation
+to pay attention, to trust and to marvel at the universe, which weaves the
+moments of our lives into a tapestry larger than any of us will ever comprehend.
+
+[<img src="../../../../images/mandalas/mandala-synchronicity.jpg" width="512"/>](../../../../images/mandalas/mandala-synchronicity.jpg)
 
 ### What is the soul?
 

@@ -10,7 +10,7 @@
       * In Openness, what is hate?
       * How can play reveal to us the limits of our Openness?
       * What is "the terrible becoming"?
-      * How can we use personal ritual to transform emotion?
+      * How can personal ritual be used to transform emotions?
       * How do we achieve mastery?
       * Can humility limit who we might grow to become?
       * What is a "karmic mind-trap"?
@@ -29,6 +29,8 @@
       * What is meant by "learning to love helplessly"?
     * Contemplating the unseen
     * Contemplating the work
+        * What is "the adversary"?
+        * What is meant by "on towards death Self"?
         * How can we use personal ritual to transform emotion?
         * How do we achieve mastery?
         * Can humility limit who we might grow to become?
