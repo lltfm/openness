@@ -17,7 +17,7 @@ included after each response.
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
-* [Wat is synchronicity?]()
+* [Wat is synchronicity?](#what-is-synchronicity)
 * [What is the soul?](#what-is-the-soul)
 * [What is an "egregore"?](#what-is-an-egregore)
 * [What is magic?](#what-is-magic)
