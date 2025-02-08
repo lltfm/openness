@@ -25,8 +25,7 @@ included after each response.
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
 * [How can we experience "duende"?](#how-can-we-experience-duende)
 * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
-* [How do we achieve mastery?]()
-*
+* [How do we achieve mastery?](#how-do-we-achieve-mastery)
 
 ### In Openness, what is "the work"?
 
