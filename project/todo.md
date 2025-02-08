@@ -6,6 +6,7 @@
 * Notable responses todo
     * What to work on next
       * What is a "dark messiah"? 
+      * What is a "karmic mind-trap"?
       * What is arousal?
       * In Openness, what is hate?
       * How can play reveal to us the limits of our Openness?
@@ -15,7 +16,6 @@
       * Can humility limit who we might grow to become?
       * What is a "karmic mind-trap"?
       * What is self-transcendence?
-      * What are synchronicities?
       * What is "the trust fabric"?
       * Should we punish or seek retribution against people who deceive us?
     * Contemplating the unchosen
