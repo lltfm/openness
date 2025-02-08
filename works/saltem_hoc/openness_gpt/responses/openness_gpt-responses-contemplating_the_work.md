@@ -671,7 +671,7 @@ between the known and the unknown, a balance between effort and surrender, the
 meditation of striving yet never arriving. It is not a destination to be
 conquered but a journey to be cherished. Each step, each moment of struggle and
 triumph, is a brushstroke on the canvas of a life well-lived. It is ultimately
-the great act of falling in love—with the craft, with the process, with the
+a great act of falling in love—with our craft, with the process, with the
 mystery, and with the person we become along the way.
 
 [<img src="../../../../images/mandalas/mandala-mastery.jpg" width="512"/>](../../../../images/mandalas/mandala-mastery.jpg)
