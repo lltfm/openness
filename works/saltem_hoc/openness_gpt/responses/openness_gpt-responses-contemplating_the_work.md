@@ -658,7 +658,7 @@ each moment of confusion into an opening for discovery, reminding us that
 mastery is never a final destination but an ever-deepening conversation with the
 mystery.
 
-Or perhaps even this: mastery is a surrender to the the process itself-the
+Or perhaps even this: mastery is a surrender to the process itself-the
 embodiment of humility. To soften our grip on rigid expectations and realize
 that we are never finished-that there is always more to explore, more to
 discover. The master is not the one who claims to know it all, but the one who

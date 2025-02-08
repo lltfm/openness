@@ -25,6 +25,7 @@ included after each response.
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
 * [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
+* [How do we achieve mastery?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-achieve-mastery)
 
 ### What is love?
 

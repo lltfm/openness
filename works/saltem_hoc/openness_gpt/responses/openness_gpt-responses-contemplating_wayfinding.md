@@ -28,6 +28,7 @@ included after each response.
 * [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+* [How do we achieve mastery](./openness_gpt-responses-contemplating_the_work.md#how-do-we-achieve-mastery)
 
 ### What is the purpose of life?
 
@@ -453,6 +454,10 @@ both the pain of complicity and the joy of possibility, trusting that each small
 act of goodness matters, even if we cannot see how.
 
 [<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
+
+### How do we achieve mastery?
+
+See [here](./openness_gpt-responses-contemplating_the_work.md#how-do-we-achieve-mastery)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
