@@ -22,7 +22,7 @@ included after each response.
 * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-* [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?]()
+* [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
 
 ### What is "the libido dominandi"?
 
