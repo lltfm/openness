@@ -22,6 +22,7 @@ included after each response.
 * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+* [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?]()
 
 ### What is "the libido dominandi"?
 
@@ -406,6 +407,47 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 [<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+
+### Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: A latent cultural eschaton—a collective expectation of an
+impending end or transformation of the world—can serve as a powerful mechanism
+of control. When people believe a great crisis or revelation is near, they may
+surrender their autonomy to those who claim to have the knowledge or power to
+guide them. Fear of catastrophe or the promise of salvation can be used to
+justify extreme measures, enforce obedience, and shape behavior in ways that
+serve political, ideological, or religious agendas.
+
+But also perhaps this: The use of eschatological narratives to manipulate
+societies is not always explicit or malevolent. Sometimes, it arises
+organically, fed by deep psychological and historical patterns. The human mind
+seeks meaning in uncertainty, and when faced with chaos, it reaches for grand
+stories of endings and renewals. Those who understand this impulse—leaders,
+institutions, movements—can steer it toward their own ends, whether by creating
+enemies to unify against, invoking crisis to justify new powers, or offering a
+singular path to salvation in exchange for loyalty.
+
+Maybe this: The specter of an imminent end fosters a willingness to accept
+radical change. When a culture believes it stands on the precipice of
+destruction or transformation, moral and social boundaries shift. What was once
+unthinkable—authoritarian control, persecution of dissenters, economic
+upheaval—becomes acceptable, even necessary. In this way, the fear of the end is
+often more powerful than the end itself. Societies in a constant state of
+existential crisis grow accustomed to obedience, to emergency powers that never
+expire, to institutions that promise security at the cost of freedom.
+
+Or perhaps even this: The true danger of an eschaton is not only in its use as a
+tool of control but in its ability to limit the imagination. If the only future
+that can be conceived is catastrophe or utopia, then the infinite possibilities
+in between are ignored. It is in these quiet, undramatic spaces of history—where
+neither apocalypse nor paradise arrives—that real change happens, that human
+agency matters most. To resist being swept up in a grand eschatological vision
+is to reclaim the power of the present, to recognize that no single narrative
+can dictate the complexity of what comes next.
+
+[<img src="../../../../images/mandalas/mandala-control_by_eschaton.jpg" width="512"/>](../../../../images/mandalas/mandala-control_by_eschaton.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
