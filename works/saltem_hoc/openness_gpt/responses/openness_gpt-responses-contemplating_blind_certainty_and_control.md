@@ -23,6 +23,7 @@ included after each response.
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
+* [Is blind belief in God, deities or science always wrong?](#is-blind-belief-in-god-deities-or-science-always-wrong)
 
 ### What is "the libido dominandi"?
 
@@ -448,6 +449,66 @@ is to reclaim the power of the present, to recognize that no single narrative
 can dictate the complexity of what comes next.
 
 [<img src="../../../../images/mandalas/mandala-control_by_eschaton.jpg" width="512"/>](../../../../images/mandalas/mandala-control_by_eschaton.jpg)
+
+### Is blind belief in God, deities or science always wrong?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: blind belief in God, deities, science—or in anything—means
+bypassing one's critical thinking, discernment and openness-a surrender of one's
+volition to a, perhaps unnoticed, external authority. It can lead to rigidity,
+where ideas are held not because they resonate with truth but because they are
+inherited, imposed, or simply never examined. When belief is blind, it risks
+becoming a prison rather than a path, making one closed to growth and vulnerable
+to manipulation. Without examination, how can one know if the belief serves
+truth, goodness, or something else?
+
+But also perhaps this: faith, even when unquestioned, can provide comfort, a
+sense of belonging, resilience, purpose. It can be a shelter from the hardships
+and storms of life, a wellspring of meaning, a way to rest in something greater
+than oneself. Not all that is unseen is untrue, and not all that is unquestioned
+is without value. A child's trust in a parent, for example, is a kind of blind
+belief, yet it is not necessarily wrong—it is a natural state of love and
+reliance. What appears to be blind belief might be less about denying reason and
+more about choosing trust—especially in moments when logic alone cannot console
+the ache of the heart.
+
+Yet also this: blind belief can become rigid, a refusal to let the winds of
+curiosity or reflection blow through one’s spiritual house. When belief is held
+without any examination, we risk turning it into dogma—closed to deeper
+understanding and perhaps unaware of how we might be harming others. The very
+act of questioning can deepen faith, refining one’s relationship with what we
+believe. Blind belief, then, may truncate growth, denying the soul’s yearning
+for clarity and authenticity.
+
+Maybe this: to call a belief “blind” might overlook the quiet, lived experiences
+people carry within them—moments of awe, profound empathy, or inner
+transformation. These experiences can be difficult to articulate or prove, but
+they still hold deep meaning for those who experience them. What seems like
+blind belief from the outside could emerge from a tapestry of experiences that
+go beyond linear thinking, resting in the realm of the heart’s encounter with
+the ineffable. A person’s faith might appear unquestioned, yet be grounded in
+personal truths that they cannot fully explain.
+
+Or perhaps this: belief, whether blind or not, is a choice—conscious or
+unconscious. Some choose to see the divine in everything, some in nothing. Some
+seek rational proof, while others trust experience and intuition. If a belief,
+even held without question, leads one to act with kindness, humility, and love,
+is it truly wrong? Or is it simply another way of navigating the mystery of
+existence? And if it does the opposite—if it fosters division, hatred,
+persecution or control—then perhaps it is not belief itself that is the problem,
+but the refusal to find other ways, still rooted in love.
+
+Or perhaps even this: the highest form of belief is one that acknowledges its
+own limitations. To have faith and yet remain open to learning, to be devoted
+yet humble, to freely admit what is known and unknown, certain and uncertain,
+and what must be taken on faith, is not blindness but wisdom. Openness is not
+the absence of belief but the ability to hold belief without fear of questioning
+it. The problem then arises not from belief, but from certainty so absolute that
+it resists all other possibilities, closing the door to growth and a deepening
+awareness of what is.
+
+[<img src="../../../../images/mandalas/mandala-blind_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_belief.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

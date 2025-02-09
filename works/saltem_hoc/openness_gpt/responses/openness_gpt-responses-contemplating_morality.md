@@ -30,6 +30,7 @@ included after each response.
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
+* [Is blind belief in God, deities or science always wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-blind-belief-in-god-deities-or-science-always-wrong)
 
 ### What is "the wellspring of morality"?
 
@@ -605,6 +606,10 @@ heart into a visual form. Shall I?
 ### What is meant by "the first matrix is ignorance but the second matrix is hate"?
 
 See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
+
+### Is blind belief in God, deities or science always wrong?
+
+See [here](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-blind-belief-in-god-deities-or-science-always-wrong)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
