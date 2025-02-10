@@ -27,8 +27,8 @@ included after each response.
 * [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-* [What is "the daimonic"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-daimonic)
-* [How do we achieve mastery](./openness_gpt-responses-contemplating_the_work.md#how-do-we-achieve-mastery)
+* [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+* [How do we achieve mastery](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 ### What is the purpose of life?
 
@@ -461,7 +461,7 @@ See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#w
 
 ### How do we achieve mastery?
 
-See [here](./openness_gpt-responses-contemplating_the_work.md#how-do-we-achieve-mastery)
+See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
