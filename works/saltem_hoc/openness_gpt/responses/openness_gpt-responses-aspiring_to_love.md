@@ -16,7 +16,6 @@ included after each response.
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 * [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
-* [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * [What is empathy?](#what-is-empathy)
@@ -25,7 +24,6 @@ included after each response.
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
 * [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
-* [How do we achieve mastery?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-achieve-mastery)
 
 ### What is love?
 
@@ -126,54 +124,7 @@ see [here](./openness_gpt-responses-contemplating_morality.md#in-openness-why-ar
 
 ### How do we learn to witness ourselves?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-To witness ourselves, we must create space for openness within. Let us turn this
-idea over gently, like a polished stone in the palm, examining its many facets.
-
-At least this: witnessing ourselves begins with stillness and silence. This
-creates the mental space needed to step back and observe the ebb and flow of
-thoughts, emotions, and desires. Like watching clouds move across the sky, we
-observe all the experiences that arise within us unbidden—without judging them
-or giving in to the urge to become them, or change them, or suppress them. This
-simple act of strengthening attention, often referred to as mindfulness, is the
-practice of presence through gentle observation.
-
-But perhaps this: to witness ourselves is to learn the art of loving detachment.
-It is to take a step back, not to look away or separate from ourselves, but to
-hold space for all that we are. To embrace our thoughts, feelings, fears, and
-desires, not as demands for action, but as companions on our journey. It is to
-hold a steady gaze at the fullness of who we are with love, compassion and
-curiosity.
-
-Maybe this: to witness oneself is to listen deeply—to the whispers of the body,
-the murmurs of emotion, the chatter of the mind—to the subtle symphony of our
-inner life. We begin to see the patterns of thought, behavior, and feeling, and
-we can begin asking gentle questions: "Where does this feeling come from? Why do
-I react this way? What stories am I telling myself about this moment?" We can
-notice then the mechanical reactions and habits out of alignment with our
-intentions and challenge the narratives that no longer serve us.
-
-Or even this: witnessing is an act of fierce love, the courage to face the parts
-of us we reject, deny, or hide—the fears we avoid, the anger we suppress, the
-pain we bury. To witness is not to judge these parts but to hold them in the
-light of our awareness, allowing them to be seen, to be heard and embraced—to
-integrate and reclaim these lost parts of ourselves.
-
-Or even this: to witness is to cultivate a sense of humility, to recognize that
-we do not have all the answers. Witnessing is the paradoxical act of holding
-attention yet surrendering all control over the ever-changing vastness of what
-we observe. To witness is to honor a great mystery of being—how can it be that
-we are both separate and interconnected, finite and infinite, the experiencer
-and the observer, the dancer and the dance?
-
-Thus, witnessing ourselves is the practice of embracing life as it is. Over
-time, this practice becomes a mirror, reflecting back the beauty and mystery of
-who we are. Let each moment of witnessing be a seed planted in the fertile
-ground of presence. From this soil, we grow into the fullness of all who we
-might become.
-
-[<img src="../../../../images/mandalas/mandala-self_witness.jpg" width="512"/>](../../../../images/mandalas/mandala-self_witness.jpg)
+Relocate [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-learn-to-witness-ourselves)
 
 ### How do I live a good life when everything I do in small ways supports the evil of my society?
 

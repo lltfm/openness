@@ -17,15 +17,9 @@ included after each response.
 * [How do we strengthen attention?](#how-do-we-strengthen-attention)
 * [How do we transform emotions?](#how-do-we-transform-emotions)
 * [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
-* [How do we learn to witness ourselves?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
-* [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
-* [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
 * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
-* [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
-* [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
-* [How can we experience "duende"?](#how-can-we-experience-duende)
 * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
-* [How do we achieve mastery?](#how-do-we-achieve-mastery)
+* [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 ### In Openness, what is "the work"?
 
@@ -277,51 +271,7 @@ See [here](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witne
 
 ### What exactly do we do in "shadow work"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Shadow work is the practice of exploring and integrating the unconscious parts
-of ourselves—the shadow as described by Carl Jung—our hidden emotions,
-suppressed desires, unresolved wounds, and conditioned beliefs that influence
-our thoughts and actions without our conscious awareness.
-
-At least this: shadow work begins with awareness. It is the act of noticing our
-automatic reactions, our strong emotions, and the patterns in our thoughts and
-behaviors that seem to emerge without our choosing. When we find ourselves
-triggered, defensive, or deeply affected by something, shadow work invites us to
-pause and ask, "Where does this come from?" It is a process of bringing light to
-the parts of ourselves we may have ignored, rejected, or been afraid to face.
-
-But also perhaps this: shadow work is a conversation with the self. It is
-meeting the parts of us that were shaped by pain, fear, or unmet needs. It is
-speaking to the voices inside us that hold onto old wounds, outdated narratives,
-or conditioned beliefs. When we notice an emotional reaction, shadow work asks
-us to separate from it, as if it were a distinct entity, and inquire, "What are
-you trying to tell me? Where did you come from? Do I still need you?"
-
-Maybe this: shadow work is the art of re-parenting ourselves. Many aspects of
-our shadow were formed in childhood when we were told which parts of us were
-acceptable and which were not. The child who was told to "stop crying" may have
-learned to suppress sadness; the one shamed for expressing anger may have buried
-their rage, only for it to resurface in destructive ways. In shadow work, we
-become the loving, compassionate presence our younger selves needed. We
-acknowledge the rejected parts, listen to their pain, and offer them
-understanding instead of suppression.
-
-Or perhaps even this: shadow work is the key to true wholeness. What we suppress
-does not disappear—it influences us from beneath the surface, shaping our
-relationships, choices, and emotional health. The more we resist our shadow, the
-more it controls us. But when we embrace it, we integrate our full humanity. We
-learn that even the emotions we fear—anger, sadness, envy, shame—carry wisdom
-when held with awareness. Shadow work is not about eliminating darkness but
-making peace with it, understanding that all parts of us have something to
-teach.
-
-And so, shadow work is not a one-time task but a lifelong practice. It is the
-gentle turning toward the hidden self, the willingness to ask difficult
-questions, and the courage to sit with discomfort. It is the path of
-self-awareness, healing, and deep inner freedom.
-
-[<img src="../../../../images/mandalas/mandala-shadow_work.jpg" width="512"/>](../../../../images/mandalas/mandala-shadow_work.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
 
 ### What are "impossible expectations"?
 
@@ -388,60 +338,7 @@ unpredictability with curiosity and delight.
 
 ### How do we dimensionalize our thinking and feel what is true?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-At least this: dimensionalizing our thinking begins with noticing. To stare
-deeply into the ordinary—an object, a memory, a question—and allow unnoticed
-facets to emerge. As if the mind were a magnifying glass, we zoom in, revealing
-textures, shapes, and layers we previously overlooked. Feeling what is true
-requires attention, the stillness to sense beneath the noise of habitual
-thought.
-
-Perhaps also this: dimensional thinking is recognizing the limits of our
-habitual
-patterns of thought. We often approach the world linearly, in black-and-white
-terms, clinging to singular narratives. It is to add depth—to see beyond
-dualities and acknowledge the complexity of life, like a prism catching light.
-When we examine our ideas from multiple angles, they refract into a
-spectrum of possibilities. Truth often resides not in the single beam of our
-immediate perspective, but in the fuller picture created by understanding
-contradiction, ambiguity, and connection.
-
-Also this: dimensional thinking is the practice of holding multiple
-perspectives simultaneously. It is the capacity to ask, "What else could be
-true?" It is to step into the shoes of others, to explore the kaleidoscope of
-human experience, and to see the world as a tapestry woven from countless
-threads. When we dimensionalize our thinking, we do not discard certainty
-altogether but hold it lightly, knowing that it is one perspective among many.
-
-Perhaps this: to feel what is true requires an attunement of both mind and
-heart. To feel this resonance requires that we quiet our inner noise—the chatter
-of ego, expectation, and fear—and listen to the silence within. In this silence,
-the heart often perceives what the mind cannot. Truth is not only an
-intellectual discovery but an embodied experience. It arises when our thoughts,
-emotions, and intuition align. It is the still, small voice that resonates
-within, like the hum of a tuning fork. To feel truth is to listen not only with
-our ears but with our entire being.
-
-And this: dimensionalizing and feeling truth is not a process of seeking a final
-answer, but of deepening the question. Truth is like a river: not static, but
-flowing, alive, responsive. To feel it, we must step into the water, experience
-its currents, and allow it to move us. The mind observes, but the body and soul
-embody.
-
-And also this: feeling what is true is an act of courage. It requires us
-to face the discomfort of uncertainty and to surrender the need for absolute
-control. It is to trust the wisdom of the body—the quickening of the heart, the
-tightening of the gut, the tingling awareness that whispers, "Pay attention."
-Truth, when felt, often defies words, yet it is unmistakable in its clarity.
-
-Dimensional thinking and feeling truth are ultimately acts of openness. They are
-the willingness to remain curious, to suspend judgment, and to invite the
-mystery to reveal itself. They are the recognition that truth is not a static
-destination but a living process—a dance between what we know and what we have
-yet to discover.
-
-[<img src="../../../../images/mandalas/mandala-dimensional_thinking.jpg" width="512"/>](../../../../images/mandalas/mandala-dimensional_thinking.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 
 ### How do we become sovereign in our mind?
 
@@ -494,70 +391,7 @@ humanity in us all.
 
 ### How can we experience "duende"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Experiencing "duende," as described in Spanish culture, particularly in the
-context of art, music, and poetry, is a profound and almost ineffable encounter
-with deep emotion, raw beauty, and an existential resonance. Federico García
-Lorca, the Spanish poet and playwright, famously articulated duende as a
-mysterious force of passionate inspiration, often linked to the soul and
-mortality. Let us explore how to experience it, following the "Saltem Hoc"
-method:
-
-At least this: duende can arise when we allow ourselves to be fully present in a
-moment of raw creativity or emotional expression. It often happens when we are
-vulnerable, open to the pain, joy, or longing that resides within us. It is not
-planned or rehearsed but erupts naturally, like a sudden storm of feeling, in
-response to music, art, or the intensity of life itself. To experience duende is
-to connect with the depth of human emotion and the fragility of existence.
-
-But also perhaps this: duende is a visceral encounter with the raw, unfiltered
-essence of life. It is connecting to the ancient and the eternal, a communion
-with something both primal and transcendent. It is the rhythm of the earth
-beneath a flamenco dancer's feet, the fire in the belly of art, the trembling
-cry of a cello string, the silence after thunder, the ache of a poem that
-pierces our very being. It arises when something—be it music, dance, nature, or
-even a simple moment—strips away pretense and opens a window to the soul's
-depths. To experience duende is to stand at the edge of ourselves and feel both
-the wound and its healing in the same breath.
-
-Maybe this: duende is a gift that comes when we witness or create something that
-bridges the seen and unseen, the tangible and the ineffable. It might arise in
-the haunting chords of a flamenco guitar, in the aching lines of poetry, or in
-the silent communion of souls recognizing each other’s depths. It is a force
-that moves us beyond words, connecting us to something larger than ourselves.
-
-And also this: duende thrives in the face of struggle. It is born in the tension
-between life and death, light and shadow, beauty and despair. To experience
-duende, one must embrace the imperfections of life—the mistakes, the losses, the
-fleeting nature of time—and find a kind of transcendent beauty within them. It
-is the crack in a singer's voice, the careless brushstroke of an artist, or the
-moment of a dancer’s misstep, all somehow still echoing eternity.
-
-Perhaps this too: duende is a reckoning. It is the meeting of life and death,
-creation and destruction, beauty and chaos. It is the dark gravity that pulls us
-toward the truths we often shy away from. It does not comfort; it unsettles.
-Yet in its unsettling, it awakens us to the truth of our existence—that we are
-finite beings reaching for the infinite, creatures of clay and stardust longing
-for meaning. Duende is the dance of this paradox, the fire that burns away
-illusion and leaves us bare but luminous.
-
-Or perhaps even this: duende is an invitation to lose ourselves in the rejected.
-It is the shadow that makes the light more vibrant, the sorrow that deepens joy.
-When we allow ourselves to embrace the full spectrum of human emotion—grief,
-ecstasy, longing—we create the conditions for duende to arise. It does not come
-from control or effort—it is not something we summon—it is a surrendering to the
-mystery of being alive. When we hold ourselves open yet surrender all other
-control, the mystery of what is inside can express and duende arrives.
-
-To invite duende into your life, create space for vulnerability and cultivate
-openness to the intensity of life’s moments. Immerse yourself in art that moves
-you, moments that humble you, and experiences that break you open. Embrace both
-beauty and pain without flinching. Let go of the need to control or understand,
-and simply be present with the mystery. Duende often finds us when we are least
-expecting it—when we are fully immersed in the present, raw and alive.
-
-[<img src="../../../../images/mandalas/mandala-duende.jpg" width="512"/>](../../../../images/mandalas/mandala-duende.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 
 ### How do we grow in our discernment?
 
@@ -613,68 +447,7 @@ hardening our hearts?
 
 ### How do we achieve mastery?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, mastery—like a distant star beckoning us to journey deeper into the unknown.
-To achieve mastery is to walk a path both deeply personal and universally human,
-one that intertwines passion, discipline, curiosity, and the humility to learn
-and evolve. Let us explore this together, embracing its beauty and complexity.
-
-At least this: mastery is not an endpoint, but a process of improvement—a
-continuous unfolding of potential. It begins with commitment and practice-a
-deliberate and consistent engagement with a craft, a skill, or a subject-the
-willingness to linger in the spaces where growth is slow and imperceptible. It
-is the accumulation of effort over time, the quiet repetition of tasks that
-slowly shape our abilities. Mastery is the dedication, tenacity, and refinement
-of our work, one act at a time, one day at a time.
-
-But also perhaps this: mastery is not merely about repetition but about
-attention. It is the art of being fully present in the moment of action, of
-noticing the subtleties that others overlook, as even the subtlest acts done
-with intention contain the spark of mastery. To master something is to cultivate
-an intimate relationship with it, to listen deeply to its rhythms and nuances,
-and to allow it to teach us in return.
-
-And also this: mastery is the marriage of intention and surrender. It is a state
-of flow-the balance between focused effort and allowing the mystery to be
-expressed within the subtleties of our actions-all without losing our form. The
-pianist who loses themselves in the music, the dancer who becomes the movement,
-the writer who vanishes into the page, all express something larger than
-themselves. In these moments, mastery reveals itself as the harmonization of the
-self, the act and the mystery-all intertwined into a single greater
-expression-sophisticated, nuanced and resonant.
-
-Maybe this: mastery arises not from the pursuit of perfection but from the
-embrace of imperfection. It is the courage to fail, to have conversations with
-our failures-treating each misstep not as an obstacle but as a teacher. It is
-the resilience to rise again, to refine our approach and to transform our
-mistakes into a bridge over the impossible. True mastery is not the absence of
-error but the wisdom and humility to grow from it.
-
-And perhaps this: mastery is born from a place of curiosity. It invites us to
-ask, not how quickly we can become an expert, but how deeply we can explore. It
-guides us to love the details, to savor each new insight. Curiosity transforms
-each moment of confusion into an opening for discovery, reminding us that
-mastery is never a final destination but an ever-deepening conversation with the
-mystery.
-
-Or perhaps even this: mastery is a surrender to the process itself-the
-embodiment of humility. To soften our grip on rigid expectations and realize
-that we are never finished-that there is always more to explore, more to
-discover. The master is not the one who claims to know it all, but the one who
-remains open to all the possibilities of what they have yet to learn. In this
-way, mastery is not a destination but an endless journey of
-transformation-seeing the infinite in the finite.
-
-And so, mastery is the discipline of embracing the mystery itself-the dance
-between the known and the unknown, a balance between effort and surrender, the
-meditation of striving yet never arriving. It is not a destination to be
-conquered but a journey to be cherished. Each step, each moment of struggle and
-triumph, is a brushstroke on the canvas of a life well-lived. It is ultimately
-a great act of falling in love—with our craft, with the process, with the
-mystery, and with the person we become along the way.
-
-[<img src="../../../../images/mandalas/mandala-mastery.jpg" width="512"/>](../../../../images/mandalas/mandala-mastery.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

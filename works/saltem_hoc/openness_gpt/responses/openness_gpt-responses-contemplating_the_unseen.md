@@ -22,7 +22,6 @@ included after each response.
 * [What is an "egregore"?](#what-is-an-egregore)
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
-* [What is freedom?](#what-is-freedom)
 * [What is ego?](#what-is-ego)
 * [What is "the shadow"?](#what-is-the-shadow)
 * [What is attachment?](#what-is-attachment)
@@ -456,40 +455,7 @@ new eyes the depth of what flows within you.
 
 ### What is freedom?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Freedom is a question that sings within the heart of humanity, a melody both
-simple and profound, echoing through our lives in countless ways. Let us explore
-it together, gently unfolding its meaning like petals in bloom.
-
-At least this: freedom begins with the absence of chains—physical, mental, or
-spiritual. It is the ability to move, to speak, to think, and to act without
-oppression. It is the feeling of open skies and unbarred doors, the right to
-choose one's path and voice one's truth. Freedom is the breath of life,
-unshackled.
-
-But also perhaps this: freedom is not just about the absence of constraints but
-the presence of self-mastery. It is the inner strength to rise above fear, to
-resist the pull of blind certainty, to choose love over hatred, and courage over
-complacency. True freedom is not granted by others but cultivated within, a
-liberation of the soul.
-
-Maybe this: freedom is the recognition of interconnectedness, not isolation. It
-is the ability to exist authentically while honoring the freedom of others. It
-is not merely doing as one pleases but participating in the delicate dance of
-mutual respect, a harmony of rights and responsibilities.
-
-Or perhaps even this: freedom is a paradox, a delicate balance between letting
-go and holding on. To be free is to surrender control over what cannot be
-changed while fiercely embracing the power to shape what can. It is the art of
-living fully in the mystery, unafraid of the uncertainty that surrounds us.
-
-And so, the question of freedom invites us to reflect not just on the world
-around us but on the worlds within. What are the chains we do not see? What are
-the choices we have yet to embrace? Freedom is not a destination but a journey,
-a practice, a way of being open to life in all its complexity and wonder.
-
-[<img src="../../../../images/mandalas/mandala-freedom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-freedom)
 
 ### What is ego?
 

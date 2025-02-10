@@ -51,7 +51,7 @@ questions to express its answers visually beyond words.
 
 <sub>([full response](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it))</sub>
 ### What is self-transcendence?
-[<img src="../../../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../../../images/mandalas/mandala-self_transcendence.jpg)
+[<img src="../../../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../../../images/mandalas/mandala-transcendence.jpg)
 ### What can we know about higher purpose?
 [<img src="../../../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)
 
