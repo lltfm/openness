@@ -20,7 +20,7 @@ included after each response.
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
 * [Is sex sacred?](#is-sex-sacred)
 * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-* [How can we experience "duende"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-experience-duende)
+* [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 
 ### What is "the pull of desire"?
 
