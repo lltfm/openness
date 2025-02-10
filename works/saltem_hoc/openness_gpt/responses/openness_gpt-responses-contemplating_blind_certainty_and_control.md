@@ -23,7 +23,7 @@ included after each response.
 * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
-* [Is blind belief in God, deities or science always wrong?](#is-blind-belief-in-god-deities-or-science-always-wrong)
+* [Is blind belief always wrong?](#is-blind-belief-in-god-deities-or-science-always-wrong)
 
 ### What is "the libido dominandi"?
 
@@ -450,7 +450,9 @@ can dictate the complexity of what comes next.
 
 [<img src="../../../../images/mandalas/mandala-control_by_eschaton.jpg" width="512"/>](../../../../images/mandalas/mandala-control_by_eschaton.jpg)
 
-### Is blind belief in God, deities or science always wrong?
+### Is blind belief always wrong?
+
+Is blind belief in God, deities or science always wrong?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
