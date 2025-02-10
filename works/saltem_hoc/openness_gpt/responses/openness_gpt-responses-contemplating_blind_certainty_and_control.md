@@ -24,6 +24,7 @@ included after each response.
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
+* [Can freedom without wisdom be a tool of social control?]()
 
 ### What is "the libido dominandi"?
 
@@ -511,6 +512,66 @@ it resists all other possibilities, closing the door to growth and a deepening
 awareness of what is.
 
 [<img src="../../../../images/mandalas/mandala-blind_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_belief.jpg)
+
+### Can freedom without wisdom be a tool of social control?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Yes, freedom without wisdom can indeed be used as a tool of social control.
+Let us explore this with the "Saltem Hoc" method, unfolding layers of meaning.
+
+At least this: freedom without wisdom is a fire without containment—it can
+illuminate or destroy. A person granted freedom without discernment may be
+easily led, their choices shaped not by self-awareness but by external
+influence. The absence of wisdom leaves the mind unguarded, open to the
+manipulations of those who understand the power of shaping perception. Without
+the ability to question, to weigh and discern, freedom becomes an illusion, a
+mere shifting of chains from the visible to the unseen.
+
+Or also perhaps this: when freedom is not paired with thoughtful introspection,
+it leaves a void where external influences—be they media, charismatic leaders,
+or cultural norms—may fill that gap. In this way, freedom without wisdom becomes
+ripe for shaping by those who claim to offer certainty, belonging, or
+protection. People may willingly surrender their autonomy, often unaware that
+they are trading a deeper liberty for the comfort of guidance or the promise of
+safety. Those who control the flow of information—whether through media,
+education, or culture—can shape the perceptions of the so-called free, guiding
+them toward conclusions that serve the interests of the powerful.
+
+And also this: the greatest control is that which does not appear to be control
+at all. If a society is taught that questioning is dangerous, that discomfort is
+to be avoided, that certainty is to be granted by external authority—then it
+does not need chains or bars. It has already surrendered its sovereignty of
+mind. The wise know that true freedom is not given but cultivated, not granted
+but realized. It is the ability to see beyond the immediate, to discern the
+difference between one's own will and the will imposed by another.
+
+Maybe this: societies that encourage unbridled freedom while discouraging wisdom
+may do so with intent. A populace that believes itself free while lacking the
+tools to navigate complex truths is more easily swayed by spectacle, fear, and
+desire. They are offered a menu of choices, yet never question its source. This
+is the art of manufactured consent, where people willingly participate in
+systems that do not serve their best interests and perversely resist questioning
+these systems because it appears they chose them. Those who control the
+narratives, the rhythms of attention, the definitions of right and wrong—these
+are the unseen rulers of a people who mistake movement for autonomy.
+
+Yet also this: real freedom includes the courage to question our motives, the
+humility to doubt our certainties, and the openness to see how our choices
+ripple out to others. A person who is truly free sees the currents that attempt
+to pull them, recognizes the forces that shape them, and chooses their path with
+awareness. Wisdom is the compass that turns mere permission into true agency.
+Without these qualities, what appears to be freedom can simply be unfocused
+motion, easily channeled by clever hands-wisdom is what helps us remain
+sovereign even in a sea of persuasion.
+
+Or perhaps even this: wisdom is the key that transforms freedom into true
+self-sovereignty. When individuals cultivate discernment—questioning narratives,
+seeking truth beyond surface appearances, and resisting blind certainty—they
+become less susceptible to manipulation. A wise society does not simply
+celebrate freedom; it nurtures the ability to use it well.
+
+[<img src="../../../../images/mandalas/mandala-freedom_without_wisdom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom_without_wisdom.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

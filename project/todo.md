@@ -5,6 +5,7 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * Can freedom without wisdom be a tool of social control? 
       * What is a "dark messiah"? 
       * What is a "karmic mind-trap"?
       * What is arousal?
