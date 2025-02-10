@@ -28,7 +28,7 @@ included after each response.
 * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
 * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-* [How do we achieve mastery](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
+* [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 ### What is the purpose of life?
 
