@@ -5,7 +5,6 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * Can freedom without wisdom be a tool of social control? 
       * What is a "dark messiah"? 
       * What is a "karmic mind-trap"?
       * What is arousal?
@@ -13,12 +12,8 @@
       * How can play reveal to us the limits of our Openness?
       * What is "the terrible becoming"?
       * How can personal ritual be used to transform emotions?
-      * How do we achieve mastery?
       * Can humility limit who we might grow to become?
-      * What is a "karmic mind-trap"?
-      * What is self-transcendence?
       * What is "the trust fabric"?
-      * Should we punish or seek retribution against people who deceive us?
     * Contemplating the unchosen
         * What is "the terrible becoming"?
         * What is time?
