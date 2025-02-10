@@ -11,7 +11,7 @@ questions to express its answers visually beyond words.
 5. [What is Openness?](#what-is-openness)
 6. [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
 7. [How do we remember we are loved?](#how-do-we-remember-we-are-loved)
-8. [What is self-transcendence?](#what-is-self-transcendence)
+8. [What is transcendence?](#what-is-transcendence)
 9. [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 10. [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 11. [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
@@ -50,8 +50,8 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg" width="512"/>](../../../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg)
 
 <sub>([full response](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it))</sub>
-### What is self-transcendence?
-[<img src="../../../../images/mandalas/mandala-self_transcendence.jpg" width="512"/>](../../../../images/mandalas/mandala-transcendence.jpg)
+### What is transcendence?
+[<img src="../../../../images/mandalas/mandala-transcendence.jpg" width="512"/>](../../../../images/mandalas/mandala-transcendence.jpg)
 ### What can we know about higher purpose?
 [<img src="../../../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)
 
