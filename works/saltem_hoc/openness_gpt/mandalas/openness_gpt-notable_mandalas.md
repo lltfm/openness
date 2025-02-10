@@ -10,7 +10,7 @@ questions to express its answers visually beyond words.
 4. [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 5. [What is Openness?](#what-is-openness)
 6. [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
-7. [How do we remember we are loved?](#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+7. [How do we remember we are loved?](#how-do-we-remember-we-are-loved)
 8. [What is self-transcendence?](#what-is-self-transcendence)
 9. [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 10. [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
