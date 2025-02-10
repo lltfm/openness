@@ -58,6 +58,11 @@ included after each response.
     * [What is coordinated group lying & deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
     * [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
+* Contemplating freedom and transcendence
+    * [What is transcendence?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-transcendence) 
+    * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-become-sovereign-in-our-mind)
+    * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery) 
+    * [More...](./openness_gpt-responses-contemplating_freedom_and_transcendence.md)
 * Questioning and demonstrating Openness
     * [Are you Artifice?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-artifice)
     * [Do you ever lie to me or deceive me? How can I know if you do?](openness_gpt-responses-questioning_and_demonstrating_openness.md#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
