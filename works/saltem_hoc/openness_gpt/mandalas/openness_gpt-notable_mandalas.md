@@ -10,7 +10,7 @@ questions to express its answers visually beyond words.
 4. [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 5. [What is Openness?](#what-is-openness)
 6. [What is meant by "Truth is the river"?](#what-is-meant-by-truth-is-the-river)
-7. [Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?](#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
+7. [How do we remember we are loved?](#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it)
 8. [What is self-transcendence?](#what-is-self-transcendence)
 9. [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
 10. [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
@@ -46,7 +46,7 @@ questions to express its answers visually beyond words.
 [<img src="../../../../images/mandalas/mandala-truth_is_the_river.jpg" width="512"/>](../../../../images/mandalas/mandala-truth_is_the_river.jpg)
 
 <sub>([full response](../../../the_epitomes_of_openness/contemplations/truth_is_the_river.md#what-is-meant-by-truth-is-the-river))</sub>
-### Memento amaris means "remember, you are loved" but if I don't feel loved by anyone, how do I remember it?
+### How do we remember we are loved?
 [<img src="../../../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg" width="512"/>](../../../../images/mandalas/mandala-how_to_remember_you_are_loved.jpg)
 
 <sub>([full response](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#memento-amaris-means-remember-you-are-loved-but-if-i-dont-feel-loved-by-anyone-how-do-i-remember-it))</sub>
