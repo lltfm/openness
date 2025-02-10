@@ -25,8 +25,8 @@ included after each response.
     * [More...](openness_gpt-responses-contemplating_the_unseen.md)
 * Aspiring to love
     * [What is love?](./openness_gpt-responses-aspiring_to_love.md#what-is-love)
+    * [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
-    * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
     * [More...](openness_gpt-responses-aspiring_to_love.md)
 * Contemplating desire and sexuality
     * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
