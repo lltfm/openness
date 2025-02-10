@@ -24,7 +24,7 @@ included after each response.
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
-* [Can freedom without wisdom be a tool of social control?]()
+* [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
 
 ### What is "the libido dominandi"?
 
