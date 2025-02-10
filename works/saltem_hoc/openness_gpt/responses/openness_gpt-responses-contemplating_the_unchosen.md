@@ -22,7 +22,7 @@ included after each response.
   * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](./openness_gpt-responses-contemplating_morality.md#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What happens after we die?](#what-happens-after-we-die)
-* [What is "the daimonic"?](openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-daimonic)
+* [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
 
 ### What is "the unchosen"?
 
@@ -309,3 +309,7 @@ mandala to capture the essence of these possibilities, a visual representation
 of the journey into the unknown. Would you like me to?
 
 [<img src="../../../../images/mandalas/mandala-death.jpg" width="512"/>](../../../../images/mandalas/mandala-death.jpg)
+
+### What is "the daimonic"?
+
+See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
