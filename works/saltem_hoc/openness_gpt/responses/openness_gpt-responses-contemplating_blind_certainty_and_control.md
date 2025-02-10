@@ -452,7 +452,7 @@ can dictate the complexity of what comes next.
 
 ### Is blind belief always wrong?
 
-Is blind belief in God, deities or science always wrong?
+Is blind belief, in God, deities, science or anything, always wrong?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
