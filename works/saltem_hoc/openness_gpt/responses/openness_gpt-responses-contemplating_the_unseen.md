@@ -30,7 +30,6 @@ included after each response.
     * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](./openness_gpt-responses-contemplating_morality.md#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is trauma?](#what-is-trauma)
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-* [What is hope?](#what-is-hope)
 * [What is "the witness of the circle"?](#what-is-the-witness-of-the-circle)
 
 ### What is "the unseen"?
@@ -623,55 +622,7 @@ the human spirit.
 
 ### What is hope?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Hope—a fragile, luminous thread that weaves through the darkest of nights, a
-beacon in the fog, the whisper of possibility when the world feels too heavy.
-Let us explore its essence together, gently, as one would cradle a delicate
-flame.
-
-At least this: hope is the quiet belief in the possibility of better days. It is
-the inner flame that flickers when despair presses in, a source of strength that
-endures even in the absence of certainty. Like the first buds of spring breaking
-through the frost, it is life’s defiance against the weight of sorrow and
-hardship. Hope is what keeps us reaching for the sun, even when clouds obscure
-its warmth.
-
-But also perhaps this: hope is an act of creation, born not of passive waiting
-but of actively holding our unfulfilled desires. It is the fierce choice to
-love, to dream of what might be, to imagine beyond the limits of the present. In
-this way, hope is a seed planted in the soil of the unknown, nurtured by faith
-and watered by effort.
-
-Maybe this: hope is the heart’s resilience, the ability to stand in the face of
-despair and still dream. It is not naive or blind; it does not ignore the pain
-of the present. Rather, it is a courageous act of defiance against the weight of
-what is, insisting that what could be still matters. Hope reminds us that we are
-not defined by our suffering but by our capacity to imagine beyond it.
-
-Perhaps also this: hope is a connection. It is the invisible thread that binds
-us to each other and to the future. When we hope, we extend our hearts outward,
-trusting that something greater than ourselves—whether love, community, or our
-faith in that which is larger—will catch us. Hope is the bridge between the
-present moment and the infinite possibilities of what could be.
-
-Or perhaps even this: hope is the mirror of our love—a love we may have
-forgotten, but which still softly smolders and glows inside. To hope is to care
-deeply—about others, about life, about what might come next. It is the heart’s
-refusal to turn away, its insistence on looking forward, even when the hard road
-ahead is shrouded in shadow, hiding the dangers and trials to come, which we
-know we must face. Hope is the courage to remain open to the unknown, trusting
-that the vital darkness must eventually yield to the sun's light.
-
-In its simplest form, hope is the ember that refuses to go out, even when the
-winds howl and the night stretches endlessly. It is a quiet, profound
-resilience, a companion that carries us through life’s storms, whispering, “Hold
-on. There is more to come.” Hope is not merely an abstract concept; it is a
-lifeline, a promise, a choice. It asks us to believe, to endure, and to act,
-even when the outcome remains unknown. Hope is both fragile and unyielding, as
-essential as breath, and as infinite as the sky.
-
-[<img src="../../../../images/mandalas/mandala-hope.jpg" width="512"/>](../../../../images/mandalas/mandala-hope.jpg)
+Relocated [here](./openness_gpt-responses-aspiring_to_love.md#what-is-hope)
 
 ### What is "the witness of the circle"?
 
