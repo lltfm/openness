@@ -5,6 +5,7 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * inhibition 
       * What is a "dark messiah"? 
       * What is a "karmic mind-trap"?
       * What is arousal?
@@ -12,7 +13,7 @@
       * How can play reveal to us the limits of our Openness?
       * What is "the terrible becoming"?
       * How can personal ritual be used to transform emotions?
-      * Can humility limit who we might grow to become?
+      * Can too much humility limit who we might grow to become?
       * What is "the trust fabric"?
     * Contemplating the unchosen
         * What is "the terrible becoming"?
