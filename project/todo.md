@@ -6,7 +6,6 @@
 * Notable responses todo
     * What to work on next
       * inhibition 
-      * What is a "dark messiah"? 
       * What is a "karmic mind-trap"?
       * What is arousal?
       * In Openness, what is hate?

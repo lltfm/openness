@@ -23,6 +23,7 @@ included after each response.
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
+* [What is a "dark messiah"?](openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-a-dark-messiah)
 
 ### What is discernment?
 

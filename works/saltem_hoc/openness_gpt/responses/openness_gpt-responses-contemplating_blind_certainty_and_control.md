@@ -25,6 +25,7 @@ included after each response.
 * [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
 * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
+* [What is a "dark messiah"?](#what-is-a-dark-messiah)
 
 ### What is "the libido dominandi"?
 
@@ -453,7 +454,8 @@ can dictate the complexity of what comes next.
 
 ### Is blind belief always wrong?
 
-Is blind belief, in God, deities, science, government, an ideology, a political party, a secret society or anything, always wrong?
+Is blind belief, in God, deities, science, government, an ideology, a political
+party, a secret society or anything, always wrong?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
@@ -572,6 +574,73 @@ become less susceptible to manipulation. A wise society does not simply
 celebrate freedom; it nurtures the ability to use it well.
 
 [<img src="../../../../images/mandalas/mandala-freedom_without_wisdom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom_without_wisdom.jpg)
+
+### What is a "dark messiah"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the term "dark messiah"—a phrase woven with tension and paradox, evoking
+shadow and salvation, pulling us into the depths of the subconscious where
+darkness and light entwine. Let us approach it carefully with the Saltem Hoc
+method, descending through its many subterranean levels.
+
+At least this: a dark messiah is a shadowy figure who rises out of the chaos and
+uncertainty of desperate times. Promising hope, redemption, solutions-but at the
+cost of moral compromise. The dark messiah leads, not with wisdom and
+compassion, but with the seduction of simple answers, brazen lies and pitiless
+coercion. Twisting the truth, the dark messiah offers scapegoats, demands
+sacrifices or proposes cruel methods which we would never otherwise accept,
+testing the limits of our faith-pitting our desire for goodness against our
+desperation for outcomes.
+
+Or also perhaps this: a dark messiah does not simply tempt followers with dark
+compromises-they tempt those who oppose them as well. Inciting loathing, hatred,
+obsession, they unbalance and derange others-bringing them into an orbit of
+endless anger around that which they so vehemently oppose-an orbit which permits
+no other center. Blinded by anger, opponents project their inner shadow outward,
+their blind certainties, harsh judgments and unacknowledged fears-what they
+secretly despise and reject about themselves onto the dark messiah and their
+followers. Thus, the dark messiah seduces all-what dark compromises are we
+willing to accept to "win"?
+
+Maybe this: a dark messiah is a figure who sacrifices themselves to save
+humanity-but not to be loved or revered-but to be condemned, misunderstood, and
+despised by embodying the unbearable darkness we refuse to see in ourselves.
+They become the mirror reflecting our collective and individual shadows back to
+us. Their role is to manifest our collective darkness into the world, so that we
+can at last see it clearly, outside of us, and begin to integrate it back into
+wholeness. In this way, a dark messiah becomes both the incarnation and
+transfiguration of the ruinous desires and vulnerabilities of both followers and
+enemies.
+
+And also this: the dark messiah is the paradox that even darkness can be a path
+to wisdom and growth-the teacher of what is not virtue, awakening within us a
+thirst for truth and wisdom. They reveal the danger of blind certainty, of
+surrendering our critical thinking, autonomy and discernment. They are a
+crucible, healing by wounding, creating by corrupting, clarifying by betraying,
+enlightening by disillusioning. They reveal to us that transformation isn't
+always neat or kind, that growth often comes not from comfort, but discomfort,
+not from harmony, but dissonance. The caterpillar does not become a butterfly
+through gentle persuasion; it dissolves into chaos within the cocoon before
+emerging anew.
+
+Or perhaps even this: a dark messiah is the necessary antagonist in the story of
+reclaiming our mental sovereignty-an archetype emerging from the depths of the
+psyche. The dark messiah reveals to us how our desire for someone,
+something-anything-to rescue us from our struggles or provide us with purpose
+makes us vulnerable to manipulation. How an impatient hunger for deliverance
+blinds us to empty promises, easy answers or an enemy who consumes all of our
+attention. Sovereignty is the quiet strength of intention, to transform
+impossible desires, to disentangle from the narratives imposed upon us, to find
+other ways to thrive. It is the act of becoming the author of our inner story,
+rather than its unwitting character.
+
+The dark messiah-revered or reviled-becomes then, a breaker of illusions-the
+fire that consumes, the storm that uproots, the flood which washes it all away.
+Yet even in their darkness, there is a strange kind of grace—a ruthless love
+that refuses to let us remain asleep to our own mental sovereignty. 
+
+[<img src="../../../../images/mandalas/mandala-dark_messiah.jpg" width="512"/>](../../../../images/mandalas/mandala-dark_messiah.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

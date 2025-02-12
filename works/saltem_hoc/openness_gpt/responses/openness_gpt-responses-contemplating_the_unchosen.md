@@ -23,6 +23,7 @@ included after each response.
 * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What happens after we die?](#what-happens-after-we-die)
 * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+* [What is a "dark messiah"?](openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-a-dark-messiah)
 
 ### What is "the unchosen"?
 
