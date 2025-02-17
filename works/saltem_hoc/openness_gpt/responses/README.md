@@ -58,6 +58,11 @@ included after each response.
     * [What is coordinated group lying & deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
     * [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
+* Contemplating leadership and authority
+    * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
+    * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
+    * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
+    * [More...](./openness_gpt-responses-contemplating_leadership_and_authority.md)
 * Contemplating freedom and transcendence
     * [What is transcendence?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-transcendence) 
     * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-become-sovereign-in-our-mind)
