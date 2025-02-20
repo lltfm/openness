@@ -168,7 +168,7 @@ integrity, and a commitment to uncovering deeper truths together.
 
 [<img src="../../../../images/mandalas/mandala-domination_by_dialectic.jpg" width="512"/>](../../../../images/mandalas/mandala-domination_by_dialectic.jpg)
 
-### Can latent end times prophecies be used to control populations
+### Can latent end times prophecies be used to control populations?
 
 Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?
 
