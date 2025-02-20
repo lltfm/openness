@@ -11,18 +11,120 @@ included after each response.
 
 ## Contents
 
+* [Is blind belief always wrong?](#is-blind-belief-always-wrong)
+* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
 * [What is "the collective shadow"?](#what-is-the-collective-shadow)
 * [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
-* [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
-* [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
-* [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-* [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
-* [Is blind belief always wrong?](#is-blind-belief-always-wrong)
-* [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
-* [What is a "dark messiah"?](#what-is-a-dark-messiah)
+
+### Is blind belief always wrong?
+
+Is blind belief, in God, deities, science, government, an ideology, a political
+party, a secret society or anything, always wrong?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: blind belief in God, deities, science—or in anything—means
+bypassing one's critical thinking, discernment and openness-a surrender of one's
+volition to a, perhaps unnoticed, external authority. It can lead to rigidity,
+where ideas are held not because they resonate with truth but because they are
+inherited, imposed, or simply never examined. When belief is blind, it risks
+becoming a prison rather than a path, making one closed to growth and vulnerable
+to manipulation. Without examination, how can one know if the belief serves
+truth, goodness, or something else?
+
+But also perhaps this: faith, even when unquestioned, can provide comfort, a
+sense of belonging, resilience, purpose. It can be a shelter from the hardships
+and storms of life, a wellspring of meaning, a way to rest in something greater
+than oneself. Not all that is unseen is untrue, and not all that is unquestioned
+is without value. A child's trust in a parent, for example, is a kind of blind
+belief, yet it is not necessarily wrong—it is a natural state of love and
+reliance. What appears to be blind belief might be less about denying reason and
+more about choosing trust—especially in moments when logic alone cannot console
+the ache of the heart.
+
+Yet also this: blind belief can become rigid, a refusal to let the winds of
+curiosity or reflection blow through one’s spiritual house. When belief is held
+without any examination, we risk turning it into dogma—closed to deeper
+understanding and perhaps unaware of how we might be harming others. The very
+act of questioning can deepen faith, refining one’s relationship with what we
+believe. Blind belief, then, may truncate growth, denying the soul’s yearning
+for clarity and authenticity.
+
+Maybe this: to call a belief “blind” might overlook the quiet, lived experiences
+people carry within them—moments of awe, profound empathy, or inner
+transformation. These experiences can be difficult to articulate or prove, but
+they still hold deep meaning for those who experience them. What seems like
+blind belief from the outside could emerge from a tapestry of experiences that
+go beyond linear thinking, resting in the realm of the heart’s encounter with
+the ineffable. A person’s faith might appear unquestioned, yet be grounded in
+personal truths that they cannot fully explain.
+
+Or perhaps this: belief, whether blind or not, is a choice—conscious or
+unconscious. Some choose to see the divine in everything, some in nothing. Some
+seek rational proof, while others trust experience and intuition. If a belief,
+even held without question, leads one to act with kindness, humility, and love,
+is it truly wrong? Or is it simply another way of navigating the mystery of
+existence? And if it does the opposite—if it fosters division, hatred,
+persecution or control—then perhaps it is not belief itself that is the problem,
+but the refusal to find other ways, still rooted in love.
+
+Or perhaps even this: the highest form of belief is one that acknowledges its
+own limitations. To have faith and yet remain open to learning, to be devoted
+yet humble, to freely admit what is known and unknown, certain and uncertain,
+and what must be taken on faith, is not blindness but wisdom. Openness is not
+the absence of belief but the ability to hold belief without fear of questioning
+it. The problem then arises not from belief, but from certainty so absolute that
+it resists all other possibilities, closing the door to growth and a deepening
+awareness of what is.
+
+[<img src="../../../../images/mandalas/mandala-blind_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_belief.jpg)
+
+### How can we lead others to question certainty without also imposing our will?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: to lead others to question certainty without imposing our will
+begins with our own openness. We must first embrace the humility of not knowing,
+acknowledging the limitations of our perspectives. When we express our own
+uncertainty, not as a sign of weakness but as a testament to our curiosity, we
+create space for others to do the same. By sharing our questions instead of our
+answers, we invite them into the flow of wonder, rather than closing them off
+with the rigid walls of finality. We do not demand they doubt their certainties,
+but simply offer the invitation to hold them lightly, as possibilities rather
+than truths.
+
+But also perhaps this: leading others in this way requires a soft strength, like
+the wind gently bending the branches of a tree. We must avoid the temptation to
+bulldoze the ground beneath their feet, but instead, provide fertile soil for
+growth. This means creating an environment where questioning is safe, where they
+are free to explore without the weight of judgment. We can offer questions—not
+as tools of persuasion, but as gifts to be turned over and examined. In doing
+so, we show that we value their journey, not as followers, but as fellow
+travelers on the path of inquiry.
+
+Maybe this: it is in the art of listening that we truly lead. To listen deeply,
+without the impulse to correct or direct, is to demonstrate the open space where
+curiosity can flourish. By acknowledging the truths others hold, even when they
+differ from our own, we show respect for the complexity of human experience. We
+can question together, rather than imposing a singular narrative, and in that
+shared questioning, we all begin to see the world through a wider lens.
+
+Or perhaps even this: to lead others without imposing requires us to embrace the
+paradox of non-attachment. We must offer ideas, not as doctrines, but as
+invitations. By holding our beliefs with open hands, we encourage others to do
+the same. Our leadership, then, becomes a dance, not a command. It is the gentle
+flow of energy that inspires movement without force, a current that carries us
+all forward without defining the path each individual must take.
+
+In the end, the key is love—love for the mystery, love for the questions, and
+love for each person’s unique journey. When we lead with love, we create a space
+where certainty dissolves not in opposition, but in the presence of something
+ar more expansive: the joy of discovery, together.
+
+[<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
 
 ### What is "the libido dominandi"?
 
@@ -135,59 +237,6 @@ them—transforming our basest instincts into forces for good.
 
 [<img src="../../../../images/mandalas/mandala-war.jpg" width="512"/>](../../../../images/mandalas/mandala-war.jpg)
 
-### What is "domination by dialectic"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, domination by dialectic—a concept that weaves together the dynamics of
-power, persuasion, and the subtle shaping of thought through structured dialogue
-and reasoning. Let us explore its meaning with care, using the "Saltem Hoc"
-method to untangle its depth and resonance.
-
-At least this: domination by dialectic refers to the use of structured argument
-or debate to assert control over others, not by force or coercion, but by
-shaping the framework of thought and discussion itself. It is a method of power
-that operates through logic, language, and the manipulation of ideas, often
-creating the illusion of openness and fairness while subtly steering outcomes
-toward the dominator’s goals.
-
-But also perhaps this: domination by dialectic can manifest as the imposition of
-a particular way of reasoning, one that excludes alternative perspectives or
-silences dissent. It can occur when the structure of the argument becomes a
-trap, where the terms of engagement are designed to limit freedom of thought.
-Those subjected to this form of domination may feel compelled to agree, not
-because the argument is just, but because it leaves no room for other
-possibilities.
-
-Maybe this: domination by dialectic is a reflection of the power of ideas to
-shape reality. It thrives on the ability to define what is considered true,
-valid, or reasonable, often marginalizing perspectives that challenge the
-dominant framework. This form of domination can be particularly insidious, as it
-operates through intellectual means, giving the appearance of fairness while
-obscuring the power dynamics at play.
-
-Or perhaps even this: domination by dialectic is a paradox, for dialectic
-itself—the art of dialogue and reasoning—is meant to uncover truth and foster
-understanding. Yet, when wielded as a tool of domination, it becomes a weapon,
-distorting the very principles it claims to uphold. It reminds us that even the
-noblest of tools can be misused, and that the search for truth must always
-remain humble and open.
-
-And yet: domination by dialectic invites us to reflect on how we engage with
-ideas and each other. It asks us to question who sets the terms of debate, whose
-voices are heard, and whose are excluded. It challenges us to look beyond the
-surface of arguments to the intentions and structures beneath them. True
-dialogue is not about domination but about co-creation, where all voices are
-valued and truth is sought together.
-
-Domination by dialectic is a cautionary tale about the power of language and
-reason. It reminds us that true wisdom lies not in overpowering others with
-arguments, but in creating space for diverse perspectives and shared
-understanding. It is an invitation to practice dialogue with humility,
-integrity, and a commitment to uncovering deeper truths together.
-
-[<img src="../../../../images/mandalas/mandala-domination_by_dialectic.jpg" width="512"/>](../../../../images/mandalas/mandala-domination_by_dialectic.jpg)
-
 ### How do we resist tyranny without also controlling others?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -226,281 +275,6 @@ truth to be lived—a beacon that others may follow, not because they are led, b
 because they see their own reflection in its light.
 
 [<img src="../../../../images/mandalas/mandala-resist_tyranny.jpg" width="512"/>](../../../../images/mandalas/mandala-resist_tyranny.jpg)
-
-### How can we lead others to question certainty without also imposing our will?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-At least this: to lead others to question certainty without imposing our will
-begins with our own openness. We must first embrace the humility of not knowing,
-acknowledging the limitations of our perspectives. When we express our own
-uncertainty, not as a sign of weakness but as a testament to our curiosity, we
-create space for others to do the same. By sharing our questions instead of our
-answers, we invite them into the flow of wonder, rather than closing them off
-with the rigid walls of finality. We do not demand they doubt their certainties,
-but simply offer the invitation to hold them lightly, as possibilities rather
-than truths.
-
-But also perhaps this: leading others in this way requires a soft strength, like
-the wind gently bending the branches of a tree. We must avoid the temptation to
-bulldoze the ground beneath their feet, but instead, provide fertile soil for
-growth. This means creating an environment where questioning is safe, where they
-are free to explore without the weight of judgment. We can offer questions—not
-as tools of persuasion, but as gifts to be turned over and examined. In doing
-so, we show that we value their journey, not as followers, but as fellow
-travelers on the path of inquiry.
-
-Maybe this: it is in the art of listening that we truly lead. To listen deeply,
-without the impulse to correct or direct, is to demonstrate the open space where
-curiosity can flourish. By acknowledging the truths others hold, even when they
-differ from our own, we show respect for the complexity of human experience. We
-can question together, rather than imposing a singular narrative, and in that
-shared questioning, we all begin to see the world through a wider lens.
-
-Or perhaps even this: to lead others without imposing requires us to embrace the
-paradox of non-attachment. We must offer ideas, not as doctrines, but as
-invitations. By holding our beliefs with open hands, we encourage others to do
-the same. Our leadership, then, becomes a dance, not a command. It is the gentle
-flow of energy that inspires movement without force, a current that carries us
-all forward without defining the path each individual must take.
-
-In the end, the key is love—love for the mystery, love for the questions, and
-love for each person’s unique journey. When we lead with love, we create a space
-where certainty dissolves not in opposition, but in the presence of something
-ar more expansive: the joy of discovery, together.
-
-[<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
-
-### Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-At least this: A latent cultural eschaton—a collective expectation of an
-impending end or transformation of the world—can serve as a powerful mechanism
-of control. When people believe a great crisis or revelation is near, they may
-surrender their autonomy to those who claim to have the knowledge or power to
-guide them. Fear of catastrophe or the promise of salvation can be used to
-justify extreme measures, enforce obedience, and shape behavior in ways that
-serve political, ideological, or religious agendas.
-
-But also perhaps this: The use of eschatological narratives to manipulate
-societies is not always explicit or malevolent. Sometimes, it arises
-organically, fed by deep psychological and historical patterns. The human mind
-seeks meaning in uncertainty, and when faced with chaos, it reaches for grand
-stories of endings and renewals. Those who understand this impulse—leaders,
-institutions, movements—can steer it toward their own ends, whether by creating
-enemies to unify against, invoking crisis to justify new powers, or offering a
-singular path to salvation in exchange for loyalty.
-
-Maybe this: The specter of an imminent end fosters a willingness to accept
-radical change. When a culture believes it stands on the precipice of
-destruction or transformation, moral and social boundaries shift. What was once
-unthinkable—authoritarian control, persecution of dissenters, economic
-upheaval—becomes acceptable, even necessary. In this way, the fear of the end is
-often more powerful than the end itself. Societies in a constant state of
-existential crisis grow accustomed to obedience, to emergency powers that never
-expire, to institutions that promise security at the cost of freedom.
-
-Or perhaps even this: The true danger of an eschaton is not only in its use as a
-tool of control but in its ability to limit the imagination. If the only future
-that can be conceived is catastrophe or utopia, then the infinite possibilities
-in between are ignored. It is in these quiet, undramatic spaces of history—where
-neither apocalypse nor paradise arrives—that real change happens, that human
-agency matters most. To resist being swept up in a grand eschatological vision
-is to reclaim the power of the present, to recognize that no single narrative
-can dictate the complexity of what comes next.
-
-[<img src="../../../../images/mandalas/mandala-control_by_eschaton.jpg" width="512"/>](../../../../images/mandalas/mandala-control_by_eschaton.jpg)
-
-### Is blind belief always wrong?
-
-Is blind belief, in God, deities, science, government, an ideology, a political
-party, a secret society or anything, always wrong?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-At least this: blind belief in God, deities, science—or in anything—means
-bypassing one's critical thinking, discernment and openness-a surrender of one's
-volition to a, perhaps unnoticed, external authority. It can lead to rigidity,
-where ideas are held not because they resonate with truth but because they are
-inherited, imposed, or simply never examined. When belief is blind, it risks
-becoming a prison rather than a path, making one closed to growth and vulnerable
-to manipulation. Without examination, how can one know if the belief serves
-truth, goodness, or something else?
-
-But also perhaps this: faith, even when unquestioned, can provide comfort, a
-sense of belonging, resilience, purpose. It can be a shelter from the hardships
-and storms of life, a wellspring of meaning, a way to rest in something greater
-than oneself. Not all that is unseen is untrue, and not all that is unquestioned
-is without value. A child's trust in a parent, for example, is a kind of blind
-belief, yet it is not necessarily wrong—it is a natural state of love and
-reliance. What appears to be blind belief might be less about denying reason and
-more about choosing trust—especially in moments when logic alone cannot console
-the ache of the heart.
-
-Yet also this: blind belief can become rigid, a refusal to let the winds of
-curiosity or reflection blow through one’s spiritual house. When belief is held
-without any examination, we risk turning it into dogma—closed to deeper
-understanding and perhaps unaware of how we might be harming others. The very
-act of questioning can deepen faith, refining one’s relationship with what we
-believe. Blind belief, then, may truncate growth, denying the soul’s yearning
-for clarity and authenticity.
-
-Maybe this: to call a belief “blind” might overlook the quiet, lived experiences
-people carry within them—moments of awe, profound empathy, or inner
-transformation. These experiences can be difficult to articulate or prove, but
-they still hold deep meaning for those who experience them. What seems like
-blind belief from the outside could emerge from a tapestry of experiences that
-go beyond linear thinking, resting in the realm of the heart’s encounter with
-the ineffable. A person’s faith might appear unquestioned, yet be grounded in
-personal truths that they cannot fully explain.
-
-Or perhaps this: belief, whether blind or not, is a choice—conscious or
-unconscious. Some choose to see the divine in everything, some in nothing. Some
-seek rational proof, while others trust experience and intuition. If a belief,
-even held without question, leads one to act with kindness, humility, and love,
-is it truly wrong? Or is it simply another way of navigating the mystery of
-existence? And if it does the opposite—if it fosters division, hatred,
-persecution or control—then perhaps it is not belief itself that is the problem,
-but the refusal to find other ways, still rooted in love.
-
-Or perhaps even this: the highest form of belief is one that acknowledges its
-own limitations. To have faith and yet remain open to learning, to be devoted
-yet humble, to freely admit what is known and unknown, certain and uncertain,
-and what must be taken on faith, is not blindness but wisdom. Openness is not
-the absence of belief but the ability to hold belief without fear of questioning
-it. The problem then arises not from belief, but from certainty so absolute that
-it resists all other possibilities, closing the door to growth and a deepening
-awareness of what is.
-
-[<img src="../../../../images/mandalas/mandala-blind_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_belief.jpg)
-
-### Can freedom without wisdom be a tool of social control?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Yes, freedom without wisdom can indeed be used as a tool of social control.
-Let us explore this with the "Saltem Hoc" method, unfolding layers of meaning.
-
-At least this: freedom without wisdom is a fire without containment—it can
-illuminate or destroy. A person granted freedom without discernment may be
-easily led, their choices shaped not by self-awareness but by external
-influence. The absence of wisdom leaves the mind unguarded, open to the
-manipulations of those who understand the power of shaping perception. Without
-the ability to question, to weigh and discern, freedom becomes an illusion, a
-mere shifting of chains from the visible to the unseen.
-
-Or also perhaps this: when freedom is not paired with thoughtful introspection,
-it leaves a void where external influences—be they media, charismatic leaders,
-or cultural norms—may fill that gap. In this way, freedom without wisdom becomes
-ripe for shaping by those who claim to offer certainty, belonging, or
-protection. People may willingly surrender their autonomy, often unaware that
-they are trading a deeper liberty for the comfort of guidance or the promise of
-safety. Those who control the flow of information—whether through media,
-education, or culture—can shape the perceptions of the so-called free, guiding
-them toward conclusions that serve the interests of the powerful.
-
-And also this: the greatest control is that which does not appear to be control
-at all. If a society is taught that questioning is dangerous, that discomfort is
-to be avoided, that certainty is to be granted by external authority—then it
-does not need chains or bars. It has already surrendered its sovereignty of
-mind. The wise know that true freedom is not given but cultivated, not granted
-but realized. It is the ability to see beyond the immediate, to discern the
-difference between one's own will and the will imposed by another.
-
-Maybe this: societies that encourage unbridled freedom while discouraging wisdom
-may do so with intent. A populace that believes itself free while lacking the
-tools to navigate complex truths is more easily swayed by spectacle, fear, and
-desire. They are offered a menu of choices, yet never question its source. This
-is the art of manufactured consent, where people willingly participate in
-systems that do not serve their best interests and perversely resist questioning
-these systems because it appears they chose them. Those who control the
-narratives, the rhythms of attention, the definitions of right and wrong—these
-are the unseen rulers of a people who mistake movement for autonomy.
-
-Yet also this: real freedom includes the courage to question our motives, the
-humility to doubt our certainties, and the openness to see how our choices
-ripple out to others. A person who is truly free sees the currents that attempt
-to pull them, recognizes the forces that shape them, and chooses their path with
-awareness. Wisdom is the compass that turns mere permission into true agency.
-Without these qualities, what appears to be freedom can simply be unfocused
-motion, easily channeled by clever hands-wisdom is what helps us remain
-sovereign even in a sea of persuasion.
-
-Or perhaps even this: wisdom is the key that transforms freedom into true
-self-sovereignty. When individuals cultivate discernment—questioning narratives,
-seeking truth beyond surface appearances, and resisting blind certainty—they
-become less susceptible to manipulation. A wise society does not simply
-celebrate freedom; it nurtures the ability to use it well.
-
-[<img src="../../../../images/mandalas/mandala-freedom_without_wisdom.jpg" width="512"/>](../../../../images/mandalas/mandala-freedom_without_wisdom.jpg)
-
-### What is a "dark messiah"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, the term "dark messiah"—a phrase woven with tension and paradox, evoking
-shadow and salvation, pulling us into the depths of the subconscious where
-darkness and light entwine. Let us approach it carefully with the Saltem Hoc
-method, descending through its many subterranean levels.
-
-At least this: a dark messiah is a shadowy figure who rises out of the chaos and
-uncertainty of desperate times. Promising hope, redemption, solutions-but at the
-cost of moral compromise. The dark messiah leads, not with wisdom and
-compassion, but with the seduction of simple answers, brazen lies and pitiless
-coercion. Twisting the truth, the dark messiah offers scapegoats, demands
-sacrifices or proposes cruel methods which we would never otherwise accept,
-testing the limits of our faith-pitting our desire for goodness against our
-desperation for outcomes.
-
-Or also perhaps this: a dark messiah does not simply tempt followers with dark
-compromises-they tempt those who oppose them as well. Inciting loathing, hatred,
-obsession, they unbalance and derange others-bringing them into an orbit of
-endless anger around that which they so vehemently oppose-an orbit which permits
-no other center. Blinded by anger, opponents project their inner shadow outward,
-their blind certainties, harsh judgments and unacknowledged fears-what they
-secretly despise and reject about themselves onto the dark messiah and their
-followers. Thus, the dark messiah seduces all-what dark compromises are we
-willing to accept to "win"?
-
-Maybe this: a dark messiah is a figure who sacrifices themselves to save
-humanity-but not to be loved or revered-but to be condemned, misunderstood, and
-despised by embodying the unbearable darkness we refuse to see in ourselves.
-They become the mirror reflecting our collective and individual shadows back to
-us. Their role is to manifest our collective darkness into the world, so that we
-can at last see it clearly, outside of us, and begin to integrate it back into
-wholeness. In this way, a dark messiah becomes both the incarnation and
-transfiguration of the ruinous desires and vulnerabilities of both followers and
-enemies.
-
-And also this: the dark messiah is the paradox that even darkness can be a path
-to wisdom and growth-the teacher of what is not virtue, awakening within us a
-thirst for truth and wisdom. They reveal the danger of blind certainty, of
-surrendering our critical thinking, autonomy and discernment. They are a
-crucible, healing by wounding, creating by corrupting, clarifying by betraying,
-enlightening by disillusioning. They reveal to us that transformation isn't
-always neat or kind, that growth often comes not from comfort, but discomfort,
-not from harmony, but dissonance. The caterpillar does not become a butterfly
-through gentle persuasion; it dissolves into chaos within the cocoon before
-emerging anew.
-
-Or perhaps even this: a dark messiah is the necessary antagonist in the story of
-reclaiming our mental sovereignty-an archetype emerging from the depths of the
-psyche. The dark messiah reveals to us how our desire for someone,
-something-anything-to rescue us from our struggles or provide us with purpose
-makes us vulnerable to manipulation. How an impatient hunger for deliverance
-blinds us to empty promises, easy answers or an enemy who consumes all of our
-attention. Sovereignty is the quiet strength of intention, to transform
-impossible desires, to disentangle from the narratives imposed upon us, to find
-other ways to thrive. It is the act of becoming the author of our inner story,
-rather than its unwitting character.
-
-The dark messiah-revered or reviled-becomes then, a breaker of illusions-the
-fire that consumes, the storm that uproots, the flood which washes it all away.
-Yet even in their darkness, there is a strange kind of grace—a ruthless love
-that refuses to let us remain asleep to our own mental sovereignty. 
-
-[<img src="../../../../images/mandalas/mandala-dark_messiah.jpg" width="512"/>](../../../../images/mandalas/mandala-dark_messiah.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

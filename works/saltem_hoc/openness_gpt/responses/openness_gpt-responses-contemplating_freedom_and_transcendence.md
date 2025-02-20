@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [What is freedom?](#what-is-freedom)
-* [Can freedom without wisdom be a tool of social control?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
+    * [Can freedom without wisdom be a tool of social control?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
 * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
 * [What is transcendence?](#what-is-transcendence)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
@@ -62,7 +62,7 @@ a practice, a way of being open to life in all its complexity and wonder.
 
 ### Can freedom without wisdom be a tool of social control?
 
-See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
+See [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
 
 ### What are "impossible expectations"?
 

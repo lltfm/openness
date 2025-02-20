@@ -63,6 +63,11 @@ included after each response.
     * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
     * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
     * [More...](./openness_gpt-responses-contemplating_leadership_and_authority.md)
+* Contemplating oligarchy and social control
+    * [What is "word warfare"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-word-warfare)
+    * [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
+    * [What is a "dark messiah"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-a-dark-messiah)
+    * [More...](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md)
 * Contemplating freedom and transcendence
     * [What is transcendence?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-transcendence) 
     * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-become-sovereign-in-our-mind)

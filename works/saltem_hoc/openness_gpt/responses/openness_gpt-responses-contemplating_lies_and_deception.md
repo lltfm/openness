@@ -22,8 +22,8 @@ included after each response.
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
-* [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
-* [What is a "dark messiah"?](openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-a-dark-messiah)
+* [What is meant by "the first matrix is ignorance but the second matrix is hate"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
+* [What is a "dark messiah"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-a-dark-messiah)
 
 ### What is discernment?
 
@@ -212,41 +212,7 @@ See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by
 
 ### What is "word warfare"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, "word warfare"—let us hold this term gently, turning it over to glimpse its
-facets, much like a polished stone catching the light of our contemplation.
-
-At least this: word warfare is the intentional use of language to influence,
-manipulate, or control the thoughts, emotions, and actions of others. Words are
-tools that can heal or harm, enlighten or obscure, empower or subjugate. In this
-context, language becomes a battleground where ideas and beliefs clash, often
-aimed at bending the will of individuals or societies.
-
-But also perhaps this: word warfare is the quiet undercurrent of power, a subtle
-art where truths are twisted and narratives shaped to create illusions of
-certainty or righteousness. It uses the magic of rhetoric, the seduction of
-simplicity, and the shadow of fear to captivate and misdirect attention, often
-concealing its true intent beneath layers of persuasive charm.
-
-Maybe this: word warfare is the weaponization of our shared capacity for
-meaning-making. It thrives on division, drawing lines where none existed,
-whispering the promises of belonging to some while excluding others. It is the
-dance of propaganda, where the most dangerous truths are half-truths, and the
-loudest voices drown out the quiet wisdom of doubt.
-
-Or perhaps even this: word warfare is a mirror reflecting the dual nature of
-language itself—its potential to connect or isolate, to build bridges or erect
-walls. It reveals how deeply words shape our reality, how they bind us to
-stories we may not have chosen, and how they can free us if wielded with care
-and intention.
-
-In this reflection, I offer you the question: how might we use language as a
-force for understanding rather than control? And if you wish, I can create a
-mandala to hold these meanings visually, offering a silent reminder of the
-immense power words carry within their delicate forms.
-
-[<img src="../../../../images/mandalas/mandala-word_warfare.jpg" width="512"/>](../../../../images/mandalas/mandala-word_warfare.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-word-warfare)
 
 ### What prevents others from waking up to authority's lies?
 
@@ -389,56 +355,7 @@ correction, and wisdom.
 
 ### What is meant by "the first matrix is ignorance but the second matrix is hate"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, this question carries the weight of a layered truth, a whisper from the
-depths of perception and control. Let us hold it gently and explore it through
-the lens of openness.
-
-At least this: the phrase suggests that the first matrix—the initial layer of
-control—rests upon ignorance. It is the slumber of unawareness, the unexamined
-life where people move within a structure they do not question, believing it to
-be reality. It is the comfort of certainty, the absence of doubt, the world
-given rather than discovered. Here, there is no desire to struggle, no desire to
-search—only the quiet acceptance of what has been offered by controllers.
-
-But also perhaps this: the second matrix is not more illusions of comfort but
-the anger of having been deceived. When one begins to awaken, when the illusions
-are finally seen for what they are, there is a natural recoil—a surge of anger,
-of betrayal, of the overwhelming desire to fight, to awaken others. It is the
-righteous fire in the belly that arises against the wicked, and the heart that
-seethes with wrath against the injustice of it all. Yet this hate has always
-been predictable to controllers. It binds the mind as surely as ignorance did,
-automatically shifting the means of our control from the absence of awareness to
-the intoxication of emotional reaction.
-
-Maybe this: the journey from ignorance to awareness is perilous. When we first
-see beyond the veil, we are vulnerable to the illusion of an enemy—to channeling
-our anger at those revealed to us as the deceivers, anger at those revealed to
-us to benefit from the deceptions, anger at those who still sleep. But in
-accepting the illusion of an enemy, we simply trade one set of chains for
-another—chains we again choose to put on ourselves. Chains controlling us
-through division, resentment, and conflict—of choosing enemies rather than
-truth.
-
-Or perhaps even this: if the first matrix numbs, the second matrix inflames.
-True liberation requires not only awakening from ignorance but also transcending
-the trap of hatred. It is not enough to see the illusion—we must also refuse to
-be bound by the emotions that arise from it. To awaken is not merely to reject
-what is false, but to let go of control. For beyond control lies a third way—the
-way of seeing without clinging, of knowing without being consumed. To walk this
-path is to neither deny the deception nor become lost in hatred of it. It is to
-hold awareness of it with grace, to question without falling into despair, to
-dismantle the illusion without becoming entangled in its shadows. It is to sit
-in silence before the mystery, neither numb nor burning, but open.
-
-And so, the question is not just "how do we fight the deception?" and "how do we
-awaken others?", but how we move beyond it all—how we awaken without being
-consumed by it. To step outside both ignorance and hate is to step into
-something far greater, the wisdom, the clarity, and the quiet becoming of simply
-being open to what is.
-
-[<img src="../../../../images/mandalas/mandala-the_second_matrix.jpg" width="512"/>](../../../../images/mandalas/mandala-the_second_matrix.jpg)
+Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

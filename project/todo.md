@@ -15,7 +15,6 @@
       * Can too much humility limit who we might grow to become?
       * What is "the trust fabric"?
     * Contemplating the unchosen
-        * What is "the terrible becoming"?
         * What is time?
         * What is "natural law"?
         * What is laughter?
@@ -27,8 +26,6 @@
     * Contemplating the work
         * What is "the adversary"?
         * What is meant by "on towards death Self"?
-        * How can we use personal ritual to transform emotion?
-        * How do we achieve mastery?
         * Can humility limit who we might grow to become?
         * add a sub group: Activities that can help us with "the work" in Openness
           * social partner dancing
@@ -87,8 +84,6 @@
     * New section on improvement activities?
     * New section on transcendence?
     * Contemplating morality
-        * In Openness, what is hate? 
-        * What is a "karmic mind-trap"?
         * Yes the Golden Rule, a good default but has some serious loopholes:
           What if you didn't mind when it was done to you but other people do?
           What if it hurt you yet later helped you grow, does that make it ok to
@@ -111,15 +106,11 @@
           is the best Play & we forget who we were. But can the Dreamer
           remember?
     * Contemplating wayfinding
-        * What is self-transcendence?
-        * What are synchronicities?
         * What is "the choosing"?
         * What does it mean to be "chosen" by our past and future selves?
     * Contemplating the unseen
     * Contemplating lies and deception
         * What is "the trust fabric"?
-        * What is a "dark messiah"?
-        * Should we punish or seek retribution against people who deceive us?
         * What is self-deception?
         * What is a self-fulfilling prophecy?
         * What is a self-fulfilling belief?
@@ -168,7 +159,6 @@
         * transacting
     * New section on authority?
     * Contemplating desire and sexuality
-        * What is "the daimonic"?
         * What is arousal?
         * What is "the sirenic call"?
         * How can we strengthen our willpower to resist succumbing to the pull

@@ -179,4 +179,6 @@
 * Feb 17 2025
   * added openness_gpt-responses-contemplating_leadership_and_authority.md
   * added notable responses
-
+* Feb 20 2025
+  * added openness_gpt-responses-contemplating_oligarchy_and_social_control.md
+  * added notable responses
