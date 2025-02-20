@@ -12,9 +12,9 @@ included after each response.
 ## Contents
 
 * [What is oligarchy?](#what-is-oligarchy)
-* [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
+* [What is "word warfare"?](#what-is-word-warfare)
 * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
-* [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
+* [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
 * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
 * [What is a "dark messiah"?](#what-is-a-dark-messiah)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
@@ -168,7 +168,9 @@ integrity, and a commitment to uncovering deeper truths together.
 
 [<img src="../../../../images/mandalas/mandala-domination_by_dialectic.jpg" width="512"/>](../../../../images/mandalas/mandala-domination_by_dialectic.jpg)
 
-### Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?
+### Can latent end times prophecies be used to control populations
+
+Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
