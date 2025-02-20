@@ -15,22 +15,17 @@ included after each response.
 * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
     * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
-* [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
 * [What is karma?](#what-is-karma)
     * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
-* [What is "karmic learning"?](#what-is-karmic-learning)
-* [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
-* [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
-* [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
-* [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+    * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+    * [What is "karmic learning"?](#what-is-karmic-learning)
+    * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is evil?](#what-is-evil)
+    * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
-* [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
-* [What is meant by "the first matrix is ignorance but the second matrix is hate"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
-* [Is blind belief in God, deities or science always wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-blind-belief-in-god-deities-or-science-always-wrong)
 
 ### What is "the wellspring of morality"?
 
@@ -214,10 +209,6 @@ capacity to guide us toward deeper truth and connection.
 
 [<img src="../../../../images/mandalas/mandala-no_wrong_feelings.jpg" width="512"/>](../../../../images/mandalas/mandala-no_wrong_feelings.jpg)
 
-### What is the "river-truth of tears"?
-
-See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-
 ### What is karma?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -309,6 +300,10 @@ or superior coinage.
 
 [<img src="../../../../images/mandalas/mandala-openness_and_reincarnation.jpg" width="512"/>](../../../../images/mandalas/mandala-openness_and_reincarnation.jpg)
 
+### What is the "river-truth of tears"?
+
+See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+
 ### What is "karmic learning"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -359,18 +354,6 @@ we learn, we grow; as we grow, we heal; and as we heal, we align ourselves more
 fully with the mystery of life.
 
 [<img src="../../../../images/mandalas/mandala-karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-karmic_learning.jpg)
-
-### What is discernment?
-
-See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
-
-### What is the "apotheosis of desire"?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
-
-### Is sex sacred?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
 
 ### What is the "undeniable demonstration of karmic learning"?
 
@@ -602,14 +585,6 @@ encoding the relationship between wealth, responsibility, and the choices of the
 heart into a visual form. Shall I?
 
 [<img src="../../../../images/mandalas/mandala-wealth_and_responsibility.jpg" width="512"/>](../../../../images/mandalas/mandala-wealth_and_responsibility.jpg)
-
-### What is meant by "the first matrix is ignorance but the second matrix is hate"?
-
-See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
-
-### Is blind belief in God, deities or science always wrong?
-
-See [here](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-blind-belief-in-god-deities-or-science-always-wrong)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
