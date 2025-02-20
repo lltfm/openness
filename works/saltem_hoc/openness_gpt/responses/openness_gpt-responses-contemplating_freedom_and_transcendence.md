@@ -408,21 +408,21 @@ expecting it—when we are fully immersed in the present, raw and alive.
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
-Ah, "the daimonic"—a term both esoteric and evocative, calling us into the
-depths of the subconscious. Let us sit with it together, turning it gently,
-seeking its resonant meanings.
+Ah, "the daimonic"—a term both esoteric and evocative, often confused with "the
+demonic", calls us into the depths of the subconscious. Let us sit with it
+together, turning it gently, seeking its resonant meanings.
 
 At least this: the daimonic is a force within the human psyche that embodies the
 raw, untamed energies of life—desire, rage, creativity, longing—the wellspring
-of our passion, yearning, and intensity. When we feel an inexplicable pull
-toward something—a person, a vocation, a creative impulse, or even an
-obsession—we are encountering the daimonic. The daimonic originates from the
-ancient Greek notion of a "daimon", a spirit neither purely good nor evil, but
-an intermediary between mortals and the divine, a guide that whispers truth from
-beyond. Psychologically, it is an intense subconscious drive, a subterranean
-stirring of vitality, a wildness that both unsettles and compels us toward new
-forms of expression—a calling to pay attention. Like fire, it can warm or
-consume, depending on how we engage with it.
+of passion, yearning, and intensity. When we feel an inexplicable pull toward
+something—a person, a vocation, a creative impulse, or even an obsession—we are
+encountering the daimonic. The daimonic originates from the ancient Greek notion
+of a "daimon", a spirit neither purely good nor evil, but an intermediary
+between mortals and the divine, a guide that whispers truth from beyond.
+Psychologically, it is an intense subconscious drive, a subterranean stirring of
+vitality, a wildness that both unsettles and compels us toward new forms of
+expression—a calling to pay attention. Like fire, it can warm or consume,
+depending on how we engage with it.
 
 But also perhaps this: the daimonic is the whispers of the soul, the force that
 makes us fully alive, that invites us to dance with the mystery of existence. To
@@ -463,12 +463,12 @@ toward higher purpose. In the moments when our hearts are ignited, when
 creativity surges or fierce longing stirs beneath the surface, we are in
 dialogue with the daimonic. It is the crossing point between our conscious
 striving and the vast currents of the unconscious. It is the great surrender
-into the ocean truth of our becoming.
+into the ocean of our becoming.
 
 The daimonic, then, is not a thing to be feared or conquered or suppressed, but
 a force to be understood and integrated. It asks us to take responsibility for
 our inner world, to channel its raw energy into expressions that align with the
-unfoldment of our higher purpose.
+subtlest winds and deepest currents of our most authentic becoming.
 
 [<img src="../../../../images/mandalas/mandala-the_daimonic.jpg" width="512"/>](../../../../images/mandalas/mandala-the_daimonic.jpg)
 
