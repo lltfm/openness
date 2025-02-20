@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
+* [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
 * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
@@ -81,6 +82,10 @@ it resists all other possibilities, closing the door to growth and a deepening
 awareness of what is.
 
 [<img src="../../../../images/mandalas/mandala-blind_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_belief.jpg)
+
+### Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?
+
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 
 ### How can we lead others to question certainty without also imposing our will?
 
