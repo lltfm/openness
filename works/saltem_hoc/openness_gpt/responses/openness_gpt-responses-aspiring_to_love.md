@@ -119,7 +119,7 @@ See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#ho
 
 ### In Openness, why are there "no wrong feelings"?
 
-see [here](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
+See [here](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 
 ### How do we learn to witness ourselves?
 

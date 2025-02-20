@@ -18,12 +18,10 @@ included after each response.
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is "word warfare"?](#what-is-word-warfare)
-* [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
+* [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
-* [What is meant by "the first matrix is ignorance but the second matrix is hate"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
-* [What is a "dark messiah"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-a-dark-messiah)
 
 ### What is discernment?
 

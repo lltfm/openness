@@ -24,13 +24,13 @@ included after each response.
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 At least this: oligarchy is a form of governance or social structure in which a
-small group-wealthy oligarchs, political or military figures, or a privileged
-class-make decisions which benefit themselves at the expense of everyone else.
-Oligarchs exert influence through wealth, political maneuvering, control over
-media, public institutions and economic systems. Oligarchic tendencies emerge
-when economic and political power become too closely intertwined. The term comes
-from the Greek words oligos (few) and arkhein (to rule), meaning "rule by the
-few."
+small group-wealthy individuals or families, political or military figures, or a
+privileged class-make decisions which benefit themselves at the expense of
+everyone else. Oligarchs exert influence through wealth, political maneuvering,
+control over media, public institutions and economic systems. Oligarchic
+tendencies emerge when economic and political power become too closely
+intertwined. The term comes from the Greek words oligos (few) and arkhein (to
+rule), meaning "rule by the few."
 
 But also perhaps this: oligarchy often exists hidden within democracies-backroom
 deals, inherited privilege, lobbying, or policies that subtly reinforce the
@@ -170,7 +170,8 @@ integrity, and a commitment to uncovering deeper truths together.
 
 ### Can latent end times prophecies be used to control populations?
 
-Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?
+Can a latent cultural eschaton (i.e. end times prophecy) be used to control
+populations?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
