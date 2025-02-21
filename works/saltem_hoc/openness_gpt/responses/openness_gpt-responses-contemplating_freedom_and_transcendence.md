@@ -63,7 +63,7 @@ a practice, a way of being open to life in all its complexity and wonder.
 
 ### Can freedom without wisdom be a tool of social control?
 
-See [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
+Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
 
 ### Is free will real, or is everything predetermined?
 
