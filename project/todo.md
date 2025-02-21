@@ -5,6 +5,10 @@
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * What is "the certainty of uncertainty"? 
+      * What is "oligarchic cycle"?
+      * What is propaganda?
+      * How do we discern propaganda?
       * inhibition 
       * What is a "karmic mind-trap"?
       * What is arousal?
@@ -82,7 +86,8 @@
           * the call of the unchosen path
     * New section on mastery?
     * New section on improvement activities?
-    * New section on transcendence?
+    * Contemplating freedom and transcendence
+      * What is an expanded state?
     * Contemplating morality
         * Yes the Golden Rule, a good default but has some serious loopholes:
           What if you didn't mind when it was done to you but other people do?
@@ -135,7 +140,6 @@
         * What are the limits of words?
         * What is certainty?
             * no higher certainty than uncertainty
-            * The Certainty of Uncertainty
         * What is an epitome?
         * In Openness, what is "westward"?
         * In Openness, what is "a worthy vessel"?
