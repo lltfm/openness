@@ -25,6 +25,10 @@ included after each response.
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
+    * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
+* [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+    * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
+* [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
 
 ### What is "the wellspring of morality"?
@@ -354,6 +358,18 @@ we learn, we grow; as we grow, we heal; and as we heal, we align ourselves more
 fully with the mystery of life.
 
 [<img src="../../../../images/mandalas/mandala-karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-karmic_learning.jpg)
+
+### What is discernment?
+
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
+
+### What is the "apotheosis of desire"?
+
+See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+
+### Is sex sacred?
+
+See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
 
 ### What is the "undeniable demonstration of karmic learning"?
 
