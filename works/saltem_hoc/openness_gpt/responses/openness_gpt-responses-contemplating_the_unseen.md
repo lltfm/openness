@@ -13,8 +13,6 @@ included after each response.
 
 * [What is "the unseen"?](#what-is-the-unseen)
 * [What are emotions?](#what-are-emotions)
-* [What is love?](./openness_gpt-responses-aspiring_to_love.md#what-is-love)
-* [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
 * [What is synchronicity?](#what-is-synchronicity)
@@ -25,11 +23,8 @@ included after each response.
 * [What is ego?](#what-is-ego)
 * [What is "the shadow"?](#what-is-the-shadow)
 * [What is attachment?](#what-is-attachment)
-* [What is meant by being "lost in literalism"?](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
-    * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](./openness_gpt-responses-contemplating_morality.md#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
 * [What is trauma?](#what-is-trauma)
-* [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is "the witness of the circle"?](#what-is-the-witness-of-the-circle)
 
 ### What is "the unseen"?

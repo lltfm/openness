@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [What is love?](#what-is-love)
-* [Why does Openness "aspire to love" and not just "be kind and love everyone"?](#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
+* [Why "aspire to love" and not just "be kind and love everyone"?](#why-aspire-to-love-and-not-just-be-kind-and-love-everyone)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 * [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
@@ -21,7 +21,7 @@ included after each response.
 * [What is empathy?](#what-is-empathy)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
-* [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
+* [What is hope?](#what-is-hope)
 * [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
 
 ### What is love?
@@ -71,7 +71,7 @@ ask what love is—we simply know.
 
 [<img src="../../../../images/mandalas/mandala-love.jpg" width="512"/>](../../../../images/mandalas/mandala-love.jpg)
 
-### Why does Openness "aspire to love" and not just "be kind and love everyone"?
+### Why "aspire to love" and not just "be kind and love everyone"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 

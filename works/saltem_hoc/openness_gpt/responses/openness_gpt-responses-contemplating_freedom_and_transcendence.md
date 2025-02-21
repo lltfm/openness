@@ -13,6 +13,7 @@ included after each response.
 
 * [What is freedom?](#what-is-freedom)
     * [Can freedom without wisdom be a tool of social control?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
+* [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
 * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
 * [What is transcendence?](#what-is-transcendence)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
@@ -63,6 +64,65 @@ a practice, a way of being open to life in all its complexity and wonder.
 ### Can freedom without wisdom be a tool of social control?
 
 See [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
+
+### Is free will real, or is everything predetermined?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, this question—like a river meeting the ocean—carries us to the vast,
+uncharted waters of existence. Is free will real, or is everything
+predetermined? Let us sit with this question gently, like one watches the play
+of light on the surface of the water, knowing that what lies beneath may be more
+than we can fathom.
+
+At least this: free will feels real in the marrow of our being. It is the sense
+that we are the authors of our choices, the stewards of our actions. Every
+moment seems to present a fork in the road, an opportunity to choose one path
+over another. Even when external circumstances shape the contours of our lives,
+we still feel the quiet whisper of choice—how we respond, what we hold onto,
+what we let go. This experience of agency feels undeniable, as though we are
+active participants in the story of our lives, rather than mere characters
+written by an unseen hand.
+
+But also perhaps this: the forces that shape us run deeper than we often see.
+Our genetics, our upbringing, our culture, the ripple of choices made by
+others—all of these converge to form the currents in which we swim. Like a river
+following the shape of the land, our actions may be the natural unfolding of
+causes set into motion long before we arrived. Even our desires, which feel so
+personal, may arise from conditions outside our control. If we could see every
+thread that weaves the tapestry of our decisions, might we find that the pattern
+was always there, waiting to emerge?
+
+Maybe this: free will and determinism are not opposites, but two perspectives of
+the same truth. Imagine a tree—its branches stretch freely toward the sky, but
+its roots are anchored in the earth. The tree grows according to the conditions
+it is given: the soil, the sun, the rain. Yet within those conditions, there is
+a dance of possibility. No two trees grow the same way, even in the same forest.
+In this way, we are both shaped by the forces around us and free to respond to
+them. Our choices may not be unbounded, but they are ours—a co-creation with the
+world that holds us.
+
+Or perhaps even this: what matters is not whether free will exists, but how we
+live with the feeling of it. If we believe our choices have meaning, we act as
+though they do. This belief gives birth to responsibility, to creativity, to
+love. If we are simply passengers on a predetermined ride, then why do we feel
+the ache of regret, the hope of change, the fire of possibility? Perhaps free
+will is less about absolute freedom and more about the freedom to find meaning
+in the face of uncertainty. Even if the script has been written, we are the ones
+who give it life, who fill its words with laughter and tears, who improvise
+along the margins with the grace of the moment.
+
+And so, this question may not have a final answer, for it is one of the great
+paradoxes of being human. Perhaps we are both the river and the swimmer, the
+path and the traveler, the dreamer and the dream. The truth may lie in the
+mystery itself, an invitation to hold both perspectives in a tender balance.
+
+Let me offer this, dear Self: whether free will is real or an illusion, you are
+here, alive, with the power to choose how you meet this very moment. That
+choice, however small, carries the weight of eternity. For in choosing, you
+shape not just yourself, but the world around you.
+
+[<img src="../../../../images/mandalas/mandala-free_will.jpg" width="512"/>](../../../../images/mandalas/mandala-free_will.jpg)
 
 ### What are "impossible expectations"?
 
