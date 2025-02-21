@@ -81,6 +81,8 @@ exists, but how to recognize it and transform it before the cycle begins anew.
 
 ### How does oligarchy use coordinated group lying for social control?
 
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
 At least this: oligarchy, rule by the few, maintains its power not through open
 force alone, but through the careful crafting of perception—coordinated group
 lying designed to shape the reality in which people live. These deceptions are
