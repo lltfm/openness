@@ -147,6 +147,10 @@ constructed world, the illusion will finally collapse.
 
 [<img src="../../../../images/mandalas/mandala-oligarchy_and_coordinated_group_lying.jpg" width="512"/>](../../../../images/mandalas/mandala-oligarchy_and_coordinated_group_lying.jpg)
 
+### What is "coordinated group lying & deception"?
+
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
+
 ### What is "word warfare?"
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
