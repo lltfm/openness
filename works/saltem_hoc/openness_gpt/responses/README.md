@@ -10,7 +10,7 @@ included after each response.
 
 * Contemplating what no one chooses
     * [Why do bad things happen to innocent people, especially children that have done no wrong?](./openness_gpt-responses-contemplating_the_unchosen.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
-    * [Is free will real, or is everything predetermined?](./openness_gpt-responses-contemplating_the_unchosen.md#is-free-will-real-or-is-everything-predetermined)
+    * [Why does everything change?](./openness_gpt-responses-contemplating_the_unchosen.md#why-does-everything-change)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen.md#what-happens-after-we-die)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
 * How do we find our way?
@@ -44,19 +44,19 @@ included after each response.
     * [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
 * Contemplating blind certainty and control
-    * [Is excluding others wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-excluding-others-wrong)
+    * [Is blind belief always wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-blind-belief-always-wrong)
     * [What is evil?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil)
     * [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
     * [More...](./openness_gpt-responses-contemplating_blind_certainty_and_control.md)
 * Contemplating ridicule and shame
-    * [What is ridicule?](openness_gpt-responses-contemplating_ridicule_and_shame#what-is-ridicule)
-    * [How do we rise above ridicule?](openness_gpt-responses-contemplating_ridicule_and_shame#how-do-we-rise-above-ridicule)
+    * [What is ridicule?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#what-is-ridicule)
+    * [How do we rise above ridicule?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-do-we-rise-above-ridicule)
     * [How is shame the guardian with outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
-    * [More...](openness_gpt-responses-contemplating_ridicule_and_shame)
+    * [More...](./openness_gpt-responses-contemplating_ridicule_and_shame.md)
 * Contemplating lies and deception
     * [Are UFOs a deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#are-ufos-a-deception)
     * [What is coordinated group lying & deception?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
-    * [What is "word warfare"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-word-warfare)
+    * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
 * Contemplating leadership and authority
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
@@ -65,7 +65,7 @@ included after each response.
     * [More...](./openness_gpt-responses-contemplating_leadership_and_authority.md)
 * Contemplating oligarchy and social control
     * [What is "word warfare"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-word-warfare)
-    * [Can a latent cultural eschaton (i.e. end times prophecy) be used to control populations?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-a-latent-cultural-eschaton-ie-end-times-prophecy-be-used-to-control-populations)
+    * [Can latent end times prophecies be used to control populations?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [What is a "dark messiah"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-a-dark-messiah)
     * [More...](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md)
 * Contemplating freedom and transcendence
