@@ -13,12 +13,12 @@ included after each response.
 
 * [What is discernment?](#what-is-discernment)
 * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
-* [Are UFOs a deception?](#are-ufos-a-deception)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
+    * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
+    * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
     * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
-* [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
 
@@ -209,7 +209,7 @@ See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by
 
 ### What is "word warfare"?
 
-Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-word-warfare)
+Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control#what-is-word-warfare)
 
 ### What prevents others from waking up to authority's lies?
 
