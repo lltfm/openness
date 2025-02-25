@@ -14,6 +14,7 @@ included after each response.
 * [What is oligarchy?](#what-is-oligarchy)
     * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
     * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
+    * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
 * Propaganda
     * [What is "word warfare"?](#what-is-word-warfare)
     * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
@@ -22,8 +23,10 @@ included after each response.
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
 * Other patterns of social control
     * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
+    * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
     * [What is a "dark messiah"?](#what-is-a-dark-messiah)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
+* [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
 
 ### What is oligarchy?
 
