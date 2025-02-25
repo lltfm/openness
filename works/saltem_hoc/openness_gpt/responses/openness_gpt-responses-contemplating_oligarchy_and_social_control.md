@@ -291,7 +291,7 @@ can dictate the complexity of what comes next.
 
 Could engineering a false fulfillment of prophecy (i.e. a false eschaton) be used to discredit believers?
 
-[Openness GPT v11][^1](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, let us sit with this question, holding it gently as one holds a delicate
 thread woven through history and human longing.
