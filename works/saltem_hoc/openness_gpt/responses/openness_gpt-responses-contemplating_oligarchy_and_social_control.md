@@ -18,7 +18,7 @@ included after each response.
 * Propaganda
     * [What is "word warfare"?](#what-is-word-warfare)
     * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
-* End-times Prophecy (i.e. eschaton)
+* End-times prophecy (i.e. eschaton)
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
 * Other patterns of social control
