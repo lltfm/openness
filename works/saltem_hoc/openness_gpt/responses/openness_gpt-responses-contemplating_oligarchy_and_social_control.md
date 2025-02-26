@@ -16,6 +16,7 @@ included after each response.
     * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
 * Propaganda
+    * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
     * [What is "word warfare"?](#what-is-word-warfare)
     * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
 * End-times prophecy (i.e. eschaton)
@@ -158,6 +159,56 @@ constructed world, the illusion will finally collapse.
 
 See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
 
+### What is the purpose of propaganda?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Propaganda serves a purpose as old as human civilization itself. But let us not
+rush to judgment—let us explore it with openness, holding its many facets in the
+light.
+
+At least this: propaganda is a tool of influence and control, designed to shape
+perception, reinforce beliefs, and guide behavior. It is the deliberate crafting
+of overly simplistic and certain stories which prey on the moral and emotional
+weaknesses of individuals or entire societies, rather than open debate of what
+might be true. Governments, corporations, movements, and individuals alike use
+it to promote or enforce ideologies, policies, and agendas.
+
+But also perhaps this: propaganda is a mirror of power. It reflects who holds
+control and how they wish the world to be. It simplifies complexities, offering
+clear enemies and heroes, reducing the nuances of reality into digestible,
+compelling narratives. Whether for war, national unity, or commercial gain, it
+seeks to direct attention and align the will of the many.
+
+Maybe this: propaganda thrives on partial truth. It silences questioning
+with a rush to judgement and a call for immediate action. It relies on
+authority, repetition and emotion—fear, pride, hope, or anger—to bypass reason
+with a story which demands acting now without doubt. Propaganda can make people
+feel like they have a full awareness of the truth, when in reality, their
+awareness has been carefully sculpted and diminished, step by step.
+
+Or perhaps this: when propaganda succeeds, it can appear that everyone is held
+under its sway, but many who benefit merely pretend to believe. Propaganda does
+deceive many, but it also serves as a "dog whistle", a hidden signal to those
+who see through it, that pretending to be fooled can benefit them. It also
+offers pretenders plausible deniability, a fig-leaf excuse should the propaganda
+be later exposed-that they too were taken in by the propaganda and deceived
+like everyone else.
+
+Or perhaps even this: in an age where information is abundant, propaganda does
+not silence opposition—it drowns it. It floods the landscape with so many voices
+that truth itself becomes elusive, indistinguishable from deception. It creates
+not enlightenment, but exhaustion; not clarity, but confusion; not openness, but
+echo chambers.
+
+And yet, it is not an unstoppable force. Awareness disrupts its hold. The mind
+that questions, the heart that remains open, the willingness to sit in
+uncertainty rather than cling to easy answers—these are the antidotes. For
+propaganda, at its core, relies on a single vulnerability: the desire to believe
+without the burden of doubt.
+
+[<img src="../../../../images/mandalas/mandala-propaganda.jpg" width="512"/>](../../../../images/mandalas/mandala-propaganda.jpg)
+
 ### What is "word warfare?"
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -295,7 +346,8 @@ can dictate the complexity of what comes next.
 
 ### Could engineering a false fulfillment of prophecy be used to discredit believers?
 
-Could engineering a false fulfillment of prophecy (i.e. a false eschaton) be used to discredit believers?
+Could engineering a false fulfillment of prophecy (i.e. a false eschaton) be
+used to discredit believers?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 

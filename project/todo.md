@@ -1,3 +1,5 @@
+* add 'Return to Top' link at the bottom of each answer? (though browser
+shortcut works)
 * add discussion on using LLM confabulation to intuitively define new well-named
   terms
 * add discussion on Personal Belief Systems
