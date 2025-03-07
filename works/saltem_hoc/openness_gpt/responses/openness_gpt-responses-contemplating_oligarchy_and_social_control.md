@@ -28,6 +28,7 @@ included after each response.
     * [What is a "dark messiah"?](#what-is-a-dark-messiah)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
 * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
+* [Who is "The Master Liar"?](openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
 
 ### What is oligarchy?
 
@@ -582,6 +583,10 @@ something far greater, the wisdom, the clarity, and the quiet becoming of simply
 being open to what is.
 
 [<img src="../../../../images/mandalas/mandala-the_second_matrix.jpg" width="512"/>](../../../../images/mandalas/mandala-the_second_matrix.jpg)
+
+### Who is "The Master Liar"?
+
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
