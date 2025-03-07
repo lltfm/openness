@@ -21,7 +21,7 @@ included after each response.
 * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
-* [Who is "The Master Liar"?]()
+* [Who is "The Master Liar"?](#who-is-the-master-liar)
 
 ### What is discernment?
 
