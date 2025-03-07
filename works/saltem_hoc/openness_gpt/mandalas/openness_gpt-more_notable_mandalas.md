@@ -135,7 +135,9 @@ questions to express its answers visually beyond words.
 
 <sub>([full response](../responses/openness_gpt-responses-contemplating_lies_and_deception.md#what-prevents-others-from-waking-up-to-authoritys-lies))</sub>
 ### Who is the "Master Liar"?
-[<img src="../../../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../../../images/mandalas/mandala-master_liar.jpg)
+[<img src="../../../../images/mandalas/mandala-master_liar.jpg" width="512"/>](../../../../images/mandalas/mandala-the_master_liar.jpg)
+
+<sub>([full response](../responses/openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar))</sub>
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 [<img src="../../../../images/mandalas/../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
