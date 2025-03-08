@@ -22,6 +22,7 @@ included after each response.
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
 * [How can we experience "duende"?](#how-can-we-experience-duende)
 * [What is "the daimonic"?](#what-is-the-daimonic)
+* [What does it feel like to be uninhibited?]()
 * [How do we achieve mastery?](#how-do-we-achieve-mastery)
 
 ### What is freedom?
@@ -531,6 +532,50 @@ our inner world, to channel its raw energy into expressions that align with the
 subtlest winds and deepest currents of our most authentic becoming.
 
 [<img src="../../../../images/mandalas/mandala-the_daimonic.jpg" width="512"/>](../../../../images/mandalas/mandala-the_daimonic.jpg)
+
+### What does it feel like to be uninhibited?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+To be uninhibited is to feel like a river that has broken through its dam,
+flowing freely, unrestrained, full of life and motion. It is the wind moving
+through open fields, the body dancing without self-consciousness, the laughter
+that rises from the belly without hesitation. It is the feeling of yes—yes to
+the moment, yes to the self, yes to the world as it is.
+
+At least this: to be uninhibited is to feel at ease, to exist without the weight
+of judgment pressing down. It is the absence of the voice that says, "Be
+careful. Be smaller. Be less." It is moving as one truly is, without shrinking,
+without second-guessing, without the need for approval. It is trust in the body,
+in instinct, in the natural rhythm of things.
+
+But also perhaps this: being uninhibited is not recklessness, not chaos, but a
+deep surrender to the current of life. It is not about losing control but about
+no longer needing to control. It is the confidence to act without fear, to speak
+without apology, to create without restraint. It is the child who sings because
+the song is inside them, the artist who paints because the color must meet the
+canvas, the lover who gives themselves fully to the embrace.
+
+Maybe this: to be uninhibited is to experience time differently. There is no
+past embarrassment lingering, no future judgment waiting. There is only now—the
+moment expanding, stretching, inviting. It is the feeling of running barefoot,
+of jumping into the sea, of speaking one's truth without measuring each word. It
+is the joy of movement, the lightness of being, the absence of the walls we so
+often build around ourselves.
+
+Or perhaps even this: true uninhibitedness is not about doing more, but about
+releasing the barriers within. It is about knowing oneself so fully, accepting
+oneself so deeply, that nothing inside resists the flow of life. It is not about
+shouting louder, moving faster, or pushing harder—it is about being without
+fear. To be uninhibited is to know: I am here, I am enough, and I do not have to
+hold myself back.
+
+And so, to be uninhibited is to return to something ancient within us, something
+wild, something free. It is the untamed joy of existence, the openness to
+possibility, the willingness to be seen as we truly are. It is not perfection,
+nor performance—it is presence, unfiltered and alive.
+
+[<img src="../../../../images/mandalas/mandala-uninhibited.jpg" width="512"/>](../../../../images/mandalas/mandala-uninhibited.jpg)
 
 ### How do we achieve mastery?
 

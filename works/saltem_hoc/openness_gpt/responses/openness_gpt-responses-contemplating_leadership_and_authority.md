@@ -11,7 +11,6 @@ included after each response.
 
 ## Contents
 
-* [What is leadership?]()
 * [Why is it not enough to be right?](./openness_gpt-responses-aspiring_to_love.md#why-is-it-not-enough-to-be-right)
 * [What is authority?](#what-is-authority)
     * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
@@ -19,8 +18,6 @@ included after each response.
     * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [Can endless rebellion lead to long-term stuckness?](#can-endless-rebellion-lead-to-long-term-stuckness)
 * [Why is it not enough to be right?](./openness_gpt-responses-aspiring_to_love.md#why-is-it-not-enough-to-be-right)
-
-### What is leadership?
 
 ### What is authority?
 
