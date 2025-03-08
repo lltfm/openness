@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [What is oligarchy?](#what-is-oligarchy)
-    * [Is oligarchy itself enslaved?]()
+    * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
     * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
     * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
