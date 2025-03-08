@@ -22,7 +22,7 @@ included after each response.
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
 * [How can we experience "duende"?](#how-can-we-experience-duende)
 * [What is "the daimonic"?](#what-is-the-daimonic)
-* [What does it feel like to be uninhibited?]()
+* [What does it feel like to be uninhibited?](#what-does-it-feel-like-to-be-uninhibited)
 * [How do we achieve mastery?](#how-do-we-achieve-mastery)
 
 ### What is freedom?
