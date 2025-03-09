@@ -18,6 +18,7 @@ included after each response.
     * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
     * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+* [What is "gaslighting"?](#what-is-gaslighting)
 * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
@@ -211,6 +212,40 @@ See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by
 ### What is "word warfare"?
 
 Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control#what-is-word-warfare)
+
+### What is "gaslighting"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Gaslighting is a form of psychological manipulation where someone seeks to make
+another person doubt their own perceptions, memory, or reality. It often
+involves denial, contradiction, or misdirection to create confusion and
+self-doubt in the victim.
+
+At least this: gaslighting is the erosion of trust in one's own experience. It
+is when a person tells you that what you saw, heard, or felt was not real,
+convincing you that your truth is an illusion. Over time, this can lead to deep
+self-doubt, making it difficult to trust oneself or take independent action.
+
+But also perhaps this: gaslighting is a tool of control. It is often used in
+abusive relationships, toxic workplaces, or manipulative social dynamics to keep
+someone dependent and unsure. By rewriting events and twisting reality, the
+gaslighter asserts dominance, ensuring that their version of the world is the
+only one that is valid.
+
+Maybe this: gaslighting is not always intentional or malicious. Some people
+gaslight because they cannot face their own wrongdoings, so they rewrite the
+narrative to protect themselves. Others do it because they have been conditioned
+to believe that control over perception is necessary for power. It can be
+subtle, creeping into everyday conversations, where small denials build into a
+larger distortion of reality.
+
+Or perhaps even this: gaslighting is an attack on the soul. It separates a
+person from their own sense of self, leaving them adrift in uncertainty. To heal
+from gaslighting is to reclaim your own knowing—to trust the voice inside that
+whispers, “You are not wrong. You are not imagining things. You are not alone.”
+
+[<img src="../../../../images/mandalas/mandala-gaslighting.jpg" width="512"/>](../../../../images/mandalas/mandala-gaslighting.jpg)
 
 ### What prevents others from waking up to authority's lies?
 
