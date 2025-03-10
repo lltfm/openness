@@ -15,6 +15,7 @@ included after each response.
 * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
 * [What is coordinated group lying & deception?](#what-is-coordinated-group-lying--deception)
     * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
+    * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
     * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
     * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)

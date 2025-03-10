@@ -24,7 +24,7 @@ included after each response.
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
 * Other patterns of social control
-    * []()
+    * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
     * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
     * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
     * [What is a "dark messiah"?](#what-is-a-dark-messiah)
