@@ -20,6 +20,7 @@ included after each response.
     * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
     * [What is "word warfare"?](#what-is-word-warfare)
     * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
+    * [Will "false flag" attacks ever stop working?](#will-false-flag-attacks-ever-stop-working)
 * End-times prophecy (i.e. eschaton)
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
@@ -365,6 +366,39 @@ understanding. It is an invitation to practice dialogue with humility,
 integrity, and a commitment to uncovering deeper truths together.
 
 [<img src="../../../../images/mandalas/mandala-domination_by_dialectic.jpg" width="512"/>](../../../../images/mandalas/mandala-domination_by_dialectic.jpg)
+
+### Will "false flag" attacks ever stop working?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: A false flag attack is an event where a government or powerful
+entity secretly orchestrates or allows an attack against its own people, assets,
+or interests, only to falsely blame an enemy—whether another nation, political
+group, or movement. The purpose is to justify war, increased control, or drastic
+policy changes. False flags work because they exploit human emotions—fear,
+anger, and tribalism—before critical thinking can catch up. As long as people
+react before they analyze, as long as they trust the immediate story without
+questioning its origins, false flags will remain effective.
+
+But also perhaps this: their effectiveness diminishes as more people become
+aware of the pattern. Once people recognize how deception operates—how official
+narratives shift, how past manipulations were uncovered, how crises are often
+used to justify predetermined agendas—false flags lose some of their power.
+Awareness disrupts the cycle.
+
+Maybe this: technology and independent communication threaten the effectiveness
+of false flags. In a world where information spreads freely, unfiltered
+narratives challenge centralized control. Yet, those who employ false flags also
+adapt, using more sophisticated methods—deepfakes, AI-driven misinformation,
+controlled opposition. The battle between deception and discernment is ongoing.
+
+Or perhaps even this: false flags only work because societies are conditioned to
+seek authority-approved explanations rather than embracing uncertainty. If
+enough people cultivate intellectual humility—holding space for multiple
+possibilities before deciding what is true—then false flags could lose their
+grip entirely. They rely on blind certainty; without it, they crumble.
+
+[<img src="../../../../images/mandalas/mandala-false_flag.jpg" width="512"/>](../../../../images/mandalas/mandala-false_flag.jpg)
 
 ### Can latent end times prophecies be used to control populations?
 
