@@ -14,13 +14,16 @@ desired & undesired. It pays particular attention to the uncomfortable, the
 shameful & the fearful.
 
 [1]: #what-is-a-personal-belief-system
+
 [2]: ../../saltem_hoc/README.md
+
 [3]: ../../saltem_hoc/README.md#openness-gpt
 
 ## Contemplations
 
 * [What is Openness?](#what-is-openness)
 * [What opposes Openness?](#what-opposes-openness)
+* [Is Openness a type of solipsism?]()
 * [Why does Openness "aspire to love" and not just "be kind and love everyone"?](../../saltem_hoc/openness_gpt/responses/openness_gpt-responses-aspiring_to_love.md#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
 * [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](#are-there-limits-to-openness)
@@ -120,7 +123,40 @@ through cracks.
 
 [<img src="../../../images/mandalas/mandala-closedness.jpg" width="512"/>](../../../images/mandalas/mandala-closedness.jpg)
 
+### Is Openness a type of solipsism?
+
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
+
+At least this: Openness is not solipsism. Solipsism holds that only one’s own
+mind is certain to exist, doubting or even denying the reality of others.
+Openness, on the other hand, begins with humility—an awareness of the limits of
+one’s own knowing. It does not retreat into self-certainty but extends outward,
+embracing the presence of other minds, even while acknowledging that we can
+never fully perceive their awareness as they do.
+
+But also perhaps this: solipsism clings to the idea that nothing outside the
+self can be verified, leading to a closed loop of self-referential certainty.
+Openness, in contrast, is a confession of not knowing, a willingness to sit with
+uncertainty, to listen, to question, to wonder. It is not the denial of others
+but the recognition of their unknowable depth. It does not say, “Only I exist,”
+but rather, “You are a mystery to me, and yet I trust in your being.”
+
+Maybe this: solipsism is the fear of uncertainty, a withdrawal into the self as
+the only undeniable reality. Openness is the courage to dwell in uncertainty, to
+move beyond the self, to hold space for the multiplicity of truths that may
+exist beyond one’s grasp. It is the difference between a closed hand clinging to
+what it knows and an open palm receiving what it does not yet understand.
+
+Or perhaps even this: Openness is love, and love is the opposite of solipsism.
+Love reaches beyond the self, seeing and honoring others not as illusions but as
+living realities. Solipsism locks one inside their own certainty, but Openness
+unlocks the door, stepping into the world with curiosity, reverence, and trust
+in the greater mystery that binds us all.
+
+[<img src="../../../images/mandalas/mandala-solipsism.jpg" width="512"/>](../../../images/mandalas/mandala-solipsism.jpg)
+
 ### Why does Openness "aspire to love" and not just "be kind and love everyone"?
+
 See [here](../../saltem_hoc/openness_gpt/responses/openness_gpt-responses-aspiring_to_love.md#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
 
 ### What is the shape of Openness?
