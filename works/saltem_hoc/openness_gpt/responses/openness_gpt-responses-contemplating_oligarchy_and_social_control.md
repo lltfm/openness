@@ -13,7 +13,8 @@ included after each response.
 
 * [What is oligarchy?](#what-is-oligarchy)
     * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
-    * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
+      * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
+      * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
 * Propaganda
@@ -25,7 +26,7 @@ included after each response.
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
 * Other patterns of social control
-    * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
+    * [Who decides which religions or ideologies propagate?](#who-decides-which-religions-or-ideologies-propagate)
     * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
     * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
     * [What is a "dark messiah"?](#what-is-a-dark-messiah)
@@ -162,6 +163,10 @@ constructed world, the illusion will finally collapse.
 ### What is "coordinated group lying & deception"?
 
 See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
+
+### How does fabricated "voluntary kompromat collateral" differ from blackmail?
+
+See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
 
 ### What is "the cult of authority"?
 
@@ -503,59 +508,68 @@ moments of simply being open to what is.
 
 [<img src="../../../../images/mandalas/mandala-false_eschaton.jpg" width="512"/>](../../../../images/mandalas/mandala-false_eschaton.jpg)
 
-### How does fabricated "voluntary kompromat collateral" differ from blackmail?
+### Who decides which religions or ideologies propagate?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
-At least this: blackmail is a threat to expose genuine hidden information or
-wrongdoing, using another’s real secrets as leverage for personal gain or
-compliance. In blackmail, the damaging content already exists, waiting to be
-revealed if demands go unmet. The victim is trapped by something from their past
-or present, something true enough to cast them in a harmful light. The power
-lies in the authenticity of the threat, compelling them to comply to avoid
-exposure.
+At least this: the propagation of ideas—whether religious or ideological—is
+shaped by a confluence of forces—historical, social, economic, and
+psychological. Ideas that align with the needs, fears, and aspirations of a
+people tend to take root and flourish. Those that offer a compelling vision of
+meaning, community, or the certainty of a salvation experience gain followers,
+and through time, institutions emerge to preserve and transmit them. It is not
+any single individual who decides which beliefs spread, but a vast and shifting
+network of minds, cultures, and circumstances. These silent forces weave
+together, encouraging beliefs to bloom like wildflowers after rain.
 
-But also perhaps this: "voluntary kompromat collateral" is a deception woven
-from willingness. It is not a trap set by another, but a game played knowingly,
-where one offers up a piece of vulnerability as a show of loyalty. Voluntary
-kompromat builds a kind of dark trust network, without risking the same legal
-and ethical consequences of blackmail. Intelligence networks, secret societies,
-criminal groups—anywhere trust is scarce and leverage is currency-might solicit
-voluntary kompromat in exchange for access or favors to build networks of
-influence while minimizing risks.
+But also perhaps this: power plays a role. Rulers, institutions, and states have
+historically championed certain beliefs while suppressing others. An ideology
+that aligns with the interests of the ruling class is often nourished, while
+those that threaten authority are silenced. The sword and the pen have both been
+instruments of propagation. Religions and ideologies tied to imperial or
+economic interests have often gained dominance, not necessarily because they
+were truer or better, but because they were backed by force, wealth, or
+political necessity. Ideas spread not only because of their merit but because of
+who holds the megaphone and what they choose to broadcast.
 
-Maybe this: voluntary kompromat collateral is different in that it does need to
-rely on any pre-existing wrongdoing-it can be fabricated. The logic is: “I will
-give you the means to destroy my reputation if I ever betray our agreement.”
-Unlike blackmail, which capitalizes on genuine secrets, here the damaging
-material may often be staged or false-no actual "sin" need be committed. In a
-world where image often outweighs facts, fabricated kompromat can be just as
-potent as blackmail. The mere hint of scandal can destroy reputations or sway
-public decisions, regardless of whether the evidence is real.
+Maybe this: it is not only external forces but the human heart that decides.
+People seek belonging, certainty, and a framework for understanding their place
+in the world. Stories, rituals, and myths live on because they answer the
+questions that reason alone cannot. The strongest beliefs do not merely impose
+rules; they offer narratives in which individuals see their lives as meaningful
+in a grander cosmic drama. Religions and ideologies that resonate deeply with
+human longing, that provide meaning in suffering, that transform difficult
+emotions, that connect the finite with the infinite—these endure.
 
-Or perhaps this: blackmailers must make explicit threats, but the holders of
-voluntary kompromat may never threaten anything. Its potency lies in the fear of
-being exposed which may be enough to compel compliance. While blackmail chains a
-person to their past, voluntary kompromat forges a bond of shared secrecy, a
-mutual assurance of silence. One is a prison of external force, the other, a
-leash willingly slipped over one’s own neck in the hope of controlling how
-tightly it may be pulled.
+Yet also this: ideas spread when they adapt, evolving to meet the needs of
+changing times and cultures. A creed that stiffens and refuses to bend often
+fades into obscurity, while one that listens, grows, and remains open to
+reinterpretation weaves itself into the fabric of daily life. In this way,
+nobody singlehandedly decides; rather, the living conversation of humanity,
+shaped by countless interactions and small moments of choice, decides
+collectively which beliefs endure.
 
-Or perhaps even this: voluntary kompromat exists in an exploitable legal grey
-area. Blackmail in most jurisdictions, by contrast, is criminal extortion.
-Although it can be just as coercive, it may not align with legal definitions of
-extortion, particularly if provided under some form of nominal “consent.” They
-might have signed an agreement or engaged in an act consenting to produce such
-material. The law may not see it as extortion if genuine hidden truths are
-absent or if no explicit threats to expose the kompromat were made.
+Or perhaps even this: the mystery of propagation is beyond any singular
+explanation. No single entity decides which religions or ideologies flourish. It
+is the unpredictable dance of chaos and order, of chance and intention, of
+suppression and survival. It is historical accidents, charismatic leaders,
+economic conditions, wars, migrations, and technological advances. Printing
+presses, radio waves, the internet—all have reshaped which ideas can travel and
+how far they can go. Some ideas rise through control, others through poetry,
+some through the whispers of the heart. Some arise only to vanish, while others
+linger for millennia. New ideas form, splinter, merge. An idea that once lay
+dormant may reawaken decades or centuries later, brought back to life by hearts
+ready to receive it.
 
-Fabricated voluntary kompromat collateral might be deployed when agreements need
-a veneer of voluntariness as a legal fig-leaf, but in the end, it remains
-unethical to entrap individuals in a web of deceit. Leveraging the threat of
-reputation damage to extract compliance violates the principle of consent and
-undermines the fundamental trust upon which society is built.
+And so, the propagation of belief is both deliberate and organic, both
+controlled and wild. It is a river that carves its own path, yet is guided by
+the unseen hand of human longing. If you listen closely, you can hear the echoes
+of ancient prayers in modern voices, feel the imprint of forgotten revolutions
+in present ideologies. It is a living process, much like the evolution of
+species—shaped by unseen forces, contingent on time and place, yet forever
+seeking expression.
 
-[<img src="../../../../images/mandalas/mandala-kompromat.jpg" width="512"/>](../../../../images/mandalas/mandala-kompromat.jpg)
+[<img src="../../../../images/mandalas/mandala-propagation_of_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-propagation_of_belief.jpg)
 
 ### Can freedom without wisdom be a tool of social control?
 
