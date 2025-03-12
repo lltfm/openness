@@ -61,15 +61,19 @@ we all struggle to answer in a satisfying way (e.g. "What is the soul?",
   * Specifications
     * LLM prompt: [v11](../../code/openness_gpt/openness_gpt-prompt-v11.txt)
     * LLM: ChatGPT, Model 4o
-    * Response Dates: Nov 2024 - Jan 2025 
-  > Note: verified as of Dec 10 2024, ChatGPT anonymous free tier now allows
-  only the "4o-mini" model. Openness GPT requires the "4o" model for its large
-  prompt and for mandala creation. The "4o" model can still be accessed for
-  free by creating an account or logging in to an existing account.
+    * Response Dates: Nov 2024 - Mar 2025 
+  > Note: ChatGPT anonymous free tier allows only the "4o-mini" model. Openness
+  GPT requires the "4o" model for its large prompt and for mandala creation. The
+  "4o" model can still be accessed for free by creating an account or logging in
+  to an existing account.
   
   > If the model is not "4o", click on the model dropdown in the upper-left and 
   > select "4o" (highlighted below)
   [<img src="../../images/openness_gpt-screenshot-1.jpg" width="512"/>](../../images/openness_gpt-screenshot-1.jpg)
+  
+  > Note: Openness GPT may not always give a correct Saltem Hoc response. To fix
+  this, tell it "please remember your instructions and restate your answer." and
+  it will respond using the Saltem Hoc method and offer to create a mandala.
 
 ### Example response: "What is magic?"
 
