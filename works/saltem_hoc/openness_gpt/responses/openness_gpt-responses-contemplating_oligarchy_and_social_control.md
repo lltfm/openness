@@ -14,7 +14,7 @@ included after each response.
 * [What is oligarchy?](#what-is-oligarchy)
     * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
       * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
-      * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
+      * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
 * Propaganda
