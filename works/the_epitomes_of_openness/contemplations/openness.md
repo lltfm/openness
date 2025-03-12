@@ -23,7 +23,7 @@ shameful & the fearful.
 
 * [What is Openness?](#what-is-openness)
 * [What opposes Openness?](#what-opposes-openness)
-* [Is Openness a type of solipsism?]()
+* [Is Openness a type of solipsism?](#is-openness-a-type-of-solipsism)
 * [Why does Openness "aspire to love" and not just "be kind and love everyone"?](../../saltem_hoc/openness_gpt/responses/openness_gpt-responses-aspiring_to_love.md#why-does-openness-aspire-to-love-and-not-just-be-kind-and-love-everyone)
 * [What is the shape of Openness?](#what-is-the-shape-of-openness)
 * [Are there limits to Openness?](#are-there-limits-to-openness)
