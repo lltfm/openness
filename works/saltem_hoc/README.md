@@ -72,7 +72,7 @@ we all struggle to answer in a satisfying way (e.g. "What is the soul?",
   [<img src="../../images/openness_gpt-screenshot-1.jpg" width="512"/>](../../images/openness_gpt-screenshot-1.jpg)
   
   > Note: Openness GPT may not always give a correct Saltem Hoc response. To fix
-  this, tell it "please remember your instructions and restate your answer." and
+  this, tell it "please remember your instructions and restate your answer" and
   it will respond using the Saltem Hoc method and offer to create a mandala.
 
 ### Example response: "What is magic?"
