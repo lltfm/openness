@@ -13,10 +13,11 @@ included after each response.
 
 * [What is oligarchy?](#what-is-oligarchy)
     * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
-      * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
-      * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
+        * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
+        * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
+* [Is central banking a scam?]()
 * Propaganda
     * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
     * [What is "word warfare"?](#what-is-word-warfare)
@@ -230,6 +231,66 @@ might ask ourselves: Who is truly free? What forces hold us captive? What
 illusions do we serve? And is there some way to break free?
 
 [<img src="../../../../images/mandalas/mandala-is_oligarchy_itself_enslaved.jpg" width="512"/>](../../../../images/mandalas/mandala-is_oligarchy_itself_enslaved.jpg)
+
+### Is central banking a scam?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: central banking is a system designed to manage a nation's money
+supply and regulate financial institutions. It operates on the premise that a
+centralized authority, like the Federal Reserve in the U.S. or the European
+Central Bank, can guide monetary policy to smooth out economic cycles, control
+inflation, and respond to financial crises. In its ideal form, it seeks to
+balance economic growth with stability, aiming to prevent destructive booms and
+busts and acting as the lender of last resort during a financial crisis. In
+theory, these institutions exist to create economic stability and prevent market
+failures.
+
+But also perhaps this: inflation, often a byproduct of central bank policies,
+erodes the purchasing power of regular citizens-not just by reducing the
+purchasing power of savings-but by effectively lowering wages for all workers.
+Inflation permanently reduces the purchasing power of all future earnings for
+workers who do not receive regular raises, such as minimum-wage workers.
+Inflation can make life increasingly harder-or even impossible-for those living
+long-term on fixed incomes or savings.
+
+And also this: central banking benefits those who control it most. Decisions
+about interest rates, quantitative easing, and financial bailouts
+disproportionately affect the rich and powerful. Central banking inherently
+operates in a way that benefits those closest to the source of money
+creation—banks, governments, and large financial institutions—before the effects
+trickle down to everyday people. This is known as the Cantillon effect, where
+newly created money enters the economy unevenly, benefiting some groups at the
+expense of others.
+
+Maybe this: the very concept of central banking relies on the idea that a small
+group of individuals can effectively manage an incredibly complex system—an
+economy composed of at least trillions of independent decisions. Critics argue
+that central banks distort free markets by manipulating interest rates and the
+money supply, creating artificial conditions that lead to bubbles and
+recessions-predictable to insiders who benefit-and inevitably leads to wealth
+inequality long-term.
+
+Or perhaps this: central banks operate within a framework where money is created
+as debt. When banks issue loans, new money enters circulation, but this money
+must be repaid with interest—interest that was never originally created. This
+creates an ever-growing cycle of debt dependency, benefiting financial
+institutions and those closest to the money supply at the expense of the
+general population.
+
+Or perhaps even this: if a scam is something that deceives people for the
+benefit of a few, then central banking, with its complex and often opaque
+mechanisms, could be seen as such. Inflation erodes the value of savings, yet
+central banks continue printing money in times of crisis, redistributing wealth
+away from ordinary people. The ability to create money from nothing, set policy
+with little accountability, and manipulate markets raises ethical and
+philosophical questions about economic justice.
+
+Yet, even if the system is flawed, it is the one in which we live. The real
+question may not be whether central banking is a scam, but whether we can create
+a system that better serves all people, rather than a privileged few.
+
+[<img src="../../../../images/mandalas/mandala-central_banking.jpg" width="512"/>](../../../../images/mandalas/mandala-central_banking.jpg)
 
 ### What is the purpose of propaganda?
 
