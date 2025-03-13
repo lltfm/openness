@@ -17,7 +17,7 @@ included after each response.
         * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
-* [Is central banking a scam?]()
+* [Is central banking a scam?](#is-central-banking-a-scam)
 * Propaganda
     * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
     * [What is "word warfare"?](#what-is-word-warfare)
