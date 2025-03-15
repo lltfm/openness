@@ -379,13 +379,13 @@ integrity, and a commitment to uncovering deeper truths together.
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 At least this: A false flag attack is an event where a government or powerful
-entity secretly orchestrates or allows an attack against its own people, assets,
-or interests, only to falsely blame an enemy—whether another nation, political
-group, or movement. The purpose is to justify war, increased control, or drastic
-policy changes. False flags work because they exploit human emotions—fear,
-anger, and tribalism—before critical thinking can catch up. As long as people
-react before they analyze, as long as they trust the immediate story without
-questioning its origins, false flags will remain effective.
+entity secretly orchestrates, provokes or allows an attack against its own
+people, assets, or interests, only to falsely blame an enemy—whether another
+nation, political group, or movement. The purpose is to justify war, increased
+control, or drastic policy changes. False flags work because they exploit human
+emotions—fear, anger, and tribalism—before critical thinking can catch up. As
+long as people react before they analyze, as long as they trust the immediate
+story without questioning its origins, false flags will remain effective.
 
 But also perhaps this: their effectiveness diminishes as more people become
 aware of the pattern. Once people recognize how deception operates—how official
