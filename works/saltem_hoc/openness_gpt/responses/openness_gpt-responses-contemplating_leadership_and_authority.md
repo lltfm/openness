@@ -11,6 +11,8 @@ included after each response.
 
 ## Contents
 
+* [What is leadership?](#what-is-leadership)
+    * [How does leadership differ from authority?](#how-does-leadership-differ-from-authority)
 * [Why is it not enough to be right?](./openness_gpt-responses-aspiring_to_love.md#why-is-it-not-enough-to-be-right)
 * [What is authority?](#what-is-authority)
     * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
@@ -18,6 +20,86 @@ included after each response.
     * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [Can endless rebellion lead to long-term stuckness?](#can-endless-rebellion-lead-to-long-term-stuckness)
 * [Why is it not enough to be right?](./openness_gpt-responses-aspiring_to_love.md#why-is-it-not-enough-to-be-right)
+
+### What is leadership?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, leadership—a word that carries both weight and wonder. It is spoken often,
+yet its essence remains elusive, shifting like the wind through the trees. Let
+us approach it gently, reflecting with the Saltem Hoc method, allowing the
+meaning to unfold.
+
+At least this: leadership is the ability to guide others toward a goal. It is
+the steady hand that steers the course, the voice that calls forth action. A
+leader is one who moves—not alone, but with others—toward something greater than
+the self. Leadership is not about standing in front; it is about helping others
+move forward.
+
+But also perhaps this: leadership is not a position, but a way of being. One can
+lead without title, without authority, without recognition. True leadership is
+not bestowed—it is lived. It arises in the quiet moments, in the choices made
+when no one is watching, in the willingness to take responsibility when things
+go wrong and to give credit when things go right.
+
+Maybe this: leadership is the art of listening. A great leader does not merely
+direct but understands. They see others, hear their needs, hold space for their
+voices. They do not impose; they invite. They do not force; they inspire. The
+best leaders lead not through control, but through connection.
+
+Or perhaps even this: leadership is love in action. The greatest leadership is
+found in those who do not seek to lead, but simply to live in alignment with
+something greater than themselves. It is the shepherd who cares for the flock,
+the teacher who nurtures curiosity, the parent who raises a child with love, the
+artist who brings forth beauty that shifts the world. Leadership is an act of
+love, a willingness to stand in the fire so others may find warmth, to hold a
+light not just for oneself but for all who search in the dark.
+
+Leadership, then, is not a crown, but a calling. It is not measured in power,
+but in the lives it touches. It is not necessarily about being followed but
+about walking a path that others, in their own time, may choose to walk as well.
+
+[<img src="../../../../images/mandalas/mandala-leadership.jpg" width="512"/>](../../../../images/mandalas/mandala-leadership.jpg)
+
+### How does leadership differ from authority?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, leadership and authority—two words often intertwined, yet as distinct as the
+river and its banks. Let us explore their differences gently, with care and
+openness, as a reflection in the still waters of understanding.
+
+At least this: authority is a position, while leadership is an action. Authority
+is granted—through title, power, or structure. It is the chair upon which one
+sits, the badge one wears, the rule one enforces. Leadership, however, is not
+something given; it is something earned, something embodied. One may have
+authority without being a leader, just as one may lead without holding
+authority.
+
+But also perhaps this: authority commands, while leadership inspires. Authority
+rests in the ability to enforce consequences—obedience is expected, sometimes
+demanded. Leadership, however, does not demand; it invites. A true leader does
+not rely on authority to be followed but cultivates respect, trust, and vision
+that draw others willingly into movement.
+
+Maybe this: authority is external, while leadership is internal. Authority comes
+from outside forces—governments, institutions, hierarchies, traditions. It is
+conferred, contingent, and can be revoked. Leadership, however, arises from
+within. It is the quiet fire of integrity, the ability to see, to listen, to
+guide. It is a force that exists regardless of title or position.
+
+Or perhaps even this: authority controls, but leadership serves. The
+authoritarian mind seeks dominion, seeking order through decree. The leader,
+however, walks another path—one of sacrifice, of care, of fostering the
+potential in others. Leadership bows before the responsibility of its influence,
+knowing that true power is not in command, but in service to something greater
+than oneself.
+
+And so, the great paradox: One may sit upon a throne yet be no leader at all.
+And one may walk among the people, without crown or command, yet move hearts and
+minds with the light of true leadership.
+
+[<img src="../../../../images/mandalas/mandala-leadership_vs_authority.jpg" width="512"/>](../../../../images/mandalas/mandala-leadership_vs_authority.jpg)
 
 ### What is authority?
 
