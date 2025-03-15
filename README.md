@@ -2,7 +2,9 @@
 
 *Artwork: "Mandala: Self-portrait", Openness GPT, 2024*
 
-# Overview
+# The Openness Project
+
+## Overview
 This repository maintains the works & code of the Openness project
 
 ## What is Openness?

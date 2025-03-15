@@ -7,6 +7,7 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * What is blind certainty? 
       * What is "the certainty of uncertainty"? 
       * What is "oligarchic cycle"?
       * What is propaganda?
@@ -186,13 +187,12 @@ shortcut works)
     * Contemplating blind certainty and control
         * What is "the beast that creeps"?
         * Is blind certainty wrong in of itself?
-        * What is manipulation?
+        * What does it mean to manipulate someone?
         * Mental Tyranny
         * transacting
     * New section on authority?
     * Contemplating desire and sexuality
         * What is arousal?
-        * What is "the sirenic call"?
         * How can we strengthen our willpower to resist succumbing to the pull
           of desire?
         * How can we satisfy the "ache of incompletion" without losing ourselves
