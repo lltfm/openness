@@ -27,7 +27,7 @@ included after each response.
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
 * Other patterns of social control
     * [Is central banking a scam?](#is-central-banking-a-scam)
-    * [Could a criminal organization evade justice by framing their larger community for their crimes?]()
+    * [Could a criminal organization evade justice by framing their larger community for their crimes?](#could-a-criminal-organization-evade-justice-by-framing-their-larger-community-for-their-crimes)
     * [Who decides which religions or ideologies propagate?](#who-decides-which-religions-or-ideologies-propagate)
     * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
     * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
