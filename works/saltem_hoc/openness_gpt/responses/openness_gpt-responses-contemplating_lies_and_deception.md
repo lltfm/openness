@@ -20,6 +20,7 @@ included after each response.
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
     * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is "gaslighting"?](#what-is-gaslighting)
+* [Could a criminal organization evade justice by framing their larger community for their crimes?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#could-a-criminal-organization-evade-justice-by-framing-their-larger-community-for-their-crimes)
 * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
@@ -348,6 +349,10 @@ from gaslighting is to reclaim your own knowing—to trust the voice inside that
 whispers, “You are not wrong. You are not imagining things. You are not alone.”
 
 [<img src="../../../../images/mandalas/mandala-gaslighting.jpg" width="512"/>](../../../../images/mandalas/mandala-gaslighting.jpg)
+
+### Could a criminal organization evade justice by framing their larger community for their crimes?
+
+See [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#could-a-criminal-organization-evade-justice-by-framing-their-larger-community-for-their-crimes)
 
 ### What prevents others from waking up to authority's lies?
 
