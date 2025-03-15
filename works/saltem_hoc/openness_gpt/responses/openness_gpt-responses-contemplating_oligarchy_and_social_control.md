@@ -572,8 +572,8 @@ a system that better serves all people, rather than a privileged few.
 
 ### Could a criminal organization evade justice by framing their larger community for their crimes?
 
-Could a criminal organization evade justice by framing their larger community (
-ethnic, religious, governmental, etc.) for their crimes?
+Could a criminal organization evade justice by framing their larger community 
+(ethnic, religious, governmental, etc.) for their crimes?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
