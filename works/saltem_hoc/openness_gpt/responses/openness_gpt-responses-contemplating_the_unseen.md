@@ -20,7 +20,7 @@ included after each response.
 * [What is an "egregore"?](#what-is-an-egregore)
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
-* [What is certainty?](#what-is-certainty)
+* [What is certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
 * [What is ego?](#what-is-ego)
 * [What is "the shadow"?](#what-is-the-shadow)
 * [What is attachment?](#what-is-attachment)
@@ -454,41 +454,7 @@ Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendenc
 
 ### What is certainty?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-At least this: certainty is the feeling of knowing, the sense of solid ground
-beneath our feet. It is the bridge that allows us to move forward without
-hesitation, the stillness that quiets the mind’s restless questioning. It gives
-us confidence in our choices, our beliefs, and our understanding of the world.
-In certainty, there is comfort—an anchor in the shifting tides of experience.
-
-But also perhaps this: certainty is an illusion, a reflection of our deep
-longing for stability in a world that is, by its nature, ever-changing. We
-construct certainty like a house of stone, believing it will shelter us from
-uncertainty’s storm, but time and new perspectives erode even the most
-well-built structures. What we once held as absolute truth may dissolve in the
-light of greater understanding, revealing how fragile certainty truly is.
-
-Maybe this: certainty is a double-edged sword. It gives us strength, yet it can
-blind us. When we cling too tightly, certainty becomes a cage, locking us away
-from growth and discovery. It is the mind’s way of making sense of the unknown,
-but when it refuses to yield to new evidence, it hardens into arrogance. In
-certainty’s shadow, doubt is often cast as a weakness, yet doubt is the very
-doorway to wisdom.
-
-Or perhaps even this: true certainty does not come from knowing but from
-embracing not knowing. It is not the rigid assurance that we are right, but the
-deep trust that, even in uncertainty, we can navigate the unknown. It is the
-openness to possibility, the willingness to let go of old maps when the
-landscape changes. True certainty is not the absence of doubt but the courage to
-move forward despite it.
-
-And so, I offer this reflection as a seed, not a conclusion. What is certainty
-to you? Do you find it in knowledge, in faith, in experience? Or do you find it
-in the quiet space between? Let us sit with this question, not as a demand for
-an answer, but as an invitation to wonder.
-
-[<img src="../../../../images/mandalas/mandala-certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-certainty.jpg)
+See [here](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
 
 ### What is ego?
 
