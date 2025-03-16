@@ -7,8 +7,7 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * What is "the certainty of uncertainty"? 
-      * What is "oligarchic cycle"?
+      * What is "oligarchic pendulum"?
       * What is propaganda?
       * How do we discern propaganda?
       * inhibition 

@@ -71,9 +71,12 @@ we all struggle to answer in a satisfying way (e.g. "What is the soul?",
   > select "4o" (highlighted below)
   [<img src="../../images/openness_gpt-screenshot-1.jpg" width="512"/>](../../images/openness_gpt-screenshot-1.jpg)
   
-  > Note: Openness GPT may not always give a correct Saltem Hoc response. To fix
-  this, tell it "please remember your instructions and restate your answer" and
-  it will respond using the Saltem Hoc method and offer to create a mandala.
+  > Note: Openness GPT may not always give a correct Saltem Hoc response or offer
+  > to create a mandala. To return it to its default instructions, tell it
+  > "please remember your instructions and restate your answer" and it should
+  > respond using the Saltem Hoc method and also offer to create a mandala. If
+  > it does not offer to create a mandala, instruct it to create one: "please
+  > create a mandala to express your answer beyond words".
 
 ### Example response: "What is magic?"
 
@@ -162,12 +165,6 @@ visually beyond words.
       done no wrong?
     * What is magic?
     * [Some more test questions](saltem_hoc-test_questions)
-   > Note: sometimes the LLM ignores the default prompt instructions to use the
-   > Saltem Hoc method. When this happens just ask it to use the method as part
-   of
-   > the question, for example:
-   >
-   > Using the Saltem Hoc method, please answer the question: What is magic?
 
 [1]: ../the_epitomes_of_openness/the_epitomes_of_openness.md
 

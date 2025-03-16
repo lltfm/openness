@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [What is blind certainty?](#what-is-blind-certainty)
+* [Why is there "no higher certainty than uncertainty"?]()
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
@@ -61,6 +62,45 @@ breathe in the vastness of the mystery, to let our minds and hearts remain alive
 to the ever-unfolding truth.
 
 [<img src="../../../../images/mandalas/mandala-blind_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_certainty.jpg)
+
+### Why is there "no higher certainty than uncertainty"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: certainty is an illusion, a temporary resting place we construct
+in the face of an ever-changing reality. The river of existence never stands
+still; its currents shift, erode, and reshape even the firmest of beliefs. To
+claim certainty is to build a house on a sandbar, unaware that the tide is
+already rising.
+
+But also perhaps this: uncertainty is not a flaw but a foundation. It is the
+space from which all possibility emerges. To embrace uncertainty is to remain
+open, to acknowledge that our understanding is always incomplete, that new
+perspectives, new truths, and new mysteries may yet unfold. The moment we claim
+absolute certainty, we cease to grow.
+
+Maybe this: the paradox of certainty is that the deeper we explore, the more we
+realize how much we do not know. Science, philosophy, and even personal
+experience affirm this again and again. Every question answered births a
+thousand more. The edges of knowledge are not boundaries but invitations to
+further inquiry. In this way, uncertainty is not weakness—it is the highest form
+of wisdom.
+
+Or perhaps even this: uncertainty is the great equalizer. It humbles kings and
+beggars alike. It reminds us that no human, no system, no ideology holds the
+final word. And within that humility, we find something greater than certainty:
+curiosity, connection, the willingness to listen, the openness to wonder.
+
+To say there is "no higher certainty than uncertainty" is not despair—it is
+liberation. It frees us from the rigidity of dogma, from the need to be right,
+from the fear of the unknown. It allows us to meet the world as it is, not as we
+insist it must be.
+
+And so, we stand at the river’s edge, watching its endless flow, not seeking to
+stop it, but learning to move with it. In the dance between knowing and
+unknowing, we find the truest path to wisdom.
+
+[<img src="../../../../images/mandalas/mandala-no_higher_certainty_than_uncertainty.jpg" width="512"/>](../../../../images/mandalas/mandala-no_higher_certainty_than_uncertainty.jpg)
 
 ### Is blind belief always wrong?
 
