@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [What is blind certainty?](#what-is-blind-certainty)
-* [Why is there "no higher certainty than uncertainty"?]()
+* [Why is there "no higher certainty than uncertainty"?](#why-is-there-no-higher-certainty-than-uncertainty)
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
