@@ -1,10 +1,12 @@
 # Contemplations on The Epitomes of Openness
 Contemplations on the [The Epitomes Of Openness](../the_epitomes_of_openness.md)
 * [What is Openness?](openness.md)
+* [What is certainty?](certainty.md)
 * [What is memento amaris?](memento-amaris.md)
 * [What are poetic-memes?](poetic-memes.md)
 * [In Openness, what is repetition?](repetition.md)
 * [What is "suspending judgment"?](suspending_judgment.md)
+* [What is blind certainty?](./certainty.md#what-is-blind-certainty)
 * [What is "the libido dominandi"?](the_libido_dominandi.md)
 * [What is "the river-truth of tears"?](the_river-truth_of_tears.md)
 * [Contemplating "The Ship of Self"](the_ship_of_self.md)
