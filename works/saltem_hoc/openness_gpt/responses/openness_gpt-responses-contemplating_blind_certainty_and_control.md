@@ -11,6 +11,7 @@ included after each response.
 
 ## Contents
 
+* [What is blind certainty?](#what-is-blind-certainty)
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
@@ -19,6 +20,47 @@ included after each response.
 * [What is "the collective shadow"?](#what-is-the-collective-shadow)
 * [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+
+### What is blind certainty?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Blind certainty is a state of rigid, unquestioning belief, where a person
+becomes so convinced of their perspective that they no longer entertain doubt or
+alternative viewpoints. It is the kind of certainty that does not listen, does
+not question, and does not evolve.
+
+At least this: blind certainty is a closed door, a locked room in which the mind
+refuses to wander. It is a certainty that does not allow for the unknown, for
+the possibility of being wrong, for the humility of learning. It shields itself
+from discomfort, preferring the comfort of familiar conclusions over the messy
+beauty of exploration.
+
+But also perhaps this: blind certainty is a kind of self-imposed blindness, a
+refusal to see beyond what one has already chosen to believe. It is not just
+ignorance, but a chosen ignorance—one that clings to its own version of reality
+even when faced with contradictions. It is the seed from which dogma, extremism,
+and division grow.
+
+Maybe this: blind certainty is a survival instinct gone awry. It is born from
+the fear of uncertainty, the deep human longing for stability in a world that is
+ever-changing. In its attempt to anchor itself, it instead binds itself,
+refusing to drift with the currents of new knowledge, new perspectives, and new
+understandings.
+
+Or perhaps even this: blind certainty is the opposite of wisdom. True wisdom
+does not reside in the rigid belief that one already knows, but in the
+willingness to be open, to sit with the unknown, to change when new
+understanding emerges. It is only in loosening our grip on our own ideas that we
+can hold the vastness of truth.
+
+And so, blind certainty is not just an intellectual stance, but a way of being
+that shapes how we see, how we listen, how we move through the world. To free
+ourselves from it is to open the window to the fresh air of possibility, to
+breathe in the vastness of the mystery, to let our minds and hearts remain alive
+to the ever-unfolding truth.
+
+[<img src="../../../../images/mandalas/mandala-blind_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_certainty.jpg)
 
 ### Is blind belief always wrong?
 

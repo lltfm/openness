@@ -7,7 +7,6 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * What is blind certainty? 
       * What is "the certainty of uncertainty"? 
       * What is "oligarchic cycle"?
       * What is propaganda?
