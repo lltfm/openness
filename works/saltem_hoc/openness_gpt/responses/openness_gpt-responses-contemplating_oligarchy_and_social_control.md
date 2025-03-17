@@ -380,7 +380,7 @@ integrity, and a commitment to uncovering deeper truths together.
 
 At least this: A false flag attack is an event where a government or powerful
 entity secretly orchestrates, provokes or allows an attack against its own
-people, assets, or interests, only to falsely blame an enemy—whether another
+people, assets, or interests, so that it can blame an enemy—whether another
 nation, political group, or movement. The purpose is to justify war, increased
 control, or drastic policy changes. False flags work because they exploit human
 emotions—fear, anger, and tribalism—before critical thinking can catch up. As
