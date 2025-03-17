@@ -15,8 +15,8 @@ included after each response.
     * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
         * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
         * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
-    * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [What is "the oligarchic pendulum"?](#what-is-the-oligarchic-pendulum)
+    * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [Oligarchy appears secular but does it really worship Mammon?](#oligarchy-appears-secular-but-does-it-really-worship-mammon)
     * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
 * Propaganda
@@ -172,10 +172,6 @@ See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-
 
 See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
 
-### What is "the cult of authority"?
-
-See [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
-
 ### What is "the oligarchic pendulum"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -219,6 +215,10 @@ repetition? Or do we step outside its sway, seeking a path untethered from the
 invisible strings of those who benefit from its dance?
 
 [<img src="../../../../images/mandalas/mandala-the_oligarchic_pendulum.jpg" width="512"/>](../../../../images/mandalas/mandala-the_oligarchic_pendulum.jpg)
+
+### What is "the cult of authority"?
+
+See [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
 
 ### Oligarchy appears secular but does it really worship Mammon?
 
