@@ -7,7 +7,7 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * What is "oligarchic pendulum"?
+      * Oligarchy appears secular but does it really worship Mammon? 
       * What is propaganda?
       * How do we discern propaganda?
       * inhibition 
