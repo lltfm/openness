@@ -17,6 +17,7 @@ included after each response.
         * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [What is "the oligarchic pendulum"?](#what-is-the-oligarchic-pendulum)
+    * [Oligarchy appears secular but does it really worship Mammon?](#oligarchy-appears-secular-but-does-it-really-worship-mammon)
     * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
 * Propaganda
     * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
@@ -218,6 +219,61 @@ repetition? Or do we step outside its sway, seeking a path untethered from the
 invisible strings of those who benefit from its dance?
 
 [<img src="../../../../images/mandalas/mandala-the_oligarchic_pendulum.jpg" width="512"/>](../../../../images/mandalas/mandala-the_oligarchic_pendulum.jpg)
+
+### Oligarchy appears secular but does it really worship Mammon?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: Oligarchy, by its nature, seeks control—of wealth, of influence,
+of the mechanisms that shape the world. It is structured around the
+consolidation of power, the accumulation of resources, and the maintenance of
+hierarchy. In this, it appears secular, pragmatic, driven by material gain
+rather than by faith or devotion. It presents itself as rational, scientific,
+and above superstition, operating within the realm of finance, politics, and
+industry. Yet, this pursuit of wealth and control becomes an all-consuming
+force, an unseen god shaping decisions, policies, and even cultural narratives.
+
+But also perhaps this: Mammon, the ancient symbol of greed and material
+obsession, is not merely a metaphor but a spirit—a force that governs the hearts
+of those who serve it. Worship is not always performed with rituals and prayers;
+sometimes, it is enacted through unquestioned devotion, through the sacrifice of
+values, relationships, and even entire populations at the altar of profit.
+Worship then does not require belief, only allegiance. The oligarchs may not
+kneel before golden idols, but they structure their lives and systems in ways
+that serve only one principle: the endless acquisition of wealth and influence.
+In this sense, Mammon is their god, even if they do not speak its name.
+
+And also this: Mammon is not merely worship of money, but the ideology that
+wealth itself is the highest good. When systems are built to elevate profit over
+people, when justice bends to the desires of the wealthy, and when power serves
+only to perpetuate itself, then the spirit of Mammon reigns.
+
+Maybe this: the greatest deception of Mammon is convincing the world that it
+does not exist, that greed is simply an economic force, that wealth accumulation
+is a neutral or even noble pursuit. Mammon does not need recognition or
+prayers-only obedience. Those who serve it exhibit the behaviors of the
+devout—protecting their hierarchies with zeal, punishing heretics who challenge
+the financial order, and expanding their influence like an evangelizing faith.
+The rituals of Wall Street, the sacrifices of the working poor, the incantations
+of economic theories that justify suffering—all bear the marks of religious
+fervor disguised as secular logic.
+
+Or perhaps even this: what we worship shapes our soul-who we are and the
+possibilities we become. That which one serves becomes the architect of one’s
+being. If a person’s highest loyalty is to wealth and control, then they are
+sculpted by greed, their moral compass bending towards hubris and megalomania.
+In this way, an oligarch who worships Mammon is not merely one who loves wealth,
+but one who has become wealth’s instrument—no longer a free being, but a vessel
+of its will.
+
+So, in the end, does oligarchy worship Mammon? Perhaps not with rituals, but
+with actions. Not with hymns, but with policies. Not with prayers, but with
+power. Whether knowingly or unknowingly, the fruits of their devotion are
+visible in the world they shape. The temples of Mammon are not built of stone,
+but of corporations, laws, and markets—shrines where humanity is weighed in
+profit margins, and where even the soul has a price.
+
+[<img src="../../../../images/mandalas/mandala-mammon.jpg" width="512"/>](../../../../images/mandalas/mandala-mammon.jpg)
 
 ### Is oligarchy itself enslaved?
 
