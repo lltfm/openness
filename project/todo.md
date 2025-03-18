@@ -7,44 +7,43 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * Oligarchy appears secular but does it really worship Mammon? 
-      * What is propaganda?
-      * How do we discern propaganda?
-      * inhibition 
-      * What is a "karmic mind-trap"?
+      * How can play reveal to us the limits of our Openness?
       * What is arousal?
       * In Openness, what is hate?
-      * How can play reveal to us the limits of our Openness?
       * What is "the terrible becoming"?
       * How can personal ritual be used to transform emotions?
       * Can too much humility limit who we might grow to become?
       * What is "the trust fabric"?
+      * What is propaganda?
+      * How do we discern propaganda?
+      * inhibition
+      * What is a "karmic mind-trap"?
       * Contemplating possibility (new file)
-          * What is "the intersubjective"?
-              * No Higher Objectivity Than Subjectivity: individually, we all
-                experience only our awareness. We can only intuit others'
-                awareness. When we realize who and what we really are, we see how
-                every picture, every drawing, every painting, every film has been
-                secretly also depicting us.
-          * What is "the illusion of objectivity"?
-          * What is "the possibility space"?
-          * What is a "precise ambiguity"?
-          * What is meant by "loving the question"?
-          * What is "resonant meaning"?
-          * What is "multiplicity"?
-          * Why does Openness focus on "unanswerable questions"?
-          * Speculation
-          * questions
-          * What is "saltem hoc"?
-          * The Ultimate: "Who can show us where Awareness goes after death?" The
-            outer zone of unconditioned Unanswerable Questions. Here, there is
-            only The Mystery. We approach knowing in The Ultimate by the skills of
-            not-knowing: By Negation, By Induction, By Questions. Sculpting Chaos.
-          * The Nexus: "Who can show us where Awareness goes after death?"
-            Unanswerable Questions require us to Suspend Judgement to continue
-            exploring. The Nexus is the hub of infinite Conditional Speculation: "
-            If Awareness continues after death, then our choices today matter."
-          * meta-truth
+        * What is "the intersubjective"?
+            * No Higher Objectivity Than Subjectivity: individually, we all
+              experience only our awareness. We can only intuit others'
+              awareness. When we realize who and what we really are, we see how
+              every picture, every drawing, every painting, every film has been
+              secretly also depicting us.
+        * What is "the illusion of objectivity"?
+        * What is "the possibility space"?
+        * What is a "precise ambiguity"?
+        * What is meant by "loving the question"?
+        * What is "resonant meaning"?
+        * What is "multiplicity"?
+        * Why does Openness focus on "unanswerable questions"?
+        * Speculation
+        * questions
+        * What is "saltem hoc"?
+        * The Ultimate: "Who can show us where Awareness goes after death?" The
+          outer zone of unconditioned Unanswerable Questions. Here, there is
+          only The Mystery. We approach knowing in The Ultimate by the skills of
+          not-knowing: By Negation, By Induction, By Questions. Sculpting Chaos.
+        * The Nexus: "Who can show us where Awareness goes after death?"
+          Unanswerable Questions require us to Suspend Judgement to continue
+          exploring. The Nexus is the hub of infinite Conditional Speculation: "
+          If Awareness continues after death, then our choices today matter."
+        * meta-truth
     * Contemplating the unchosen
         * What is time?
         * What is "natural law"?

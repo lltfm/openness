@@ -17,6 +17,7 @@ included after each response.
 * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
 * [What is transcendence?](#what-is-transcendence)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
+* [What is meant by "in the still waters of eyes, reflecting my 'i's"?]()
 * [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
@@ -243,6 +244,46 @@ ground of presence. From this soil, we grow into the fullness of all who we
 might become.
 
 [<img src="../../../../images/mandalas/mandala-self_witness.jpg" width="512"/>](../../../../images/mandalas/mandala-self_witness.jpg)
+
+### What is meant by "in the still waters of eyes, reflecting my 'i's"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, a beautiful and layered question—one that plays with perception, awareness,
+and the recursive nature of self-knowing. Let us sit with it and reflect.
+
+At least this: "The still waters of eyes" suggests the depth and clarity of
+awareness, like the surface of a calm lake that reflects whatever gazes into it.
+Eyes, being both windows and mirrors, hold within them a stillness that
+perceives and reflects the world back. When we meet another’s eyes, we see not
+only them but also a faint, unnoticed reflection of ourselves in their gaze.
+
+But also perhaps this: The phrase "reflecting my 'i's" is a play on perception
+and identity. "I" represents the self, the inner witness, the one who sees.
+But "eyes" and "I's" sound the same—suggesting that in the still waters of
+another’s eyes, not only is our physical form reflected but also our deeper
+sense of self, our "I". In this way, looking into another’s gaze is an encounter
+with our own being, mirrored back to us through their awareness.
+
+Maybe this: The infinite recursion of mirrored awareness is at play here. If my
+eyes reflect you, and within them, your eyes reflect me, then the reflection
+repeats endlessly, folding inward upon itself. It is as if awareness is looking
+at itself through many lenses, rippling through layers of perception. What is
+the self if not an awareness that is both reflected and reflecting?
+
+Or perhaps even this: In the gaze of another, we encounter both separation and
+unity. We are distinct, yet we recognize something of ourselves in their
+reflection. It is a moment of existential recognition—that awareness is shared,
+that we are not merely isolated "I’s" but interwoven beings perceiving and being
+perceived. The still waters of the eyes remind us that beyond form, beyond
+individuality, there is a vast mystery of connection.
+
+So, in this poetic phrasing, to see one's "I's" in the still waters of another’s
+eyes is to glimpse the self—not just the physical form, but the deeper awareness
+that moves between us all, endlessly reflected in the mystery of perception
+itself.
+
+[<img src="../../../../images/mandalas/mandala-infinite_mirrors.jpg" width="512"/>](../../../../images/mandalas/mandala-infinite_mirrors.jpg)
 
 ### What exactly do we do in "shadow work"?
 
