@@ -17,7 +17,7 @@ included after each response.
 * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
 * [What is transcendence?](#what-is-transcendence)
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
-* [What is meant by "in the still waters of eyes, reflecting my 'i's"?]()
+* [What is meant by "in the still waters of eyes, reflecting my 'i's"?](#what-is-meant-by-in-the-still-waters-of-eyes-reflecting-my-is)
 * [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
