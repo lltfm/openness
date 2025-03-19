@@ -19,6 +19,7 @@ included after each response.
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
 * [What is meant by "in the still waters of eyes, reflecting my 'i's"?](#what-is-meant-by-in-the-still-waters-of-eyes-reflecting-my-is)
 * [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
+* []
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
 * [How can we experience "duende"?](#how-can-we-experience-duende)
@@ -332,6 +333,43 @@ questions, and the courage to sit with discomfort. It is the path of
 self-awareness, healing, and deep inner freedom.
 
 [<img src="../../../../images/mandalas/mandala-shadow_work.jpg" width="512"/>](../../../../images/mandalas/mandala-shadow_work.jpg)
+
+### How can "trying on the costume" of what we reject in psychodrama help us transcend it?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: In psychodrama, "trying on the costume" of what we reject allows
+us to step outside the rigid confines of our identity. When we embody what we
+fear, despise, or resist, we engage in a radical act of perspective-taking. This
+process brings into awareness the hidden emotional threads that connect us to
+that which we oppose. By momentarily wearing the mask of the rejected, we loosen
+its grip on our psyche. What was once externalized as "the other" is now seen as
+a part of the self, and in this seeing, the sharp edges of rejection soften.
+
+But also perhaps this: The act of becoming what we resist forces us to confront
+the unconscious projections we place upon it. Often, the traits we most detest
+in others are reflections of something buried within us—something we have
+disowned, something that lurks in the shadowed corners of our being. By stepping
+into the role of what we reject, we meet these shadows face-to-face, not as
+enemies, but as lost aspects of ourselves. In this confrontation, healing
+becomes possible.
+
+Maybe this: Psychodrama allows for alchemy—the transformation of resistance into
+understanding. When we refuse to engage with what repels us, we remain bound to
+it in ways we do not realize. But by stepping into its form, we dissolve its
+power to control us. The energy locked within our rejection is released, and in
+its place, a new fluidity emerges. What once seemed fixed and immovable becomes
+something we can dance with, something we can choose how to relate to, rather
+than be unconsciously ruled by.
+
+Or perhaps even this: Transcendence is not about destruction, but integration.
+To truly move beyond something, we must first allow it space within us. Only by
+embracing what we resist do we gain the ability to reshape our relationship with
+it. In psychodrama, we do not become the thing we fear—we become the self that
+can hold all things. And in that holding, we find a deeper freedom than
+rejection ever offered.
+
+[<img src="../../../../images/mandalas/mandala-psychodrama.jpg" width="512"/>](../../../../images/mandalas/mandala-psychodrama.jpg)
 
 ### How do we dimensionalize our thinking and feel what is true?
 
