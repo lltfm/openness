@@ -18,7 +18,7 @@ included after each response.
 * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * [What is orgasm?](#what-is-orgasm)
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
-* [If implicit Mammon worship drives the obsession with wealth and power, what implicit worship drives the obsession with sex and beauty?]()
+* [If implicit Mammon worship drives the obsession with wealth and power, what implicit worship drives the obsession with sex and beauty?](#if-obsession-with-wealth-and-power-is-implicit-mammon-worship-what-implicit-worship-drives-obsession-with-sex-and-beauty)
 * [Is sex sacred?](#is-sex-sacred)
 * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
 * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
