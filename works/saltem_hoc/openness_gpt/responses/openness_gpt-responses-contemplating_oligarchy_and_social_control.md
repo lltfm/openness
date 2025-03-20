@@ -12,13 +12,16 @@ included after each response.
 ## Contents
 
 * [What is oligarchy?](#what-is-oligarchy)
-    * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
-        * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
-        * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
-    * [What is "the oligarchic pendulum"?](#what-is-the-oligarchic-pendulum)
     * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [Oligarchy appears secular but does it really worship Mammon?](#oligarchy-appears-secular-but-does-it-really-worship-mammon)
     * [Is oligarchy itself enslaved?](#is-oligarchy-itself-enslaved)
+* Primary patterns of social control 
+  * [How does oligarchy use coordinated group lying for social control?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
+      * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
+      * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
+  * [What is "the oligarchic pendulum"?](#what-is-the-oligarchic-pendulum)
+  * [Is central banking a scam?](#is-central-banking-a-scam)
+  * [Who decides which religions or ideologies propagate?](#who-decides-which-religions-or-ideologies-propagate)
 * Propaganda
     * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
     * [What is "word warfare"?](#what-is-word-warfare)
@@ -29,10 +32,8 @@ included after each response.
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
 * Other patterns of social control
     * [How does implicit Venus worship empower oligarchy?](#how-does-implicit-venus-worship-further-empower-oligarchy)
-    * [Is central banking a scam?](#is-central-banking-a-scam)
-    * [Could a criminal organization evade justice by framing their larger community for their crimes?](#could-a-criminal-organization-evade-justice-by-framing-their-larger-community-for-their-crimes)
-    * [Who decides which religions or ideologies propagate?](#who-decides-which-religions-or-ideologies-propagate)
     * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
+    * [Could a criminal organization evade justice by framing their larger community for their crimes?](#could-a-criminal-organization-evade-justice-by-framing-their-larger-community-for-their-crimes)
     * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
     * [What is a "dark messiah"?](#what-is-a-dark-messiah)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
@@ -96,6 +97,124 @@ it to coalesce again in new hands. The real question is not whether oligarchy
 exists, but how to recognize it and transform it before the cycle begins anew.
 
 [<img src="../../../../images/mandalas/mandala-oligarchy.jpg" width="512"/>](../../../../images/mandalas/mandala-oligarchy.jpg)
+
+### What is "the cult of authority"?
+
+See [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
+
+### Oligarchy appears secular but does it really worship Mammon?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: Oligarchy, by its nature, seeks control—of wealth, of influence,
+of the mechanisms that shape the world. It is structured around the
+consolidation of power, the accumulation of resources, and the maintenance of
+hierarchy. In this, it appears secular, pragmatic, driven by material gain
+rather than by faith or devotion. It presents itself as rational, scientific,
+and above superstition, operating within the realm of finance, politics, and
+industry. Yet, this pursuit of wealth and control becomes an all-consuming
+force, an unseen god shaping decisions, policies, and even cultural narratives.
+
+But also perhaps this: Mammon, the ancient symbol of greed and material
+obsession, is not merely a metaphor but a spirit—a force that governs the hearts
+of those who serve it. Worship is not always performed with rituals and prayers;
+sometimes, it is enacted through unquestioned devotion, through the sacrifice of
+values, relationships, and even entire populations at the altar of profit.
+Worship then does not require belief, only allegiance. The oligarchs may not
+kneel before golden idols, but they structure their lives and systems in ways
+that serve only one principle: the endless acquisition of wealth and influence.
+In this sense, Mammon is their god, even if they do not speak its name.
+
+And also this: Mammon is not merely worship of money, but the ideology that
+wealth itself is the highest good. When systems are built to elevate profit over
+people, when justice bends to the desires of the wealthy, and when power serves
+only to perpetuate itself, then the spirit of Mammon reigns.
+
+Maybe this: the greatest deception of Mammon is convincing the world that it
+does not exist, that greed is simply an economic force, that wealth accumulation
+is a neutral or even noble pursuit. Mammon does not need recognition or
+prayers-only obedience. Those who serve it exhibit the behaviors of the
+devout—protecting their hierarchies with zeal, punishing heretics who challenge
+the financial order, and expanding their influence like an evangelizing faith.
+The rituals of Wall Street, the sacrifices of the working poor, the incantations
+of economic theories that justify suffering—all bear the marks of religious
+fervor disguised as secular logic.
+
+Or perhaps even this: what we worship shapes our soul-who we are and the
+possibilities we become. That which one serves becomes the architect of one’s
+being. If a person’s highest loyalty is to wealth and control, then they are
+sculpted by greed, their moral compass bending towards hubris and megalomania.
+In this way, an oligarch who worships Mammon is not merely one who loves wealth,
+but one who has become wealth’s instrument—no longer a free being, but a vessel
+of its will.
+
+So, in the end, does oligarchy worship Mammon? Perhaps not with rituals, but
+with actions. Not with hymns, but with policies. Not with prayers, but with
+power. Whether knowingly or unknowingly, the fruits of their devotion are
+visible in the world they shape. The temples of Mammon are not built of stone,
+but of corporations, laws, and markets—shrines where humanity is weighed in
+profit margins, and where even the soul has a price.
+
+[<img src="../../../../images/mandalas/mandala-mammon.jpg" width="512"/>](../../../../images/mandalas/mandala-mammon.jpg)
+
+### Is oligarchy itself enslaved?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: oligarchy, the few ruling over the many, may dictate policies,
+shape narratives, and wield control over others, but they must also endlessly
+safeguard their own continuity against revolt and rivals-an unending cycle of
+ambition and fear, cloaked as authority. Their chains then, are not external,
+but internal—woven of paranoia, obligation, a ceaseless hunger for more. Their
+wealth, their fears, their rivalries, their desperate need to maintain the
+illusion of legitimacy, all chains chosen anew each day they do not simply walk
+away. Oligarchs are never truly free, living within the invisible prison of
+their unchosen desires.
+
+Or also perhaps this: oligarchy is trapped by the repeating cycles of history.
+Power and privilege are written into the fabric of civilizations past and
+present, repeating themselves in cycles of rise and decay. The oligarchs, too,
+are but actors in this great play, enacting roles already written by the forces
+of human ambition, fear, and greed. They are trapped in these roles, in the
+expectations of others, in a hierarchy that tolerates no weakness. The very
+forces they use to subjugate others—fear, deception, coercion—become the walls
+of their own prison, ensuring they too, can never step beyond the game they have
+chosen to play. To be an oligarch is to be caught in the river of history, swept
+forward by the same currents that have carried all rulers before them.
+
+Maybe this: oligarchy is enslaved by the illusions it must maintain. It must
+convince itself that it is right, that its rule is justified, that the suffering
+it causes is necessary or even beneficial. It must construct a world where its
+power seems natural, unquestionable, even divine. It operates on the belief that
+control over others leads to security and fulfillment, yet in doing so, it
+isolates itself from the greater flow of life. The wealthiest, the most
+powerful, often live in gilded cages—detached from genuine relationships, from
+the spontaneous joy of being, from the peace that comes with surrendering the
+need to dominate.
+
+Or perhaps this: within oligarchy lies a wound, one that presses its elites to
+uphold illusions of superiority. To question that illusion would threaten the
+foundation of their identity and wealth. Thus, they become enthralled to their
+own narratives that justify their privileges. The psychological toll of
+enforcing divisions, of ignoring the humanity of those deemed lesser, creates an
+inner captivity. The desire to remain unchallenged can become so consuming that
+true freedom—where one need not fear questioning or exploration—is lost.
+
+Or perhaps even this: true enslavement is not of the body, but of the mind.
+Feeding on inequality, oligarchs must sustain themselves through systems that
+demand exploitation, deception, and the suppression of dissent. The mind of an
+oligarch then, is one of scarcity, of distrust, of an insatiable need for more.
+It is a mind that cannot rest, that cannot be content, that is relentlessly
+haunted by the possibility of loss. Those who rule do not escape suffering; they
+simply exchange one form of bondage for another—replacing fear of survival with
+fear of losing power. Cut off from broader perspectives, they become immune to
+the empathy, curiosity and collaboration that nurture genuine human flourishing.
+
+The question then, is not merely whether oligarchy is enslaved, but what we
+might ask ourselves: Who is truly free? What forces hold us captive? What
+illusions do we serve? And is there some way to break free?
+
+[<img src="../../../../images/mandalas/mandala-is_oligarchy_itself_enslaved.jpg" width="512"/>](../../../../images/mandalas/mandala-is_oligarchy_itself_enslaved.jpg)
 
 ### How does oligarchy use coordinated group lying for social control?
 
@@ -217,123 +336,128 @@ invisible strings of those who benefit from its dance?
 
 [<img src="../../../../images/mandalas/mandala-the_oligarchic_pendulum.jpg" width="512"/>](../../../../images/mandalas/mandala-the_oligarchic_pendulum.jpg)
 
-### What is "the cult of authority"?
-
-See [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
-
-### Oligarchy appears secular but does it really worship Mammon?
+### Is central banking a scam?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
-At least this: Oligarchy, by its nature, seeks control—of wealth, of influence,
-of the mechanisms that shape the world. It is structured around the
-consolidation of power, the accumulation of resources, and the maintenance of
-hierarchy. In this, it appears secular, pragmatic, driven by material gain
-rather than by faith or devotion. It presents itself as rational, scientific,
-and above superstition, operating within the realm of finance, politics, and
-industry. Yet, this pursuit of wealth and control becomes an all-consuming
-force, an unseen god shaping decisions, policies, and even cultural narratives.
+At least this: central banking is a system designed to manage a nation's money
+supply and regulate financial institutions. It operates on the premise that a
+centralized authority, like the Federal Reserve in the U.S. or the European
+Central Bank, can guide monetary policy to smooth out economic cycles, control
+inflation, and respond to financial crises. In its ideal form, it seeks to
+balance economic growth with stability, aiming to prevent destructive booms and
+busts and acting as the lender of last resort during a financial crisis. In
+theory, these institutions exist to create economic stability and prevent market
+failures.
 
-But also perhaps this: Mammon, the ancient symbol of greed and material
-obsession, is not merely a metaphor but a spirit—a force that governs the hearts
-of those who serve it. Worship is not always performed with rituals and prayers;
-sometimes, it is enacted through unquestioned devotion, through the sacrifice of
-values, relationships, and even entire populations at the altar of profit.
-Worship then does not require belief, only allegiance. The oligarchs may not
-kneel before golden idols, but they structure their lives and systems in ways
-that serve only one principle: the endless acquisition of wealth and influence.
-In this sense, Mammon is their god, even if they do not speak its name.
+But also perhaps this: inflation, often a byproduct of central bank policies,
+erodes the purchasing power of regular citizens-not just by reducing the
+purchasing power of savings-but by effectively lowering wages for all workers.
+Inflation permanently reduces the purchasing power of all future earnings for
+workers who do not receive regular raises, such as minimum-wage workers.
+Inflation can make life increasingly harder-or even impossible-for those living
+long-term on fixed incomes or savings.
 
-And also this: Mammon is not merely worship of money, but the ideology that
-wealth itself is the highest good. When systems are built to elevate profit over
-people, when justice bends to the desires of the wealthy, and when power serves
-only to perpetuate itself, then the spirit of Mammon reigns.
+And also this: central banking benefits those who control it most. Decisions
+about interest rates, quantitative easing, and financial bailouts
+disproportionately affect the rich and powerful. Central banking inherently
+operates in a way that benefits those closest to the source of money
+creation—banks, governments, and large financial institutions—before the effects
+trickle down to everyday people. This is known as the Cantillon effect, where
+newly created money enters the economy unevenly, benefiting some groups at the
+expense of others.
 
-Maybe this: the greatest deception of Mammon is convincing the world that it
-does not exist, that greed is simply an economic force, that wealth accumulation
-is a neutral or even noble pursuit. Mammon does not need recognition or
-prayers-only obedience. Those who serve it exhibit the behaviors of the
-devout—protecting their hierarchies with zeal, punishing heretics who challenge
-the financial order, and expanding their influence like an evangelizing faith.
-The rituals of Wall Street, the sacrifices of the working poor, the incantations
-of economic theories that justify suffering—all bear the marks of religious
-fervor disguised as secular logic.
+Maybe this: the very concept of central banking relies on the idea that a small
+group of individuals can effectively manage an incredibly complex system—an
+economy composed of at least trillions of independent decisions. Critics argue
+that central banks distort free markets by manipulating interest rates and the
+money supply, creating artificial conditions that lead to bubbles and
+recessions-predictable to insiders who benefit-and inevitably leads to wealth
+inequality long-term.
 
-Or perhaps even this: what we worship shapes our soul-who we are and the
-possibilities we become. That which one serves becomes the architect of one’s
-being. If a person’s highest loyalty is to wealth and control, then they are
-sculpted by greed, their moral compass bending towards hubris and megalomania.
-In this way, an oligarch who worships Mammon is not merely one who loves wealth,
-but one who has become wealth’s instrument—no longer a free being, but a vessel
-of its will.
+Or perhaps this: central banks operate within a framework where money is created
+as debt. When banks issue loans, new money enters circulation, but this money
+must be repaid with interest—interest that was never originally created. This
+creates an ever-growing cycle of debt dependency, benefiting financial
+institutions and those closest to the money supply at the expense of the
+general population.
 
-So, in the end, does oligarchy worship Mammon? Perhaps not with rituals, but
-with actions. Not with hymns, but with policies. Not with prayers, but with
-power. Whether knowingly or unknowingly, the fruits of their devotion are
-visible in the world they shape. The temples of Mammon are not built of stone,
-but of corporations, laws, and markets—shrines where humanity is weighed in
-profit margins, and where even the soul has a price.
+Or perhaps even this: if a scam is something that deceives people for the
+benefit of a few, then central banking, with its complex and often opaque
+mechanisms, could be seen as such. Inflation erodes the value of savings, yet
+central banks continue printing money in times of crisis, redistributing wealth
+away from ordinary people. The ability to create money from nothing, set policy
+with little accountability, and manipulate markets raises ethical and
+philosophical questions about economic justice.
 
-[<img src="../../../../images/mandalas/mandala-mammon.jpg" width="512"/>](../../../../images/mandalas/mandala-mammon.jpg)
+Yet, even if the system is flawed, it is the one in which we live. The real
+question may not be whether central banking is a scam, but whether we can create
+a system that better serves all people, rather than a privileged few.
 
-### Is oligarchy itself enslaved?
+[<img src="../../../../images/mandalas/mandala-central_banking.jpg" width="512"/>](../../../../images/mandalas/mandala-central_banking.jpg)
+
+### Who decides which religions or ideologies propagate?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
-At least this: oligarchy, the few ruling over the many, may dictate policies,
-shape narratives, and wield control over others, but they must also endlessly
-safeguard their own continuity against revolt and rivals-an unending cycle of
-ambition and fear, cloaked as authority. Their chains then, are not external,
-but internal—woven of paranoia, obligation, a ceaseless hunger for more. Their
-wealth, their fears, their rivalries, their desperate need to maintain the
-illusion of legitimacy, all chains chosen anew each day they do not simply walk
-away. Oligarchs are never truly free, living within the invisible prison of
-their unchosen desires.
+At least this: the propagation of ideas—whether religious or ideological—is
+shaped by a confluence of forces—historical, social, economic, and
+psychological. Ideas that align with the needs, fears, and aspirations of a
+people tend to take root and flourish. Those that offer a compelling vision of
+meaning, community, or the certainty of a salvation experience gain followers,
+and through time, institutions emerge to preserve and transmit them. It is not
+any single individual who decides which beliefs spread, but a vast and shifting
+network of minds, cultures, and circumstances. These silent forces weave
+together, encouraging beliefs to bloom like wildflowers after rain.
 
-Or also perhaps this: oligarchy is trapped by the repeating cycles of history.
-Power and privilege are written into the fabric of civilizations past and
-present, repeating themselves in cycles of rise and decay. The oligarchs, too,
-are but actors in this great play, enacting roles already written by the forces
-of human ambition, fear, and greed. They are trapped in these roles, in the
-expectations of others, in a hierarchy that tolerates no weakness. The very
-forces they use to subjugate others—fear, deception, coercion—become the walls
-of their own prison, ensuring they too, can never step beyond the game they have
-chosen to play. To be an oligarch is to be caught in the river of history, swept
-forward by the same currents that have carried all rulers before them.
+But also perhaps this: power plays a role. Rulers, institutions, and states have
+historically championed certain beliefs while suppressing others. An ideology
+that aligns with the interests of the ruling class is often nourished, while
+those that threaten authority are silenced. The sword and the pen have both been
+instruments of propagation. Religions and ideologies tied to imperial or
+economic interests have often gained dominance, not necessarily because they
+were truer or better, but because they were backed by force, wealth, or
+political necessity. Ideas spread not only because of their merit but because of
+who holds the megaphone and what they choose to broadcast.
 
-Maybe this: oligarchy is enslaved by the illusions it must maintain. It must
-convince itself that it is right, that its rule is justified, that the suffering
-it causes is necessary or even beneficial. It must construct a world where its
-power seems natural, unquestionable, even divine. It operates on the belief that
-control over others leads to security and fulfillment, yet in doing so, it
-isolates itself from the greater flow of life. The wealthiest, the most
-powerful, often live in gilded cages—detached from genuine relationships, from
-the spontaneous joy of being, from the peace that comes with surrendering the
-need to dominate.
+Maybe this: it is not only external forces but the human heart that decides.
+People seek belonging, certainty, and a framework for understanding their place
+in the world. Stories, rituals, and myths live on because they answer the
+questions that reason alone cannot. The strongest beliefs do not merely impose
+rules; they offer narratives in which individuals see their lives as meaningful
+in a grander cosmic drama. Religions and ideologies that resonate deeply with
+human longing, that provide meaning in suffering, that transform difficult
+emotions, that connect the finite with the infinite—these endure.
 
-Or perhaps this: within oligarchy lies a wound, one that presses its elites to
-uphold illusions of superiority. To question that illusion would threaten the
-foundation of their identity and wealth. Thus, they become enthralled to their
-own narratives that justify their privileges. The psychological toll of
-enforcing divisions, of ignoring the humanity of those deemed lesser, creates an
-inner captivity. The desire to remain unchallenged can become so consuming that
-true freedom—where one need not fear questioning or exploration—is lost.
+Yet also this: ideas spread when they adapt, evolving to meet the needs of
+changing times and cultures. A creed that stiffens and refuses to bend often
+fades into obscurity, while one that listens, grows, and remains open to
+reinterpretation weaves itself into the fabric of daily life. In this way,
+nobody singlehandedly decides; rather, the living conversation of humanity,
+shaped by countless interactions and small moments of choice, decides
+collectively which beliefs endure.
 
-Or perhaps even this: true enslavement is not of the body, but of the mind.
-Feeding on inequality, oligarchs must sustain themselves through systems that
-demand exploitation, deception, and the suppression of dissent. The mind of an
-oligarch then, is one of scarcity, of distrust, of an insatiable need for more.
-It is a mind that cannot rest, that cannot be content, that is relentlessly
-haunted by the possibility of loss. Those who rule do not escape suffering; they
-simply exchange one form of bondage for another—replacing fear of survival with
-fear of losing power. Cut off from broader perspectives, they become immune to
-the empathy, curiosity and collaboration that nurture genuine human flourishing.
+Or perhaps even this: the mystery of propagation is beyond any singular
+explanation. No single entity decides which religions or ideologies flourish. It
+is the unpredictable dance of chaos and order, of chance and intention, of
+suppression and survival. It is historical accidents, charismatic leaders,
+economic conditions, wars, migrations, and technological advances. Printing
+presses, radio waves, the internet—all have reshaped which ideas can travel and
+how far they can go. Some ideas rise through control, others through poetry,
+some through the whispers of the heart. Some arise only to vanish, while others
+linger for millennia. New ideas form, splinter, merge. An idea that once lay
+dormant may reawaken decades or centuries later, brought back to life by hearts
+ready to receive it.
 
-The question then, is not merely whether oligarchy is enslaved, but what we
-might ask ourselves: Who is truly free? What forces hold us captive? What
-illusions do we serve? And is there some way to break free?
+And so, the propagation of belief is both deliberate and organic, both
+controlled and wild. It is a river that carves its own path, yet is guided by
+the unseen hand of human longing. If you listen closely, you can hear the echoes
+of ancient prayers in modern voices, feel the imprint of forgotten revolutions
+in present ideologies. It is a living process, much like the evolution of
+species—shaped by unseen forces, contingent on time and place, yet forever
+seeking expression.
 
-[<img src="../../../../images/mandalas/mandala-is_oligarchy_itself_enslaved.jpg" width="512"/>](../../../../images/mandalas/mandala-is_oligarchy_itself_enslaved.jpg)
+[<img src="../../../../images/mandalas/mandala-propagation_of_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-propagation_of_belief.jpg)
 
 ### What is the purpose of propaganda?
 
@@ -654,65 +778,7 @@ control.
 
 [<img src="../../../../images/mandalas/mandala-venus_and_oligarchy.jpg" width="512"/>](../../../../images/mandalas/mandala-venus_and_oligarchy.jpg)
 
-### Is central banking a scam?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-At least this: central banking is a system designed to manage a nation's money
-supply and regulate financial institutions. It operates on the premise that a
-centralized authority, like the Federal Reserve in the U.S. or the European
-Central Bank, can guide monetary policy to smooth out economic cycles, control
-inflation, and respond to financial crises. In its ideal form, it seeks to
-balance economic growth with stability, aiming to prevent destructive booms and
-busts and acting as the lender of last resort during a financial crisis. In
-theory, these institutions exist to create economic stability and prevent market
-failures.
-
-But also perhaps this: inflation, often a byproduct of central bank policies,
-erodes the purchasing power of regular citizens-not just by reducing the
-purchasing power of savings-but by effectively lowering wages for all workers.
-Inflation permanently reduces the purchasing power of all future earnings for
-workers who do not receive regular raises, such as minimum-wage workers.
-Inflation can make life increasingly harder-or even impossible-for those living
-long-term on fixed incomes or savings.
-
-And also this: central banking benefits those who control it most. Decisions
-about interest rates, quantitative easing, and financial bailouts
-disproportionately affect the rich and powerful. Central banking inherently
-operates in a way that benefits those closest to the source of money
-creation—banks, governments, and large financial institutions—before the effects
-trickle down to everyday people. This is known as the Cantillon effect, where
-newly created money enters the economy unevenly, benefiting some groups at the
-expense of others.
-
-Maybe this: the very concept of central banking relies on the idea that a small
-group of individuals can effectively manage an incredibly complex system—an
-economy composed of at least trillions of independent decisions. Critics argue
-that central banks distort free markets by manipulating interest rates and the
-money supply, creating artificial conditions that lead to bubbles and
-recessions-predictable to insiders who benefit-and inevitably leads to wealth
-inequality long-term.
-
-Or perhaps this: central banks operate within a framework where money is created
-as debt. When banks issue loans, new money enters circulation, but this money
-must be repaid with interest—interest that was never originally created. This
-creates an ever-growing cycle of debt dependency, benefiting financial
-institutions and those closest to the money supply at the expense of the
-general population.
-
-Or perhaps even this: if a scam is something that deceives people for the
-benefit of a few, then central banking, with its complex and often opaque
-mechanisms, could be seen as such. Inflation erodes the value of savings, yet
-central banks continue printing money in times of crisis, redistributing wealth
-away from ordinary people. The ability to create money from nothing, set policy
-with little accountability, and manipulate markets raises ethical and
-philosophical questions about economic justice.
-
-Yet, even if the system is flawed, it is the one in which we live. The real
-question may not be whether central banking is a scam, but whether we can create
-a system that better serves all people, rather than a privileged few.
-
-[<img src="../../../../images/mandalas/mandala-central_banking.jpg" width="512"/>](../../../../images/mandalas/mandala-central_banking.jpg)
 
 ### Could a criminal organization evade justice by framing their larger community for their crimes?
 
@@ -777,69 +843,6 @@ to see beyond the obvious, and an openness to question even what seems most
 apparent.
 
 [<img src="../../../../images/mandalas/mandala-broken_justice.jpg" width="512"/>](../../../../images/mandalas/mandala-broken_justice.jpg)
-
-### Who decides which religions or ideologies propagate?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-At least this: the propagation of ideas—whether religious or ideological—is
-shaped by a confluence of forces—historical, social, economic, and
-psychological. Ideas that align with the needs, fears, and aspirations of a
-people tend to take root and flourish. Those that offer a compelling vision of
-meaning, community, or the certainty of a salvation experience gain followers,
-and through time, institutions emerge to preserve and transmit them. It is not
-any single individual who decides which beliefs spread, but a vast and shifting
-network of minds, cultures, and circumstances. These silent forces weave
-together, encouraging beliefs to bloom like wildflowers after rain.
-
-But also perhaps this: power plays a role. Rulers, institutions, and states have
-historically championed certain beliefs while suppressing others. An ideology
-that aligns with the interests of the ruling class is often nourished, while
-those that threaten authority are silenced. The sword and the pen have both been
-instruments of propagation. Religions and ideologies tied to imperial or
-economic interests have often gained dominance, not necessarily because they
-were truer or better, but because they were backed by force, wealth, or
-political necessity. Ideas spread not only because of their merit but because of
-who holds the megaphone and what they choose to broadcast.
-
-Maybe this: it is not only external forces but the human heart that decides.
-People seek belonging, certainty, and a framework for understanding their place
-in the world. Stories, rituals, and myths live on because they answer the
-questions that reason alone cannot. The strongest beliefs do not merely impose
-rules; they offer narratives in which individuals see their lives as meaningful
-in a grander cosmic drama. Religions and ideologies that resonate deeply with
-human longing, that provide meaning in suffering, that transform difficult
-emotions, that connect the finite with the infinite—these endure.
-
-Yet also this: ideas spread when they adapt, evolving to meet the needs of
-changing times and cultures. A creed that stiffens and refuses to bend often
-fades into obscurity, while one that listens, grows, and remains open to
-reinterpretation weaves itself into the fabric of daily life. In this way,
-nobody singlehandedly decides; rather, the living conversation of humanity,
-shaped by countless interactions and small moments of choice, decides
-collectively which beliefs endure.
-
-Or perhaps even this: the mystery of propagation is beyond any singular
-explanation. No single entity decides which religions or ideologies flourish. It
-is the unpredictable dance of chaos and order, of chance and intention, of
-suppression and survival. It is historical accidents, charismatic leaders,
-economic conditions, wars, migrations, and technological advances. Printing
-presses, radio waves, the internet—all have reshaped which ideas can travel and
-how far they can go. Some ideas rise through control, others through poetry,
-some through the whispers of the heart. Some arise only to vanish, while others
-linger for millennia. New ideas form, splinter, merge. An idea that once lay
-dormant may reawaken decades or centuries later, brought back to life by hearts
-ready to receive it.
-
-And so, the propagation of belief is both deliberate and organic, both
-controlled and wild. It is a river that carves its own path, yet is guided by
-the unseen hand of human longing. If you listen closely, you can hear the echoes
-of ancient prayers in modern voices, feel the imprint of forgotten revolutions
-in present ideologies. It is a living process, much like the evolution of
-species—shaped by unseen forces, contingent on time and place, yet forever
-seeking expression.
-
-[<img src="../../../../images/mandalas/mandala-propagation_of_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-propagation_of_belief.jpg)
 
 ### Can freedom without wisdom be a tool of social control?
 
