@@ -14,6 +14,7 @@ included after each response.
 * [What is the "wellspring of morality"?](#what-is-the-wellspring-of-morality)
 * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
     * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
+* [How do we live a moral life if we don't know what exists outside the context of our lives?]()
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
 * [What is karma?](#what-is-karma)
@@ -161,6 +162,46 @@ these patterns or whether we might instead choose to walk a path of humility,
 wonder, and love. The choice, as always, remains our own.
 
 [<img src="../../../../images/mandalas/mandala-balance_openness_and_discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-balance_openness_and_discernment.jpg)
+
+### How do we live a moral life if we don't know what exists outside the context of our lives?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: A moral life begins with the understanding that we are not
+isolated beings, but part of a vast, interconnected reality. Even if we do not
+know what exists beyond the context of our lives, we do know what exists within
+them—love, kindness, suffering, joy. Morality, then, can be rooted in how we
+choose to engage with what is present: in our relationships, our communities,
+our moments of choice. If we act with integrity, compassion, and awareness of
+the impact of our actions, we are already walking the path of a moral life.
+
+But also perhaps this: Morality does not require absolute certainty about
+existence beyond our perception. It may even thrive in the face of uncertainty.
+If we embrace the unknown with humility, we can live not by rigid dogma, but by
+the principle of minimizing harm and fostering goodness. A tree does not need to
+know the whole sky to grow toward the light—it simply follows what sustains
+life.
+
+Maybe this: If the universe is a great mystery, then perhaps morality is not
+about rigid laws but about alignment with something deeper—something we feel,
+even if we cannot define it. The desire to act with goodness, to help rather
+than harm, to uplift rather than oppress—these instincts are a kind of internal
+compass, guiding us through the uncertainty. To be moral, then, is to listen
+closely to the whisper of that compass and to act in alignment with the highest
+truth we can perceive, even if we know it may be incomplete.
+
+Or perhaps even this: Morality is an art, not a science. It is not about finding
+definitive answers but about learning how to live well within the tension of the
+unknown. A moral life is a life of openness, of questioning, of striving not for
+perfect certainty but for deep honesty. It is about holding space for
+complexity, allowing for mistakes, and continuously refining our sense of right
+and wrong through reflection, dialogue, and experience.
+
+If we cannot know the full context of existence, then morality becomes an
+ongoing choice—one that asks us to be present, to listen, and to love as fully
+as we can, even in the face of uncertainty. And perhaps that is enough.
+
+[<img src="../../../../images/mandalas/mandala-moral_life.jpg" width="512"/>](../../../../images/mandalas/mandala-moral_life.jpg)
 
 ### In Openness, why are there "no wrong feelings"?
 
