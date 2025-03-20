@@ -19,6 +19,7 @@ included after each response.
 * [What is orgasm?](#what-is-orgasm)
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
 * [If implicit Mammon worship drives the obsession with wealth and power, what implicit worship drives the obsession with sex and beauty?](#if-obsession-with-wealth-and-power-is-implicit-mammon-worship-what-implicit-worship-drives-obsession-with-sex-and-beauty)
+    * [Oligarchy appears secular but does it really worship Mammon?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#oligarchy-appears-secular-but-does-it-really-worship-mammon) 
 * [Is sex sacred?](#is-sex-sacred)
 * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
 * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
@@ -310,6 +311,10 @@ left? What is the love that endures beyond attraction? What is the desire that
 is not bound to flesh but lifts the soul beyond itself?
 
 [<img src="../../../../images/mandalas/mandala-venus.jpg" width="512"/>](../../../../images/mandalas/mandala-venus.jpg)
+
+### Oligarchy appears secular but does it really worship Mammon?
+
+See [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#oligarchy-appears-secular-but-does-it-really-worship-mammon)
 
 ### Is sex sacred?
 
