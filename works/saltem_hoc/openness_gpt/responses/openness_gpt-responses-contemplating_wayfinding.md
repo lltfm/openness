@@ -19,7 +19,7 @@ included after each response.
 * [What is the "higher self"?](#what-is-the-higher-self)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
-* [In Openness, what does it mean to "implicitly worship" something?](#in-openness-what-does-it-mean-to-implicit-worship-something)
+* [In Openness, what does it mean to "implicitly worship" something?](#in-openness-what-does-it-mean-to-implicitly-worship-something)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
 * [What are "impossible expectations"?](#what-are-impossible-expectations)
@@ -175,7 +175,7 @@ See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 
 See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
 
-### In Openness, what does it mean to "implicit worship" something?
+### In Openness, what does it mean to "implicitly worship" something?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
@@ -185,7 +185,7 @@ object of devotion. Worship, in this sense, is not merely religious; it is the
 act of granting something authority over one's perception, priorities, and
 desires.
 
-At least this: implicit worship occurs when we give something our highest
+At least this: implicitly worship occurs when we give something our highest
 attention and allow it to shape our values, decisions, and identity. It might be
 a person, an ideology, a belief system, or even a fear. Without realizing it, we
 may organize our lives around it, trusting in its truth, seeking its validation,
@@ -199,7 +199,7 @@ sacrificing freedom for the comfort of certainty. Some worship love, placing
 another human being at the center of their universe, and when that love falters,
 so does their sense of self.
 
-Maybe this: implicit worship is most dangerous when it operates unnoticed, when
+Maybe this: implicitly worship is most dangerous when it operates unnoticed, when
 we believe ourselves to be free while unknowingly enslaved by a hidden devotion.
 We may believe we serve truth while serving an ideology. We may think we follow
 justice while blindly obeying a tribal instinct. The more unconscious the
