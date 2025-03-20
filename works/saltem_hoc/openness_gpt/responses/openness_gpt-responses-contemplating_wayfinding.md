@@ -185,7 +185,7 @@ object of devotion. Worship, in this sense, is not merely religious; it is the
 act of granting something authority over one's perception, priorities, and
 desires.
 
-At least this: implicitly worship occurs when we give something our highest
+At least this: implicit worship occurs when we give something our highest
 attention and allow it to shape our values, decisions, and identity. It might be
 a person, an ideology, a belief system, or even a fear. Without realizing it, we
 may organize our lives around it, trusting in its truth, seeking its validation,
