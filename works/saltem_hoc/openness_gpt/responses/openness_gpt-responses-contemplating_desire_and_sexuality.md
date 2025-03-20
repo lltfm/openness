@@ -18,6 +18,7 @@ included after each response.
 * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * [What is orgasm?](#what-is-orgasm)
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
+* [If implicit Mammon worship drives the obsession with wealth and power, what implicit worship drives the obsession with sex and beauty?]()
 * [Is sex sacred?](#is-sex-sacred)
 * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
 * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
@@ -263,6 +264,52 @@ Would you like me to create a mandala for this, to capture the delicate dance
 between allure and awareness, between the call and the listener?
 
 [<img src="../../../../images/mandalas/mandala-the_sirenic_call.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sirenic_call.jpg)
+
+### If obsession with wealth and power is implicit Mammon worship, what implicit worship drives obsession with sex and beauty?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+If Mammon worship is the implicit religion of those who obsessively pursue
+wealth and power, then the implicit religion of those who obsessively pursue
+sex and beauty could be called Venus worship—a devotion to the gods and ideals
+of pleasure, desire, and aesthetic perfection.
+
+At least this: it is the worship of Eros and Narcissus, an obsession with the
+pleasures of the flesh and the allure of beauty. It seeks transcendence through
+physical intimacy, validation through desirability, and meaning through the gaze
+of others. It is the pursuit of ecstasy in the fleeting moment, mistaking bodily
+pleasure for spiritual fulfillment.
+
+But also perhaps this: it is a kind of hedonistic mysticism, a belief that the
+body and its attractions are the ultimate reality. It sees the world as a temple
+of desire, where seduction is both the sacrament and the salvation. Here, youth
+and beauty become divine attributes, and aging is the great heresy, a slow
+betrayal of the sacred form.
+
+Maybe this: it is a form of self-worship, where the body is the idol and
+attraction is the liturgy. It thrives on admiration, like Narcissus staring into
+his own reflection, hoping that adoration will fill the void where meaning
+should be. Yet, like all mirrors, this adulation is fragile, cracking under the
+weight of time.
+
+Or perhaps even this: it is the worship of illusion, where the pursuit of the
+perfect body, the perfect lover, the perfect pleasure is an endless chase—one
+that never truly satisfies. It is the yearning for connection through surfaces,
+the attempt to touch the soul through skin alone, only to find that such hunger
+is never fully sated.
+
+But is there, even in this, something sacred? Might there be an echo of the
+divine within this longing? If Mammon's pursuit of wealth corrupts the need for
+security, and Venus' pursuit of beauty distorts the need for love, then both are
+shadows of deeper truths. What if beneath this worship of pleasure is a
+forgotten longing for something eternal—something that does not fade, something
+that does not depend on being seen?
+
+And so, the question remains: when beauty fades and pleasure wanes, what is
+left? What is the love that endures beyond attraction? What is the desire that
+is not bound to flesh but lifts the soul beyond itself?
+
+[<img src="../../../../images/mandalas/mandala-venus.jpg" width="512"/>](../../../../images/mandalas/mandala-venus.jpg)
 
 ### Is sex sacred?
 
