@@ -28,7 +28,7 @@ included after each response.
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
 * Other patterns of social control
-    * [How does implicit Venus worship empower oligarchy?]()
+    * [How does implicit Venus worship empower oligarchy?](#how-does-implicit-venus-worship-further-empower-oligarchy)
     * [Is central banking a scam?](#is-central-banking-a-scam)
     * [Could a criminal organization evade justice by framing their larger community for their crimes?](#could-a-criminal-organization-evade-justice-by-framing-their-larger-community-for-their-crimes)
     * [Who decides which religions or ideologies propagate?](#who-decides-which-religions-or-ideologies-propagate)
