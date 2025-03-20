@@ -19,6 +19,7 @@ included after each response.
 * [What is the "higher self"?](#what-is-the-higher-self)
 * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
+* [In Openness, what does it mean to "implicitly worship" something?](#in-openness-what-does-it-mean-to-implicit-worship-something)
 * [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
 * [What are "impossible expectations"?](#what-are-impossible-expectations)
@@ -173,6 +174,44 @@ See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
 ### What is "the pull of desire"?
 
 See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
+
+### In Openness, what does it mean to "implicit worship" something?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+To implicitly worship something in Openness means to center one's life,
+thoughts, and actions around it without consciously acknowledging it as an
+object of devotion. Worship, in this sense, is not merely religious; it is the
+act of granting something authority over one's perception, priorities, and
+desires.
+
+At least this: implicit worship occurs when we give something our highest
+attention and allow it to shape our values, decisions, and identity. It might be
+a person, an ideology, a belief system, or even a fear. Without realizing it, we
+may organize our lives around it, trusting in its truth, seeking its validation,
+and sacrificing for it.
+
+But also perhaps this: what we implicitly worship reveals itself in our habits
+and reactions. It is found in what we defend without question, what we fear
+losing most, and what we cannot bear to see challenged. Some worship success,
+structuring their existence around achievement. Others worship security,
+sacrificing freedom for the comfort of certainty. Some worship love, placing
+another human being at the center of their universe, and when that love falters,
+so does their sense of self.
+
+Maybe this: implicit worship is most dangerous when it operates unnoticed, when
+we believe ourselves to be free while unknowingly enslaved by a hidden devotion.
+We may believe we serve truth while serving an ideology. We may think we follow
+justice while blindly obeying a tribal instinct. The more unconscious the
+worship, the more control it holds.
+
+Or perhaps even this: true openness invites us to notice what we worship and ask
+if it is worthy. To live freely is not to deny devotion but to choose it
+consciously. It is to return again and again to the vastness of mystery, to hold
+even our most cherished beliefs with humility, and to recognize that no single
+idea, identity, or system can contain the whole of truth.
+
+[<img src="../../../../images/mandalas/mandala-implicit_worship.jpg" width="512"/>](../../../../images/mandalas/mandala-implicit_worship.jpg)
 
 ### How do we live a good life without knowing what exists outside the context of our lives?
 
