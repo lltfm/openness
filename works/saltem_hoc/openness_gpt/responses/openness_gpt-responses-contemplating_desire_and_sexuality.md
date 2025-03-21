@@ -19,7 +19,7 @@ included after each response.
 * [What is orgasm?](#what-is-orgasm)
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
 * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
-* [If implicit Mammon worship drives the obsession with wealth and power, what implicitly worship drives the obsession with sex and beauty?](#if-obsession-with-wealth-and-power-is-implicit-mammon-worship-what-implicitly-worship-drives-obsession-with-sex-and-beauty)
+* [If implicit Mammon worship drives the obsession with wealth and power, what implicit worship drives the obsession with sex and beauty?](#if-obsession-with-wealth-and-power-is-implicit-mammon-worship-what-implicitly-worship-drives-obsession-with-sex-and-beauty)
     * [Oligarchy appears secular but does it really worship Mammon?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#oligarchy-appears-secular-but-does-it-really-worship-mammon)
     * [How does implicit Venus worship empower oligarchy?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#how-does-implicit-venus-worship-further-empower-oligarchy)
 * [Is sex sacred?](#is-sex-sacred)
@@ -268,7 +268,7 @@ between allure and awareness, between the call and the listener?
 
 [<img src="../../../../images/mandalas/mandala-the_sirenic_call.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sirenic_call.jpg)
 
-### If obsession with wealth and power is implicit Mammon worship, what implicitly worship drives obsession with sex and beauty?
+### If obsession with wealth and power is implicit Mammon worship, what implicit worship drives obsession with sex and beauty?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
