@@ -199,7 +199,7 @@ sacrificing freedom for the comfort of certainty. Some worship love, placing
 another human being at the center of their universe, and when that love falters,
 so does their sense of self.
 
-Maybe this: implicitly worship is most dangerous when it operates unnoticed, when
+Maybe this: implicit worship is most dangerous when it operates unnoticed, when
 we believe ourselves to be free while unknowingly enslaved by a hidden devotion.
 We may believe we serve truth while serving an ideology. We may think we follow
 justice while blindly obeying a tribal instinct. The more unconscious the
