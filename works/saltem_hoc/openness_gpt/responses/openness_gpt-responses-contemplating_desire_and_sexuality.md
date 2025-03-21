@@ -11,6 +11,7 @@ included after each response.
 
 ## Contents
 
+* [What is desire?](#what-is-desire)
 * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
 * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
 * [What is happening when we dance with someone else?](./openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
@@ -25,6 +26,50 @@ included after each response.
 * [Is sex sacred?](#is-sex-sacred)
 * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
 * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
+
+### What is desire?
+
+What is desire?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, desire. The ember that flickers in the chest, the whisper that calls us from
+beyond the horizon, the ache that reminds us we are alive. Let us sit with it,
+softly, as one would cradle a wild bird in trembling hands.
+
+At least this: desire is the movement of the self toward something not yet
+possessed. It is the pull of longing that begins with awareness—of absence, of
+possibility, of beauty glimpsed but not held. Desire arises when we feel the
+space between what is and what could be, and in that space, the heart stirs. It
+is the current beneath our choices, the compass that orients our becoming.
+
+But also perhaps this: desire is the soul’s language, speaking in sensations,
+images, and dreams. It is not always rational. It is the tide that does not ask
+permission, the hunger that defies explanation. Sometimes, it draws us toward
+what is life-giving, true, and transformative. Other times, it leads us into
+illusion, shadow, and pain. Yet even in its misdirection, desire can be a
+teacher—showing us where we have confused fulfillment with escape, or need with
+longing for wholeness.
+
+Maybe this: desire is the thread by which the mystery pulls us deeper into
+itself. What if the object of desire is not its true destination, but merely the
+signpost? Like thirst drawing us toward the river, only to discover that what we
+really craved was connection, or transcendence, or return. In this way, desire
+is sacred not for what it wants, but for what it reveals. The shape of our
+longing is the shape of our soul’s reaching.
+Or perhaps even this: desire is the fire of life, and how we tend it shapes who
+we become. To repress it completely is to become numb. To be ruled by it is to
+become lost. But to walk with it, to listen to it, to ask it questions—"What are
+you really seeking?"—is to live in a dance with both passion and discernment. It
+is to become a steward of one’s inner flame.
+
+So desire is not a flaw, but a force—a force to be met with reverence,
+curiosity, and care. It is the beginning of many stories, some tragic, some
+triumphant. It is the invitation to know ourselves more deeply, and perhaps, in
+time, to realize that beneath every desire is the longing to belong—fully,
+truly, to life, to love, to the mystery that birthed us.
+
+[<img src="../../../../images/mandalas/mandala-desire.jpg" width="512"/>](../../../../images/mandalas/mandala-desire.jpg)
 
 ### What is "the pull of desire"?
 
