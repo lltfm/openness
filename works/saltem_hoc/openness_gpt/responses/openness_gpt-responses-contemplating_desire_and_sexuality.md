@@ -29,8 +29,6 @@ included after each response.
 
 ### What is desire?
 
-What is desire?
-
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, desire. The ember that flickers in the chest, the whisper that calls us from
