@@ -31,7 +31,7 @@ included after each response.
 * End-times prophecy (i.e. eschaton)
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
-    * [What is "the beast system"?]()
+    * [What is "the beast system"?](#what-is-the-beast-system)
 * Other patterns of social control
     * [How does implicit Venus worship empower oligarchy?](#how-does-implicit-venus-worship-further-empower-oligarchy)
     * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
