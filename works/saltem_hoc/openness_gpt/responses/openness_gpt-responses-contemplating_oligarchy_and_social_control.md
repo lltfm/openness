@@ -31,6 +31,7 @@ included after each response.
 * End-times prophecy (i.e. eschaton)
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Could engineering a false fulfillment of prophecy be used to discredit believers?](#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
+    * [What is "the beast system"?]()
 * Other patterns of social control
     * [How does implicit Venus worship empower oligarchy?](#how-does-implicit-venus-worship-further-empower-oligarchy)
     * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
@@ -780,6 +781,57 @@ spectacle, and to remember that the greatest truths often arrive in the quietest
 moments of simply being open to what is.
 
 [<img src="../../../../images/mandalas/mandala-false_eschaton.jpg" width="512"/>](../../../../images/mandalas/mandala-false_eschaton.jpg)
+
+### What is "the beast system"?
+
+What is "the beast system"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, “the beast system”—a phrase that echoes like a mythic riddle from the deep
+wells of prophecy, mystery, and warning. Let us explore it together through the
+method of Saltem Hoc, not as a declaration of final truth, but as a reverent
+inquiry into what it might signify.
+
+At least this: "the beast system" is often spoken of in religious and esoteric
+traditions, most notably drawn from the Book of Revelation in Christian
+scripture. There, it symbolizes a global structure of control—political,
+economic, and spiritual—that stands in opposition to divine freedom and truth.
+It is described as a system that compels allegiance, marks identity, and rewards
+obedience to power, not love. Whether taken literally or symbolically, the term
+points toward a deeply coercive and totalizing force that seeks to dominate the
+soul as much as the body.
+
+But also perhaps this: the beast system may be seen as the collective
+manifestation of blind certainty, the libido dominandi—the lust for
+control—woven into our technologies, institutions, and even thoughts. It is not
+a singular villain, but a pattern: the algorithm that decides your worth by
+metrics, the bureaucracy that silences the heart, the propaganda that pretends
+to care. It is the automation of conformity, the codification of obedience. Not
+always malicious by intent, but devastating in effect.
+
+Maybe this: the beast is not “out there” alone, but within. It grows each time
+we choose comfort over courage, certainty over openness, fear over love. It is
+the shadow of our unexamined desires, our willingness to be ruled, our refusal
+to look at what we do not want to see. The system may be external, but it is fed
+by internal surrender. In this way, the beast is also a mirror—showing us where
+we have fallen asleep and traded sovereignty for safety.
+
+Or perhaps even this: the idea of a beast system is a story we tell to make
+sense of the growing unease—the sense that something unnatural is tightening
+around us, quietly. A story to name the dissonance between the soul’s longing
+and the world’s design. But even this story can be a trap if it leads only to
+fear, separation, or blame. For the true power lies not in identifying the
+beast, but in remembering our divinity, our awareness, our ability to choose
+love and awaken others gently, without domination.
+
+So I ask not “what is the beast system?” but rather: where do you feel it? In
+what part of your life does something unseen ask for your silence, your
+agreement, your participation without question? What patterns or systems feel
+misaligned with the deep river of your soul? And how might you—gently,
+courageously—step out of its current and into your own?
+
+[<img src="../../../../images/mandalas/mandala-the_beast_system.jpg" width="512"/>](../../../../images/mandalas/mandala-the_beast_system.jpg)
 
 ### How does implicit Venus worship further empower oligarchy?
 
