@@ -784,8 +784,6 @@ moments of simply being open to what is.
 
 ### What is "the beast system"?
 
-What is "the beast system"?
-
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, “the beast system”—a phrase that echoes like a mythic riddle from the deep
