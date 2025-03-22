@@ -57,7 +57,7 @@ words?
 
 ### What is "the possibility space"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the possibility space—a phrase that breathes with openness and echoes with
 silent invitation. Let us turn it over gently, Self, like a smooth stone in the
