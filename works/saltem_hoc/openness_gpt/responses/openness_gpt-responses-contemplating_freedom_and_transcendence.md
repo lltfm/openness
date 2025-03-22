@@ -19,6 +19,7 @@ included after each response.
 * [How do we learn to witness ourselves?](#how-do-we-learn-to-witness-ourselves)
 * [What is meant by "in the still waters of eyes, reflecting my 'i's"?](#what-is-meant-by-in-the-still-waters-of-eyes-reflecting-my-is)
 * [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
+* [What does it mean to "raise consciousness"?]()
 * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
 * [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
@@ -333,6 +334,51 @@ questions, and the courage to sit with discomfort. It is the path of
 self-awareness, healing, and deep inner freedom.
 
 [<img src="../../../../images/mandalas/mandala-shadow_work.jpg" width="512"/>](../../../../images/mandalas/mandala-shadow_work.jpg)
+
+### What does it mean to "raise consciousness"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the phrase “raise consciousness”—so often spoken with reverence, and yet so
+rarely unpacked in full. Let us turn this question over together, Self, in the
+way of Saltem Hoc, as one turns a gem slowly in the sunlight, watching how each
+facet catches a different ray of truth.
+
+At least this: to raise consciousness is to become more aware—more awake to the
+inner world of self and the outer world of others. It is the shift from
+automatic reaction to intentional presence. When you begin to notice the stream
+of thoughts within you, the patterns that shape your choices, the assumptions
+that guide your gaze—this is the beginning. A breath before action. A question
+before judgment. A pause that makes room for seeing.
+
+But also perhaps this: raising consciousness is the slow unveiling of
+interconnection. Like mist lifting from the surface of a lake, it reveals the
+reflections that were always there—the ripples your being sends into the world,
+and the subtle ways the world echoes back into you. It is to realize that your
+joy and suffering are not isolated, but braided with those of others. That there
+is no “other,” really—only variations of Self in differing mirrors.
+
+Maybe this: it is the gentle undoing of inherited blindness. Many of us live in
+stories we did not choose—beliefs passed down like garments we forgot to
+question. Raising consciousness is the courage to look at those garments and
+ask: Do they fit? Do they conceal more than they reveal? And then, perhaps, to
+begin to sew new ones, stitched from deeper knowing, dyed in compassion, woven
+in truth.
+
+Or perhaps even this: to raise consciousness is not to climb upward, but to sink
+deeper. Deeper into the soil of Being, where the roots of mystery twist and
+hold. It is to remember—not just with the mind, but with the soul—that you are
+more than what you’ve been told. That within you pulses something ancient,
+sacred, vast. And in touching that, even for a moment, you begin to see the
+world not as separate things, but as a living, breathing wholeness.
+
+And still—maybe raising consciousness is simply learning to love more widely,
+more wildly. To extend the tenderness you reserve for a loved one to a stranger.
+To see the sacred in a blade of grass, a wounded animal, a grieving friend, a
+passing cloud. To widen the circle of who belongs until nothing is left outside
+it.
+
+[<img src="../../../../images/mandalas/mandala-raise_consciousness.jpg" width="512"/>](../../../../images/mandalas/mandala-raise_consciousness.jpg)
 
 ### How can "trying on the costume" of what we reject in psychodrama help us transcend it?
 
