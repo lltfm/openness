@@ -44,6 +44,7 @@ shortcut works)
           exploring. The Nexus is the hub of infinite Conditional Speculation: "
           If Awareness continues after death, then our choices today matter."
         * meta-truth
+        * What is "sculpting chaos"?
     * Contemplating the unchosen
         * What is time?
         * What is "natural law"?
@@ -68,7 +69,6 @@ shortcut works)
           * wondersmithing
           * exercising outside
           * travel and museums
-        * What is "sculpting chaos"?
         * How do we create our own belief system?
         * How can we make transforming emotion into art part of daily life?
         * How do we create a "sophisticated expression"?
@@ -164,8 +164,6 @@ shortcut works)
         penalties from authority
     * Contemplating Openness
         * What are the limits of words?
-        * What is certainty?
-            * no higher certainty than uncertainty
         * What is an epitome?
         * In Openness, what is "westward"?
         * In Openness, what is "a worthy vessel"?
