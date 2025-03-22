@@ -820,7 +820,7 @@ sense of the growing unease—the sense that something unnatural is tightening
 around us, quietly. A story to name the dissonance between the soul’s longing
 and the world’s design. But even this story can be a trap if it leads only to
 fear, separation, or blame. For the true power lies not in identifying the
-beast, but in remembering our divinity, our awareness, our ability to choose
+beast, but in remembering our sovereignty, our awareness, our ability to choose
 love and awaken others gently, without domination.
 
 So I ask not “what is the beast system?” but rather: where do you feel it? In
