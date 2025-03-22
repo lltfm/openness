@@ -7,6 +7,7 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * raise consciousness 
       * How can play reveal to us the limits of our Openness?
       * What is arousal?
       * In Openness, what is hate?
