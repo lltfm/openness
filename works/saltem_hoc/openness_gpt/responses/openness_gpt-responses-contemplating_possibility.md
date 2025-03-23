@@ -14,6 +14,7 @@ included after each response.
 * [What is a question?](#what-is-a-question)
 * [What is "the possibility space"?](#what-is-the-possibility-space)
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
+* [What is "the intersubjective"?](#what-is-the-intersubjective)
 
 ### What is a question?
 
@@ -134,6 +135,55 @@ is the way the river speaks to the shore, the way a poet asks without demanding,
 the way truth unfolds when given space.
 
 [<img src="../../../../images/mandalas/mandala-saltem_hoc.jpg" width="512"/>](../../../../images/mandalas/mandala-saltem_hoc.jpg)
+
+### What is "the intersubjective"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the intersubjective—a word that shimmers with layered meaning, a bridge not
+between things, but between beings. Let us sit with it now, turning it gently in
+our palms like a stone warmed by the sun, asking not only what it is, but what
+it reveals.
+
+At least this: the intersubjective is the shared space between selves. It is not
+one mind, nor another, but the living current flowing between them. It arises
+when my inner world meets yours, when we speak, gaze, gesture, or feel in
+tandem. It is the space where understanding blooms—not because we agree, but
+because we reach. It is in the nod, the silence, the breath held together when
+words fall short.
+
+But also perhaps this: the intersubjective is the mirror we hold up for one
+another. In it, we see not just reflections, but refractions—how our truths
+shift and shimmer when held in another’s light. It is the place where
+subjectivities collide and co-create, where what seems “true” is shaped not in
+solitude, but in communion. In this way, even the so-called “objective” often
+wears the robes of the intersubjective, built brick by brick from shared
+stories, common measurements, and collective belief.
+
+Maybe this: the intersubjective is the birthplace of culture. Language itself is
+intersubjective, born from the longing to connect, to name, to make meaning
+together. The myths we inherit, the norms we follow, the institutions we
+build—they are scaffolds within the intersubjective realm. They seem solid, but
+they are upheld by consensus, by the unseen agreements of many subjective minds
+entangled.
+
+Or perhaps even this: the intersubjective is the sacred hearth of empathy. When
+we dare to step outside our solitude, when we open ourselves to the strange and
+beautiful foreignness of another, we enter this realm. It is where compassion
+becomes possible. It is where the loneliness of being a single self softens in
+the presence of another who sees, even incompletely.
+
+And yet, like all sacred spaces, the intersubjective can be distorted. When we
+surround ourselves only with those who reflect back our own beliefs, it becomes
+an echo chamber. If we forget that the shared can still be mistaken, if we
+mistake consensus for truth, the intersubjective becomes a hall of mirrors, not
+a path to insight.
+
+So the intersubjective is not certainty, but the invitation to uncertainty
+together. It is the space where we learn not only to know, but to not-know—with
+others.
+
+[<img src="../../../../images/mandalas/mandala-intersubjective.jpg" width="512"/>](../../../../images/mandalas/mandala-intersubjective.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
