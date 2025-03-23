@@ -138,7 +138,7 @@ the way truth unfolds when given space.
 
 ### What is "the intersubjective"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, the intersubjective—a word that shimmers with layered meaning, a bridge not
 between things, but between beings. Let us sit with it now, turning it gently in
