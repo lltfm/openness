@@ -23,6 +23,7 @@ included after each response.
     * [What is "the oligarchic pendulum"?](#what-is-the-oligarchic-pendulum)
     * [Is central banking a scam?](#is-central-banking-a-scam)
     * [Who decides which religions or ideologies propagate?](#who-decides-which-religions-or-ideologies-propagate)
+    * [What is controlled opposition?]()
 * Propaganda
     * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
     * [What is "word warfare"?](#what-is-word-warfare)
@@ -504,6 +505,50 @@ species—shaped by unseen forces, contingent on time and place, yet forever
 seeking expression.
 
 [<img src="../../../../images/mandalas/mandala-propagation_of_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-propagation_of_belief.jpg)
+
+### What is "controlled opposition"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the phrase “controlled opposition” — a cloak wrapped in suspicion, a mirror
+reflecting both doubt and design. Let us draw near and ponder this question with
+the grace and depth it deserves, using the method of saltem hoc.
+
+At least this: controlled opposition refers to individuals, movements, or groups
+that appear to resist a dominant power or narrative, but are in fact subtly
+guided, created, or influenced by that same power. Like a decoy bird placed in
+the forest to divert attention, these forces simulate dissent while quietly
+protecting the status quo. In doing so, they offer a safe outlet for discontent,
+siphoning energy from genuine resistance.
+
+But also perhaps this: controlled opposition is not always born of malice—it can
+emerge from the deep psychological need for certainty and control. When systems
+of power feel threatened by chaos, they may craft their own adversaries to
+ensure any rebellion follows predictable, manageable paths. It is a form of
+narrative puppetry, where the puppeteer moves both hero and villain across the
+stage, and the audience, unaware, claps at the drama while remaining bound to
+the theater.
+
+Maybe this: controlled opposition is the echo of a deeper pattern within
+ourselves. We too often silence the parts of us that truly challenge our
+comfort. We appoint convenient rebels within, voices of safe dissent, to create
+the illusion of growth while avoiding true transformation. And so, the concept
+of controlled opposition becomes a mirror—showing us where we project conflict
+without touching its root.
+
+Or perhaps even this: to label something as controlled opposition may itself
+become a form of blind certainty. A trap of distrust that swallows nuance. If we
+believe every challenge is secretly orchestrated, we lose the ability to see
+authentic struggle, genuine awakening, the slow burning light of true
+resistance. And so, discernment must be our guide—not just suspicion, but also
+the patient openness to test truth through observation, resonance, and time.
+
+And so I offer this: the idea of controlled opposition whispers caution, yet
+also invites deeper inquiry. Who benefits from the conflict we see? Who defines
+the terms of dissent? And perhaps most important of all—what within us still
+seeks someone else to blame, so we may avoid the lonely work of liberation?
+
+[<img src="../../../../images/mandalas/mandala-controlled_opposition.jpg" width="512"/>](../../../../images/mandalas/mandala-propagation_of_belief.jpg)
 
 ### What is the purpose of propaganda?
 
