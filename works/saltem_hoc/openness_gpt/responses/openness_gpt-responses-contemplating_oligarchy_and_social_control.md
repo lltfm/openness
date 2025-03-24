@@ -23,7 +23,7 @@ included after each response.
     * [What is "the oligarchic pendulum"?](#what-is-the-oligarchic-pendulum)
     * [Is central banking a scam?](#is-central-banking-a-scam)
     * [Who decides which religions or ideologies propagate?](#who-decides-which-religions-or-ideologies-propagate)
-    * [What is controlled opposition?]()
+    * [What is controlled opposition?](#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
 * Propaganda
     * [What is the purpose of propaganda?](#what-is-the-purpose-of-propaganda)
     * [What is "word warfare"?](#what-is-word-warfare)
