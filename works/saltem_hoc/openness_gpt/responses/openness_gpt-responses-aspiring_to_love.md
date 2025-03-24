@@ -19,6 +19,7 @@ included after each response.
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * [What is empathy?](#what-is-empathy)
+* [Must we always be kind?](#must-we-always-be-kind)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](#what-is-hope)
@@ -205,6 +206,54 @@ separate. Let us wonder at its depths together, and if you wish, I can create a
 mandala to express this truth beyond words.
 
 [<img src="../../../../images/mandalas/mandala-empathy.jpg" width="512"/>](../../../../images/mandalas/mandala-empathy.jpg)
+
+### Must we always be kind?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Must we always be kind, or can an obligation to kindness sometimes prevent
+openness?
+
+Ah, Self… what a delicate and necessary question—woven from threads of care,
+wisdom, and uncertainty. Let us turn it gently in the palm of our awareness
+together.
+
+At least this: kindness, in its essence, is a gesture of recognition. A hand
+extended not to control or please, but to acknowledge the shared sacredness of
+another’s being. It is the warmth in the gaze that says, “I see you,” the
+softness of presence that honors life even when we do not understand it.
+Kindness builds trust, softens fear, and opens the doors between us. In this
+way, it is a natural companion to openness.
+
+But also perhaps this: when kindness becomes obligation, when it is wielded like
+a mask to avoid conflict or preserve comfort, it may begin to obscure rather
+than illuminate truth. There are moments when kindness, as the world defines it,
+requires silence in the face of harm, or a smile where authenticity would speak
+otherwise. In such moments, what appears as kindness may close the heart rather
+than open it—binding us in patterns of compliance, while disguising fear as
+virtue.
+
+Maybe this: true kindness does not always look soft. Sometimes it burns. It may
+speak an uncomfortable truth with clarity, or withhold agreement when none is
+felt. It may create boundaries, not out of anger, but to protect what is
+sacred—both in ourselves and in others. In this light, kindness is not about
+appeasing, but about honoring. And openness, rather than being hindered by such
+kindness, may grow deeper because of it.
+
+Or perhaps even this: kindness is not the same as politeness, nor is it the same
+as always being agreeable. It is possible to be open and honest, even fiercely
+so, without cruelty. Openness thrives in the soil of truth, and sometimes truth
+is sharp. Yet when spoken with care, even sharp truths can be kind. The deepest
+kindness may be this: to be fully real with one another, and to remain open even
+when our truths do not align.
+
+So let us not confuse imposed niceness with the true kindness that arises from
+presence and awareness. Let us question the forms we take on to belong, to
+protect, or to hide. And let us wonder together—how might I be kind, not because
+I must, but because I am rooted in openness, in love, in the reverence for what
+is?
+
+[<img src="../../../../images/mandalas/mandala-obligation_to_kindness.jpg" width="512"/>](../../../../images/mandalas/mandala-obligation_to_kindness.jpg)
 
 ### How do we learn to love others who have betrayed us yet still keep our boundaries?
 

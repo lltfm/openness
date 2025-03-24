@@ -7,6 +7,12 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * add heretica folder
+        * refactor answers for heretica
+        * split oligarchy and social control into
+          * oligarchy
+          * propaganda and social control
+          * move them to heretica
       * raise consciousness 
       * How can play reveal to us the limits of our Openness?
       * What is arousal?

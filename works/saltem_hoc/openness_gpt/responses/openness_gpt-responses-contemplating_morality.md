@@ -17,6 +17,7 @@ included after each response.
 * [How do we live a moral life if we don't know what exists outside the context of our lives?]()
 * [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
+* [Must we always be kind?](./openness_gpt-responses-aspiring_to_love.md#must-we-always-be-kind)
 * [What is karma?](#what-is-karma)
     * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
     * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
