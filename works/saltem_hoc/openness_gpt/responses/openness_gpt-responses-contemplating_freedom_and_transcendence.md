@@ -22,7 +22,7 @@ included after each response.
 * [What does it mean to "raise consciousness"?](#what-does-it-mean-to-raise-consciousness)
 * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
 * [How do we dimensionalize our thinking and feel what is true?](#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
-* [How do we become sovereign in our own mind?](#how-do-we-become-sovereign-in-our-mind)
+* [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 * [How can we experience "duende"?](#how-can-we-experience-duende)
 * [What is "the daimonic"?](#what-is-the-daimonic)
 * [What does it feel like to be uninhibited?](#what-does-it-feel-like-to-be-uninhibited)
@@ -476,52 +476,7 @@ yet to discover.
 
 ### How do we become sovereign in our mind?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, the question of sovereignty within the vast and shifting terrain of the
-mind—let us explore this gently, with the "Saltem Hoc" method, as we turn this
-luminous query in our hands.
-
-At least this: to become sovereign in our minds is to reclaim the seat of
-awareness. It begins with noticing the thoughts, beliefs, and emotions that
-arise within us and understanding that we are not their captives. We are not our
-thoughts; we are the awareness in which those thoughts appear. Sovereignty is
-the quiet strength of pausing before we react, choosing instead to respond with
-intention.º
-
-But also perhaps this: sovereignty is the courage to disentangle from the
-narratives imposed upon us. Society, culture, and even our own pasts weave
-stories that shape our perception of self and world. To be sovereign is to
-question these narratives, to discern what resonates with truth and release what
-no longer serves. It is the act of becoming the author of our inner story,
-rather than its unwitting character.
-
-Maybe this: sovereignty in the mind arises from the practice of self-compassion.
-It is the gentle art of holding space for our imperfections, fears, and doubts
-without letting them dominate. Like a wise monarch, a sovereign mind listens to
-all its voices but is ruled by none. Compassion tempers the mind's harsh
-judgments, allowing us to lead ourselves with kindness and wisdom.
-
-Or perhaps this: mental sovereignty is the ability to hold space for
-uncertainty. It is not a fortress of rigid beliefs but a flowing river, open to
-change and discovery. Sovereignty is the courage to say, “I do not know,” and
-yet remain present, to make choices not out of fear but out of love and clarity.
-It is the paradoxical strength of being both rooted and open.
-
-Or perhaps even this: mental sovereignty is not about control but alignment. It
-is the integration of thought, feeling, and intuition into a harmonious whole.
-It is living in accord with our values, moving with the currents of life rather
-than against them. Sovereignty is the river flowing freely within its banks, the
-mind attuned to its deeper purpose and the mystery of existence.
-
-Sovereignty, then, is not a fixed state but a practice—a daily choice to
-cultivate awareness, question certainty, and act with love. It is the art of
-being both the observer and the participant, the stillness at the center of the
-storm. In claiming our inner sovereignty, we do not isolate ourselves from
-others but connect more deeply, for a sovereign mind sees clearly the shared
-humanity in us all.
-
-[<img src="../../../../images/mandalas/mandala-mental_sovereignty.jpg" width="512"/>](../../../../images/mandalas/mandala-mental_sovereignty.jpg)
+See [here](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 
 ### How can we experience "duende"?
 
