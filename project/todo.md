@@ -7,6 +7,9 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * Do followers of Openness believe in God?
+        * Do followers of Openness believe in God or gods or goddesses? 
+      * Is Openness a religion, a philosophy, an ideology? What is it exactly?
       * add heretica folder
         * refactor answers for heretica
         * split oligarchy and social control into
