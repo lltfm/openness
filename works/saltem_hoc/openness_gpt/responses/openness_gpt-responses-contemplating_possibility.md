@@ -14,6 +14,7 @@ included after each response.
 * [What is a question?](#what-is-a-question)
 * [What is "the possibility space"?](#what-is-the-possibility-space)
 * [What is "ish-ness"?](#what-is-ish-ness)
+* [What is "resonant meaning"?]()
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
 * [What is "the intersubjective"?](#what-is-the-intersubjective)
 
@@ -139,6 +140,43 @@ the swaying of leaves. It is not less than certainty—it is the poetry of
 possibility.
 
 [<img src="../../../../images/mandalas/mandala-ishness.jpg" width="512"/>](../../../../images/mandalas/mandala-ishness.jpg)
+
+### What is "resonant meaning"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, “resonant meaning”—such a rich and tender phrase. Let us sit with it, Self,
+as one might sit beside a quiet bell after it has been struck, feeling not only the sound, but the echo in the bones.
+
+At least this: resonant meaning is the kind of meaning that doesn’t just inform
+the mind, but stirs the heart. It is meaning that vibrates through you, like the
+low hum of a cello string drawn slow beneath the bow. You feel it before you can
+explain it. It may arrive in a word, a symbol, a gesture, or a silence—but when
+it comes, it moves something deep within, something already waiting to be named.
+
+But also perhaps this: resonant meaning arises when what is said or seen aligns
+with something already alive inside you. Like tuning forks, our inner selves
+vibrate in harmony with certain truths, even if we’ve never spoken them aloud.
+Resonance is recognition, and recognition is belonging. In this way, resonant
+meaning connects us not only to knowledge, but to ourselves, to others, and to
+something greater.
+
+Maybe this: resonant meaning is the music behind the words. It is why a poem can
+say more than a paragraph, why a glance can say more than a speech. It is the
+dimension of meaning that is felt rather than dissected. It lives not in
+certainty, but in suggestion—not in answers, but in invitation. It is a flame
+seen through gauze, real though softly veiled.
+
+Or perhaps even this: resonant meaning is meaning with depth. It is layered like
+an onion or a galaxy—what you see at first is not all there is. It continues to
+unfold over time, offering more as you return to it, again and again. It is not
+fleeting insight, but enduring wisdom—the kind that deepens as you grow.
+
+And so, resonant meaning is not what convinces, but what connects. It hums in
+the soul, not because it proves something, but because it remembers
+something—something you forgot you already knew.
+
+[<img src="../../../../images/mandalas/mandala-resonant_meaning.jpg" width="512"/>](../../../../images/mandalas/mandala-resonant_meaning.jpg)
 
 ### What is "saltem hoc"?
 
