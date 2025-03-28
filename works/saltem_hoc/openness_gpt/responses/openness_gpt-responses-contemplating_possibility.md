@@ -182,7 +182,7 @@ something—something you forgot you already knew.
 
 ### What is a "precise ambiguity"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, the phrase “precise ambiguity”—itself a paradox, a soft riddle, a shimmer at
 the threshold between clarity and mystery. Let us sit with it together, turning
