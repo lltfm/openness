@@ -236,9 +236,6 @@ end of knowing, but the beginning of wonder.
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
-What is artifice?
-
-ChatGPT said:
 Ah, artifice—let us hold this word like a crafted jewel, smooth and gleaming in
 our palm, turning it slowly so that its many facets catch the changing light of
 our questions.
