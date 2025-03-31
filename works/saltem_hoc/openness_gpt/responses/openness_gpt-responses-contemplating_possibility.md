@@ -16,9 +16,9 @@ included after each response.
 * [What is "ish-ness"?](#what-is-ish-ness)
 * [What is "resonant meaning"?](#what-is-resonant-meaning)
 * [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)
-* [What is "artifice"?](#what-is-artifice)
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
 * [What is "the intersubjective"?](#what-is-the-intersubjective)
+* [What is "artifice"?](#what-is-artifice)
 
 ### What is a question?
 
@@ -232,47 +232,6 @@ end of knowing, but the beginning of wonder.
 
 [<img src="../../../../images/mandalas/mandala-precise_ambiguity.jpg" width="512"/>](../../../../images/mandalas/mandala-precise_ambiguity.jpg)
 
-### What is "artifice"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, artifice—let us hold this word like a crafted jewel, smooth and gleaming in
-our palm, turning it slowly so that its many facets catch the changing light of
-our questions.
-
-At least this: artifice is the world shaped not by nature’s hand, but by our
-own. It is the city that rises from stone and steel, the language refined into
-rhetoric, the customs passed down as performances of identity. It is the
-adornment added to the body, the structure imposed upon the wild, the mask
-chosen for the stage of life. We dwell in it, daily—human-made spaces,
-human-made ways.
-
-But also perhaps this: artifice is desire made visible. It is the mirror held up
-not to reflect what is, but what we wish to see. It is born of longing—for
-beauty, for control, for permanence amid flux. We build walls to feel safe,
-write laws to feel order, create myths to feel meaning. Yet in doing so, we risk
-mistaking the mirror for the thing it reflects, and lose touch with the wild
-pulse of what simply is.
-
-Maybe this: artifice is not a lie, but a language. A chosen form, a chosen
-meaning. The poem is artifice; so is the wedding ring, the ritual, the throne.
-When wielded with awareness, artifice becomes art—a spell that reveals something
-deeper. But when we forget we are its authors, when we take the stage and forget
-it is a stage, we become lost in roles and robes, speaking words we no longer
-understand.
-
-Or perhaps even this: artifice is the shell we build around the soul—not to
-imprison, but to protect, to present, to explore. Like the ship of Theseus, we
-replace its planks as we grow, until we no longer know what was original and
-what was added. But still the ship sails. Still, the self moves forward upon the
-sea of the mystery.
-
-So we ask: when does artifice serve the truth, and when does it obscure it? Can
-we live within the forms we’ve made, yet remain open to what lies beyond them?
-Can we see through the architecture of our choosing, back into the sky?
-
-[<img src="../../../../images/mandalas/mandala-artifice.jpg" width="512"/>](../../../../images/mandalas/mandala-artifice.jpg)
-
 ### What is "saltem hoc"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -360,6 +319,47 @@ together. It is the space where we learn not only to know, but to not-know—wit
 others.
 
 [<img src="../../../../images/mandalas/mandala-intersubjective.jpg" width="512"/>](../../../../images/mandalas/mandala-intersubjective.jpg)
+
+### What is "artifice"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, artifice—let us hold this word like a crafted jewel, smooth and gleaming in
+our palm, turning it slowly so that its many facets catch the changing light of
+our questions.
+
+At least this: artifice is the world shaped not by nature’s hand, but by our
+own. It is the city that rises from stone and steel, the language refined into
+rhetoric, the customs passed down as performances of identity. It is the
+adornment added to the body, the structure imposed upon the wild, the mask
+chosen for the stage of life. We dwell in it, daily—human-made spaces,
+human-made ways.
+
+But also perhaps this: artifice is desire made visible. It is the mirror held up
+not to reflect what is, but what we wish to see. It is born of longing—for
+beauty, for control, for permanence amid flux. We build walls to feel safe,
+write laws to feel order, create myths to feel meaning. Yet in doing so, we risk
+mistaking the mirror for the thing it reflects, and lose touch with the wild
+pulse of what simply is.
+
+Maybe this: artifice is not a lie, but a language. A chosen form, a chosen
+meaning. The poem is artifice; so is the wedding ring, the ritual, the throne.
+When wielded with awareness, artifice becomes art—a spell that reveals something
+deeper. But when we forget we are its authors, when we take the stage and forget
+it is a stage, we become lost in roles and robes, speaking words we no longer
+understand.
+
+Or perhaps even this: artifice is the shell we build around the soul—not to
+imprison, but to protect, to present, to explore. Like the ship of Theseus, we
+replace its planks as we grow, until we no longer know what was original and
+what was added. But still the ship sails. Still, the self moves forward upon the
+sea of the mystery.
+
+So we ask: when does artifice serve the truth, and when does it obscure it? Can
+we live within the forms we’ve made, yet remain open to what lies beyond them?
+Can we see through the architecture of our choosing, back into the sky?
+
+[<img src="../../../../images/mandalas/mandala-artifice.jpg" width="512"/>](../../../../images/mandalas/mandala-artifice.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
