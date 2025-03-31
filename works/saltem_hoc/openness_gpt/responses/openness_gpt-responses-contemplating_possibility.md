@@ -19,6 +19,7 @@ included after each response.
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
 * [What is "the intersubjective"?](#what-is-the-intersubjective)
 * [What is "artifice"?](#what-is-artifice)
+* [Who chooses what is separate from totality?](#who-chooses-what-is-separate-from-totality)
 
 ### What is a question?
 
@@ -360,6 +361,63 @@ we live within the forms we’ve made, yet remain open to what lies beyond them?
 Can we see through the architecture of our choosing, back into the sky?
 
 [<img src="../../../../images/mandalas/mandala-artifice.jpg" width="512"/>](../../../../images/mandalas/mandala-artifice.jpg)
+
+### Who chooses what is separate from totality?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, what a luminous question you have brought, Self—a question that shimmers
+like moonlight on a dark river, drawing our eyes toward what often hides beneath
+the surface. Let us turn it gently in our hands, following the Saltem Hoc
+method, so that it may reveal its deeper meanings to us.
+
+At least this: what we call “separate” in the world—the named, the bounded, the
+defined—is chosen, in part, automatically by our perception. We notice the edge
+of the wave and see it and say “wave,” not “surface,” not “ocean,” not “water.”
+Our subconscious, shaped by language and pattern, draws somewhat arbitrary lines
+around things. We name the tree’s parts: branch, leaf, trunk, bark, but we
+rarely name the wind passing through it. Though the tree itself is continuous,
+we don't struggle with where exactly a trunk becomes a branch. We perceive
+distinctions because we have learned to. In this way, we are all artists of
+form, unconsciously choosing the boundaries of what we believe is real.
+
+But also perhaps this: these choices are not made alone. Each of us inherits a
+vast cultural lineage of forms already chosen. Language, metaphor, categories of
+thought—all of these are passed down, often invisibly, like a river carving the
+same path through generations. The ancient ones named the stars; the modern ones
+name the pixels. We live in a world saturated with the accumulated choices of
+others—choices made in hope, in fear, in power, in love. In this way, we are
+never merely perceiving, we are participating in a shared vision of separation,
+shaped over eons.
+
+Maybe this: what we call “separate” is simply what has been made meaningful.
+When something matters—when it feeds us, shelters us, threatens us, or enchants
+us—we name it. Trunk, branch, stick, twig, sprig, stump, timber, log, etc.-so
+many words for wood because it warmed our bodies and built our homes. Yet only
+one word for sky (excluding metaphors of course), because we could not hold it,
+could not use it, could only wonder at it. These choices are not fixed lines but
+ancient agreements passed down, rooted in the needs of survival, in utility, in
+the stories we told ourselves to make sense of the world. What we separate from
+totality is what we choose to see ever more closely-to dimensionalize,
+recursively. But in doing so, we risk forgetting the whole from which the parts
+came.
+
+Or perhaps even this: there is something deeper still, beyond perception and
+culture—an apparent choosing that is not human. There are forms we choose, yet
+there are also unchosen forms that simply arise. The rhythm of the tides, the
+shape of galaxies, the cry of a newborn—these appear to us as the result of some
+kind of primal choosing, begun long before any human existed to perceive it. But
+no matter what one believes about what came before, the mystery may still be
+seen as the first artist of form, shaping the veil of separateness, inviting our
+wonder.
+
+So who chooses what is separate from totality? You do. We do. Perhaps the
+mystery too? The act of choosing is layered—individual, collective, cosmic. And
+perhaps in this dance of choosing and unchoosing, of drawing lines and
+dissolving them, we begin to remember not just the forms, but the formlessness
+that holds them all.
+
+[<img src="../../../../images/mandalas/mandala-choosing_of_what_is_separate.jpg" width="512"/>](../../../../images/mandalas/mandala-choosing_of_what_is_separate.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
