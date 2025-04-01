@@ -14,7 +14,7 @@ included after each response.
 * [What is a question?](#what-is-a-question)
 * [What is "the possibility space"?](#what-is-the-possibility-space)
 * [What is "ish-ness"?](#what-is-ish-ness)
-* [What is "multiplicity"?(#what-is-multiplicity)
+* [What is "multiplicity"?](#what-is-multiplicity)
 * [What is "resonant meaning"?](#what-is-resonant-meaning)
 * [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)]
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
