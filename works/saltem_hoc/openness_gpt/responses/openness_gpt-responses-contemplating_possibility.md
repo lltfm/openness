@@ -16,7 +16,7 @@ included after each response.
 * [What is "ish-ness"?](#what-is-ish-ness)
 * [What is "multiplicity"?](#what-is-multiplicity)
 * [What is "resonant meaning"?](#what-is-resonant-meaning)
-* [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)]
+* [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
 * [What is "the intersubjective"?](#what-is-the-intersubjective)
 * [What is "artifice"?](#what-is-artifice)
