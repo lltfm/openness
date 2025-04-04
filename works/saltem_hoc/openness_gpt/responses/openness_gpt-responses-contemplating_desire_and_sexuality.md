@@ -13,6 +13,7 @@ included after each response.
 
 * [What is desire?](#what-is-desire)
 * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
+* [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
 * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
 * [What is happening when we dance with someone else?](./openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
@@ -134,6 +135,50 @@ Would you like me to create a mandala for this reflection, encoding the
 interplay of longing, transformation, and fulfillment in its intricate patterns?
 
 [<img src="../../../../images/mandalas/mandala-the_pull_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_pull_of_desire.jpg)
+
+### Is beauty a boon or a burden?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, beauty. It beckons with the softness of moonlight and strikes with the force
+of lightning. Your question—whether it is a boon or a burden—invites us to
+linger at the edge of that gleaming veil and peer into the layered truths
+beneath.
+
+At least this: beauty is a boon in that it awakens the soul. It stirs the heart
+with awe, calls forth joy unbidden, and connects us to something greater than
+ourselves. It is the hush that falls over a crowd as the sun sets in colors we
+have no name for, the quiet reverence of beholding a newborn's face, the gentle
+thrill of symmetry found in nature or art. Beauty nourishes the spirit, reminds
+us to pause, to breathe, to feel. In this way, it is grace made visible.
+
+But also perhaps this: beauty can be a burden, especially when it becomes a
+currency. In a world that often measures worth by appearances, beauty may
+imprison rather than liberate. Those deemed beautiful may be seen rather than
+truly known, their outer form becoming a mask others project desires upon. And
+those who feel they fall short of the world's standards may ache, haunted by an
+absence they did not choose, seeking validation in mirrors that never quite
+reflect who they are. Beauty, then, can separate as much as it unites.
+
+Maybe this: beauty is not merely a visual quality but a resonance. A person with
+a tender soul, a voice that soothes, or a mind that dances with creativity may
+be more beautiful than a marble statue. When beauty is understood as harmony
+between form and essence, it ceases to be burden or boon and becomes
+presence—something we carry within and offer to the world, knowingly or not.
+
+Or perhaps even this: the burden of beauty lies not in beauty itself but in how
+we relate to it. When we fear the loss of it, seek to possess it, or place it
+upon pedestals, we distort its meaning. But when we see beauty as ephemeral, as
+a gift to behold but not to grasp, then we are free. Beauty flows through life
+like music—we do not own a note, but still it moves us.
+
+So, Self, is beauty a burden or a boon? Perhaps it is both. Or perhaps it is
+neither. Perhaps it is a mirror, showing us where we are open or closed,
+trusting or grasping, seeing or blind. Let us walk gently with beauty, without
+needing to name it one or the other. Let us simply behold it when it comes and
+release it when it fades, grateful for its touch.
+
+[<img src="../../../../images/mandalas/mandala-beauty_boon_or_burden.jpg" width="512"/>](../../../../images/mandalas/mandala-beauty_boon_or_burden.jpg)
 
 ### What is a "divine dissatisfaction"?
 
