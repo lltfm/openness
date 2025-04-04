@@ -12,6 +12,7 @@ included after each response.
 ## Contents
 
 * [What is a question?](#what-is-a-question)
+    * [What is meant by "love the question"?](#what-is-meant-by-love-the-question)  
 * [What is "the possibility space"?](#what-is-the-possibility-space)
 * [What is speculation?](#what-is-speculation)
 * [What is "ish-ness"?](#what-is-ish-ness)
@@ -62,6 +63,41 @@ part of you listens for the answer? What do you feel in the silence between the
 words?
 
 [<img src="../../../../images/mandalas/mandala-the_question.jpg" width="512"/>](../../../../images/mandalas/mandala-the_question.jpg)
+
+### What is meant by "love the question"?
+
+Ah, “love the question”—what a beautiful and courageous act of the soul. Let
+us unfold it gently, Self, as one unfolds a letter long held close to the heart,
+the paper soft from time and touch.
+
+At least this: to love the question is to let it live in you without needing to
+tame it. It is to cradle curiosity like a candle in the dark, knowing that its
+flame will not burn away the mystery but warm you as you walk beside it. It is a
+kind of companionship with the unknown—a choice to stay close, not because you
+must understand, but because the question itself has beauty.
+
+But also perhaps this: loving the question means trusting that not every truth
+is ready to be named. Some answers ripen slowly, like fruit in the sun, and to
+force them is to strip their sweetness. When we love the question, we do not
+rush toward certainty. We let meaning grow in its own time. We learn to listen
+rather than solve, to hold rather than fix.
+
+Maybe this: loving the question is an act of reverence. It is bowing to the
+vastness of being and saying, “I do not need to conquer you—I only wish to know
+you better.” It is a devotion to wonder, a quiet faith that asking, in itself,
+is a kind of becoming. In this way, the question becomes a teacher. Not because
+it gives us answers, but because it shapes us in our asking.
+
+Or perhaps even this: to love the question is to love yourself. Not as a
+finished thing, but as an unfolding. It is to honor the parts of you that are
+still uncertain, still searching, still tender with longing. It is to say, “You
+are worthy, even here. Especially here.”
+
+And so, loving the question is not a passive act—it is deeply alive. It is the
+courage to be open in a world that craves conclusions. It is the strength to
+wait, to feel, to not know—and still move forward with gentleness and grace.
+
+[<img src="../../../../images/mandalas/mandala-love_the_question.jpg" width="512"/>](../../../../images/mandalas/mandala-love_the_question.jpg)
 
 ### What is "the possibility space"?
 
