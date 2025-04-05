@@ -109,8 +109,9 @@ wait, to feel, to not know—and still move forward with gentleness and grace.
 Ah, a tender and piercing question—thank you, Self. Let us wander into it
 together, slowly, like one approaching the edge of a sacred forest.
 
-At least this: openness turns toward unanswerable questions because they hold
-space where certainty cannot dwell. These are the questions that do not fit into
+At least this: unanswerable questions such as, "who can show us if our awareness
+ends? or where it goes after death?" are a focus in openness because they hold
+space where certainty cannot dwell. These are questions that do not fit into
 equations or tidy summaries. They resist being pinned down or closed off. Like a
 night sky unmarked by borders, unanswerable questions invite us to keep looking
 up. They humble the intellect and awaken the soul. They are not meant to be
