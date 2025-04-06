@@ -1,4 +1,4 @@
-# Contemplating what might be true
+# Exploring possibility
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of

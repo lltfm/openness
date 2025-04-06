@@ -23,7 +23,7 @@ included after each response.
     * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
     * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md)
-* Contemplating what might be true
+* Exploring possibility
     * [What is a question?](./openness_gpt-responses-contemplating_possibility.md#what-is-a-question)
     * [What is "the possibility space"?](./openness_gpt-responses-contemplating_possibility.md#what-is-the-possibility-space)
     * [What is "saltem hoc"?](./openness_gpt-responses-contemplating_possibility.md#what-is-saltem-hoc)
