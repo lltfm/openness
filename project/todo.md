@@ -7,11 +7,10 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * Why does Openness focus so much on "unanswerable questions"?
-      * What is a "liminal space"?
       * What does it mean to "dimensionalize" something?
       * What is a "sophisticated expression"?
       * What is "sculpting chaos"?
+      * In Openness, who decides what is true?
       * What is "the terrible becoming"?
       * add heretica folder
           * refactor answers for heretica

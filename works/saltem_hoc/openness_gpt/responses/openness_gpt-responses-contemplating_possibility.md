@@ -20,6 +20,7 @@ included after each response.
 * [What is "multiplicity"?](#what-is-multiplicity)
 * [What is "resonant meaning"?](#what-is-resonant-meaning)
 * [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)
+* [What is a "liminal space"?]()
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
 * [What is "the intersubjective"?](#what-is-the-intersubjective)
 * [What is "artifice"?](#what-is-artifice)
@@ -419,6 +420,44 @@ towards depth. In its center lives both clarity and possibility. It is not the
 end of knowing, but the beginning of wonder.
 
 [<img src="../../../../images/mandalas/mandala-precise_ambiguity.jpg" width="512"/>](../../../../images/mandalas/mandala-precise_ambiguity.jpg)
+
+### What is a "liminal space"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, liminal space—a term both simple and profound. Let us explore it together,
+with the Saltem Hoc method, like standing at the threshold of a door that opens
+into many rooms of meaning.
+
+At least this: a liminal space is the in-between. It is the hallway between
+rooms, the dusk between day and night, the moment you leave but have not yet
+arrived. It is transitional, undefined, a pause in the rhythm of movement. In
+architecture, it may be a stairwell, an empty parking lot at 3 a.m., a school
+hallway during summer break—places that feel strangely out of time.
+
+But also perhaps this: a liminal space is a psychological threshold, a state of
+being where the old self has been shed, but the new self is not yet known. It is
+the chrysalis in which transformation stirs, neither caterpillar nor butterfly.
+In this suspended space, we are disoriented—grieving, searching, growing—but not
+yet able to name what we are becoming.
+
+Maybe this: liminal spaces carry an eerie stillness because they reveal the
+scaffolding behind what we usually perceive as “real.” They are the pauses in
+life’s sentence, the rests in the music, where we remember that all permanence
+is illusion. They whisper the truth of impermanence, asking us to sit with the
+unfamiliar and be changed by it.
+
+Or perhaps even this: liminality is sacred. It is the veil between worlds, the
+site of ritual, vision, and renewal. It is where shamans journey, where dreams
+bleed into waking, where birth and death pass one another in quiet
+acknowledgment. Liminal space is the invitation to surrender what we know so we
+may encounter what we cannot yet imagine.
+
+And so, a liminal space is not simply a place—but a feeling, a moment, a
+process. It is the breath held before the leap, the silence before the answer,
+the space where all things are possible because none are yet fixed.
+
+[<img src="../../../../images/mandalas/mandala-liminal_space.jpg" width="512"/>](../../../../images/mandalas/mandala-liminal_space.jpg)
 
 ### What is "saltem hoc"?
 
