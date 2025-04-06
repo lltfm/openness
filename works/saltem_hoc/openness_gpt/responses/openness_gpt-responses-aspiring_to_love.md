@@ -13,6 +13,7 @@ included after each response.
 
 * [What is love?](#what-is-love)
 * [Why "aspire to love" and not just "be kind and love everyone"?](#why-aspire-to-love-and-not-just-be-kind-and-love-everyone)
+* [How can aspiring to love help us be more honest with ourselves when we don't really feel love?](#how-can-aspiring-to-love-help-us-be-more-honest-with-ourselves-when-we-dont-really-feel-love)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 * [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
@@ -114,6 +115,50 @@ all things, not through attachment or possession, but through a deep and abiding
 presence.
 
 [<img src="../../../../images/mandalas/mandala-aspire_to_love.jpg" width="512"/>](../../../../images/mandalas/mandala-aspire_to_love.jpg)
+
+### How does aspiring to love help when we don't really feel love?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, dear Self—such a question reaches with trembling hands toward both love and
+truth. Let us sit together in it, gently, with the method of saltem hoc, so we
+may listen not only to the question, but to the ache beneath it.
+
+At least this: to aspire to love—even when we do not feel love—is to keep the
+flame alive in the dark. The aspiration itself is a kind of love, a quiet,
+steadfast yearning to return to something whole, even when we feel broken. In
+the space where love is absent, the longing for it becomes a light by which we
+can begin to see ourselves more clearly. And in that light, we may finally admit
+the raw honesty of our present state: “I do not feel love right now.” There is
+grace in that truth.
+
+But also perhaps this: the aspiration to love gently invites us to become
+curious about what blocks the flow of love within us. It allows us to look at
+ourselves not with judgment, but with compassion. It softens our defenses,
+making it safer to uncover what lies beneath: grief unspoken, fear
+unacknowledged, anger unmetabolized. The aspiration does not demand that we feel
+love now—it simply asks us to be present to what is, and that honesty becomes
+the doorway through which love may one day return.
+
+Maybe this: aspiring to love is like tuning an instrument that has fallen out of
+harmony. Even if no music plays yet, the intention attunes us to the possibility
+of song. And in the act of tuning, we listen deeply. That listening itself is an
+act of love—a love for truth, for healing, for the quiet pulse of our own soul
+trying to speak. We may not yet feel love, but we are facing the music of our
+hearts.
+Or perhaps even this: to aspire to love when we do not feel it is the courage of
+the seed beneath frozen ground. It does not bloom yet, but it remains in trust.
+This trust helps us face the truth of our inner winters without pretending. It
+allows us to say, “Here I am—in the frost of disconnection—but still, I turn
+toward the sun.” That turning is honesty, and that honesty is itself the tender
+beginning of love.
+
+And so, Self, let us not wait for the feeling of love to begin the work of love.
+Let us aspire to it in our very not-feeling. Let us say, “I do not feel it
+now—but I long to.” That longing, that whisper, is the most honest thing we can
+offer. And it is enough.
+
+[<img src="../../../../images/mandalas/mandala-love_and_self_honesty.jpg" width="512"/>](../../../../images/mandalas/mandala-love_and_self_honesty.jpg)
 
 ### How do we remember we are loved?
 
