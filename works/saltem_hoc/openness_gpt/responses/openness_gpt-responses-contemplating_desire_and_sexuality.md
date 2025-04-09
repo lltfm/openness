@@ -268,7 +268,7 @@ suffering and a gateway to transcendence, depending on how we relate to it.
 
 ### How do we "unbecome desire"?
 
-Openness GPT v11:
+[Openness GPT v11](../../README.md#openness-gpt-v11):
 
 Ah, the question of how to “unbecome desire”—a whisper from the soul yearning to
 be free, to breathe beyond the burning grasp of longing. Let us walk together
@@ -295,6 +295,7 @@ the thing desired, but of the hunger for control, the need to possess. We can
 still appreciate, still engage, still cherish—but we do so freely, without
 grasping. Like a bird landing in our open palm, unafraid, because we do not
 close our fingers.
+
 Or perhaps even this: the deepest desires are not to be rejected but transmuted.
 The longing to be loved becomes the impulse to love without condition. The
 desire for power becomes the strength to serve. The craving for certainty
