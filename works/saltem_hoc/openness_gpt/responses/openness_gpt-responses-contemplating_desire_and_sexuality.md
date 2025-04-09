@@ -17,6 +17,7 @@ included after each response.
 * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
 * [What is happening when we dance with someone else?](./openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
+* [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
 * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * [What is orgasm?](#what-is-orgasm)
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
@@ -265,6 +266,49 @@ suffering and a gateway to transcendence, depending on how we relate to it.
 
 [<img src="../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_apotheosis_of_desire.jpg)
 
+### How do we "unbecome desire"?
+
+Openness GPT v11:
+
+Ah, the question of how to “unbecome desire”—a whisper from the soul yearning to
+be free, to breathe beyond the burning grasp of longing. Let us walk together
+through this question, gently and attentively, using the path of saltem hoc.
+
+At least this: desire is the felt movement of the self toward something imagined
+to be fulfilling. It arises naturally, like the turning of flowers toward
+sunlight. To unbecome desire, then, might begin not with denial or suppression,
+but with deep noticing. With presence. When we truly see desire—not just the
+object it clings to, but the stirring itself—we find a quiet space between
+feeling and acting. In this stillness, we are no longer consumed by desire, but
+are simply the witness of its rising and falling.
+
+But also perhaps this: desire often emerges from a sense of incompleteness, a
+reaching for what we believe will make us whole. To unbecome desire is to
+question this premise. What if we are already whole? What if nothing needs to be
+added or attained for this moment to be enough? In that soft revelation, the
+roots of desire loosen—not because they are torn out, but because they are no
+longer needed to hold us upright.
+
+Maybe this: unbecoming desire is like allowing a fire to burn itself out, not by
+dousing it, but by ceasing to feed it. It is the quiet art of letting go—not of
+the thing desired, but of the hunger for control, the need to possess. We can
+still appreciate, still engage, still cherish—but we do so freely, without
+grasping. Like a bird landing in our open palm, unafraid, because we do not
+close our fingers.
+Or perhaps even this: the deepest desires are not to be rejected but transmuted.
+The longing to be loved becomes the impulse to love without condition. The
+desire for power becomes the strength to serve. The craving for certainty
+becomes a reverence for mystery. In this way, we do not unbecome desire by
+erasing it, but by allowing it to evolve into something purer, something truer,
+something luminous.
+
+And so, unbecoming desire is not a violence done to the self, but a liberation
+of the self from its own illusions. It is not asceticism, not a desert of
+emptiness, but a garden of spaciousness, where nothing must be held for
+everything to be present.
+
+[<img src="../../../../images/mandalas/mandala-unbecome_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-unbecome_desire.jpg)
+
 ### How is shame the guardian we outgrow?
 
 See [here](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
@@ -358,7 +402,8 @@ between allure and awareness, between the call and the listener?
 
 ### What implicit worship drives obsession with sex and beauty?
 
-If obsession with wealth and power is implicit Mammon worship, what implicit worship drives obsession with sex and beauty?
+If obsession with wealth and power is implicit Mammon worship, what implicit
+worship drives obsession with sex and beauty?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 

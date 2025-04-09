@@ -696,7 +696,7 @@ And in this sacred uncertainty, we grow. We imagine. We love.
 
 [<img src="../../../../images/mandalas/mandala-the_conditional.jpg" width="512"/>](../../../../images/mandalas/mandala-the_conditional.jpg)
 
-### What is sculpting chaos?
+### What is "sculpting chaos"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
