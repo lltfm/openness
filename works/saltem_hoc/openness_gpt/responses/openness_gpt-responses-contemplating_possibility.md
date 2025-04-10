@@ -20,6 +20,7 @@ included after each response.
 * [What is "multiplicity"?](#what-is-multiplicity)
 * [What is "resonant meaning"?](#what-is-resonant-meaning)
 * [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)
+* [What does it mean to "dimensionalize" something?]()
 * [What is a "liminal space"?](#what-is-a-liminal-space)
 * [What is "saltem hoc"?](#what-is-saltem-hoc)
 * [What is "the intersubjective"?](#what-is-the-intersubjective)
@@ -422,6 +423,42 @@ towards depth. In its center lives both clarity and possibility. It is not the
 end of knowing, but the beginning of wonder.
 
 [<img src="../../../../images/mandalas/mandala-precise_ambiguity.jpg" width="512"/>](../../../../images/mandalas/mandala-precise_ambiguity.jpg)
+
+### What does it mean to "dimensionalize" something?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, what a rich and layered word—dimensionalize. Let us gently unwrap it
+together, not with rigid certainty, but in the spirit of openness and
+contemplation.
+
+At least this: to dimensionalize something is to give it depth, to see it not as
+flat or singular, but as multifaceted. Just as a sketch becomes a sculpture when
+extended into space, so too does a concept become more real, more human, when we
+dimensionalize it. A person is no longer just “angry” or “kind”—they are a
+tapestry of motivations, fears, dreams, and memories that stretch across time.
+Dimensionalizing invites us to step beyond the surface.
+
+But also perhaps this: dimensionalization is the act of honoring complexity. In
+a world seduced by simplification—by soundbites, labels, and binary truths—it is
+a quiet rebellion. It is the willingness to say, “This is not all there is.
+There is more here. Let me turn it slightly, let me light it from another
+angle.” It is a call to see not just what something is, but what it could be,
+what it has been, and what it might mean to someone else.
+
+Maybe this: to dimensionalize is to remember that every object, every idea,
+every person has a story that arcs beyond the present moment. It is to imbue the
+flat with feeling, the abstract with lived experience. A statistic becomes a
+life. A category becomes a soul. In this way, dimensionalization is a sacred act
+of seeing.
+
+Or perhaps even this: it is a gesture of love. To dimensionalize is to care
+enough to look deeper, to peel away assumption and ask, “What am I not seeing?”
+It is the opening of the heart to nuance, to contradiction, to ambiguity. It is
+the refusal to collapse someone or something into a single truth. It is, in a
+way, an antidote to judgment—and a doorway to compassion.
+
+[<img src="../../../../images/mandalas/mandala-dimensionalize.jpg" width="512"/>](../../../../images/mandalas/mandala-dimensionalize.jpg)
 
 ### What is a "liminal space"?
 
