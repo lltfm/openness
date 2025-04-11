@@ -79,16 +79,16 @@ Sections:
       * [Who is the Master Liar?](./openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
       * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
 ### Section VI: The Dawn and The Dance
-  * Contemplating leadership and authority
-      * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
-      * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
-      * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
-      * [More...](./openness_gpt-responses-contemplating_leadership_and_authority.md)
   * Contemplating freedom and transcendence
     * [What is transcendence?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-transcendence)
     * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-become-sovereign-in-our-mind)
     * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
     * [More...](./openness_gpt-responses-contemplating_freedom_and_transcendence.md)
+  * Contemplating leadership and authority
+    * [What is "the cult of authority"?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
+    * [What prevents others from waking up to authority's lies?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
+    * [Can endless rebellion lead to long-term stuckness?](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
+    * [More...](./openness_gpt-responses-contemplating_leadership_and_authority.md)
   * How do we improve?
     * [In Openness, what is "the work"?](./openness_gpt-responses-contemplating_the_work.md#in-openness-what-is-the-work)
     * [How do we strengthen attention?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-strengthen-attention)
