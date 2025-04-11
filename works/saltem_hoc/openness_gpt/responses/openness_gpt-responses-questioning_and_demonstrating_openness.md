@@ -247,3 +247,7 @@ together the complementary roles of human spirit and artificial assistance.
 Shall I?
 
 [<img src="../../../../images/mandalas/mandala-human_machine_balance.jpg" width="512"/>](../../../../images/mandalas/mandala-human_machine_balance.jpg)
+
+[^1]: Note: this answer was generated using an experimental version of
+Openness GPT and may not match the answer given by the current version
+[Openness GPT v11](../../README.md#openness-gpt-v11).
