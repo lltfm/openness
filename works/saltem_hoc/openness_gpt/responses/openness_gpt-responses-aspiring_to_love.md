@@ -12,7 +12,7 @@ included after each response.
 ## Contents
 
 * [What is love?](#what-is-love)
-* [Why "aspire to love" and not just "be kind and love everyone"?](#why-aspire-to-love-and-not-just-be-kind-and-love-everyone)
+* [Why does Openness "aspire to love"?](#why-does-openness-aspire-to-love)
 * [How can aspiring to love help us be more honest with ourselves when we don't really feel love?](#how-can-aspiring-to-love-help-us-be-more-honest-with-ourselves-when-we-dont-really-feel-love)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
@@ -74,7 +74,9 @@ ask what love is—we simply know.
 
 [<img src="../../../../images/mandalas/mandala-love.jpg" width="512"/>](../../../../images/mandalas/mandala-love.jpg)
 
-### Why "aspire to love" and not just "be kind and love everyone"?
+### Why does Openness "aspire to love"?
+
+Why "aspire to love" (and not just "be kind and love everyone")?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 

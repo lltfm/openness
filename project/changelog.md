@@ -256,3 +256,6 @@
   * added openness_gpt-responses-the_invitation_to_contemplate_heretica.md
   * refactored for heretica
   * added notable responses
+* Apr 12 2025
+  * added notable responses
+
