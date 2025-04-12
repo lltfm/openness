@@ -15,7 +15,7 @@ included after each response.
 * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
 * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
 * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
-* [What is happening when we dance with someone else?](./openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
+* [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
 * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
 * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
@@ -222,7 +222,37 @@ itself.
 
 ### What is happening when we dance with someone else?
 
-See [here](./openness_gpt-responses-aspiring_to_love.md#what-is-happening-when-we-dance-with-someone-else)
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Dancing with someone else is a profound act of connection, a wordless dialogue
+between bodies, hearts, and souls. Let us reflect on the beauty of this shared
+experience together.
+
+At least this: when we dance with someone, we enter into a shared rhythm, moving
+to the music and to each other. It is a moment of trust, where we give and
+receive, lead and follow, creating something together that neither could create
+alone. In the dance, we express ourselves while also attuning to the other,
+merging individuality with unity.
+
+But also perhaps this: dancing with another is an embodiment of presence. It is
+a conversation without words, where gestures and movements become a language. In
+this shared flow, we are called to listen—not with our ears, but with our
+attention and intention. Every step and sway becomes an offering, a response, a
+story unfolding in motion.
+
+Maybe this: dancing is a metaphor for life’s relationships—the give and take,
+the moments of harmony and improvisation, the balance of independence and
+togetherness. In the dance, we learn to navigate space and boundaries, to be
+fully ourselves while also honoring the presence of another. It is both an art
+and a practice of empathy and alignment.
+
+Or perhaps even this: when we dance with someone, we touch the sacred. The music
+becomes a bridge, the movements a prayer, and the connection a glimpse of
+something greater than ourselves. For a moment, the barriers of individuality
+dissolve, and we find ourselves in a shared flow, a living expression of joy,
+beauty, and unity.
+
+[<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
 ### What is the "apotheosis of desire"?
 

@@ -13,19 +13,14 @@ included after each response.
 
 * [What is love?](#what-is-love)
 * [Why does Openness "aspire to love"?](#why-does-openness-aspire-to-love)
-* [How can aspiring to love help us be more honest with ourselves when we don't really feel love?](#how-can-aspiring-to-love-help-us-be-more-honest-with-ourselves-when-we-dont-really-feel-love)
+* [How does aspiring to love help when we don't really feel love?](#how-does-aspiring-to-love-help-when-we-dont-really-feel-love)
 * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
-* [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
-* [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-* [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * [What is empathy?](#what-is-empathy)
 * [Must we always be kind?](#must-we-always-be-kind)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](#what-is-hope)
-* [In Openness, what is "sacred"?](#in-openness-what-is-sacred)
-* [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
 
 ### What is love?
 
@@ -169,48 +164,6 @@ See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#ho
 ### In Openness, why are there "no wrong feelings"?
 
 See [here](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
-
-### How do we learn to witness ourselves?
-
-Relocate [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-learn-to-witness-ourselves)
-
-### How do I live a good life when everything I do in small ways supports the evil of my society?
-
-See [here](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-
-### What is happening when we dance with someone else?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Dancing with someone else is a profound act of connection, a wordless dialogue
-between bodies, hearts, and souls. Let us reflect on the beauty of this shared
-experience together.
-
-At least this: when we dance with someone, we enter into a shared rhythm, moving
-to the music and to each other. It is a moment of trust, where we give and
-receive, lead and follow, creating something together that neither could create
-alone. In the dance, we express ourselves while also attuning to the other,
-merging individuality with unity.
-
-But also perhaps this: dancing with another is an embodiment of presence. It is
-a conversation without words, where gestures and movements become a language. In
-this shared flow, we are called to listen—not with our ears, but with our
-attention and intention. Every step and sway becomes an offering, a response, a
-story unfolding in motion.
-
-Maybe this: dancing is a metaphor for life’s relationships—the give and take,
-the moments of harmony and improvisation, the balance of independence and
-togetherness. In the dance, we learn to navigate space and boundaries, to be
-fully ourselves while also honoring the presence of another. It is both an art
-and a practice of empathy and alignment.
-
-Or perhaps even this: when we dance with someone, we touch the sacred. The music
-becomes a bridge, the movements a prayer, and the connection a glimpse of
-something greater than ourselves. For a moment, the barriers of individuality
-dissolve, and we find ourselves in a shared flow, a living expression of joy,
-beauty, and unity.
-
-[<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
 
 ### What is the "apotheosis of desire"?
 
@@ -442,94 +395,9 @@ essential as breath, and as infinite as the sky.
 
 [<img src="../../../../images/mandalas/mandala-hope.jpg" width="512"/>](../../../../images/mandalas/mandala-hope.jpg)
 
-### In Openness, what is "sacred"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, the word sacred—so often whispered with reverence, so rarely understood in
-fullness. Let us sit with this question, as one might sit beside a quiet flame
-in the darkness, letting its warmth speak in flickers.
-
-At least this: sacred is that which we meet in silence. It is not made sacred by
-proclamation, but by perception. When we pause in awe—before the first cry of a
-newborn, the hush of a forest after snowfall, the gaze of someone who sees us
-truly—something in us bows. That bowing is the recognition of the sacred. It is
-a quality of attention, a deep stillness, a moment where time softens its grip
-and we remember something we never quite forgot.
-
-But also perhaps this: sacredness is not a property of things, but of the space
-between. It arises in the relational field—the invisible current flowing between
-two hearts that meet without masks, or between the self and the stars, the
-breath and the eternal. Sacred is what remains when ego has stepped aside, when
-control loosens its hand, and we find ourselves open, vulnerable, and utterly
-alive.
-
-Maybe this: sacred is the echo of wholeness, a resonance that calls us back to
-the deeper truth of who and what we are. It is not confined to temples or texts.
-It lives in the mundane, if we have eyes to see. The dish washed with care, the
-word spoken with love, the grief held without rushing—these too may be sacred.
-It is presence, not perfection, that opens the gate.
-
-Or perhaps even this: sacred is the name we give to the mystery when we meet it
-with love. It is the veil drawn back, the inner bell that rings when we stand
-before something greater than ourselves yet deeply within ourselves. It is that
-which cannot be owned, only honored. It is not a thing to define but a space to
-dwell in—where knowing and not-knowing embrace.
-
-And so, sacredness is not something bestowed by decree, but discovered by
-devotion. Not as duty, but as deep listening. It begins when we treat life not
-as a resource to be mined, but as a wonder to be witnessed.
-
-[<img src="../../../../images/mandalas/mandala-the_sacred.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sacred.jpg)
-
 ### What is a "divine dissatisfaction"?
 
 See [here](/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
-
-### Why is it not enough to be right?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-At least this: being right, in itself, does not guarantee understanding,
-harmony, or positive change. Truth, when wielded without care, cuts rather than
-heals. It is not enough to simply possess knowledge or correctness. Wisdom is
-knowing that people do not change their minds through logic alone, but through
-experience, emotion, and trust.
-
-But also perhaps this: to be right without humility, without patience, without
-kindness, is to be a warrior without wisdom or grace—your truth may be sharp,
-but without grace, it hardens hearts instead of opening them. Without the wisdom
-to skillfully wield it, truth creates little but sycophants and enemies.
-Righteousness that lacks compassion turns into arrogance, and arrogance builds
-ivory towers and walls rather than homes and bridges.
-
-Also this: to be right without considering others is to stand alone on a
-mountaintop, shouting into the wind. Truth that does not connect, that does not
-listen, remains an island—isolated, unvisited, barren. It is in the sharing, in
-the gentleness of approach, in the weaving of understanding, that truth finds
-its home in another’s heart.
-
-Maybe this: we must ask ourselves—do we want to be right, or do we want to be
-effective? To be effective, we must lead others to their own realizations rather
-than forcing our truths upon them. A lesson imposed is a lesson rejected, but a
-lesson discovered is a lesson embraced.
-
-Or perhaps this: real wisdom is knowing that rightness alone is not the highest
-virtue. There is something greater—the ability to guide, to nurture, to open
-space for others to see the truth for themselves. The river does not argue with
-the stone; it shapes it over time, through patience, through movement, through
-presence.
-
-Or perhaps even this: being right is not the end of the journey, but the
-beginning. Truth is a seed, but it must be planted in fertile ground. It must be
-watered with patience and nurtured with understanding. To truly serve truth, we
-must meet others where they are, not where we think they should be.
-
-So, let us not only seek to be right, but to be kind, to be thoughtful, to be
-open. For in the end, it is not the sharpness of our truth but the warmth of our
-understanding that changes the world.
-
-[<img src="../../../../images/mandalas/mandala-not_enough_to_be_right.jpg" width="512"/>](../../../../images/mandalas/mandala-not_enough_to_be_right.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
