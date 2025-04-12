@@ -21,12 +21,12 @@ Sections:
 ### Section I: The Open Door
   * Contemplating Openness
     * [What is Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-openness) 
-    * [Are there limits to Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#are-there-limits-to-openness)
+    * [Is Openness a religion?](../../../the_epitomes_of_openness/contemplations/openness.md#is-openness-a-religion)
     * [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system) 
     * [More...](../../../the_epitomes_of_openness/contemplations/openness.md)
   * Aspiring to love
     * [What is love?](./openness_gpt-responses-aspiring_to_love.md#what-is-love)
-    * [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
+    * [Why does Openness "aspire to love"?](./openness_gpt-responses-aspiring_to_love.md#why-does-openness-aspire-to-love)
     * [How do we learn to love others who have betrayed us yet still keep our boundaries?](openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
     * [More...](openness_gpt-responses-aspiring_to_love.md)
   * Exploring possibility
