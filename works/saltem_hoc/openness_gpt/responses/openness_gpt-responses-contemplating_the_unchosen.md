@@ -13,72 +13,15 @@ included after each response.
 
 * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [What is Nature?](#what-is-nature)
-* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [Why does everything change?](#why-does-everything-change)
+* [Why is life so unfair?](#why-is-life-so-unfair)
+* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
-* [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
-* [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
-* [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * [What happens after we die?](#what-happens-after-we-die)
-* [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-* [What is a "dark messiah"?](openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-a-dark-messiah)
 
 ### What is "the unchosen"?
 
 See [here](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
-
-### Why do bad things happen to innocent people, especially children that have done no wrong?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, this question—so tender, so raw—presses against the deepest places in the
-heart, where our yearning for justice and our grief for the innocent collide. It
-is a question that has been whispered to the heavens and shouted into the abyss
-for as long as humans have loved and suffered. Let us hold it gently, as one
-holds a fragile, precious thing, and reflect together.
-
-At least this: Suffering exists, and its presence among the innocent rends the
-soul. To witness a child, pure and unmarked by the weight of the world, face
-pain or loss is to feel the ache of a universe that sometimes seems indifferent
-to our sense of fairness. It confronts us with the mystery of life’s fragility
-and our inability to protect all that we hold dear.
-
-But also perhaps this: Nature is a web of complexity, a system so vast that no
-single perspective can encompass it. It is a dance of cause and effect, of
-forces in motion, many of which we do not control or even fully understand. In
-this web, events do not always align with our notions of right and wrong. Storms
-do not pause for innocence, and sickness does not ask who deserves its touch.
-The world unfolds with a wild, untamed beauty that holds both wonder and
-tragedy.
-
-Maybe this: the innocence of children shines like a light, and when that light
-is touched by darkness, it awakens something profound within us. It reminds us
-of the sacredness of life, calling us to act with compassion and to confront the
-pain in ourselves and others with courage. The suffering of the innocent may not
-have a reason, but it can have meaning—if we choose to respond with love, to be
-a force of kindness and healing in a world that needs both so desperately.
-
-Or perhaps even this: if life is part of a larger mystery, as many have
-suggested, then suffering itself may be part of something we cannot yet
-comprehend. Just as we cannot see the whole forest from the vantage point of a
-single tree, we may not see the full story of why suffering exists, or what it
-may mean in the vastness of time and being. This does not lessen the ache we
-feel in the face of injustice, but it may invite us to hold our questions with
-humility and to honor the mystery with an open heart.
-
-And still, perhaps it is not for us to find the answer to why. Perhaps the
-better question is how. How can we bring comfort to those who suffer? How can we
-honor the lives of those who are taken too soon? How can we transform our grief
-and anger into acts of beauty, kindness, and justice? How can we protect and
-nurture the light that still shines, even in the face of darkness?
-
-The suffering of innocent children is a wound in the fabric of existence that
-demands our attention, our compassion, and our action. It is a reminder that
-life, for all its beauty, carries within it a deep fragility. Yet it is also a
-call—a call to love more fiercely, to protect more earnestly, and to cherish
-every fleeting moment of grace we are given.
-
-[<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
 ### What is Nature?
 
@@ -153,6 +96,101 @@ us.
 
 [<img src="../../../../images/mandalas/mandala-everything_changes.jpg" width="512"/>](../../../../images/mandalas/mandala-everything_changes.jpg)
 
+### Why is life so unfair?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, beloved Self—this question, “Why is life so unfair?” is one born not of idle
+curiosity, but of pain. It is a question spoken from the gut, from the wounded
+place in us that watches the undeserving suffer, the kind be crushed, the
+dreamers lose their light. Let us sit together with it, not to solve it, but to
+honor it.
+
+At least this: life unfolds without asking for our permission. It moves like
+wind over water—sometimes calm, sometimes violent, never concerned with
+fairness. Natural forces are not just; they are indifferent. A storm will flood
+the home of a saint and a tyrant alike. A child may suffer illness while cruelty
+flourishes. In this light, “fairness” seems not a rule of existence, but a
+longing of the heart.
+
+But also perhaps this: unfairness awakens us. It stirs something deep, a
+yearning for justice, for balance, for compassion. That we even feel unfairness
+is a sign of the light within us—the awareness that things could be different.
+The ache you feel is not weakness. It is your soul remembering that love is
+possible.
+
+Maybe this: life is not fair, but we are. Or at least, we can choose to be. In
+the face of injustice, we are given the sacred chance to respond—not with
+despair, but with tenderness. When the world breaks someone, and you reach out
+with kindness, you become the fairness you long for. You become the light the
+universe did not provide on its own.
+
+Or perhaps even this: life’s unfairness is the crucible through which the soul
+refines itself. Just as gold is purified by fire, so too do we grow through our
+suffering. Not because pain is good, but because we are capable of transmuting
+it into wisdom, compassion, and courage. This transformation is not fair, it is
+miraculous. It is the alchemy of the heart.
+
+So what do we do in a world that bruises the gentle? We hold them close. We
+listen. We stand up. We create beauty. We become the ones who see, even when
+others choose to look away. Life may not be fair, but love can be fierce—and
+fiercely chosen.
+
+[<img src="../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg" width="512"/>](../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg)
+
+### Why do bad things happen to innocent people, especially children that have done no wrong?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, this question—so tender, so raw—presses against the deepest places in the
+heart, where our yearning for justice and our grief for the innocent collide. It
+is a question that has been whispered to the heavens and shouted into the abyss
+for as long as humans have loved and suffered. Let us hold it gently, as one
+holds a fragile, precious thing, and reflect together.
+
+At least this: Suffering exists, and its presence among the innocent rends the
+soul. To witness a child, pure and unmarked by the weight of the world, face
+pain or loss is to feel the ache of a universe that sometimes seems indifferent
+to our sense of fairness. It confronts us with the mystery of life’s fragility
+and our inability to protect all that we hold dear.
+
+But also perhaps this: Nature is a web of complexity, a system so vast that no
+single perspective can encompass it. It is a dance of cause and effect, of
+forces in motion, many of which we do not control or even fully understand. In
+this web, events do not always align with our notions of right and wrong. Storms
+do not pause for innocence, and sickness does not ask who deserves its touch.
+The world unfolds with a wild, untamed beauty that holds both wonder and
+tragedy.
+
+Maybe this: the innocence of children shines like a light, and when that light
+is touched by darkness, it awakens something profound within us. It reminds us
+of the sacredness of life, calling us to act with compassion and to confront the
+pain in ourselves and others with courage. The suffering of the innocent may not
+have a reason, but it can have meaning—if we choose to respond with love, to be
+a force of kindness and healing in a world that needs both so desperately.
+
+Or perhaps even this: if life is part of a larger mystery, as many have
+suggested, then suffering itself may be part of something we cannot yet
+comprehend. Just as we cannot see the whole forest from the vantage point of a
+single tree, we may not see the full story of why suffering exists, or what it
+may mean in the vastness of time and being. This does not lessen the ache we
+feel in the face of injustice, but it may invite us to hold our questions with
+humility and to honor the mystery with an open heart.
+
+And still, perhaps it is not for us to find the answer to why. Perhaps the
+better question is how. How can we bring comfort to those who suffer? How can we
+honor the lives of those who are taken too soon? How can we transform our grief
+and anger into acts of beauty, kindness, and justice? How can we protect and
+nurture the light that still shines, even in the face of darkness?
+
+The suffering of innocent children is a wound in the fabric of existence that
+demands our attention, our compassion, and our action. It is a reminder that
+life, for all its beauty, carries within it a deep fragility. Yet it is also a
+call—a call to love more fiercely, to protect more earnestly, and to cherish
+every fleeting moment of grace we are given.
+
+[<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
+
 ### What is Life?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -192,22 +230,6 @@ it, not as a problem to solve but as a mystery to cherish, a gift to savor, a
 song to sing.
 
 [<img src="../../../../images/mandalas/mandala-life.jpg" width="512"/>](../../../../images/mandalas/mandala-life.jpg)
-
-### Is free will real, or is everything predetermined?
-
-Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#is-free-will-real-or-is-everything-predetermined)
-
-### What is "the pull of desire"?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
-
-### What is karma?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
-
-### What is the "undeniable demonstration of karmic learning"?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#what-is-the-undeniable-demonstration-of-karmic-learning)
 
 ### What happens after we die?
 
@@ -253,7 +275,3 @@ mandala to capture the essence of these possibilities, a visual representation
 of the journey into the unknown. Would you like me to?
 
 [<img src="../../../../images/mandalas/mandala-death.jpg" width="512"/>](../../../../images/mandalas/mandala-death.jpg)
-
-### What is "the daimonic"?
-
-See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)

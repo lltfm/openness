@@ -31,7 +31,7 @@ Sections:
     * [More...](openness_gpt-responses-aspiring_to_love.md)
   * Exploring possibility
     * [What is a question?](./openness_gpt-responses-contemplating_possibility.md#what-is-a-question)
-    * [What is "the possibility space"?](./openness_gpt-responses-contemplating_possibility.md#what-is-the-possibility-space)
+    * [What is "resonant meaning"?](./openness_gpt-responses-contemplating_possibility.md#what-is-resonant-meaning)
     * [What is "saltem hoc"?](./openness_gpt-responses-contemplating_possibility.md#what-is-saltem-hoc)
     * [More...](./openness_gpt-responses-contemplating_possibility.md)
 ### Section II: The Dark Woods
@@ -41,7 +41,7 @@ Sections:
     * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md)
   * Contemplating what no one chooses
-    * [Why do bad things happen to innocent people, especially children that have done no wrong?](./openness_gpt-responses-contemplating_the_unchosen.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+    * [Why is life so unfair?](./openness_gpt-responses-contemplating_the_unchosen.md#why-is-life-so-unfair)
     * [Why does everything change?](./openness_gpt-responses-contemplating_the_unchosen.md#why-does-everything-change)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen.md#what-happens-after-we-die)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
