@@ -22,17 +22,17 @@ included after each response.
 * [What is controlled opposition?](#what-is-controlled-opposition)
 * [What is a "dark messiah"?](#what-is-a-dark-messiah)
 * Related
-  * Oligarchy
+  * Contemplating oligarchy
     * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control) 
     * [What is "the oligarchic pendulum"](./openness_gpt-responses-heretica-contemplating_oligarcy.md#what-is-the-oligarchic-pendulum) 
     * [How does implicit Venus worship empower oligarchy?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-implicit-venus-worship-further-empower-oligarchy)
-  * Propaganda
+  * Contemplating propaganda
     * [What is "domination by dialectic"?](./openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-domination-by-dialectic)
     * [Will "false flag" attacks ever stop working?](./openness_gpt-responses-heretica-contemplating_propaganda.md#will-false-flag-attacks-ever-stop-working)
-  * Authority
+  * Contemplating leadership and authority
     * [What prevents others from waking up to authority's lies?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
     * [Can endless rebellion lead to long-term stuckness?](../openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
-  * End-times prophecy (i.e. eschaton)
+  * Contemplating end-times prophecy (i.e. eschaton)
     * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
 

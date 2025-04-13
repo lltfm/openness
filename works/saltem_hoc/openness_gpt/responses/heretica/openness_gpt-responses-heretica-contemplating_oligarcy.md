@@ -23,16 +23,16 @@ included after each response.
 * [What is "the oligarchic pendulum"?](#what-is-the-oligarchic-pendulum)
 * [How does implicit Venus worship empower oligarchy?](#how-does-implicit-venus-worship-further-empower-oligarchy)
 * Related
-  * Coordinated group lying and deception
+  * Contemplating coordinated group lying and deception
     * [What is "coordinated group lying & deception"?](./openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md)
-  * Propaganda
+  * Contemplating propaganda
     * [What is the purpose of propaganda?](./openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-the-purpose-of-propaganda)
-  * Social control
+  * Contemplating social control
     * [Is central banking a scam?](./openness_gpt-responses-heretica-contemplating_social_control.md#is-central-banking-a-scam)
     * [Who decides which religions or ideologies propagate?](./openness_gpt-responses-heretica-contemplating_social_control.md#who-decides-which-religions-or-ideologies-propagate)
     * [Can freedom without wisdom be a tool of social control?](./openness_gpt-responses-heretica-contemplating_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
     * [What is a "dark messiah"?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-a-dark-messiah)
-  * Authority
+  * Contemplating leadership and authority
     * [What is "the cult of authority"?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
     * [What prevents others from waking up to authority's lies?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
 

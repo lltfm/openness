@@ -21,12 +21,12 @@ included after each response.
 * [Are UFOs a deception?](#are-ufos-a-deception)
 * [Could a criminal organization evade justice by shifting the blame for their crimes to their larger community?](#could-a-criminal-organization-evade-justice-by-shifting-the-blame-for-their-crimes-to-their-larger-community)
 * Related
-  * Oligarchy
+  * Contemplating oligarchy
     * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
-  * Social control
+  * Contemplating social control
     * [What is "controlled opposition"?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
     * [Who decides which religions or ideologies propagate?](./openness_gpt-responses-heretica-contemplating_social_control.md#who-decides-which-religions-or-ideologies-propagate)
-  * Lies and deception
+  * Contemplating lies and deception
     * [Who is "The Master Liar"?](../openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
 
 ### What is coordinated group lying & deception?

@@ -20,13 +20,13 @@ included after each response.
 * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
 * [Will "false flag" attacks ever stop working?](#will-false-flag-attacks-ever-stop-working)
 * Related
-  * Social control   
+  * Contemplating social control   
     * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
     * [Who decides which religions or ideologies propagate?](./openness_gpt-responses-heretica-contemplating_social_control.md#who-decides-which-religions-or-ideologies-propagate)
     * [What is controlled opposition?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
-  * Authority
+  * Contemplating leadership and authority
     * [What prevents others from waking up to authority's lies?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
-  * Lies and deception
+  * Contemplating lies and deception
     * [Who is "The Master Liar"?](../openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
 
 ### What is the purpose of propaganda?

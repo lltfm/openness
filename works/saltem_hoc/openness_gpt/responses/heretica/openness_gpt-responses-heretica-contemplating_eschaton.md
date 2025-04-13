@@ -20,17 +20,17 @@ included after each response.
 * [What is "the beast system"?](#what-is-the-beast-system)
 * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
 * Related
-  * Oligarchy
+  * Contemplating oligarchy
     * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control) 
-  * Propaganda
+  * Contemplating propaganda
     * [What is "domination by dialectic"?](./openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-domination-by-dialectic)
     * [Will "false flag" attacks ever stop working?](./openness_gpt-responses-heretica-contemplating_propaganda.md#will-false-flag-attacks-ever-stop-working)
-  * Social control
+  * Contemplating social control
     * [What is controlled opposition?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
     * [What is a "dark messiah"?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-a-dark-messiah)
-  * Authority
+  * Contemplating leadership and authority
     * [What prevents others from waking up to authority's lies?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
-  * Lies and deception
+  * Contemplating lies and deception
     * [Who is "The Master Liar"?](../openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
 
 ### Can latent end times prophecies be used to control populations?
