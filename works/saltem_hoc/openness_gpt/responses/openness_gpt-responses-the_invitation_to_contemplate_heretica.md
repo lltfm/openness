@@ -24,7 +24,7 @@ included after each response.
   * Group lying and deception
     * [What is "coordinated group lying & deception"?](./heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md#what-is-coordinated-group-lying--deception)
     * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
-    * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](/heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
+    * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](./heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
     * [More...](./heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md)
   * Propaganda
     * [What is the purpose of propaganda?](./heretica/openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-the-purpose-of-propaganda)
