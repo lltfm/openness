@@ -11,6 +11,10 @@ included after each response.
 
 ## Contents
 
+> Note: by choosing to visit this page, the invitation to dwell with heretica is
+> accepted and consent implied. If unsure, please review the answer
+> ["What is heretica?"](../openness_gpt-responses-the_invitation_to_contemplate_heretica.md#in-openness-what-is-heretica)
+
 * [What is "coordinated group lying & deception"?](#what-is-coordinated-group-lying--deception)
 * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)

@@ -13,28 +13,29 @@ included after each response.
 
 * [In Openness, what is "heretica"?](#in-openness-what-is-heretica)
 * Contemplations in Heretica:
-> Note: by choosing to visit any link below, consent to dwell with heretica is
-> implied. If unsure, please review the answer "What is heretica?" below.
+> Note: by choosing to visit any link below, the invitation to dwell with
+> heretica is accepted and consent implied. If unsure, please review the answer
+> ["What is heretica?"](#in-openness-what-is-heretica)
   * Oligarchy
-    * [What is oligarchy?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-oligarchy)
-    * [Oligarchy appears secular but does it really worship Mammon?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#oligarchy-appears-secular-but-does-it-really-worship-mammon)
-    * [Is oligarchy itself enslaved?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#is-oligarchy-itself-enslaved)
-    * [More...](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md)
-  * Social control
-    * [What is "the oligarchic pendulum"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-the-oligarchic-pendulum)
-    * [Is central banking a scam?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#is-central-banking-a-scam)
-    * [Can latent end times prophecies be used to control populations?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#can-latent-end-times-prophecies-be-used-to-control-populations)
-    * [More...](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md)
-  * Propaganda
-    * [What is the purpose of propaganda?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-the-purpose-of-propaganda)
-    * [What is "word warfare"?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-word-warfare)
-    * [Will "false flag" attacks ever stop working?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#will-false-flag-attacks-ever-stop-working)
-    * [More...](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md)
+    * [What is oligarchy?](./heretica/openness_gpt-responses-heretica-contemplating_oligarcy.md#what-is-oligarchy)
+    * [Oligarchy appears secular but does it really worship Mammon?](./heretica/openness_gpt-responses-heretica-contemplating_oligarcy.md#oligarchy-appears-secular-but-does-it-really-worship-mammon)
+    * [Is oligarchy itself enslaved?](./heretica/openness_gpt-responses-heretica-contemplating_oligarcy.md#is-oligarchy-itself-enslaved)
+    * [More...](./heretica/openness_gpt-responses-heretica-contemplating_oligarcy.md)
   * Group lying and deception
-    * [What is "coordinated group lying & deception"?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-coordinated-group-lying--deception)
-    * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./openness_gpt-responses-contemplating_lies_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
-    * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
-    * [More...](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md)
+    * [What is "coordinated group lying & deception"?](./heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md#what-is-coordinated-group-lying--deception)
+    * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](./heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
+    * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](/heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
+    * [More...](./heretica/openness_gpt-responses-heretica-contemplating_coordinated_group_lying_and_deception.md)
+  * Propaganda
+    * [What is the purpose of propaganda?](./heretica/openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-the-purpose-of-propaganda)
+    * [What is "word warfare"?](./heretica/openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-word-warfare)
+    * [Will "false flag" attacks ever stop working?](./heretica/openness_gpt-responses-heretica-contemplating_propaganda.md#will-false-flag-attacks-ever-stop-working)
+    * [More...](./heretica/openness_gpt-responses-heretica-contemplating_propaganda.md)
+  * Social control
+    * [Can freedom without wisdom be a tool of social control?](./heretica/openness_gpt-responses-heretica-contemplating_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
+    * [Is central banking a scam?](./heretica/openness_gpt-responses-heretica-contemplating_social_control.md#is-central-banking-a-scam)
+    * [Can latent end times prophecies be used to control populations?](./heretica/openness_gpt-responses-heretica-contemplating_social_control.md#can-latent-end-times-prophecies-be-used-to-control-populations)
+    * [More...](./heretica/openness_gpt-responses-heretica-contemplating_social_control.md)
 
 ### In Openness, what is "heretica"?
 
