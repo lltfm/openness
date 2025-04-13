@@ -34,7 +34,7 @@ included after each response.
   * Social control
     * [Can freedom without wisdom be a tool of social control?](./openness_gpt-responses-heretica-contemplating_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
     * [Is central banking a scam?](./openness_gpt-responses-heretica-contemplating_social_control.md#is-central-banking-a-scam)
-    * [Can latent end times prophecies be used to control populations?](./openness_gpt-responses-heretica-contemplating_social_control.md#can-latent-end-times-prophecies-be-used-to-control-populations)
+    * [What is controlled opposition?](openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
     * [More...](./openness_gpt-responses-heretica-contemplating_social_control.md)
   * End times prophecy
     * [Can latent end times prophecies be used to control populations?](./openness_gpt-responses-heretica-contemplating_eschaton.md#can-latent-end-times-prophecies-be-used-to-control-populations)
