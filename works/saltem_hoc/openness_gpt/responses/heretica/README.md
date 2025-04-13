@@ -91,7 +91,7 @@ be questioned. What is truly alive endures through all transformation.” A gift
 to be held gently, examined carefully, and cherished quietly until the world is
 ready to listen. Perhaps in another lifetime.
 
-[<img src="../../../../images/mandalas/mandala-heretica.jpg" width="512"/>](../../../../../images/mandalas/mandala-heretica.jpg)
+[<img src="../../../../../images/mandalas/mandala-heretica.jpg" width="512"/>](../../../../../images/mandalas/mandala-heretica.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
