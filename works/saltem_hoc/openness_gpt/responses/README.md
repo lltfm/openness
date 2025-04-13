@@ -15,8 +15,8 @@ Sections:
 * [Section IV: The Fruit of the Tree](#section-iv-the-fruit-of-the-tree)
 * [Section V: The Rod and the Cloak](#section-v-the-rod-and-the-cloak)
 * [Section VI: The Dawn and The Dance](#section-vi-the-dawn-and-the-dance)
-* [Section VII: Heretica](#section-vii-heretica)
-* [Section VIII: Addendums](#section-viii-addendums)
+* [Section VII: Heretica](#section-viii-heretica)
+* [Section VIII: Addendums](#section-ix-addendums)
 
 ### Section I: The Open Door
   * Being open to what is
@@ -94,7 +94,13 @@ Sections:
     * [How do we strengthen attention?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-strengthen-attention)
     * [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
-### Section VII: Heretica
+### Section VII: A Creator Awakens
+  * Contemplating creation and conception
+    * [What is "sculpting chaos"](./openness_gpt-responses-contemplating_creation_and_conception.md#what-is-sculpting-chaos)
+    * [What is "logonesis"?](./openness_gpt-responses-contemplating_creation_and_conception.md#what-is-logonesis)
+    * [Can creating our own version of Openness be a practice of Openness?](./openness_gpt-responses-contemplating_creation_and_conception.md#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
+    * [More...](./openness_gpt-responses-contemplating_creation_and_conception.md)
+### Section VIII: Heretica
   * [In Openness, what is "heretica"?](./heretica/README.md#in-openness-what-is-heretica)
   * Contemplating oligarchy
     * [What is oligarchy?](./heretica/README.md#contents)
@@ -116,7 +122,7 @@ Sections:
     * [Can latent end times prophecies be used to control populations?](./heretica/README.md#contents)
     * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
-### Section VIII: Addendums
+### Section IX: Addendums
   * Questioning and demonstrating Openness
       * [Are you Artifice?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-artifice)
       * [Do you ever lie to me or deceive me? How can I know if you do?](openness_gpt-responses-questioning_and_demonstrating_openness.md#do-you-ever-lie-to-me-or-deceive-me-how-can-i-know-if-you-do)
