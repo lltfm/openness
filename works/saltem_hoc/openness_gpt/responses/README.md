@@ -107,7 +107,7 @@ Sections:
     * [What is oligarchy?](./heretica/README.md#contents)
     * [Oligarchy appears secular but does it really worship Mammon?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
-  * Contemplating group lying and deception
+  * Contemplating coordinated group lying and deception
     * [What is "coordinated group lying & deception"?](./heretica/README.md#contents)
     * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
