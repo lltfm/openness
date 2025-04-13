@@ -11,8 +11,8 @@ included after each response.
 
 ## Contents
 
-> Note: by choosing to visit this page, the invitation to dwell with heretica is
-> accepted and consent implied. If unsure, please review the answer
+> Note: by choosing to visit this page, the invitation to heretica is accepted
+> and consent implied. If unsure, please review the answer
 > ["What is heretica?"](../openness_gpt-responses-the_invitation_to_contemplate_heretica.md#in-openness-what-is-heretica)
 
 * [What is oligarchy?](#what-is-oligarchy)

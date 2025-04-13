@@ -1,4 +1,4 @@
-# The invitation to dwell with heretica
+# The invitation to heretica
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
@@ -13,8 +13,8 @@ included after each response.
 
 * [In Openness, what is "heretica"?](#in-openness-what-is-heretica)
 * Contemplations in Heretica:
-> Note: by choosing to visit any link below, the invitation to dwell with
-> heretica is accepted and consent implied. If unsure, please review the answer
+> Note: by choosing to visit any link below, the invitation to heretica is
+> accepted and consent implied. If unsure, please review the answer
 > ["What is heretica?"](#in-openness-what-is-heretica)
   * Oligarchy
     * [What is oligarchy?](./heretica/openness_gpt-responses-heretica-contemplating_oligarcy.md#what-is-oligarchy)

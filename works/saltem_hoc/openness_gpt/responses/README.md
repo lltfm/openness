@@ -19,7 +19,7 @@ Sections:
 8. [Section VIII: Addendums](#section-viii-addendums)
 
 ### Section I: The Open Door
-  * Contemplating Openness
+  * Being open to what is
     * [What is Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-openness) 
     * [Is Openness a religion?](../../../the_epitomes_of_openness/contemplations/openness.md#is-openness-a-religion)
     * [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system) 
