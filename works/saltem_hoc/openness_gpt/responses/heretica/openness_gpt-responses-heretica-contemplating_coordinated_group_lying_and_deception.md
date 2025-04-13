@@ -1,4 +1,4 @@
-# Contemplating coordinated group lying and deception
+# Heretica: Contemplating coordinated group lying and deception
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of

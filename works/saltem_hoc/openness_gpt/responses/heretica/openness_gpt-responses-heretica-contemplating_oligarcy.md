@@ -1,4 +1,4 @@
-# Contemplating oligarchy
+# Heretica: Contemplating oligarchy
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of

@@ -1,4 +1,4 @@
-# Contemplating propaganda
+# Heretica: Contemplating propaganda
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
