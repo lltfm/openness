@@ -1,1 +1,1 @@
-Relocated [here](heretica/README)
+Relocated [here](heretica/README.md)
