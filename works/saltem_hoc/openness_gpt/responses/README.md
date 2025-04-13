@@ -15,8 +15,9 @@ Sections:
 * [Section IV: The Fruit of the Tree](#section-iv-the-fruit-of-the-tree)
 * [Section V: The Rod and the Cloak](#section-v-the-rod-and-the-cloak)
 * [Section VI: The Dawn and The Dance](#section-vi-the-dawn-and-the-dance)
-* [Section VII: Heretica](#section-viii-heretica)
-* [Section VIII: Addendums](#section-ix-addendums)
+* [Section VII: A Creator Awakens](#section-vii-a-creator-awakens)
+* [Section VIII: Heretica](#section-viii-heretica)
+* [Section IX: Addendums](#section-ix-addendums)
 
 ### Section I: The Open Door
   * Being open to what is
