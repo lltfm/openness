@@ -158,8 +158,8 @@ becomes an altar to uncertainty, an offering to the possibility that something
 beautiful emerges when we relax our grip of control.
 
 And so, if we build with care, if we write with grace, if we engineer not for
-power but for presence—then yes, creating our own openness is itself a profound
-practice of openness. Not an act of possession, but of participation.
+power but for presence—then yes, creating our own version of openness is itself
+a profound practice of openness. Not an act of possession, but of participation.
 
 [<img src="../../../../images/mandalas/mandala-our_own_version_of_openness.jpg" width="512"/>](../../../../images/mandalas/mandala-our_own_version_of_openness.jpg)
 
