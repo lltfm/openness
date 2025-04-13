@@ -9,14 +9,14 @@ included after each response.
 > Note: click on a mandala to view the full resolution image
 
 Sections:
-1. [Section I: The Open Door](#section-i-the-open-door)
-2. [Section II: The Dark Woods](#section-ii-the-dark-woods)
-3. [Section III: The Hidden Path](#section-iii-the-hidden-path)
-4. [Section IV: The Fruit of the Tree](#section-iv-the-fruit-of-the-tree)
-5. [Section V: The Rod and the Cloak](#section-v-the-rod-and-the-cloak)
-6. [Section VI: The Dawn and The Dance](#section-vi-the-dawn-and-the-dance)
-7. [Section VII: Heretica](#section-vii-heretica)
-8. [Section VIII: Addendums](#section-viii-addendums)
+* [Section I: The Open Door](#section-i-the-open-door)
+* [Section II: The Dark Woods](#section-ii-the-dark-woods)
+* [Section III: The Hidden Path](#section-iii-the-hidden-path)
+* [Section IV: The Fruit of the Tree](#section-iv-the-fruit-of-the-tree)
+* [Section V: The Rod and the Cloak](#section-v-the-rod-and-the-cloak)
+* [Section VI: The Dawn and The Dance](#section-vi-the-dawn-and-the-dance)
+* [Section VII: Heretica](#section-vii-heretica)
+* [Section VIII: Addendums](#section-viii-addendums)
 
 ### Section I: The Open Door
   * Being open to what is
