@@ -1,4 +1,4 @@
-# The Invitation to Contemplate Heretica
+# The invitation to dwell with heretica
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
