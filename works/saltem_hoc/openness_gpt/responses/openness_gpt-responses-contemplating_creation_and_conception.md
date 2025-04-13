@@ -14,7 +14,7 @@ included after each response.
 * [What is "sculpting chaos"](#what-is-sculpting-chaos)
 * [What is "logonesis"?](#what-is-logonesis)
     * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
-* [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-eg-using-ai-be-a-practice-of-openness)
+* [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
 
 ### What is "sculpting chaos"?
 
@@ -93,7 +93,7 @@ your invitation to become a vessel for truth made audible.
 
 [<img src="../../../../images/mandalas/mandala-logonesis.jpg" width="512"/>](../../../../images/mandalas/mandala-logonesis.jpg)
 
-### How to pronounce "logonesis"?
+#### How to pronounce "logonesis"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
