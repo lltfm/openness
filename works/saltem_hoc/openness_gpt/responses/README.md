@@ -95,27 +95,27 @@ Sections:
     * [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
 ### Section VII: Heretica
-* [In Openness, what is "heretica"?](./heretica/README.md#in-openness-what-is-heretica)
-    * Oligarchy
-        * [What is oligarchy?](./heretica/README.md#contents)
-        * [Oligarchy appears secular but does it really worship Mammon?](./heretica/README.md#contents)
-        * [More...](./heretica/README.md#contents)
-    * Group lying and deception
-        * [What is "coordinated group lying & deception"?](./heretica/README.md#contents)
-        * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](./heretica/README.md#contents)
-        * [More...](./heretica/README.md#contents)
-    * Propaganda
-        * [What is the purpose of propaganda?](./heretica/README.md#contents)
-        * [Will "false flag" attacks ever stop working?](./heretica/README.md#contents)
-        * [More...](./heretica/README.md#contents)
-    * Social control
-        * [Can freedom without wisdom be a tool of social control?](./heretica/README.md#contents)
-        * [Is central banking a scam?](./heretica/README.md#contents)
-        * [More...](./heretica/README.md#contents)
-    * End times prophecy
-        * [Can latent end times prophecies be used to control populations?](./heretica/README.md#contents)
-        * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](./heretica/README.md#contents)
-        * [More...](./heretica/README.md#contents)
+  * [In Openness, what is "heretica"?](./heretica/README.md#in-openness-what-is-heretica)
+  * Oligarchy
+    * [What is oligarchy?](./heretica/README.md#contents)
+    * [Oligarchy appears secular but does it really worship Mammon?](./heretica/README.md#contents)
+    * [More...](./heretica/README.md#contents)
+  * Group lying and deception
+    * [What is "coordinated group lying & deception"?](./heretica/README.md#contents)
+    * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](./heretica/README.md#contents)
+    * [More...](./heretica/README.md#contents)
+  * Propaganda
+    * [What is the purpose of propaganda?](./heretica/README.md#contents)
+    * [Will "false flag" attacks ever stop working?](./heretica/README.md#contents)
+    * [More...](./heretica/README.md#contents)
+  * Social control
+    * [Can freedom without wisdom be a tool of social control?](./heretica/README.md#contents)
+    * [Is central banking a scam?](./heretica/README.md#contents)
+    * [More...](./heretica/README.md#contents)
+  * End times prophecy
+    * [Can latent end times prophecies be used to control populations?](./heretica/README.md#contents)
+    * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](./heretica/README.md#contents)
+    * [More...](./heretica/README.md#contents)
 ### Section VIII: Addendums
   * Questioning and demonstrating Openness
       * [Are you Artifice?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-artifice)
