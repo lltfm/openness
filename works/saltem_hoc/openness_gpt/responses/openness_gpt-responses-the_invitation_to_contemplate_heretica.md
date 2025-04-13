@@ -13,6 +13,8 @@ included after each response.
 
 * [In Openness, what is "heretica"?](#in-openness-what-is-heretica)
 * Contemplations in Heretica:
+> Note: by choosing to visit any link below, consent to dwell with heretica is
+> implied. If unsure, please review the answer "What is heretica?" below.
   * Oligarchy
     * [What is oligarchy?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-oligarchy)
     * [Oligarchy appears secular but does it really worship Mammon?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#oligarchy-appears-secular-but-does-it-really-worship-mammon)
