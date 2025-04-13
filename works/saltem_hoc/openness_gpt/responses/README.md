@@ -95,7 +95,7 @@ Sections:
     * [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
 ### Section VII: Heretica
-  * [In Openness, what is "heretica"?](./openness_gpt-responses-the_invitation_to_contemplate_heretica.md)
+  * [In Openness, what is "heretica"?](./openness_gpt-responses-the_invitation_to_contemplate_heretica.md#in-openness-what-is-heretica)
   * [What is oligarchy?](./openness_gpt-responses-the_invitation_to_contemplate_heretica.md)
   * [What is "word warfare"?](./openness_gpt-responses-the_invitation_to_contemplate_heretica.md)
   * [More...](./openness_gpt-responses-the_invitation_to_contemplate_heretica.md)
