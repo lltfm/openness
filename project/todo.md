@@ -7,17 +7,12 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
-      * What does it mean to "dimensionalize" something?
+      * consider "collective lying and deception" instead of "coordinated group
+      lying and deception" 
       * What is a "sophisticated expression"?
       * What is "sculpting chaos"?
       * In Openness, who decides what is true?
       * What is "the terrible becoming"?
-      * add heretica folder
-          * refactor answers for heretica
-          * split oligarchy and social control into
-              * oligarchy
-              * propaganda and social control
-              * move them to heretica
       * How can play reveal to us the limits of our Openness?
       * What is arousal?
       * In Openness, what is hate?

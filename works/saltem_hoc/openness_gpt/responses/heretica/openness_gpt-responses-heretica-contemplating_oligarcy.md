@@ -13,7 +13,7 @@ included after each response.
 
 > Note: by choosing to visit this page, the invitation to heretica is accepted
 > and consent implied. If unsure, please review the answer
-> ["What is heretica?"](../openness_gpt-responses-the_invitation_to_contemplate_heretica.md#in-openness-what-is-heretica)
+> ["What is heretica?"](README#in-openness-what-is-heretica)
 
 * [What is oligarchy?](#what-is-oligarchy)
 * [Oligarchs are not violent themselves yet the rule of oligarchy appears to require violence?](#oligarchs-are-not-violent-themselves-yet-the-rule-of-oligarchy-appears-to-require-violence)

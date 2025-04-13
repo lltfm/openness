@@ -13,7 +13,7 @@ included after each response.
 
 > Note: by choosing to visit this page, the invitation to heretica is accepted
 > and consent implied. If unsure, please review the answer
-> ["What is heretica?"](../openness_gpt-responses-the_invitation_to_contemplate_heretica.md#in-openness-what-is-heretica)
+> ["What is heretica?"](README#in-openness-what-is-heretica)
 
 * [What is "coordinated group lying & deception"?](#what-is-coordinated-group-lying--deception)
 * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
@@ -24,8 +24,8 @@ included after each response.
   * Oligarchy
     * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
   * Social control
-    * [What is "controlled opposition"?]()
-    * [Who decides which religions or ideologies propagate?]()
+    * [What is "controlled opposition"?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
+    * [Who decides which religions or ideologies propagate?](./openness_gpt-responses-heretica-contemplating_social_control.md#who-decides-which-religions-or-ideologies-propagate)
   * Lies and deception
     * [Who is "The Master Liar"?](../openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
 
