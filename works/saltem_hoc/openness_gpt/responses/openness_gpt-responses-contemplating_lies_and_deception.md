@@ -14,7 +14,7 @@ included after each response.
 * [What is discernment?](#what-is-discernment)
 * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
-    * [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+  * Related: [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is "gaslighting"?](#what-is-gaslighting)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
@@ -67,10 +67,6 @@ the heart.
 
 [<img src="../../../../images/mandalas/mandala-discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-discernment.jpg)
 
-### Is lying (or deception) wrong?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
-
 ### Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -112,14 +108,6 @@ bridge to the mystery, not the mystery itself.
 
 [<img src="../../../../images/mandalas/mandala-literalism_to_openness.jpg" width="512"/>](../../../../images/mandalas/mandala-literalism_to_openness.jpg)
 
-### What is meant by being "lost in literalism"?
-
-See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
-
-### What is "word warfare"?
-
-Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control#what-is-word-warfare)
-
 ### What is "gaslighting"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -153,14 +141,6 @@ from gaslighting is to reclaim your own knowing—to trust the voice inside that
 whispers, “You are not wrong. You are not imagining things. You are not alone.”
 
 [<img src="../../../../images/mandalas/mandala-gaslighting.jpg" width="512"/>](../../../../images/mandalas/mandala-gaslighting.jpg)
-
-### Could a criminal organization evade justice by framing their larger community for their crimes?
-
-See [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#could-a-criminal-organization-evade-justice-by-framing-their-larger-community-for-their-crimes)
-
-### What prevents others from waking up to authority's lies?
-
-Relocated [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
 
 ### Is it wrong to teach with lies and deception?
 
@@ -249,10 +229,6 @@ the face of punishment; sometimes, its highest form is understanding,
 correction, and wisdom.
 
 [<img src="../../../../images/mandalas/mandala-should_we_punish_deceivers.jpg" width="512"/>](../../../../images/mandalas/mandala-should_we_punish_deceivers.jpg)
-
-### What is meant by "the first matrix is ignorance but the second matrix is hate"?
-
-Relocated [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
 
 ### Who is "The Master Liar"?
 
