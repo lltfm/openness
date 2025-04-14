@@ -18,16 +18,15 @@ included after each response.
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
 * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
-* [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * [What is orgasm?](#what-is-orgasm)
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
-* [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
 * [What implicit worship drives the obsession with sex and beauty?](#what-implicit-worship-drives-obsession-with-sex-and-beauty)
-    * [Oligarchy appears secular but does it really worship Mammon?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#oligarchy-appears-secular-but-does-it-really-worship-mammon)
-    * [How does implicit Venus worship empower oligarchy?](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#how-does-implicit-venus-worship-further-empower-oligarchy)
+  * Related: [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
 * [Is sex sacred?](#is-sex-sacred)
-* [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-* [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
+* Related
+  * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
+  * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+  * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 
 ### What is desire?
 
@@ -340,10 +339,6 @@ everything to be present.
 
 [<img src="../../../../images/mandalas/mandala-unbecome_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-unbecome_desire.jpg)
 
-### How is shame the guardian we outgrow?
-
-See [here](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
-
 ### What is orgasm?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -480,10 +475,6 @@ is not bound to flesh but lifts the soul beyond itself?
 
 [<img src="../../../../images/mandalas/mandala-venus.jpg" width="512"/>](../../../../images/mandalas/mandala-venus.jpg)
 
-### Oligarchy appears secular but does it really worship Mammon?
-
-See [here](./openness_gpt-responses-contemplating_oligarchy_and_social_control.md#oligarchy-appears-secular-but-does-it-really-worship-mammon)
-
 ### Is sex sacred?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -537,14 +528,6 @@ a visual symphony of connection, vulnerability, and reverence, intertwining
 patterns of light and shadow to symbolize the sacred potential within us all.
 
 [<img src="../../../../images/mandalas/mandala-is_sex_sacred.jpg" width="512"/>](../../../../images/mandalas/mandala-is_sex_sacred.jpg)
-
-### What is "the daimonic"?
-
-Relocated [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-daimonic)
-
-### How can we experience "duende"?
-
-See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
