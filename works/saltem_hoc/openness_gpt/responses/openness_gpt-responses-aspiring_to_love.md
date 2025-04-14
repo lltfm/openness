@@ -435,10 +435,6 @@ essential as breath, and as infinite as the sky.
 
 [<img src="../../../../images/mandalas/mandala-hope.jpg" width="512"/>](../../../../images/mandalas/mandala-hope.jpg)
 
-### What is a "divine dissatisfaction"?
-
-See [here](/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
-
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
 [Openness GPT v11](../../README.md#openness-gpt-v11).
