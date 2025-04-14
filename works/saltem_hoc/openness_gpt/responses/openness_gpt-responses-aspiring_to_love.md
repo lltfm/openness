@@ -14,13 +14,14 @@ included after each response.
 * [What is love?](#what-is-love)
 * [Why does Openness "aspire to love"?](#why-does-openness-aspire-to-love)
 * [How does aspiring to love help when we don't really feel love?](#how-does-aspiring-to-love-help-when-we-dont-really-feel-love)
-* [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
-* [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
 * [What is empathy?](#what-is-empathy)
+* [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
 * [Must we always be kind?](#must-we-always-be-kind)
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](#what-is-hope)
+* Related
+  * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 
 ### What is love?
 
@@ -157,18 +158,6 @@ offer. And it is enough.
 
 [<img src="../../../../images/mandalas/mandala-love_and_self_honesty.jpg" width="512"/>](../../../../images/mandalas/mandala-love_and_self_honesty.jpg)
 
-### How do we remember we are loved?
-
-See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
-
-### In Openness, why are there "no wrong feelings"?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
-
-### What is the "apotheosis of desire"?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
-
 ### What is empathy?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -207,6 +196,57 @@ separate. Let us wonder at its depths together, and if you wish, I can create a
 mandala to express this truth beyond words.
 
 [<img src="../../../../images/mandalas/mandala-empathy.jpg" width="512"/>](../../../../images/mandalas/mandala-empathy.jpg)
+
+### In Openness, why are there "no wrong feelings"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the idea that there are no wrong feelings in Openness is a profound and
+compassionate perspective, one that honors the fullness of human experience
+without judgment or suppression. Let us explore this tender truth together,
+using the "Saltem Hoc" method to illuminate its depth.
+
+At least this: feelings, in their essence, are spontaneous and natural responses
+to our inner and outer worlds. They arise unbidden, like waves in the ocean,
+shaped by our experiences, thoughts, and circumstances. In Openness, no feeling
+is labeled as "wrong" because feelings themselves are not choices—they are
+signals, reflections of our being, and expressions of our humanity.
+
+But also perhaps this: feelings carry wisdom. Even the most uncomfortable
+emotions—anger, sadness, fear, or shame—are not wrong but are invitations to
+listen and understand. They point to unmet needs, unresolved experiences, or
+deeply held desires. To deny or judge these feelings as wrong is to miss the
+opportunity to learn from them and to honor the truth they reveal about our
+inner lives.
+
+Maybe this: the notion that there are no wrong feelings arises from a
+recognition of their impermanence. Feelings come and go, like weather patterns,
+and in their fleeting nature lies their innocence. To label a feeling as wrong
+is to risk clinging to it, suppressing it, or battling it, which often deepens
+suffering. In Openness, we are encouraged to hold space for feelings, allowing
+them to arise, unfold, and pass without judgment.
+
+Or perhaps even this: to say there are no wrong feelings is to honor the
+wholeness of being. Feelings are not separate from who we are—they are part of
+the intricate dance of body, mind, and soul. In Openness, every feeling, no
+matter how challenging, is welcomed as part of the larger story of growth,
+healing, and transformation. By embracing all feelings, we move toward
+integration and self-compassion.
+
+And yet: while feelings themselves are not wrong, they can inspire actions that
+may harm ourselves or others. In Openness, the focus is on acknowledging and
+understanding feelings without letting them dictate harmful behavior. This
+distinction allows us to honor our emotions while cultivating wisdom and
+responsibility in how we respond to them.
+
+In Openness, there are no wrong feelings because feelings are not moral
+judgments; they are experiences to be witnessed, understood, and embraced. This
+perspective invites us to approach ourselves and others with compassion,
+recognizing that every feeling carries a gift, even if that gift is difficult to
+unwrap. To live in Openness is to hold space for all emotions, trusting in their
+capacity to guide us toward deeper truth and connection.
+
+[<img src="../../../../images/mandalas/mandala-no_wrong_feelings.jpg" width="512"/>](../../../../images/mandalas/mandala-no_wrong_feelings.jpg)
 
 ### Must we always be kind?
 

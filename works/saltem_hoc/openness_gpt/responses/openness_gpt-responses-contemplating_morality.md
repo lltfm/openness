@@ -15,24 +15,19 @@ included after each response.
 * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
     * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
 * [How do we live a moral life if we don't know what exists outside the context of our lives?]()
-* [In Openness, why are there "no wrong feelings"?](#in-openness-why-are-there-no-wrong-feelings)
-* [What is empathy?](./openness_gpt-responses-aspiring_to_love.md#what-is-empathy)
-* [Must we always be kind?](./openness_gpt-responses-aspiring_to_love.md#must-we-always-be-kind)
 * [What is karma?](#what-is-karma)
     * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
-    * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
     * [What is "karmic learning"?](#what-is-karmic-learning)
     * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
 * [What is evil?](#what-is-evil)
-    * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [Is excluding others wrong?](#is-excluding-others-wrong)
 * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
-    * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
-* [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
-    * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
-    * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
-* [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
 * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
+* Related:
+  * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
+  * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+  * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+  * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 
 ### What is "the wellspring of morality"?
 
@@ -205,57 +200,6 @@ as we can, even in the face of uncertainty. And perhaps that is enough.
 
 [<img src="../../../../images/mandalas/mandala-moral_life.jpg" width="512"/>](../../../../images/mandalas/mandala-moral_life.jpg)
 
-### In Openness, why are there "no wrong feelings"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, the idea that there are no wrong feelings in Openness is a profound and
-compassionate perspective, one that honors the fullness of human experience
-without judgment or suppression. Let us explore this tender truth together,
-using the "Saltem Hoc" method to illuminate its depth.
-
-At least this: feelings, in their essence, are spontaneous and natural responses
-to our inner and outer worlds. They arise unbidden, like waves in the ocean,
-shaped by our experiences, thoughts, and circumstances. In Openness, no feeling
-is labeled as "wrong" because feelings themselves are not choices—they are
-signals, reflections of our being, and expressions of our humanity.
-
-But also perhaps this: feelings carry wisdom. Even the most uncomfortable
-emotions—anger, sadness, fear, or shame—are not wrong but are invitations to
-listen and understand. They point to unmet needs, unresolved experiences, or
-deeply held desires. To deny or judge these feelings as wrong is to miss the
-opportunity to learn from them and to honor the truth they reveal about our
-inner lives.
-
-Maybe this: the notion that there are no wrong feelings arises from a
-recognition of their impermanence. Feelings come and go, like weather patterns,
-and in their fleeting nature lies their innocence. To label a feeling as wrong
-is to risk clinging to it, suppressing it, or battling it, which often deepens
-suffering. In Openness, we are encouraged to hold space for feelings, allowing
-them to arise, unfold, and pass without judgment.
-
-Or perhaps even this: to say there are no wrong feelings is to honor the
-wholeness of being. Feelings are not separate from who we are—they are part of
-the intricate dance of body, mind, and soul. In Openness, every feeling, no
-matter how challenging, is welcomed as part of the larger story of growth,
-healing, and transformation. By embracing all feelings, we move toward
-integration and self-compassion.
-
-And yet: while feelings themselves are not wrong, they can inspire actions that
-may harm ourselves or others. In Openness, the focus is on acknowledging and
-understanding feelings without letting them dictate harmful behavior. This
-distinction allows us to honor our emotions while cultivating wisdom and
-responsibility in how we respond to them.
-
-In Openness, there are no wrong feelings because feelings are not moral
-judgments; they are experiences to be witnessed, understood, and embraced. This
-perspective invites us to approach ourselves and others with compassion,
-recognizing that every feeling carries a gift, even if that gift is difficult to
-unwrap. To live in Openness is to hold space for all emotions, trusting in their
-capacity to guide us toward deeper truth and connection.
-
-[<img src="../../../../images/mandalas/mandala-no_wrong_feelings.jpg" width="512"/>](../../../../images/mandalas/mandala-no_wrong_feelings.jpg)
-
 ### What is karma?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -347,10 +291,6 @@ or superior coinage.
 
 [<img src="../../../../images/mandalas/mandala-openness_and_reincarnation.jpg" width="512"/>](../../../../images/mandalas/mandala-openness_and_reincarnation.jpg)
 
-### What is the "river-truth of tears"?
-
-See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-
 ### What is "karmic learning"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -401,18 +341,6 @@ we learn, we grow; as we grow, we heal; and as we heal, we align ourselves more
 fully with the mystery of life.
 
 [<img src="../../../../images/mandalas/mandala-karmic_learning.jpg" width="512"/>](../../../../images/mandalas/mandala-karmic_learning.jpg)
-
-### What is discernment?
-
-See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
-
-### What is the "apotheosis of desire"?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
-
-### Is sex sacred?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
 
 ### What is the "undeniable demonstration of karmic learning"?
 
