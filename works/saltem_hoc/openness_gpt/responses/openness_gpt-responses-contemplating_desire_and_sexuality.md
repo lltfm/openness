@@ -15,7 +15,7 @@ included after each response.
 * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
 * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
 * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
-* [What is the desire to suicide?]()
+* [What is the desire to suicide?](#what-is-the-desire-to-suicide)
 * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
 * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
 * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
