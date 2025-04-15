@@ -22,8 +22,7 @@ included after each response.
 * [What is orgasm?](#what-is-orgasm)
 * [What is "the sirenic call"?](#what-is-the-sirenic-call)
 * [What implicit worship drives the obsession with sex and beauty?](#what-implicit-worship-drives-obsession-with-sex-and-beauty)
-    *
-    Related: [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
+    * Related: [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
 * [Is sex sacred?](#is-sex-sacred)
 * Related
     * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
