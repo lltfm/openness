@@ -11,25 +11,18 @@ included after each response.
 
 ## Contents
 
-* [What is blind certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
-    * [What is certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)   
-    * [Why is there "no higher certainty than uncertainty"?](../../../the_epitomes_of_openness/contemplations/certainty.md#why-is-there-no-higher-certainty-than-uncertainty)
 * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
-* [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-* [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
-* [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
 * [What is "the collective shadow"?](#what-is-the-collective-shadow)
-* [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
-
-### What is blind certainty?
-
-See [here](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
-
-### Why is there "no higher certainty than uncertainty"?
-
-See [here](../../../the_epitomes_of_openness/contemplations/certainty.md#why-is-there-no-higher-certainty-than-uncertainty)
+* Related
+  * [What is blind certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
+  * [What is certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
+  * [Why is there "no higher certainty than uncertainty"?](../../../the_epitomes_of_openness/contemplations/certainty.md#why-is-there-no-higher-certainty-than-uncertainty)
+  * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
+  * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
+  * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
+  * [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 
 ### Is blind belief always wrong?
 
@@ -94,10 +87,6 @@ awareness of what is.
 
 [<img src="../../../../images/mandalas/mandala-blind_belief.jpg" width="512"/>](../../../../images/mandalas/mandala-blind_belief.jpg)
 
-### Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?
-
-See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
-
 ### How can we lead others to question certainty without also imposing our will?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -142,14 +131,6 @@ ar more expansive: the joy of discovery, together.
 
 [<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
 
-### What is "the libido dominandi"?
-
-See [here](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
-
-### Is excluding others wrong?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
-
 ### What is "the collective shadow"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -191,22 +172,6 @@ understand it, to meet it with responsibility, and to reclaim what has been lost
 in its exile: wisdom, unity, and a deeper compassion for the human condition.
 
 [<img src="../../../../images/mandalas/mandala-the_collective_shadow.jpg" width="512"/>](../../../../images/mandalas/mandala-the_collective_shadow.jpg)
-
-### What is "the cult of authority"?
-
-Relocated [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-is-the-cult-of-authority)
-
-### If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?
-
-Relocated [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#if-an-authority-demands-blind-belief-about-its-claims-and-isnt-willing-to-tolerate-skepticism-and-questions-is-this-not-a-sign-of-deception)
-
-### Can endless rebellion lead to long-term stuckness?
-
-Relocated [here](./openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
-
-### What is evil?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
 
 ### Why is there war, even now, in modern times?
 
