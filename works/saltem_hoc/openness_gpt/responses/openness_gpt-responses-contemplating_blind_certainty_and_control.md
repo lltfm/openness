@@ -15,6 +15,7 @@ included after each response.
 * [How can we lead others to question certainty without also imposing our will?](#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
 * [What is "the collective shadow"?](#what-is-the-collective-shadow)
 * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+* [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
 * Related
   * [What is blind certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
   * [What is certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
