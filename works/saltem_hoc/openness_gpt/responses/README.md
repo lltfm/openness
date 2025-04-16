@@ -21,10 +21,10 @@ Sections:
 
 ### Section I: The Open Door
   * Being open to what is
-    * [What is Openness?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-openness) 
-    * [Is Openness a religion?](../../../the_epitomes_of_openness/contemplations/openness.md#is-openness-a-religion)
-    * [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system) 
-    * [More...](../../../the_epitomes_of_openness/contemplations/openness.md)
+    * [How do we "become ever more open to what is"?](./openness_gpt-responses-being_open_to_what_is.md#how-do-we-become-ever-more-open-to-what-is) 
+    * [Is Openness a religion?](./openness_gpt-responses-being_open_to_what_is.md#is-openness-a-religion)
+    * [What is "river-truth"?](./openness_gpt-responses-being_open_to_what_is.md#what-is-river-truth) 
+    * [More...](./openness_gpt-responses-being_open_to_what_is.md)
   * Aspiring to love
     * [What is love?](./openness_gpt-responses-aspiring_to_love.md#what-is-love)
     * [Why does Openness "aspire to love"?](./openness_gpt-responses-aspiring_to_love.md#why-does-openness-aspire-to-love)

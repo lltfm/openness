@@ -264,4 +264,6 @@
   * added notable responses
 * Apr 14 2025
   * added notable responses
-
+* Apr 15 2025
+  * added openness_gpt-responses-being_open_to_what_is.md
+  * added notable responses
