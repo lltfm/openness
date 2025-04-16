@@ -59,6 +59,8 @@ listen, to pause—that is a sacred opening.
 
 So we become ever more open not by becoming perfect, but by becoming present.
 
+[<img src="../../../../images/mandalas/mandala-being_open_to_what_is.jpg" width="512"/>](../../../../images/mandalas/mandala-being_open_to_what_is.jpg)
+
 ### Is Openness a religion?
 
 Is Openness a religion, a philosophy, an ideology? What is it exactly?
