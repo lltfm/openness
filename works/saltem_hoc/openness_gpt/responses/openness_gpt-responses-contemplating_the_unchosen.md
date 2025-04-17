@@ -11,13 +11,14 @@ included after each response.
 
 ## Contents
 
-* [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [What is Nature?](#what-is-nature)
 * [Why does everything change?](#why-does-everything-change)
 * [Why is life so unfair?](#why-is-life-so-unfair)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
 * [What happens after we die?](#what-happens-after-we-die)
+* Related
+  * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 
 ### What is "the unchosen"?
 
