@@ -14,7 +14,7 @@ included after each response.
 * [How do we "become ever more open to what is"?](#how-do-we-become-ever-more-open-to-what-is)
 * [Is Openness a religion?](#is-openness-a-religion)
 * [What is "river-truth"?](#what-is-river-truth)
-* [Is everything in Openness symbolic?]()
+* [Is everything in Openness symbolic?](#is-everything-in-openness-symbolic)
 * [In Openness, who decides what is true?](#in-openness-who-decides-what-is-true)
 * [What is a "personal belief system"?](#what-is-a-personal-belief-system)
 * Related
