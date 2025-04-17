@@ -14,15 +14,14 @@ included after each response.
 * Improving ourselves
   * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
   * [How does improving ourselves each day help us awaken to "the prime benevolence"?](#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
-  * [How do we become sovereign in our mind?](#how-do-we-become-sovereign-in-our-mind)
   * Related
     * [How do we "become ever more open to what is"?](./openness_gpt-responses-being_open_to_what_is.md#how-do-we-become-ever-more-open-to-what-is)
     * [How do we dimensionalize our thinking and feel what is true?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
-    * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 * Loving ourselves and others
-  * [How does aspiring to love help us when we don't really feel love?](./openness_gpt-responses-aspiring_to_love.md#how-does-aspiring-to-love-help-when-we-dont-really-feel-love)
-  * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
-  * [How do we learn to love others who have betrayed us yet still keep our boundaries?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
+  * Related 
+    * [How does aspiring to love help us when we don't really feel love?](./openness_gpt-responses-aspiring_to_love.md#how-does-aspiring-to-love-help-when-we-dont-really-feel-love)
+    * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
+    * [How do we learn to love others who have betrayed us yet still keep our boundaries?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * Holding yet not clinging
   * [How do we strengthen attention?](#how-do-we-strengthen-attention)
   * [How do we transform emotions?](#how-do-we-transform-emotions)
@@ -49,6 +48,10 @@ included after each response.
     * [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
     * [How are hearts returned to wonder?](./openness_gpt-responses-aspiring_to_love.md#how-are-hearts-returned-to-wonder)
     * [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
+* Self Sovereignty
+  * [How do we become sovereign in our mind?](#how-do-we-become-sovereign-in-our-mind)
+  * Related
+    * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 ### In Openness, what is "the work"?
 
