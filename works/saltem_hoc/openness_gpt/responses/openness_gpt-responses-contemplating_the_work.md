@@ -40,6 +40,7 @@ included after each response.
   * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
   * Related
     * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
+    * [What is "shadow work"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
     * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
     * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
     * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
@@ -89,10 +90,6 @@ student and creator, holding ourselves accountable while remaining open to
 grace.
 
 [<img src="../../../../images/mandalas/mandala-the_work.jpg" width="512"/>](../../../../images/mandalas/mandala-the_work.jpg)
-
-### How do we remember we are loved?
-
-See [here](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 
 ### How does improving ourselves each day help us awaken to "the prime benevolence"?
 
@@ -293,18 +290,6 @@ uncover pathways of consolation uniquely suited to our way of being.
 
 [<img src="../../../../images/mandalas/mandala-holding_emotions.jpg" width="512"/>](../../../../images/mandalas/mandala-holding_emotions.jpg)
 
-### How do we learn to witness ourselves?
-
-See [here](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-witness-ourselves)
-
-### What exactly do we do in "shadow work"?
-
-Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
-
-### What are "impossible expectations"?
-
-See [here](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
-
 ### How can we make everyday life into "the playspace"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -364,10 +349,6 @@ unpredictability with curiosity and delight.
 
 [<img src="../../../../images/mandalas/mandala-the_playspace.jpg" width="512"/>](../../../../images/mandalas/mandala-the_playspace.jpg)
 
-### How do we dimensionalize our thinking and feel what is true?
-
-Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
-
 ### How do we become sovereign in our mind?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -416,10 +397,6 @@ others but connect more deeply, for a sovereign mind sees clearly the shared
 humanity in us all.
 
 [<img src="../../../../images/mandalas/mandala-mental_sovereignty.jpg" width="512"/>](../../../../images/mandalas/mandala-mental_sovereignty.jpg)
-
-### How can we experience "duende"?
-
-Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 
 ### How do we grow in our discernment?
 
