@@ -14,7 +14,7 @@ included after each response.
 * What is moral?
   * [What is the "wellspring of morality"?](#what-is-the-wellspring-of-morality)
   * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
-      * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
+  * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
   * [How do we live a moral life if we don't know what exists outside the context of our lives?](#how-do-we-live-a-moral-life-if-we-dont-know-what-exists-outside-the-context-of-our-lives)
   * Related:
     * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
@@ -22,9 +22,9 @@ included after each response.
     * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * Karma
   * [What is karma?](#what-is-karma)
-    * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
-    * [What is "karmic learning"?](#what-is-karmic-learning)
-    * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+  * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
+  * [What is "karmic learning"?](#what-is-karmic-learning)
+  * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
   * Related
     * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * What is immoral?
