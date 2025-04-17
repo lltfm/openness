@@ -1,11 +1,8 @@
 # Contemplating lies and deception
 
-An extended collection of notable responses from
-[Openness GPT](../../README.md#openness-gpt) that capture the essence of
-Openness.
-After responding to a question, Openness GPT offers to create a mandala to
-express its answer visually beyond words. The mandala created by Openness GPT is
-included after each response.
+An expansive collection of saltem hoc answers from
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
 
