@@ -35,7 +35,7 @@ included after each response.
   * Related
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
-* Sacred Play
+* Sacred play
   * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
   * Related
     * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
@@ -48,7 +48,7 @@ included after each response.
     * [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
     * [How are hearts returned to wonder?](./openness_gpt-responses-aspiring_to_love.md#how-are-hearts-returned-to-wonder)
     * [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
-* Self Sovereignty
+* Self sovereignty
   * [How do we become sovereign in our mind?](#how-do-we-become-sovereign-in-our-mind)
   * Related
     * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
