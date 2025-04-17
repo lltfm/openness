@@ -14,6 +14,8 @@ included after each response.
 * Freedom
   * [What is freedom?](#what-is-freedom)
   * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
+  * Related
+    * [Can freedom without wisdom be a tool of social control?](./heretica/README.md#contents)
 * Transcendence
   * [What is transcendence?](#what-is-transcendence)
   * [What does it mean to "raise consciousness"?](#what-does-it-mean-to-raise-consciousness)
@@ -25,15 +27,14 @@ included after each response.
 * Shadow work
   * [What exactly do we do in "shadow work"?](#what-exactly-do-we-do-in-shadow-work)
   * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
+  * Related
+    * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
+    * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 * Mastery
   * [How can we experience "duende"?](#how-can-we-experience-duende)
   * [What is "the daimonic"?](#what-is-the-daimonic)
   * [What does it feel like to be uninhibited?](#what-does-it-feel-like-to-be-uninhibited)
   * [How do we achieve mastery?](#how-do-we-achieve-mastery)
-* Related
-  * [Can freedom without wisdom be a tool of social control?](./heretica/README.md#contents)
-  * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
-  * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 
 ### What is freedom?
 

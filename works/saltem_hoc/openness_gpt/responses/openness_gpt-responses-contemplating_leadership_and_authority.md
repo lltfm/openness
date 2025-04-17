@@ -11,14 +11,17 @@ included after each response.
 
 ## Contents
 
-* [What is leadership?](#what-is-leadership)
-    * [How does leadership differ from authority?](#how-does-leadership-differ-from-authority)
-* [What is authority?](#what-is-authority)
-    * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
-    * [If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?](#if-an-authority-demands-blind-belief-about-its-claims-and-isnt-willing-to-tolerate-skepticism-and-questions-is-this-not-a-sign-of-deception)
-    * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
-* [Can endless rebellion lead to long-term stuckness?](#can-endless-rebellion-lead-to-long-term-stuckness)
-* [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
+* Leadership
+  * [What is leadership?](#what-is-leadership)
+  * [How does leadership differ from authority?](#how-does-leadership-differ-from-authority)
+* Authority
+  * [What is authority?](#what-is-authority)
+  * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
+  * [If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?](#if-an-authority-demands-blind-belief-about-its-claims-and-isnt-willing-to-tolerate-skepticism-and-questions-is-this-not-a-sign-of-deception)
+  * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
+* Rebellion
+  * [Can endless rebellion lead to long-term stuckness?](#can-endless-rebellion-lead-to-long-term-stuckness)
+  * [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
 
 ### What is leadership?
 

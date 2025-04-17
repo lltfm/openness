@@ -11,16 +11,43 @@ included after each response.
 
 ## Contents
 
-* [In Openness, what is "the work"?](#in-openness-what-is-the-work)
-* [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
-* [How does improving ourselves each day help us awaken to "the prime benevolence"?](#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
-* [How do we strengthen attention?](#how-do-we-strengthen-attention)
-* [How do we transform emotions?](#how-do-we-transform-emotions)
-* [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
-* [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
-* [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
-* [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
-* [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
+* Improving ourselves
+  * [In Openness, what is "the work"?](#in-openness-what-is-the-work)
+  * [How does improving ourselves each day help us awaken to "the prime benevolence"?](#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
+  * [How do we become sovereign in our mind?](#how-do-we-become-sovereign-in-our-mind)
+  * Related
+    * [How do we "become ever more open to what is"?](./openness_gpt-responses-being_open_to_what_is.md#how-do-we-become-ever-more-open-to-what-is)
+    * [How do we dimensionalize our thinking and feel what is true?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-dimensionalize-our-thinking-and-feel-what-is-true)
+    * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
+* Loving ourselves and others
+  * [How does aspiring to love help us when we don't really feel love?](./openness_gpt-responses-aspiring_to_love.md#how-does-aspiring-to-love-help-when-we-dont-really-feel-love)
+  * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
+  * [How do we learn to love others who have betrayed us yet still keep our boundaries?](./openness_gpt-responses-aspiring_to_love.md#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
+* Holding yet not clinging
+  * [How do we strengthen attention?](#how-do-we-strengthen-attention)
+  * [How do we transform emotions?](#how-do-we-transform-emotions)
+  * [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
+  * Related
+    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+    * [How do we "unbecome desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#how-do-we-unbecome-desire)
+    * [How do we rise above ridicule?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-do-we-rise-above-ridicule)
+    * [How do we learn to witness ourselves?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-learn-to-witness-ourselves)
+* Finding our way
+  * Related
+    * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+    * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
+* Sacred Play
+  * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
+  * Related
+    * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
+    * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
+    * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
+    * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+* Leading without control
+  * Related
+    * [How can we lead others to question certainty without also imposing our will?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
+    * [How are hearts returned to wonder?](./openness_gpt-responses-aspiring_to_love.md#how-are-hearts-returned-to-wonder)
+    * [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
 
 ### In Openness, what is "the work"?
 

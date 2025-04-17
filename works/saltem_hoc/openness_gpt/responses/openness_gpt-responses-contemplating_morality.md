@@ -11,23 +11,27 @@ included after each response.
 
 ## Contents
 
-* [What is the "wellspring of morality"?](#what-is-the-wellspring-of-morality)
-* [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
-    * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
-* [How do we live a moral life if we don't know what exists outside the context of our lives?](#how-do-we-live-a-moral-life-if-we-dont-know-what-exists-outside-the-context-of-our-lives)
-* [What is karma?](#what-is-karma)
+* What is moral?
+  * [What is the "wellspring of morality"?](#what-is-the-wellspring-of-morality)
+  * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
+      * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
+  * [How do we live a moral life if we don't know what exists outside the context of our lives?](#how-do-we-live-a-moral-life-if-we-dont-know-what-exists-outside-the-context-of-our-lives)
+  * Related:
+    * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
+    * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+* Karma
+  * [What is karma?](#what-is-karma)
     * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
     * [What is "karmic learning"?](#what-is-karmic-learning)
     * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-* [What is evil?](#what-is-evil)
-* [Is excluding others wrong?](#is-excluding-others-wrong)
-* [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
-* [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
-* Related:
-  * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
-  * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-  * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-  * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+  * Related
+    * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+* What is immoral?
+  * [What is evil?](#what-is-evil)
+  * [Is excluding others wrong?](#is-excluding-others-wrong)
+  * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
+  * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
 
 ### What is "the wellspring of morality"?
 

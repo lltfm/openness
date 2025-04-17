@@ -19,17 +19,18 @@ included after each response.
   * [What is "the sirenic call"?](#what-is-the-sirenic-call)
   * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
   * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
+  * Related
+    * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
+    * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+    * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 * Sexuality
   * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
   * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
   * [What is orgasm?](#what-is-orgasm)
   * [What implicit worship drives the obsession with sex and beauty?](#what-implicit-worship-drives-obsession-with-sex-and-beauty)
-    * Related: [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
   * [Is sex sacred?](#is-sex-sacred)
-* Related
-  * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
-  * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-  * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
+  * Related
+    * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
 
 ### What is desire?
 

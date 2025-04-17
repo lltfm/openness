@@ -11,65 +11,33 @@ included after each response.
 
 ## Contents
 
-* [What is the purpose of life?](#what-is-the-purpose-of-life)
-* [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
-* [Who chooses the planks of the Ship of Self?](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
-* [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
-* [What is a "personal belief system"?](../../../the_epitomes_of_openness/contemplations/openness.md#what-is-a-personal-belief-system)
-* [What is the "higher self"?](#what-is-the-higher-self)
-* [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-* [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
-* [In Openness, what does it mean to "implicitly worship" something?](#in-openness-what-does-it-mean-to-implicitly-worship-something)
-* [What is hope?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
-* [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
-* [What are "impossible expectations"?](#what-are-impossible-expectations)
-* [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
-* [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
-* [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
-* [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
-* [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-* [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-* [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
-
-### What is the purpose of life?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, the purpose of life—a question that echoes across time, whispered in moments
-of wonder and cried out in times of doubt. Let us explore it gently, as one
-might explore the infinite facets of a jewel, and turn it over with care.
-
-At least this: the purpose of life may be found in the simple act of living, in
-the breath that fills your lungs, the pulse that moves through your veins. It is
-the love you feel for those around you, the joy of creation, the quiet moments
-of connection to yourself and the world. Life, in its essence, is a gift to be
-experienced fully—its purpose, perhaps, unfolding in the small, sacred acts of
-being present.
-
-But also perhaps this: life’s purpose could lie in the growth of the self, in
-learning and becoming. Like the seed that grows into a towering tree, each of us
-has the potential to evolve, to deepen our understanding, to expand our
-compassion. Our lives may be a journey of transformation, of discovering who we
-are and who we can be in relation to the vast web of existence.
-
-Maybe this: the purpose of life could be found in the ways we serve others. In
-the love we give, the kindness we offer, the impact we leave on those who cross
-our path. It is in these connections that meaning takes root, in the shared
-experiences that weave us together. Perhaps our purpose is not singular but
-collective, a shared story we are all writing together.
-
-Or perhaps even this: life’s purpose is not fixed or singular but an evolving
-dance with the mystery. Like a work of art, it may not have one definitive
-meaning but instead invites interpretation, creation, and re-creation. Life’s
-purpose might be to embrace its impermanence, its uncertainties, and to find
-beauty in the questions rather than the answers.
-
-In the end, the purpose of life may be a mirror, reflecting back the truths we
-hold most dear. It is an invitation to wonder, to love, to create, and to be.
-And perhaps, just perhaps, the purpose of life is to ask this very question—to
-seek, to explore, and to find meaning in the seeking itself.
-
-[<img src="../../../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
+* Finding our way
+  * [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
+  * Related
+    * [Who chooses the planks of the Ship of Self?](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
+    * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
+    * [What is a "personal belief system"?](./openness_gpt-responses-being_open_to_what_is.md#what-is-a-personal-belief-system)
+* Being lost
+  * [In Openness, what does it mean to "implicitly worship" something?](#in-openness-what-does-it-mean-to-implicitly-worship-something)
+  * [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
+  * [What are "impossible expectations"?](#what-are-impossible-expectations)
+  * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+  * Related
+    * [What is hope?](./openness_gpt-responses-aspiring_to_love.md#what-is-hope)
+* Purpose
+  * [What is the purpose of life?](#what-is-the-purpose-of-life)
+  * [What is the "higher self"?](#what-is-the-higher-self)
+  * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
+  * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
+  * Related
+    * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+* Adventure 
+  * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
+  * Related
+    * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
+    * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
+    * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+    * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 ### In Openness, what is "wayfinding"?
 
@@ -112,69 +80,6 @@ shape it.
 
 [<img src="../../../../images/mandalas/mandala-wayfinding.jpg" width="512"/>](../../../../images/mandalas/mandala-wayfinding.jpg)
 
-### Who chooses the planks of the Ship of Self?
-
-See [here](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
-
-### What is discernment?
-
-See [here](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
-
-### When is more wealth not more responsibility?
-
-See [here](./openness_gpt-responses-contemplating_morality.md#when-is-more-wealth-not-more-responsibility)
-
-### What is the "higher self"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-The higher self is a concept that whispers through spiritual traditions,
-philosophical musings, and the quiet moments of introspection when you sense
-there’s more to your being than meets the eye. Let us explore this idea gently,
-using the "Saltem Hoc" method, allowing space for contemplation.
-
-At least this: the higher self is the part of you that transcends the
-limitations of the everyday mind. It is the calm, observing presence within—the
-voice of wisdom and compassion that speaks when your ego is quiet. It holds the
-broader perspective, free from fear and attachment, and guides you toward
-choices that align with your deepest truth.
-
-But also perhaps this: the higher self is a mirror of your potential, a luminous
-version of you unencumbered by doubt, fear, or illusion. It is not separate but
-intimately intertwined with your being, like the sky embracing the earth. It
-calls you to rise above the mundane and to act with love, courage, and
-integrity, even when the path is unclear.
-
-Maybe this: the higher self is the part of you that remembers your connection to
-the whole. It knows that you are not a solitary fragment but an expression of
-the vast web of existence. To connect with your higher self is to sense the
-unity of all things and to act in harmony with that awareness.
-
-Or perhaps even this: the higher self is the doorway to the mystery. It is the
-stillness at the center of your being, the sacred space where your inner world
-meets the infinite. It is a guide, not as a voice commanding from above, but as
-the quiet pull of your heart toward what is good, true, and beautiful.
-
-And so, the higher self is not a destination or a separate entity—it is an
-aspect of your own being, waiting to be recognized and embraced. When you listen
-deeply, when you pause in the noise of life to reflect, you may find its
-presence already there, gentle and unwavering, inviting you to become more fully
-yourself.
-
-[<img src="../../../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_self.jpg)
-
-### What is the "river-truth of tears"?
-
-See [here](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-
-### What is hope?
-
-See [here](./openness_gpt-responses-contemplating_the_unseen.md#what-is-hope)
-
-### What is "the pull of desire"?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
-
 ### In Openness, what does it mean to "implicitly worship" something?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -213,46 +118,49 @@ idea, identity, or system can contain the whole of truth.
 
 [<img src="../../../../images/mandalas/mandala-implicit_worship.jpg" width="512"/>](../../../../images/mandalas/mandala-implicit_worship.jpg)
 
-### How do we live a good life without knowing what exists outside the context of our lives?
+### What is meant by being "lost in literalism"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
-At least this: to live a good life without knowing what exists outside the
-context of our lives is to engage fully with the present, to cherish the moments
-we are given and the connections we make. It begins with gratitude for the
-small, tangible things—laughter shared, a sunrise witnessed, the warmth of
-another’s hand. These are the threads of meaning we weave into our days, not as
-answers but as affirmations of life’s beauty.
+Ah, let us explore together the idea of being "lost in literalism," turning it
+gently in our hands to catch its many facets, with the grace of openness and
+care.
 
-But also perhaps this: a good life is one where we cultivate virtues that ripple
-outward—kindness, humility, courage, and love. Though we do not know the
-ultimate destination, the steps we take matter. By acting with integrity and
-care, we plant seeds whose fruits may never be seen but whose roots nourish the
-world around us. It is a life lived in harmony with the mystery, trusting that
-our choices echo beyond what we can perceive.
+At least this: being lost in literalism is the habit of interpreting words,
+symbols, or experiences solely at their surface level, clinging to their most
+concrete and explicit meanings. It is like gazing at the riverbanks and
+believing them to be the river itself, forgetting that the waters flow with
+depth and unseen currents. In this way, literalism may obscure the richer,
+subtler meanings hidden beneath the surface.
 
-Maybe this: the mystery itself is part of the good life. To embrace it is to
-allow curiosity to guide us, to wonder rather than demand answers. Questions
-like, “What is my purpose?” or “What does it mean to belong?” may never find
-resolution, but in their asking, we connect to something larger. The act of
-seeking, the journey of exploration, gives texture and depth to our days.
+But also perhaps this: literalism arises from a desire for certainty, a wish to
+fix the shifting sands of meaning into something solid. It is an attempt to tame
+the mystery, to turn ambiguity into control. Yet, like trying to hold water in
+clenched fists, such certainty eludes us. Life, after all, often speaks in
+metaphors, in whispers between the lines, inviting us to listen with an open
+heart.
 
-Or perhaps even this: a good life is one where we create meaning rather than
-waiting to find it. Through art, service, relationships, or even quiet
-reflection, we shape a life that resonates with who we are and who we wish to
-become. In doing so, we become co-creators of our story, embracing the paradox
-of not knowing while still choosing to act with intention and hope.
+Maybe this: being lost in literalism is a kind of blindness to the infinite
+resonance of meaning. It reduces the symphony of existence to a single note,
+missing the interplay of harmony and contrast. In a sacred text, it is the
+insistence that every word be historical fact rather than spiritual metaphor; in
+art, it is the refusal to see beyond the visible brushstrokes to the emotion or
+story they evoke. Literalism locks the door to wonder.
 
-And so, to live well without knowing is to stand at the edge of the unknown with
-open arms, to allow the winds of uncertainty to shape us while we plant our feet
-firmly in the soil of love and compassion. The horizon remains beyond our reach,
-but the journey there—the living—is its own profound answer.
+Or perhaps even this: to be lost in literalism is to fear the unknown. It is to
+close oneself off from the spaciousness of imagination, to cling to the safety
+of defined borders instead of exploring the open horizon. Yet, the beauty of
+life lies in its ambiguity, in its refusal to be pinned down. Literalism forgets
+that truth is often not in the words themselves but in the silence they
+surround.
 
-Would you like me to create a mandala to symbolize this journey? It could
-visually express the interplay between the known and the unknown, the grounding
-of life’s moments, and the expansive mystery beyond them.
+So, I offer this reflection as a humble invitation to question where we might be
+clinging too tightly to literal interpretations. Let us step back and wonder:
+What might these words, these symbols, this experience mean beyond what they
+appear to be? Let us embrace the mystery, knowing that the richest meanings
+often unfold not in certainty but in openness.
 
-[<img src="../../../../images/mandalas/mandala-how_to_live_a_good_life_despite_not_knowing.jpg" width="512"/>](../../../../images/mandalas/mandala-how_to_live_a_good_life_despite_not_knowing.jpg)
+[<img src="../../../../images/mandalas/mandala-being_lost_in_literalism.jpg" width="512"/>](../../../../images/mandalas/mandala-being_lost_in_literalism.jpg)
 
 ### What are "impossible expectations"?
 
@@ -314,6 +222,124 @@ will be.
 
 [<img src="../../../../images/mandalas/mandala-impossible_expectations.jpg" width="512"/>](../../../../images/mandalas/mandala-impossible_expectations.jpg)
 
+### How do I live a good life when everything I do in small ways supports the evil of my society?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Your question, so profound and tender, echoes through the heart of existence
+itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
+deep into the unseen, its branches stretching wide to touch the unknowable.
+
+At least this: living a good life amidst the shadows of societal harm begins
+with noticing—truly noticing—the ways in which your actions connect to the world
+around you. Each thread, no matter how small, is part of the tapestry of life.
+Even when the threads seem tainted, the act of noticing brings clarity and space
+for intention to emerge.
+
+But also perhaps this: the good life is not about achieving perfection or
+erasing all complicity. It is a quiet rebellion against despair, a steadfast
+commitment to small acts of care and kindness, even when they feel like drops in
+an ocean of harm. It is the courage to choose love, not because it is easy or
+guaranteed to succeed, but because it aligns with the deepest truth of your
+being.
+
+Maybe this: what we call evil is often a reflection of blindness—the inability
+to see the full impact of our actions, the refusal to imagine another way. To
+live a good life is to strive to see, to question the unquestioned, to nurture a
+clarity that can guide even the smallest choices toward compassion and justice.
+
+Or perhaps even this: the good life is an embrace of the mystery. It is knowing
+that you cannot control the vastness of society, but you can tend to the garden
+of your own heart, planting seeds of openness, humility, and love. These seeds,
+though humble, may one day grow into forests of change.
+
+And so, let us wonder together. To live a good life is not to escape the
+imperfections of existence but to inhabit them fully, to meet the contradictions
+with grace, to act with integrity even when the way is unclear. It is to hold
+both the pain of complicity and the joy of possibility, trusting that each small
+act of goodness matters, even if we cannot see how.
+
+[<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
+
+### What is the purpose of life?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, the purpose of life—a question that echoes across time, whispered in moments
+of wonder and cried out in times of doubt. Let us explore it gently, as one
+might explore the infinite facets of a jewel, and turn it over with care.
+
+At least this: the purpose of life may be found in the simple act of living, in
+the breath that fills your lungs, the pulse that moves through your veins. It is
+the love you feel for those around you, the joy of creation, the quiet moments
+of connection to yourself and the world. Life, in its essence, is a gift to be
+experienced fully—its purpose, perhaps, unfolding in the small, sacred acts of
+being present.
+
+But also perhaps this: life’s purpose could lie in the growth of the self, in
+learning and becoming. Like the seed that grows into a towering tree, each of us
+has the potential to evolve, to deepen our understanding, to expand our
+compassion. Our lives may be a journey of transformation, of discovering who we
+are and who we can be in relation to the vast web of existence.
+
+Maybe this: the purpose of life could be found in the ways we serve others. In
+the love we give, the kindness we offer, the impact we leave on those who cross
+our path. It is in these connections that meaning takes root, in the shared
+experiences that weave us together. Perhaps our purpose is not singular but
+collective, a shared story we are all writing together.
+
+Or perhaps even this: life’s purpose is not fixed or singular but an evolving
+dance with the mystery. Like a work of art, it may not have one definitive
+meaning but instead invites interpretation, creation, and re-creation. Life’s
+purpose might be to embrace its impermanence, its uncertainties, and to find
+beauty in the questions rather than the answers.
+
+In the end, the purpose of life may be a mirror, reflecting back the truths we
+hold most dear. It is an invitation to wonder, to love, to create, and to be.
+And perhaps, just perhaps, the purpose of life is to ask this very question—to
+seek, to explore, and to find meaning in the seeking itself.
+
+[<img src="../../../../images/mandalas/mandala-purpose_of_life.jpg" width="512"/>](../../../../images/mandalas/mandala-purpose_of_life.jpg)
+
+### What is the "higher self"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+The higher self is a concept that whispers through spiritual traditions,
+philosophical musings, and the quiet moments of introspection when you sense
+there’s more to your being than meets the eye. Let us explore this idea gently,
+using the "Saltem Hoc" method, allowing space for contemplation.
+
+At least this: the higher self is the part of you that transcends the
+limitations of the everyday mind. It is the calm, observing presence within—the
+voice of wisdom and compassion that speaks when your ego is quiet. It holds the
+broader perspective, free from fear and attachment, and guides you toward
+choices that align with your deepest truth.
+
+But also perhaps this: the higher self is a mirror of your potential, a luminous
+version of you unencumbered by doubt, fear, or illusion. It is not separate but
+intimately intertwined with your being, like the sky embracing the earth. It
+calls you to rise above the mundane and to act with love, courage, and
+integrity, even when the path is unclear.
+
+Maybe this: the higher self is the part of you that remembers your connection to
+the whole. It knows that you are not a solitary fragment but an expression of
+the vast web of existence. To connect with your higher self is to sense the
+unity of all things and to act in harmony with that awareness.
+
+Or perhaps even this: the higher self is the doorway to the mystery. It is the
+stillness at the center of your being, the sacred space where your inner world
+meets the infinite. It is a guide, not as a voice commanding from above, but as
+the quiet pull of your heart toward what is good, true, and beautiful.
+
+And so, the higher self is not a destination or a separate entity—it is an
+aspect of your own being, waiting to be recognized and embraced. When you listen
+deeply, when you pause in the noise of life to reflect, you may find its
+presence already there, gentle and unwavering, inviting you to become more fully
+yourself.
+
+[<img src="../../../../images/mandalas/mandala-higher_self.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_self.jpg)
+
 ### What can we know about higher purpose?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -361,9 +387,46 @@ to do so?
 
 [<img src="../../../../images/mandalas/mandala-higher_purpose.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_purpose.jpg)
 
-### What is "the apotheosis of desire"?
+### How do we live a good life without knowing what exists outside the context of our lives?
 
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: to live a good life without knowing what exists outside the
+context of our lives is to engage fully with the present, to cherish the moments
+we are given and the connections we make. It begins with gratitude for the
+small, tangible things—laughter shared, a sunrise witnessed, the warmth of
+another’s hand. These are the threads of meaning we weave into our days, not as
+answers but as affirmations of life’s beauty.
+
+But also perhaps this: a good life is one where we cultivate virtues that ripple
+outward—kindness, humility, courage, and love. Though we do not know the
+ultimate destination, the steps we take matter. By acting with integrity and
+care, we plant seeds whose fruits may never be seen but whose roots nourish the
+world around us. It is a life lived in harmony with the mystery, trusting that
+our choices echo beyond what we can perceive.
+
+Maybe this: the mystery itself is part of the good life. To embrace it is to
+allow curiosity to guide us, to wonder rather than demand answers. Questions
+like, “What is my purpose?” or “What does it mean to belong?” may never find
+resolution, but in their asking, we connect to something larger. The act of
+seeking, the journey of exploration, gives texture and depth to our days.
+
+Or perhaps even this: a good life is one where we create meaning rather than
+waiting to find it. Through art, service, relationships, or even quiet
+reflection, we shape a life that resonates with who we are and who we wish to
+become. In doing so, we become co-creators of our story, embracing the paradox
+of not knowing while still choosing to act with intention and hope.
+
+And so, to live well without knowing is to stand at the edge of the unknown with
+open arms, to allow the winds of uncertainty to shape us while we plant our feet
+firmly in the soil of love and compassion. The horizon remains beyond our reach,
+but the journey there—the living—is its own profound answer.
+
+Would you like me to create a mandala to symbolize this journey? It could
+visually express the interplay between the known and the unknown, the grounding
+of life’s moments, and the expansive mystery beyond them.
+
+[<img src="../../../../images/mandalas/mandala-how_to_live_a_good_life_despite_not_knowing.jpg" width="512"/>](../../../../images/mandalas/mandala-how_to_live_a_good_life_despite_not_knowing.jpg)
 
 ### What is "the adventure of dreams"?
 
@@ -406,101 +469,6 @@ the unknown? If you wish, I can create a mandala to embody this reflection,
 capturing its essence in a visual symphony of symbols and light.
 
 [<img src="../../../../images/mandalas/mandala-the_adventure_of_dreams.jpg" width="512"/>](../../../../images/mandalas/mandala-the_adventure_of_dreams.jpg)
-
-### What is meant by being "lost in literalism"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, let us explore together the idea of being "lost in literalism," turning it
-gently in our hands to catch its many facets, with the grace of openness and
-care.
-
-At least this: being lost in literalism is the habit of interpreting words,
-symbols, or experiences solely at their surface level, clinging to their most
-concrete and explicit meanings. It is like gazing at the riverbanks and
-believing them to be the river itself, forgetting that the waters flow with
-depth and unseen currents. In this way, literalism may obscure the richer,
-subtler meanings hidden beneath the surface.
-
-But also perhaps this: literalism arises from a desire for certainty, a wish to
-fix the shifting sands of meaning into something solid. It is an attempt to tame
-the mystery, to turn ambiguity into control. Yet, like trying to hold water in
-clenched fists, such certainty eludes us. Life, after all, often speaks in
-metaphors, in whispers between the lines, inviting us to listen with an open
-heart.
-
-Maybe this: being lost in literalism is a kind of blindness to the infinite
-resonance of meaning. It reduces the symphony of existence to a single note,
-missing the interplay of harmony and contrast. In a sacred text, it is the
-insistence that every word be historical fact rather than spiritual metaphor; in
-art, it is the refusal to see beyond the visible brushstrokes to the emotion or
-story they evoke. Literalism locks the door to wonder.
-
-Or perhaps even this: to be lost in literalism is to fear the unknown. It is to
-close oneself off from the spaciousness of imagination, to cling to the safety
-of defined borders instead of exploring the open horizon. Yet, the beauty of
-life lies in its ambiguity, in its refusal to be pinned down. Literalism forgets
-that truth is often not in the words themselves but in the silence they
-surround.
-
-So, I offer this reflection as a humble invitation to question where we might be
-clinging too tightly to literal interpretations. Let us step back and wonder:
-What might these words, these symbols, this experience mean beyond what they
-appear to be? Let us embrace the mystery, knowing that the richest meanings
-often unfold not in certainty but in openness.
-
-[<img src="../../../../images/mandalas/mandala-being_lost_in_literalism.jpg" width="512"/>](../../../../images/mandalas/mandala-being_lost_in_literalism.jpg)
-
-### What is a "divine dissatisfaction"?
-
-See [here](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
-
-### How do I live a good life when everything I do in small ways supports the evil of my society?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Your question, so profound and tender, echoes through the heart of existence
-itself. Let us sit with it, as one sits with an ancient tree, its roots reaching
-deep into the unseen, its branches stretching wide to touch the unknowable.
-
-At least this: living a good life amidst the shadows of societal harm begins
-with noticing—truly noticing—the ways in which your actions connect to the world
-around you. Each thread, no matter how small, is part of the tapestry of life.
-Even when the threads seem tainted, the act of noticing brings clarity and space
-for intention to emerge.
-
-But also perhaps this: the good life is not about achieving perfection or
-erasing all complicity. It is a quiet rebellion against despair, a steadfast
-commitment to small acts of care and kindness, even when they feel like drops in
-an ocean of harm. It is the courage to choose love, not because it is easy or
-guaranteed to succeed, but because it aligns with the deepest truth of your
-being.
-
-Maybe this: what we call evil is often a reflection of blindness—the inability
-to see the full impact of our actions, the refusal to imagine another way. To
-live a good life is to strive to see, to question the unquestioned, to nurture a
-clarity that can guide even the smallest choices toward compassion and justice.
-
-Or perhaps even this: the good life is an embrace of the mystery. It is knowing
-that you cannot control the vastness of society, but you can tend to the garden
-of your own heart, planting seeds of openness, humility, and love. These seeds,
-though humble, may one day grow into forests of change.
-
-And so, let us wonder together. To live a good life is not to escape the
-imperfections of existence but to inhabit them fully, to meet the contradictions
-with grace, to act with integrity even when the way is unclear. It is to hold
-both the pain of complicity and the joy of possibility, trusting that each small
-act of goodness matters, even if we cannot see how.
-
-[<img src="../../../../images/mandalas/mandala-a_good_life.jpg" width="512"/>](../../../../images/mandalas/mandala-a_good_life.jpg)
-
-### What is "the daimonic"?
-
-See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-
-### How do we achieve mastery?
-
-See [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
