@@ -27,10 +27,10 @@ included after each response.
   * [How can we strengthen our ability to hold difficult emotions?](#how-can-we-strengthen-our-ability-to-hold-difficult-emotions)
   * [How do we transform emotions?](#how-do-we-transform-emotions)
   * Related
-    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
-    * [How do we "unbecome desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#how-do-we-unbecome-desire)
-    * [How do we rise above ridicule?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-do-we-rise-above-ridicule)
     * [How do we learn to witness ourselves?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-learn-to-witness-ourselves)
+    * [How do we "unbecome desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#how-do-we-unbecome-desire)
+    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+    * [How do we rise above ridicule?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-do-we-rise-above-ridicule)
 * Finding our way
   * Related
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
@@ -40,8 +40,8 @@ included after each response.
   * Related
     * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
     * [What is "shadow work"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
-    * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
     * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
+    * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
     * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
 * Leading without control
   * Related
