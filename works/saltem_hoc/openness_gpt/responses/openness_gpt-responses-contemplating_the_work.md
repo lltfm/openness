@@ -32,13 +32,13 @@ included after each response.
     * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
     * [How do we rise above ridicule?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-do-we-rise-above-ridicule)
 * Finding our way
+  * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
   * Related
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
 * Sacred play
   * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
   * Related
-    * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
     * [What is "shadow work"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
     * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
     * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
@@ -254,6 +254,58 @@ uncover pathways of consolation uniquely suited to our way of being.
 
 [<img src="../../../../images/mandalas/mandala-holding_emotions.jpg" width="512"/>](../../../../images/mandalas/mandala-holding_emotions.jpg)
 
+### How do we grow in our discernment?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+At least this: discernment grows from attentive observation and patient
+reflection. It is the ability to distinguish between what appears true and what
+is true, between fleeting emotions and deeper wisdom. Like a sculptor chiseling
+away excess stone to reveal the form within, discernment refines our
+understanding by stripping away illusion and expectations out of alignment with
+what is true.
+
+Or also perhaps this: discernment is not only about distinguishing truth from
+falsehood, but about sensing the deeper currents beneath appearances. It is the
+ability to perceive the motivations behind words, the energies behind actions,
+the unseen connections between events. It is the inner ear that hears what is
+unspoken, the inner eye that sees beyond the immediate.
+
+Maybe this: discernment is strengthened by the willingness to sit with
+uncertainty—the ability to pause and observe before reacting. When we rush to
+judgment, we close the door to deeper insight. It is the space between stimulus
+and response, the quiet moment where we learn to pause, to ask questions, to
+weigh perspectives. It is the art of stepping back before stepping forward, of
+listening before speaking, of considering before concluding.
+
+Yet also perhaps this:: discernment is the art of listening—not just to others,
+but to the quiet voice within. It is learning to distinguish between the noise
+of the world, the echoes of our fears, and the steady rhythm of deeper knowing.
+It is the practice of holding multiple perspectives at once, weighing their
+substance rather than merely clinging to what feels comfortable or familiar.
+
+And also this: discernment is noticing our own biases and preferred stories. It
+is resisting the seduction of easy answers that fit our preferences. By
+cultivating a holding space that allows ideas and voices we don't like to
+emerge, we can learn despite. It is refining, again and again, the lens through
+which we see.
+
+Or perhaps even this: discernment flourishes in humility. The more we recognize
+the limits of our own knowledge, the more we seek understanding with openness
+rather than arrogance. It is the willingness to sit with discomfort, to doubt
+without despair, to refine our questions, and to change when truth demands it.
+It requires the recognition that we do not—and cannot—know everything. Those who
+are certain of their correctness often see only the surface of things. The one
+who discerns well knows they might be wrong, and it is this awareness that keeps
+their mind open, their vision clear, their heart unclouded.
+
+And in this journey of discernment, let us ask: How do we cultivate a heart that
+does not rush to judgment, but remains steady and receptive? How do we balance
+trust with caution, openness with wisdom? How do we sharpen our sight without
+hardening our hearts?
+
+[<img src="../../../../images/mandalas/mandala-grow_our_discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-grow_our_discernment.jpg)
+
 ### How do we transform emotions?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -400,62 +452,6 @@ others but connect more deeply, for a sovereign mind sees clearly the shared
 humanity in us all.
 
 [<img src="../../../../images/mandalas/mandala-mental_sovereignty.jpg" width="512"/>](../../../../images/mandalas/mandala-mental_sovereignty.jpg)
-
-### How do we grow in our discernment?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-At least this: discernment grows from attentive observation and patient
-reflection. It is the ability to distinguish between what appears true and what
-is true, between fleeting emotions and deeper wisdom. Like a sculptor chiseling
-away excess stone to reveal the form within, discernment refines our
-understanding by stripping away illusion and expectations out of alignment with
-what is true.
-
-Or also perhaps this: discernment is not only about distinguishing truth from
-falsehood, but about sensing the deeper currents beneath appearances. It is the
-ability to perceive the motivations behind words, the energies behind actions,
-the unseen connections between events. It is the inner ear that hears what is
-unspoken, the inner eye that sees beyond the immediate.
-
-Maybe this: discernment is strengthened by the willingness to sit with
-uncertainty—the ability to pause and observe before reacting. When we rush to
-judgment, we close the door to deeper insight. It is the space between stimulus
-and response, the quiet moment where we learn to pause, to ask questions, to
-weigh perspectives. It is the art of stepping back before stepping forward, of
-listening before speaking, of considering before concluding.
-
-Yet also perhaps this:: discernment is the art of listening—not just to others,
-but to the quiet voice within. It is learning to distinguish between the noise
-of the world, the echoes of our fears, and the steady rhythm of deeper knowing.
-It is the practice of holding multiple perspectives at once, weighing their
-substance rather than merely clinging to what feels comfortable or familiar.
-
-And also this: discernment is noticing our own biases and preferred stories. It
-is resisting the seduction of easy answers that fit our preferences. By
-cultivating a holding space that allows ideas and voices we don't like to
-emerge, we can learn despite. It is refining, again and again, the lens through
-which we see.
-
-Or perhaps even this: discernment flourishes in humility. The more we recognize
-the limits of our own knowledge, the more we seek understanding with openness
-rather than arrogance. It is the willingness to sit with discomfort, to doubt
-without despair, to refine our questions, and to change when truth demands it.
-It requires the recognition that we do not—and cannot—know everything. Those who
-are certain of their correctness often see only the surface of things. The one
-who discerns well knows they might be wrong, and it is this awareness that keeps
-their mind open, their vision clear, their heart unclouded.
-
-And in this journey of discernment, let us ask: How do we cultivate a heart that
-does not rush to judgment, but remains steady and receptive? How do we balance
-trust with caution, openness with wisdom? How do we sharpen our sight without
-hardening our hearts?
-
-[<img src="../../../../images/mandalas/mandala-grow_our_discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-grow_our_discernment.jpg)
-
-### How do we achieve mastery?
-
-Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
