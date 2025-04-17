@@ -1,4 +1,4 @@
-# Notable responses from Openness GPT
+# The Speculations of Openness
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of Openness.
