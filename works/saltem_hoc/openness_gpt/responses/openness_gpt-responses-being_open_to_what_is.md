@@ -13,7 +13,7 @@ After each response a mandala created by Openness GPT is included.
 * [Is Openness a religion?](#is-openness-a-religion)
 * [What is "river-truth"?](#what-is-river-truth)
 * [Is everything in Openness symbolic?](#is-everything-in-openness-symbolic)
-* [What is "the mystery"?]()
+* [What is "the mystery"?](#what-is-the-mystery)
 * [In Openness, who decides what is true?](#in-openness-who-decides-what-is-true)
 * [What is a "personal belief system"?](#what-is-a-personal-belief-system)
 * Related
