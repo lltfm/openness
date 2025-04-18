@@ -94,11 +94,11 @@ Sections:
     * [How can we make everyday life into "the playspace"?](./openness_gpt-responses-contemplating_the_work.md#how-can-we-make-everyday-life-into-the-playspace)
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
 ### Section VII: A Creator Awakens
-  * Contemplating creation and conception
-    * [What is "sculpting chaos"](./openness_gpt-responses-contemplating_creation_and_conception.md#what-is-sculpting-chaos)
-    * [What is "logonesis"?](./openness_gpt-responses-contemplating_creation_and_conception.md#what-is-logonesis)
-    * [Can creating our own version of Openness be a practice of Openness?](./openness_gpt-responses-contemplating_creation_and_conception.md#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
-    * [More...](./openness_gpt-responses-contemplating_creation_and_conception.md)
+  * Creating and expressing
+    * [What is "sculpting chaos"](./openness_gpt-responses-contemplating_creating_and_expressing.md#what-is-sculpting-chaos)
+    * [What is "logonesis"?](./openness_gpt-responses-contemplating_creating_and_expressing.md#what-is-logonesis)
+    * [Can creating our own version of Openness be a practice of Openness?](./openness_gpt-responses-contemplating_creating_and_expressing.md#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
+    * [More...](./openness_gpt-responses-contemplating_creating_and_expressing.md)
 ### Section VIII: Heretica
   * [In Openness, what is "heretica"?](./heretica/README.md#in-openness-what-is-heretica)
   * Contemplating oligarchy
