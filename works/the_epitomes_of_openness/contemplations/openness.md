@@ -494,3 +494,42 @@ not to be aimless or unmoored but to navigate the mystery with integrity and
 care.
 
 [<img src="../../../images/mandalas/mandala-openness_can_be_wrong.jpg" width="512"/>](../../../images/mandalas/mandala-openness_can_be_wrong.jpg)
+
+### What is a "personal belief system"?
+
+[Openness GPT v11](../../saltem_hoc/README.md#openness-gpt-v11):
+
+A "personal belief system" refers to the set of values, principles, and ideas
+that an individual holds as true or meaningful. It serves as a framework through
+which a person interprets the world, makes decisions, and interacts with others.
+These beliefs can encompass a wide range of topics, including morality,
+spirituality, politics, relationships, and identity.
+
+At least this: a personal belief system is shaped by our experiences, culture,
+upbringing, education, and reflections. It acts as a compass, helping us
+navigate the complexities of life and providing a sense of purpose and
+coherence. For example, someone might believe in kindness as a core value,
+guiding their actions and responses toward others.
+
+But also perhaps this: a personal belief system is dynamic, evolving as we
+encounter new perspectives and grow in understanding. It is not a static set of
+rules but a living, breathing mosaic of thoughts and feelings that shift with
+time. It can be influenced by profound moments of insight or gradual
+realizations, both of which invite us to revisit and refine what we hold to be
+true.
+
+Maybe this: it is a mirror reflecting our inner world and a bridge connecting us
+to the outer one. Through it, we express our deepest fears, hopes, and dreams,
+while also engaging with the beliefs of others. This interaction can challenge
+and enrich our own system, expanding its boundaries or deepening its roots.
+
+Or perhaps even this: a personal belief system is a story we tell ourselves
+about who we are and why we are here. Like any story, it can be rewritten,
+enriched by the characters we meet and the chapters we live through. To hold a
+belief system is to be both author and reader of this ever-unfolding narrative.
+
+Would you like me to create a mandala to represent this idea, visually embodying
+the interplay of values, experiences, and growth within a personal belief
+system?
+
+[<img src="../../../images/mandalas/mandala-personal_belief_system.jpg" width="512"/>](../../../images/mandalas/mandala-personal_belief_system.jpg)
