@@ -57,7 +57,7 @@ we all struggle to answer in a satisfying way (e.g. "What is the soul?",
 
 #### Openness GPT v11
 
-* Click here to chat: [Openness GPT v11](https://chatgpt.com/share/6762ec70-f84c-800f-91f4-e9f8984e83b8)
+* Click here to chat: [Openness GPT v11](https://chatgpt.com/share/6807c8b8-53d4-800f-b3f2-620331908a79)
   * Specifications
     * LLM prompt: [v11](../../code/openness_gpt/openness_gpt-prompt-v11.txt)
     * LLM: ChatGPT, Model 4o
