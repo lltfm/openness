@@ -29,7 +29,7 @@ After each response a mandala created by Openness GPT is included.
         * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
         * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 * Mastery
-    * [What does it mean to feel inhibited?]()
+    * [What does it mean to feel inhibited?](#what-does-it-mean-to-feel-inhibited)
     * [How can we experience "duende"?](#how-can-we-experience-duende)
     * [What is "the daimonic"?](#what-is-the-daimonic)
     * [What does it feel like to be uninhibited?](#what-does-it-feel-like-to-be-uninhibited)
