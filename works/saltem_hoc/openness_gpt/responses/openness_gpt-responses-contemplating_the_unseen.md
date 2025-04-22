@@ -151,17 +151,13 @@ wholly ours. They may be part of the greater field of consciousness, currents in
 the sea of being, passing through the vessel of self. What if we are not the
 source, but the flute through which the melody is played?
 
-Acting on every thought, emotion or desire leads us astray. Yet if when we
-don't act, could each thought be held like a tiny prayer, each emotion a poem of
-the soul, each desire a doorway to grace and presence? Then, to listen to
-them—to hold them with tenderness—would bring us into a higher conversation with
-the mystery of their origin.
+Acting on every thought, emotion or desire always leads us astray. Yet instead
+of banishing them, could each thought be held like a tiny prayer, each emotion
+like a poem of the soul, each desire like a doorway to mystery? Then, to hold
+them with tenderness, to listen without judgement, would bring us into a higher
+conversation with the mystery of their origin.
 
 [<img src="../../../../images/mandalas/mandala-source_of_thoughts_emotions_desires.jpg" width="512"/>](../../../../images/mandalas/mandala-source_of_thoughts_emotions_desires.jpg)
-
-### What is love?
-
-See [here](./openness_gpt-responses-aspiring_to_love.md#what-is-love)
 
 ### What are symbols?
 
