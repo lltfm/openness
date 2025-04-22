@@ -26,7 +26,7 @@ shameful & the fearful.
 
 * [The Epitomes of Openness][4]: a series of minimalist [poetic-memes][5]
 ("epitomes") for quickly communicating the core ideas of Openness
-  * [Contemplations on The Epitomes Of Openness](./works/the_epitomes_of_openness/contemplations/README.md)
+  * Further explorations: [Contemplations on The Epitomes Of Openness](./works/the_epitomes_of_openness/contemplations/README.md)
 * [Saltem Hoc][2]: a teaching method for contemplating what might be true
 * [Openness GPT][6]: an LLM AI for generating answers for unanswerable questions
 using the Saltem Hoc method
