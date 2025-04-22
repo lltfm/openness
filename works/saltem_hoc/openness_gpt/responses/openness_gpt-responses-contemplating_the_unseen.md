@@ -11,7 +11,7 @@ After each response a mandala created by Openness GPT is included.
 
 * [What is "the unseen"?](#what-is-the-unseen)
 * [What are emotions?](#what-are-emotions)
-* [Where do thoughts, emotions and desires come from?]()
+* [Where do thoughts, emotions and desires come from?](#where-do-thoughts-emotions-and-desires-come-from)
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
 * [What is synchronicity?](#what-is-synchronicity)
