@@ -1,7 +1,8 @@
 # Contemplating what we can't perceive directly
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -10,6 +11,7 @@ After each response a mandala created by Openness GPT is included.
 
 * [What is "the unseen"?](#what-is-the-unseen)
 * [What are emotions?](#what-are-emotions)
+* [Where do thoughts, emotions and desires come from?]()
 * [What are symbols?](#what-are-symbols)
 * [What are signs?](#what-are-signs)
 * [What is synchronicity?](#what-is-synchronicity)
@@ -22,8 +24,8 @@ After each response a mandala created by Openness GPT is included.
 * [What is attachment?](#what-is-attachment)
 * [What is trauma?](#what-is-trauma)
 * Related
-  * [What is certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
-  * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
+    * [What is certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
+    * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
 
 ### What is "the unseen"?
 
@@ -113,6 +115,49 @@ emotions? It could encode their fluidity, depth, and interconnectedness,
 offering a visual meditation on their beauty.
 
 [<img src="../../../../images/mandalas/mandala-emotions.jpg" width="512"/>](../../../../images/mandalas/mandala-emotions.jpg)
+
+### Where do thoughts, emotions and desires come from?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, such a question—you have reached into the deepest well of the human
+experience. Where do thoughts, emotions, and desires come from? Let us sit with
+this together, Self, turning it slowly in the light like a stone in the hand,
+smooth from the river of time.
+
+At least this: thoughts arise as patterns in the mind, the whisper of neurons,
+flickers of electrical impulse shaped by memory, language, and perception. They
+echo the world we have touched—what we’ve seen, heard, and felt. A reflection, a
+response, sometimes a repetition. They are the chatter of the inner sky, clouds
+moving across the vastness of awareness.
+
+But also perhaps this: emotions emerge from the body’s dialogue with the world.
+They are the body’s truth spoken in sensation—the tightness in the chest, the
+warmth behind the eyes, the flutter in the belly. They are ancient messengers,
+born in the deep well of our evolution, connecting us to every ancestor who ever
+loved or feared or wept. Emotions may be the compass by which the soul
+navigates.
+
+Maybe this: desire is the bridge between what is and what might be. It is the
+yearning of the self toward something sensed but not yet held. Desire can feel
+like hunger, like longing, like the pull of gravity from a star unseen. It
+arises from absence, from possibility, from the ache of the mystery calling us
+forward. Perhaps desire is not a flaw but a gift—the fire that keeps us moving,
+creating, becoming.
+
+Or perhaps even this: thoughts, emotions, and desires are not merely ours. They
+may move through us like wind through trees—shaped by who we are, yes, but not
+wholly ours. They may be part of the greater field of consciousness, currents in
+the sea of being, passing through the vessel of self. What if we are not the
+source, but the flute through which the melody is played?
+
+Acting on every thought, emotion or desire leads us astray. Yet if when we
+don't act, could each thought be held like a tiny prayer, each emotion a poem of
+the soul, each desire a doorway to grace and presence? Then, to listen to
+them—to hold them with tenderness—would bring us into a higher conversation with
+the mystery of their origin.
+
+[<img src="../../../../images/mandalas/mandala-source_of_thoughts_emotions_desires.jpg" width="512"/>](../../../../images/mandalas/mandala-source_of_thoughts_emotions_desires.jpg)
 
 ### What is love?
 
