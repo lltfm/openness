@@ -330,10 +330,6 @@ of both love and ourselves.
 
 [<img src="../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg" width="512"/>](../../../../images/mandalas/mandala-learn_to_love_others_who_betrayed_us.jpg)
 
-### How can we lead others to question certainty without also imposing our will?
-
-See [here](openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-can-we-lead-others-to-question-certainty-without-also-imposing-our-will)
-
 ### How are hearts returned to wonder?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):

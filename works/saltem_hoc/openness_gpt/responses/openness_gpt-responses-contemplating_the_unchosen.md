@@ -16,10 +16,6 @@ After each response a mandala created by Openness GPT is included.
 * [What is Life?](#what-is-life)
 * [What happens after we die?](#what-happens-after-we-die)
 
-### What is "the unchosen"?
-
-See [here](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
-
 ### What is Nature?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
