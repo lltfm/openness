@@ -7,35 +7,24 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * write answers to reduce the word "sacred" in recent answers
+        * being open to what is (27)
+        * possibility (20)
+        * desire and ex (16)
+        * good number: aspire to love: 5
+      * What is a "karmic mind-trap"?
+      * What is "the terrible becoming"?
+      * What is a "sophisticated expression"?
+      * Survival of the Wisest
       * consider "collective lying and deception" instead of "coordinated group
       lying and deception" 
-      * What is a "sophisticated expression"?
-      * What is "sculpting chaos"?
-      * In Openness, who decides what is true?
-      * What is "the terrible becoming"?
       * How can play reveal to us the limits of our Openness?
       * What is arousal?
       * In Openness, what is hate?
       * Can too much humility limit who we might grow to become?
-      * What is a "karmic mind-trap"?
       * How can personal ritual be used to transform emotions?
-      * Do followers of Openness believe in God?
-        * Do followers of Openness believe in God or gods or goddesses? 
-      * Is Openness a religion, a philosophy, an ideology? What is it exactly?
       * What is "the trust fabric"?
-      * What is propaganda?
       * How do we discern propaganda?
-      * inhibition
-      * Contemplating possibility (new file)
-        * The Ultimate: "Who can show us where Awareness goes after death?" The
-          outer zone of unconditioned Unanswerable Questions. Here, there is
-          only The Mystery. We approach knowing in The Ultimate by the skills of
-          not-knowing: By Negation, By Induction, By Questions. Sculpting Chaos.
-        * The Nexus: "Who can show us where Awareness goes after death?"
-          Unanswerable Questions require us to Suspend Judgement to continue
-          exploring. The Nexus is the hub of infinite Conditional Speculation: "
-          If Awareness continues after death, then our choices today matter."
-        * meta-truth
     * Contemplating the unchosen
         * What is time?
         * What is "natural law"?
@@ -62,8 +51,6 @@ shortcut works)
           * travel and museums
         * How do we create our own belief system?
         * How can we make transforming emotion into art part of daily life?
-        * How do we create a "sophisticated expression"?
-        * How can we use "wu wei" to do more every day?
         * Is it really possible to find joy in everything?
         * What is "the refinement of choosing"?
             * maybe replace karmic learning (at least in top answers?)
@@ -89,10 +76,6 @@ shortcut works)
           we don't know yet are pressed to act, generalizations can help as
           temporary rules of thumb. After acting, let them go and continue to
           learn.
-        * Transcendence: We hallucinate our world from expectations. To
-          transcend self, sit in silence before the Mystery. In its mirror, all
-          the forms we fear or have longed for dance with us. Only when we still
-          desire, can the mirror show us the Unchosen truth beyond expectation.
         * Suffering: Hurt becomes suffering when we hold a belief that excuses
           us from change. "It's not fair", "why me?", "I don't deserve this", "I
           just want to feel ok", all dismiss the karmic lessons of Hurt.
@@ -141,11 +124,6 @@ shortcut works)
         * What are "weaponed words"?
         * Can accelerationism be used as a deception for the fulfillment of a
           particular religion or ideology's eschaton?
-        * Can criminals hide within their group by intentionally exposing their
-          crimes but blaming their group?
-            * Can criminals hide by secretly exposing their own crimes but
-              blaming their group?
-        * Survival of the Wisest
         * purpose of the propagandist
     * Contemplating the forbidden and heretical
       * What is "heretica"?
@@ -153,19 +131,6 @@ shortcut works)
         discussion. In Openness, we aspire to listen to what might be true, but
         often a topic is so sensitive that even doing this comes with social
         penalties from authority
-    * Contemplating Openness
-        * What are the limits of words?
-        * What is an epitome?
-        * In Openness, what is "westward"?
-        * In Openness, what is "a worthy vessel"?
-        * In Openness, what is "the high vista"?
-        * If an epitome is the perfect example to emulate, what is a dystome?
-        * What is a "self-defining term"?
-        * Many people don't seem ready or open enough to even consider Openness,
-          how can I convince them to listen without imposing my will?
-        * How can we demonstrate Openness to others?
-        * How can we tell when others demonstrate they aren't open?
-        * being open to higher spiritual conversations
     * Contemplating ridicule and shame
         * How can play reveal to us the limits of our Openness?
         * What is shaming?
@@ -176,7 +141,6 @@ shortcut works)
         * What does it mean to manipulate someone?
         * Mental Tyranny
         * transacting
-    * New section on authority?
     * Contemplating desire and sexuality
         * What is arousal?
         * How can we strengthen our willpower to resist succumbing to the pull
@@ -198,10 +162,50 @@ shortcut works)
         * Liberalism
         * Agnosticism
         * modern science
+        * Daoism
+        * Tantra
+        * Christianity
+        * Islam
+        * Buddhism
+    * Contemplating Openness
+        * What are the limits of words?
+        * What is an epitome?
+        * In Openness, what is "westward"?
+        * In Openness, what is "a worthy vessel"?
+        * In Openness, what is "the high vista"?
+        * If an epitome is the perfect example to emulate, what is a dystome?
+        * Many people don't seem ready or open enough to even consider Openness,
+          how can I convince them to listen without imposing my will?
+        * How can we demonstrate Openness to others?
+        * How can we tell when others demonstrate they aren't open?
+        * being open to higher spiritual conversations
+    * Contemplating possibility
+      * The Ultimate: "Who can show us where Awareness goes after death?" The
+        outer zone of unconditioned Unanswerable Questions. Here, there is
+        only The Mystery. We approach knowing in The Ultimate by the skills of
+        not-knowing: By Negation, By Induction, By Questions. Sculpting Chaos.
+      * The Nexus: "Who can show us where Awareness goes after death?"
+        Unanswerable Questions require us to Suspend Judgement to continue
+        exploring. The Nexus is the hub of infinite Conditional Speculation: "
+        If Awareness continues after death, then our choices today matter."
+      * meta-truth
+
+# Openness GPT v11.1
+  - new mandala directions
+    - avoid heart shapes? (not a problem anymore?)
+  - use "sacred", "holy", "divine" less
+  - clarify capitalization rule for "Self"
+  - use "Ah, X, the..." less
+  - updated examples
+    - the soul
+    - prime benevolence
+    - wellspring of morality
+  - update epitomes
+    - prime benevolence
+    - wellspring of morality
 
 # Openness GPT v12
 
-* edit the prompt example answers to remove any patterns like "Ah, X, the..."
 * add enough examples to balance the line count of epitomes vs examples
 * test performance with 0,1 & 5 examples
 * add instructions to avoid returning an inauthentic answer that matches an
