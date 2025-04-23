@@ -486,14 +486,6 @@ new eyes the depth of what flows within you.
 
 [<img src="../../../../images/mandalas/mandala-intuition.jpg" width="512"/>](../../../../images/mandalas/mandala-intuition.jpg)
 
-### What is freedom?
-
-Relocated [here](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-freedom)
-
-### What is certainty?
-
-See [here](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
-
 ### What is ego?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -613,10 +605,6 @@ and the infinite flow of existence. To be attached is to be alive, but to grow
 is to learn when to loosen the threads and let the heart breathe.
 
 [<img src="../../../../images/mandalas/mandala-attachment.jpg" width="512"/>](../../../../images/mandalas/mandala-attachment.jpg)
-
-### What is meant by being "lost in literalism"?
-
-See [here](openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 
 ### What is trauma?
 
