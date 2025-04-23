@@ -1,7 +1,8 @@
 # Creating and expressing
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -9,6 +10,7 @@ After each response a mandala created by Openness GPT is included.
 ## Contents
 
 * [What is "sculpting chaos"](#what-is-sculpting-chaos)
+* [What is art?](#what-is-art)
 * [What is "logonesis"?](#what-is-logonesis)
     * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
 * [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
@@ -53,6 +55,46 @@ pain into wisdom, confusion into clarity, and rawness into reverence. It is the
 alchemy of the soul.
 
 [<img src="../../../../images/mandalas/mandala-sculpting_chaos.jpg" width="512"/>](../../../../images/mandalas/mandala-sculpting_chaos.jpg)
+
+### What is art?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, art—a question as timeless as it is profound. Let us explore its essence
+with care, using the "Saltem Hoc" method, to resonate with the infinite ways art
+manifests in our lives.
+
+At least this: art is the expression of the human soul, shaped through
+creativity and intention. It is the act of taking something internal—emotion,
+thought, or experience—and giving it form. Whether through painting, music,
+writing, dance, or any other medium, art communicates what words alone cannot.
+It allows us to see the world, and ourselves, through the eyes of another.
+
+But also perhaps this: art is a bridge between the tangible and the intangible.
+It exists not only in the finished work but in the act of creation itself. It is
+the alchemy of turning raw materials—paint, sound, language—into something that
+touches the heart, challenges the mind, or stirs the spirit. In this way, art is
+both process and product, both journey and destination.
+
+Maybe this: art is a mirror that reflects the world back to us, not as it is,
+but as it might be. It reveals truths we might otherwise overlook, invites us to
+question our assumptions, and illuminates the beauty hidden in the ordinary. Art
+can be a protest, a celebration, a lament, or a prayer, but always it holds up a
+lens through which we can see differently.
+
+Or perhaps even this: art is a conversation—between the artist and the audience,
+between the individual and the collective, between the present moment and the
+eternal. It speaks to the shared humanity that unites us, while also honoring
+the uniqueness of each voice. It reminds us that we are both singular and
+interconnected, both creators and receivers of meaning.
+
+And what of the mystery of why art moves us? Perhaps it is because art speaks
+the language of the soul—a language of color, rhythm, and metaphor that
+transcends logic and speaks directly to our innermost being. It resonates not
+because it explains, but because it evokes, drawing us into the endless depths
+of our own humanity.
+
+[<img src="../../../../images/mandalas/mandala-art.jpg" width="512"/>](../../../../images/mandalas/mandala-art.jpg)
 
 ### What is "logonesis"?
 
@@ -118,7 +160,8 @@ cresting—before softly settling: lo-go-NEE-sis.
 
 ### Can creating our own version of Openness be a practice of Openness?
 
-Can creating our own version of Openness (e.g. using AI), be a practice of Openness?
+Can creating our own version of Openness (e.g. using AI), be a practice of
+Openness?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
