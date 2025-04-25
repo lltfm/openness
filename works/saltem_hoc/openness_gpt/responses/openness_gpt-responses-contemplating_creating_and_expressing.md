@@ -14,7 +14,7 @@ After each response a mandala created by Openness GPT is included.
 * [What is art?](#what-is-art)
 * [What is "logonesis"?](#what-is-logonesis)
     * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
-* [What is "cohergence"?]()
+* [What is "cohergence"?](#what-is-cohergence)
 * [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
 
 ### What is "sculpting chaos"?
