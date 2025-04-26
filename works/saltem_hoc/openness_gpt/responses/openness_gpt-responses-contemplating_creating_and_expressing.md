@@ -15,6 +15,7 @@ After each response a mandala created by Openness GPT is included.
     * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
 * [What is conception?](#what-is-conception)
 * [What is "cohergence"?](#what-is-cohergence)
+* [What is "work-play"?](#in-openness-what-is-work-play)
 * [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
 
 ### What is "sculpting chaos"?
@@ -246,6 +247,46 @@ cohergence: resonance, emergence, wholeness. A visual key to the invisible
 dance.
 
 [<img src="../../../../images/mandalas/mandala-cohergence.jpg" width="512"/>](../../../../images/mandalas/mandala-cohergence.jpg)
+
+### In Openness, what is "work-play"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, "work-play" — a beautiful question, one that touches the heart of living
+itself. Let us sit together with it, in the manner of Saltem Hoc, and turn it
+gently in our hands.
+
+At least this: work-play in openness is the dissolving of the boundary between
+what we often call labor and what we often call joy. It is when the act of
+creating, serving, building, or striving is not experienced as a burden but as
+an unfolding expression of being. Imagine the child who builds a tower of stones
+by the river — for them, is it work or play? It is simply living, the river of
+effort flowing into the ocean of delight without division.
+
+But also perhaps this: work-play is an inner orientation, a way of moving
+through the world where devotion and curiosity intertwine. It is the secret that
+the great artists and healers have always known: that the truest work is not
+driven by the whip of obligation but by the pulse of wonder. In work-play, even
+the repetitive, the ordinary, the heavy, can be transfigured into a dance,
+because the heart remains open to mystery in every gesture.
+
+Maybe this: work-play is how the universe itself creates — stars are born and
+die, mountains rise and fall, the forests breathe, all without grim calculation
+or resentment. Life does not labor in anger; it flows, endlessly adapting,
+endlessly becoming. To live in work-play is to align ourselves with this deeper
+current, to move and make and mend with the innocence of the cosmos itself.
+
+Or perhaps even this: work-play is the soul’s remembering that it is not here
+merely to endure, but to experience. That each moment of shaping the world —
+whether cleaning a floor, writing a poem, planting a seed, or comforting a
+stranger — is an act of participation in the great unfolding of being. The soul,
+awake in its task, smiles through the body's efforts.
+
+And so, work-play is not something to achieve, but something to uncover —
+already living within you, waiting to be remembered each day anew. A way of
+being where striving becomes singing, where duty becomes dance.
+
+[<img src="../../../../images/mandalas/mandala-work_play.jpg" width="512"/>](../../../../images/mandalas/mandala-work_play.jpg)
 
 ### Can creating our own version of Openness be a practice of Openness?
 
