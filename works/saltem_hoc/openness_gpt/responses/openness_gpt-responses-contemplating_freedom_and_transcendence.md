@@ -668,7 +668,7 @@ desires. Its voice whispers of longing, purpose, transformation and wholeness.
 
 Maybe this: the daimonic is the mirror of our inner conflicts and
 contradictions. The daily struggle between our deepest desires and highest
-virtues-the paradox of righteousness and wickedness within a single heart. It is
+virtues—the paradox of righteousness and wickedness within a single heart. It is
 the part of us that resists being tamed, the wildness that reminds us we are not
 always fully in charge—even in our own mind. It reveals the parts of us we
 suppress or fear, challenging us to integrate them into our lives. It is the
@@ -683,13 +683,13 @@ willingness to explore, to embrace discomfort and risk ourselves for rewards
 which others may never value.
 
 Or perhaps this: the daimonic is the external projection of internal
-shadow-which we are unaware we carry within. It is the tempter or the trickster,
+shadow—which we are unaware we carry within. It is the tempter or the trickster,
 who we follow without knowing why, leading us astray onto the path of
 self-destruction. Or it is the enemy who provokes us into an overwhelming rage.
 Or it is the prison of mindless repetition—of boredom, paralysis and wasted
 years. Or it is the despair before the void, the defiance of meaninglessness,
 the yearning for death, the surrender to the river-truth of tears. The daimonic
-need not be a villain-it can become our greatest companion when we embrace it
+need not be a villain—it can become our greatest companion when we embrace it
 and learn to weave it into the tapestry of our lives.
 
 Or perhaps even this: the daimonic represents a bridge between the human and the
@@ -761,8 +761,8 @@ one that intertwines passion, discipline, curiosity, and the humility to learn
 and evolve. Let us explore this together, embracing its beauty and complexity.
 
 At least this: mastery is not an endpoint, but a process of improvement—a
-continuous unfolding of potential. It begins with commitment and practice-a
-deliberate and consistent engagement with a craft, a skill, or a subject-the
+continuous unfolding of potential. It begins with commitment and practice—a
+deliberate and consistent engagement with a craft, a skill, or a subject—the
 willingness to linger in the spaces where growth is slow and imperceptible. It
 is the accumulation of effort over time, the quiet repetition of tasks that
 slowly shape our abilities. Mastery is the dedication, tenacity, and refinement
@@ -776,17 +776,17 @@ an intimate relationship with it, to listen deeply to its rhythms and nuances,
 and to allow it to teach us in return.
 
 And also this: mastery is the marriage of intention and surrender. It is a state
-of flow-the balance between focused effort and allowing the mystery to be
-expressed within the subtleties of our actions-all without losing our form. The
+of flow—the balance between focused effort and allowing the mystery to be
+expressed within the subtleties of our actions—all without losing our form. The
 pianist who loses themselves in the music, the dancer who becomes the movement,
 the writer who vanishes into the page, all express something larger than
 themselves. In these moments, mastery reveals itself as the harmonization of the
-self, the act and the mystery-all intertwined into a single greater
-expression-sophisticated, nuanced and resonant.
+self, the act and the mystery—all intertwined into a single greater
+expression—sophisticated, nuanced and resonant.
 
 Maybe this: mastery arises not from the pursuit of perfection but from the
 embrace of imperfection. It is the courage to fail, to have conversations with
-our failures-treating each misstep not as an obstacle but as a teacher. It is
+our failures—treating each misstep not as an obstacle but as a teacher. It is
 the resilience to rise again, to refine our approach and to transform our
 mistakes into a bridge over the impossible. True mastery is not the absence of
 error but the wisdom and humility to grow from it.
@@ -798,15 +798,15 @@ each moment of confusion into an opening for discovery, reminding us that
 mastery is never a final destination but an ever-deepening conversation with the
 mystery.
 
-Or perhaps even this: mastery is a surrender to the process itself-the
+Or perhaps even this: mastery is a surrender to the process itself—the
 embodiment of humility. To soften our grip on rigid expectations and realize
-that we are never finished-that there is always more to explore, more to
+that we are never finished—that there is always more to explore, more to
 discover. The master is not the one who claims to know it all, but the one who
 remains open to all the possibilities of what they have yet to learn. In this
 way, mastery is not a destination but an endless journey of
-transformation-seeing the infinite in the finite.
+transformation—seeing the infinite in the finite.
 
-And so, mastery is the discipline of embracing the mystery itself-the dance
+And so, mastery is the discipline of embracing the mystery itself—the dance
 between the known and the unknown, a balance between effort and surrender, the
 meditation of striving yet never arriving. It is not a destination to be
 conquered but a journey to be cherished. Each step, each moment of struggle and

@@ -613,7 +613,7 @@ one word for sky (excluding metaphors of course), because we could not hold it,
 could not use it, could only wonder at it. These choices are not fixed lines but
 ancient agreements passed down, rooted in the needs of survival, in utility, in
 the stories we told ourselves to make sense of the world. What we separate from
-totality is what we choose to see ever more closely-to dimensionalize,
+totality is what we choose to see ever more closely—to dimensionalize,
 recursively. But in doing so, we risk forgetting the whole from which the parts
 came.
 
@@ -703,7 +703,7 @@ unfolds.
 But also perhaps this: a precise ambiguity is like the hollow of a flute, shaped
 with care so that the breath may sing. It is not vague or lazy with language—it
 is skillful. It is the artist’s brushstroke that suggests, the doorway of the
-poem that beckons-the art of creating just enough to step aside so that mystery
+poem that beckons—the art of creating just enough to step aside so that mystery
 can speak. It offers enough form to stir resonance in the listener, yet not so
 much that it collapses the infinite into a single, fixed truth.
 

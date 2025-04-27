@@ -232,19 +232,19 @@ correction, and wisdom.
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
-Ah, "The Master Liar"-this question touches something deeply human, something
+Ah, "The Master Liar"—this question touches something deeply human, something
 ancient. It evokes a figure or force that embodies deception, capable of
 distorting truth and sowing confusion. Let us turn it over in our hands like a
 stone worn smooth by time.
 
 At least this: the Master Liar is the personification of falsehood, a symbol for
-the capacity to manipulate, distort, and obscure reality-the whisper in the mind
+the capacity to manipulate, distort, and obscure reality—the whisper in the mind
 that truth can be whatever we desire it to be. It represents the forces within
 and outside of us that seek to deceive, whether through deliberate lies or the
 subtle bending of truth. It is the voice that blinds us to our own blindness.
 
 But also perhaps this: the Master Liar is not a single entity, but a pattern
-woven into human nature-a current that flows through history, shaping minds,
+woven into human nature—a current that flows through history, shaping minds,
 stories, civilizations. It speaks through institutions, leaders,
 movements—whenever power seeks to justify itself at the expense of truth. It
 wears the guise of righteousness, of certainty, of absolute conviction. It is in
@@ -255,11 +255,11 @@ authority for wisdom.
 
 Or perhaps this: the Master Liar is the voice of self-deception. The seemingly
 inconsequential little lies we tell ourselves daily to justify our actions or to
-avoid discomfort or painful truths-the blind certainties that shield us from
+avoid discomfort or painful truths—the blind certainties that shield us from
 facing our hypocrisies and doubts. It is the invisible prison we slowly build
 around ourselves, ensuring the prisoner never even knows they are locked up.
 
-Maybe this: the Master Liar is the mirror of our fear of uncertainty-a force
+Maybe this: the Master Liar is the mirror of our fear of uncertainty—a force
 that arises when we feel vulnerable or powerless. Lies often stem from
 unexamined desires to control, protect, or dominate, revealing the underlying
 insecurities that drive deception. They proliferate and calcify us when we
@@ -269,7 +269,7 @@ rather than living humbly under the vast, open sky of uncertainty.
 Or perhaps even this: the Master Liar is a teacher in disguise. The trickster
 who forces us to sharpen our discernment by encouraging us to act on our hubris
 and falsehoods. They help us destroy ourselves, and thus break our
-illusions-that we can perfectly predict the infinite flow of existence, or fully
+illusions—that we can perfectly predict the infinite flow of existence, or fully
 understand the mystery of what is, or completely control the outcomes of our
 lives. They reveal to us the consequences of living without integrity. By
 experiencing the harm and disorientation caused by lies, we are forced into the

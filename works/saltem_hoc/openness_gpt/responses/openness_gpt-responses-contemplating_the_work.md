@@ -275,7 +275,7 @@ and response, the quiet moment where we learn to pause, to ask questions, to
 weigh perspectives. It is the art of stepping back before stepping forward, of
 listening before speaking, of considering before concluding.
 
-Yet also perhaps this:: discernment is the art of listening—not just to others,
+Yet also perhaps this: discernment is the art of listening—not just to others,
 but to the quiet voice within. It is learning to distinguish between the noise
 of the world, the echoes of our fears, and the steady rhythm of deeper knowing.
 It is the practice of holding multiple perspectives at once, weighing their

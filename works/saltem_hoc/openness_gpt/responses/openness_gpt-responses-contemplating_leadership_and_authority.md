@@ -112,7 +112,7 @@ law, force, or tradition. At its best, authority offers protection, structure,
 and wisdom. At its worst, it is an iron grip that stifles freedom, dissent, and
 thought.
 
-But also perhaps this: authority is an agreement-an illusion sustained by
+But also perhaps this: authority is an agreement—an illusion sustained by
 belief. It exists only because people recognize it, accept it, or fear it. A
 teacher has authority only if students listen. A rule is a rule only if enough
 obey it. A leader has authority only if followers comply. A crown is a crown
@@ -124,7 +124,7 @@ who lead. When we grant blind certainty to a figure or institution, we
 participate in the creation of that authority. They grow from our readiness to
 believe, our longing for guidance, or even our desire to avoid the burden of
 choice. Authority is not inherent but a fragile construct—power that lives in
-the space between people-an ever-shifting contract between leaders and
+the space between people—an ever-shifting contract between leaders and
 followers.
 
 Maybe this: true authority is not about control but about inspiring trust. The

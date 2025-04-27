@@ -301,8 +301,8 @@ our hearts long for us to hear. They are a doorway to the ineffable, a gentle
 reminder that the mystery is woven into the very fabric of our everyday lives.
 
 Or perhaps even this: synchronicity is a creative spark in the wildfire of
-existence. It is the universe in dialogue with itself-cosmic poetry unfolding in
-real time-a web of connections that we can feel but not fully grasp. These
+existence. It is the universe in dialogue with itself—cosmic poetry unfolding in
+real time—a web of connections that we can feel but not fully grasp. These
 moments are the cracks in the illusion of separateness, where the infinite peeks
 through, where we catch a glimpse of that which is larger. The welcoming embrace
 of life to join it in the co-creation of a story that is still being written.
