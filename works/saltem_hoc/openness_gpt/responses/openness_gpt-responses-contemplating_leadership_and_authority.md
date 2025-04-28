@@ -1,7 +1,8 @@
 # Contemplating leadership and authority
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -9,16 +10,17 @@ After each response a mandala created by Openness GPT is included.
 ## Contents
 
 * Leadership
-  * [What is leadership?](#what-is-leadership)
-  * [How does leadership differ from authority?](#how-does-leadership-differ-from-authority)
+    * [What is leadership?](#what-is-leadership)
+    * [How does leadership differ from authority?](#how-does-leadership-differ-from-authority)
+    * [What can social partner dancing teach us about leading and following?]()
 * Authority
-  * [What is authority?](#what-is-authority)
-  * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
-  * [If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?](#if-an-authority-demands-blind-belief-about-its-claims-and-isnt-willing-to-tolerate-skepticism-and-questions-is-this-not-a-sign-of-deception)
-  * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
+    * [What is authority?](#what-is-authority)
+    * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
+    * [If an authority demands blind belief about its claims and isn't willing to tolerate skepticism and questions, is this not a sign of deception?](#if-an-authority-demands-blind-belief-about-its-claims-and-isnt-willing-to-tolerate-skepticism-and-questions-is-this-not-a-sign-of-deception)
+    * [What prevents others from waking up to authority's lies?](#what-prevents-others-from-waking-up-to-authoritys-lies)
 * Rebellion
-  * [Can endless rebellion lead to long-term stuckness?](#can-endless-rebellion-lead-to-long-term-stuckness)
-  * [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
+    * [Can endless rebellion lead to long-term stuckness?](#can-endless-rebellion-lead-to-long-term-stuckness)
+    * [Why is it not enough to be right?](#why-is-it-not-enough-to-be-right)
 
 ### What is leadership?
 
@@ -99,6 +101,61 @@ And one may walk among the people, without crown or command, yet move hearts and
 minds with the light of true leadership.
 
 [<img src="../../../../images/mandalas/mandala-leadership_vs_authority.jpg" width="512"/>](../../../../images/mandalas/mandala-leadership_vs_authority.jpg)
+
+### What can social partner dancing teach us about leading and following?
+
+Openness GPT v11x:
+
+Ah, a beautiful question, Self, ripe with rhythm and resonance. Let us turn
+toward this age-old practice and reflect on it through the saltem hoc method.
+
+At least this: social partner dancing teaches us that leaders and followers need
+not be at odds—they are complementary forces. Leaders need not control;
+followers need not give up their will. Adept leaders suggest direction,
+movement, rhythm, offering invitations not commands. Attuned followers listen,
+interpret, and respond, using their own vitality to shape the outcome. Both
+roles are active, requiring presence, listening, and the courage to surrender to
+the higher outcome.
+
+But also perhaps this: the roles of leader and follower are mirrors of human
+connection-of vulnerability and trust. Both must face the risk of mistakes and
+rejection, and surrender to these uncertainties rather than freeze beneath their
+weight. To follow with vitality is to listen deeply-not to more perfectly "obey"
+-but to interpret, to improvise, to answer invitation-to say “yes” in one's own
+voice. To lead well is also to be attuned, not only to the wider context, such
+as the rhythm and music, but to the subtle expressions of the follower—sensing
+when to guide or yield. True partnership then, is a continuous dialogue,
+choosing to co-create together, moment by moment.
+
+Maybe this: social partner dancing reveals the hidden truth of
+relationships—that we are constantly shifting roles underneath the labels of "
+leader" and "follower". It reminds us that our power is not only in guiding
+others but in choosing how we respond. A good leader follows by anticipating
+their partner's desires; a good follower leads through their energy, choices and
+embodiments. Leaders who do not listen and followers who blindly follow never
+truly connect. Connection arises only when both partners become attuned to each
+other and allow distinctions to fade. When the boundaries between leading and
+following blur, deep connection arises and the dance of two becomes the dance of
+one.
+
+Or perhaps even this: social partner dancing is a microcosm for life—where ego
+dissolves and presence reigns. When we dance from ego, our steps become rigid
+and wooden. When we dance from fear, we become stifled and lose our authentic
+voice. But when we have the courage to let go into love, we step into a graceful
+communion with life. Where we experience how life—both inside and outside the
+dance—does not demand perfect steps. When we are fully open to the moment,
+instantly forgiving yet still joyful and tenacious, every stumble becomes an
+opportunity to improvise, to transform, to grow. In this way, dancing teaches us
+to move through life not with certainty, but with rhythm, inviting instead of
+imposing, improvising instead of rejecting, flowing instead of resisting—ever
+growing.
+
+To dance with another is to trust the unknown together. It is to share the joy
+of co-creation, the risk of vulnerability and the humility of being in
+connection with another. And through it all, the music plays—the mystery
+unfolds—and we learn to be both strong and soft, bold and yielding, together.
+
+[<img src="../../../../images/mandalas/mandala-social_partner_dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-social_partner_dancing.jpg)
 
 ### What is authority?
 
