@@ -36,6 +36,7 @@ After each response a mandala created by Openness GPT is included.
 * Sacred play
   * [How can we make everyday life into "the playspace"?](#how-can-we-make-everyday-life-into-the-playspace)
   * Related
+    * [What can social partner dancing teach us about leading and following?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-can-social-partner-dancing-teach-us-about-leading-and-following) 
     * [What is "shadow work"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
     * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
     * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)

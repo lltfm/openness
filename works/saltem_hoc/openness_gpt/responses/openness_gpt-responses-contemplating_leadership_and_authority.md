@@ -12,7 +12,7 @@ After each response a mandala created by Openness GPT is included.
 * Leadership
     * [What is leadership?](#what-is-leadership)
     * [How does leadership differ from authority?](#how-does-leadership-differ-from-authority)
-    * [What can social partner dancing teach us about leading and following?]()
+    * [What can social partner dancing teach us about leading and following?](#what-can-social-partner-dancing-teach-us-about-leading-and-following)
 * Authority
     * [What is authority?](#what-is-authority)
     * [What is "the cult of authority"?](#what-is-the-cult-of-authority)
