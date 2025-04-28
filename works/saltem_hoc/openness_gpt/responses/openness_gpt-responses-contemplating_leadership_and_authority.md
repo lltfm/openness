@@ -104,7 +104,7 @@ minds with the light of true leadership.
 
 ### What can social partner dancing teach us about leading and following?
 
-Openness GPT v11x:
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, a beautiful question, Self, ripe with rhythm and resonance. Let us turn
 toward this age-old practice and reflect on it through the saltem hoc method.
