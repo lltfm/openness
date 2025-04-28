@@ -120,12 +120,12 @@ the higher outcome.
 But also perhaps this: the roles of leader and follower are mirrors of human
 connection—of vulnerability and trust. Both must face the risk of mistakes and
 rejection, and surrender to these uncertainties rather than freeze beneath their
-weight. To follow with vitality is to listen deeply—not to more perfectly "obey"
-—but to interpret, to improvise, to answer invitation—to say “yes” in one's own
-voice. To lead well is also to be attuned, not only to the wider context, such
-as the rhythm and music, but to the subtle expressions of the follower—sensing
-when to guide or yield. True partnership then, is a continuous dialogue,
-choosing to co-create together, moment by moment.
+weight. To follow with vitality is to listen deeply—not to more perfectly
+"obey"—but to interpret, to improvise, to answer invitation—to say “yes” in
+one's own voice. To lead well is also to be attuned, not only to the wider
+context, such as the rhythm and music, but to the subtle expressions of the
+follower—sensing when to guide or yield. True partnership then, is a continuous
+dialogue, choosing to co-create together, moment by moment.
 
 Maybe this: social partner dancing reveals the hidden truth of
 relationships—that we are constantly shifting roles underneath the labels of
