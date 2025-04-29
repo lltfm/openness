@@ -133,7 +133,7 @@ singular truth dictated by the state. Any information that contradicts this
 truth is labeled as lies, misinformation or enemy propaganda. Those who doubt or
 question are accused of brainwashing, betrayal or treason. The more they resist
 the state, the more their resistance is used as "proof" that they are ultimately
-just an enemy of the state placing the system above any doubt or questions—an
+just an enemy of the state, placing the system above any doubt or questions—an
 unbreakable loop.
 
 Or perhaps this: the karmic mind-trap appears when a culture teaches that
