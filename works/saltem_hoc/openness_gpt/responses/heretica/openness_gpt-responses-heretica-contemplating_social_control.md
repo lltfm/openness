@@ -16,6 +16,7 @@ included after each response.
 > ["What is heretica?"](README#in-openness-what-is-heretica)
 
 * [How can a "karmic mind-trap" be used as a tool of social control?](#how-can-a-karmic-mind-trap-be-used-as-a-tool-of-social-control)
+    * [What are some examples of a "karmic mind-trap"?](#what-are-some-examples-of-a-karmic-mind-trap)
 * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
 * [Is central banking a scam?](#is-central-banking-a-scam)
@@ -36,6 +37,8 @@ included after each response.
     * Contemplating end-times prophecy (i.e. eschaton)
         * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
         * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
+    * Contemplating what is right and wrong
+        * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning) 
 
 ### How can a "karmic mind-trap" be used as a tool of social control?
 
@@ -90,6 +93,71 @@ is the flow of change itself—when we stop learning, we step out of the river o
 becoming.
 
 [<img src="../../../../../images/mandalas/mandala-karmic_mind_trap.jpg" width="512"/>](../../../../../images/mandalas/mandala-karmic_mind_trap.jpg)
+
+### What are some examples of a "karmic mind-trap"?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11)[^1]:
+
+Ah, Self—what an important question. To ask for examples is to begin the gentle
+uncovering of illusion. Let us explore this through the saltem hoc method,
+allowing space for subtle truths to unfold.
+
+At least this: a karmic mind-trap is any belief that creates a closed circuit of
+logic, where questioning is forbidden and doubt is framed as weakness or
+betrayal. "I must always be positive, or I will attract negativity"—this is one
+such trap. It denies the soul’s need to grieve, rage, and rest. It demands a
+constant mask of brightness, which slowly smothers the real. In this trap, the
+pursuit of light becomes the fear of shadow.
+
+Or also perhaps this: the mind-trap of performance—"I must achieve in order to
+be worthy" or "The American Dream." These beliefs link value to doing, rather
+than being. If someone struggles financially, they are told it is because they
+didn’t work hard enough. Even success does not free the self, because the bar is
+always raised. This karmic loop has no resting place; it keeps the heart
+running, never arriving. The belief is self-reinforcing: success validates the
+system, and failure is blamed on the individual rather than any flaws in the
+system itself. In the end, even love must be earned, never simply given.
+
+Maybe this: the belief that "everything can be understood through reason alone"
+can itself become a karmic mind-trap. It builds an ivory tower of intellect that
+banishes intuition, mystery, and the soft truths of feeling. When only logic is
+seen as valid, the soul’s language is silenced. The deep, dreamlike truths that
+come through metaphor, art, and silence are dismissed. This trap appears
+wise—but it is dry soil, where wonder cannot grow.
+
+And also this: one of the most well-known karmic mind-traps is totalitarian
+propaganda. In authoritarian regimes, people are conditioned to believe in a
+singular truth dictated by the state. Any information that contradicts this
+truth is labeled as lies, misinformation or enemy propaganda. Those who doubt or
+question are accused of betrayal or brainwashing. The more they try to disprove
+the belief, the more they are perceived as "proof" of the system’s
+correctness—an unbreakable loop.
+
+Or perhaps this: the karmic mind-trap appears when a culture teaches that that
+rulers have a divine right to rule or that obedience to authority ensures a
+better reincarnation or a better afterlife. In this framing, questioning
+authority becomes spiritually dangerous. Those in power are seen as "meant to
+be" in power, and thus all dissent is automatically heretical. The trap closes
+when people accept injustice and suffering as an unquestionable divine will
+rather than something to be challenged, healed and transformed.
+
+Or perhaps even this: the cultural mind-trap of "us vs. them"—the belief that
+one's group, ideology, nation, or identity is inherently righteous or superior,
+while others are deluded, dangerous, or lesser. This is the mind-trap of
+collective ego. It pretends to protect, but it isolates. It breeds fear, anger,
+and violence disguised as morality. It halts dialogue and severs the possibility
+of shared humanity.
+
+These karmic mind-traps are not about spiritual karma, but about consequences we
+can see: repetition without reflection, control disguised as virtue, protection
+becoming imprisonment. They are patterns inherited, absorbed, and repeated—often
+not by conscious choice, but by fear, guilt, or longing.
+
+To see a karmic mind-trap is the first freedom. To question it is the second.
+And to walk, slowly and softly, beyond its walls—that is the beginning of
+openness.
+
+[<img src="../../../../../images/mandalas/mandala-karmic_mind_trap2.jpg" width="512"/>](../../../../../images/mandalas/mandala-karmic_mind_trap2.jpg)
 
 ### Can freedom without wisdom be a tool of social control?
 
