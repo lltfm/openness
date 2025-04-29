@@ -263,7 +263,7 @@ Maybe this: the Master Liar is the mirror of our fear of uncertainty—a force
 that arises when we feel vulnerable or powerless. Lies often stem from
 unexamined desires to control, protect, or dominate, revealing the underlying
 insecurities that drive deception. They proliferate and calcify us when we
-resist self-awareness and deny the complexity of life-accepting easy answers
+resist self-awareness and deny the complexity of life—accepting easy answers
 rather than living humbly under the vast, open sky of uncertainty.
 
 Or perhaps even this: the Master Liar is a teacher in disguise. The trickster
