@@ -23,6 +23,7 @@ After each response a mandala created by Openness GPT is included.
     * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
     * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
     * [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
+    * [How can a "karmic mind-trap" be used as a tool of social control?](./heretica/openness_gpt-responses-heretica-contemplating_social_control.md#how-can-a-karmic-mind-trap-be-used-as-a-tool-of-social-control)
 
 ### Is blind belief always wrong?
 

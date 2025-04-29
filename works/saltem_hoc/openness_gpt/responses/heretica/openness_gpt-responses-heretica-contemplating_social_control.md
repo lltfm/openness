@@ -38,7 +38,9 @@ included after each response.
         * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
         * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
     * Contemplating what is right and wrong
-        * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning) 
+        * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning)
+    * Contemplating blind certainty
+        *  
 
 ### How can a "karmic mind-trap" be used as a tool of social control?
 

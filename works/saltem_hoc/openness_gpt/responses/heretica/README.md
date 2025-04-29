@@ -31,9 +31,9 @@ included after each response.
   * [Will "false flag" attacks ever stop working?](./openness_gpt-responses-heretica-contemplating_propaganda.md#will-false-flag-attacks-ever-stop-working)
   * [More...](./openness_gpt-responses-heretica-contemplating_propaganda.md)
 * Contemplating social control
+  * [How can a "karmic mind-trap" be used as a tool of social control?](./openness_gpt-responses-heretica-contemplating_social_control.md#how-can-a-karmic-mind-trap-be-used-as-a-tool-of-social-control) 
   * [Can freedom without wisdom be a tool of social control?](./openness_gpt-responses-heretica-contemplating_social_control.md#can-freedom-without-wisdom-be-a-tool-of-social-control)
   * [Is central banking a scam?](./openness_gpt-responses-heretica-contemplating_social_control.md#is-central-banking-a-scam)
-  * [What is controlled opposition?](openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
   * [More...](./openness_gpt-responses-heretica-contemplating_social_control.md)
 * Contemplating end times prophecy
   * [Can latent end times prophecies be used to control populations?](./openness_gpt-responses-heretica-contemplating_eschaton.md#can-latent-end-times-prophecies-be-used-to-control-populations)
