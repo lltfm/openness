@@ -39,8 +39,8 @@ included after each response.
         * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
     * Contemplating what is right and wrong
         * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning)
-    * Contemplating blind certainty
-        *  
+    * Contemplating blind certainty and control
+        * [What is "blind certainty"?](../../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
 
 ### How can a "karmic mind-trap" be used as a tool of social control?
 
