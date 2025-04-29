@@ -112,10 +112,10 @@ constant mask of brightness, which slowly smothers the real. In this trap, the
 pursuit of light becomes the fear of shadow.
 
 Or also perhaps this: the mind-trap of performance—"I must achieve in order to
-be worthy" or "The American Dream." These beliefs link value to doing, rather
-than being. If someone struggles financially, they are told it is because they
-didn’t work hard enough. Even success does not free the self, because the bar is
-always raised. This karmic loop has no resting place; it keeps the heart
+be worthy" or "The American Dream." These beliefs link value to doing or owning,
+rather than being. If someone struggles financially, they are told it is because
+they didn’t work hard enough. Even success does not free the self, because the
+bar is always raised. This karmic loop has no resting place; it keeps the heart
 running, never arriving. The belief is self-reinforcing: success validates the
 system, and failure is blamed on the individual rather than any flaws in the
 system itself. In the end, even love must be earned, never simply given.
@@ -131,17 +131,18 @@ And also this: one of the most well-known karmic mind-traps is totalitarian
 propaganda. In authoritarian regimes, people are conditioned to believe in a
 singular truth dictated by the state. Any information that contradicts this
 truth is labeled as lies, misinformation or enemy propaganda. Those who doubt or
-question are accused of betrayal or brainwashing. The more they try to disprove
-the belief, the more they are perceived as "proof" of the system’s
-correctness—an unbreakable loop.
+question are accused of brainwashing, betrayal or treason. The more they resist
+the state, the more their resistance is used as "proof" that they are ultimately
+just an enemy of the state placing the system above any doubt or questions—an
+unbreakable loop.
 
-Or perhaps this: the karmic mind-trap appears when a culture teaches that that
+Or perhaps this: the karmic mind-trap appears when a culture teaches that
 rulers have a divine right to rule or that obedience to authority ensures a
 better reincarnation or a better afterlife. In this framing, questioning
 authority becomes spiritually dangerous. Those in power are seen as "meant to
 be" in power, and thus all dissent is automatically heretical. The trap closes
-when people accept injustice and suffering as an unquestionable divine will
-rather than something to be challenged, healed and transformed.
+when people accept injustice and suffering as the unquestionable will of the
+divine rather than something to be challenged, healed and transformed.
 
 Or perhaps even this: the cultural mind-trap of "us vs. them"—the belief that
 one's group, ideology, nation, or identity is inherently righteous or superior,
@@ -150,10 +151,11 @@ collective ego. It pretends to protect, but it isolates. It breeds fear, anger,
 and violence disguised as morality. It halts dialogue and severs the possibility
 of shared humanity.
 
-These karmic mind-traps are not about spiritual karma, but about consequences we
-can see: repetition without reflection, control disguised as virtue, protection
-becoming imprisonment. They are patterns inherited, absorbed, and repeated—often
-not by conscious choice, but by fear, guilt, or longing.
+These examples of karmic mind-traps are not speculations about spiritual karma,
+but about consequences we can see: repetition without reflection, control
+disguised as virtue, protection becoming imprisonment. They are patterns
+inherited, absorbed, and repeated—often not by conscious choice, but by fear,
+guilt, or longing.
 
 To see a karmic mind-trap is the first freedom. To question it is the second.
 And to walk, slowly and softly, beyond its walls—that is the beginning of
