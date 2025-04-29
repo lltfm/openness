@@ -114,8 +114,8 @@ Sections:
     * [Will "false flag" attacks ever stop working?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
   * Contemplating social control
+    * [How can a "karmic mind-trap" be used as a tool of social control?](./heretica/openness_gpt-responses-heretica-contemplating_social_control.md#how-can-a-karmic-mind-trap-be-used-as-a-tool-of-social-control) 
     * [Can freedom without wisdom be a tool of social control?](./heretica/README.md#contents)
-    * [Is central banking a scam?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
   * Contemplating end times prophecy
     * [Can latent end times prophecies be used to control populations?](./heretica/README.md#contents)
