@@ -13,7 +13,7 @@ included after each response.
 
 > Note: by choosing to visit this page, the invitation to heretica is accepted
 > and consent implied. If unsure, please review the answer
-> ["What is heretica?"](README#in-openness-what-is-heretica)
+> ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [What is "coordinated group lying & deception"?](#what-is-coordinated-group-lying--deception)
 * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
