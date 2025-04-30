@@ -27,7 +27,7 @@ After each response a mandala created by Openness GPT is included.
   * [Who chooses what is separate from totality?](#who-chooses-what-is-separate-from-totality)
 * Exploring possibility
   * [What is "saltem hoc"?](#what-is-saltem-hoc)
-  * [How can "the conditional" be used to explore possibility](#how-can-the-conditional-be-used-to-explore-possibility)
+  * [How can "the conditional" be used to explore possibility?](#how-can-the-conditional-be-used-to-explore-possibility)
   * [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)
 
 ### What is a question?
