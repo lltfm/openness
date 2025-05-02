@@ -24,6 +24,7 @@ included after each response.
   * Contemplating oligarchy
     * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
   * Contemplating social control
+    * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](../openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-evil-offensive-shameful-confusing-or-foolish-help-hide-it)
     * [What is "controlled opposition"?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
     * [Who decides which religions or ideologies propagate?](./openness_gpt-responses-heretica-contemplating_social_control.md#who-decides-which-religions-or-ideologies-propagate)
   * Contemplating lies and deception

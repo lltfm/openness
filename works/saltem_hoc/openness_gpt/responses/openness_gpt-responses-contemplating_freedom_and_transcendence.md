@@ -27,6 +27,7 @@ After each response a mandala created by Openness GPT is included.
     * [How can "trying on the costume" of what we reject in psychodrama help us transcend it?](#how-can-trying-on-the-costume-of-what-we-reject-in-psychodrama-help-us-transcend-it)
     * Related
         * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
+        * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-evil-offensive-shameful-confusing-or-foolish-help-hide-it)
         * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 * Mastery
     * [What does it mean to feel inhibited?](#what-does-it-mean-to-feel-inhibited)

@@ -12,7 +12,8 @@ After each response a mandala created by Openness GPT is included.
 * [What is ridicule?](#what-is-ridicule)
 * [How do we rise above ridicule?](#how-do-we-rise-above-ridicule)
 * [How is shame the guardian we outgrow?](#how-is-shame-the-guardian-we-outgrow)
-
+* Related
+  * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-evil-offensive-shameful-confusing-or-foolish-help-hide-it)
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
