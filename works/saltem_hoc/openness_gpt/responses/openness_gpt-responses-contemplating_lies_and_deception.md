@@ -14,7 +14,7 @@ After each response a mandala created by Openness GPT is included.
     *
   Related: [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is "gaslighting"?](#what-is-gaslighting)
-* [Can making truth appear evil, offensive, confusing or foolish help hide it?]()
+* [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](#can-making-truth-appear-evil-offensive-shameful-confusing-or-foolish-help-hide-it)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
 * [Who is "The Master Liar"?](#who-is-the-master-liar)
