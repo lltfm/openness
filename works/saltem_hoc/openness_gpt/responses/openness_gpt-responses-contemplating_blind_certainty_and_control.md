@@ -23,7 +23,7 @@ After each response a mandala created by Openness GPT is included.
     * [What is "the libido dominandi"?](../../../the_epitomes_of_openness/contemplations/the_libido_dominandi.md)
     * [Is excluding others wrong?](./openness_gpt-responses-contemplating_morality.md#is-excluding-others-wrong)
     * [What is evil?](./openness_gpt-responses-contemplating_morality.md#what-is-evil)
-    * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-evil-offensive-shameful-confusing-or-foolish-help-hide-it)
+    * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
     * [How can a "karmic mind-trap" be used as a tool of social control?](./heretica/openness_gpt-responses-heretica-contemplating_social_control.md#how-can-a-karmic-mind-trap-be-used-as-a-tool-of-social-control)
 
 ### Is blind belief always wrong?

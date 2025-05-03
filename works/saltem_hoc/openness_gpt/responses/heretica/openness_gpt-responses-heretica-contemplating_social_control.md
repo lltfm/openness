@@ -41,6 +41,8 @@ included after each response.
         * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning)
     * Contemplating blind certainty and control
         * [What is "blind certainty"?](../../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
+    * Contemplating lies and deception
+        * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](../openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
 
 ### How can a "karmic mind-trap" be used as a tool of social control?
 
