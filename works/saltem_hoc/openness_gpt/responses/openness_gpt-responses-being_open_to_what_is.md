@@ -19,7 +19,7 @@ After each response a mandala created by Openness GPT is included.
 * [What is "the mystery"?](#what-is-the-mystery)
 * [In Openness, who decides what is true?](#in-openness-who-decides-what-is-true)
 * [What is a "personal belief system"?](#what-is-a-personal-belief-system)
-* [Why do we struggle?]()
+* [Why do we struggle?](#why-do-we-struggle)
 * [What is "faith" in Openness?](#what-is-faith-in-openness)
 
 ### How do we "become ever more open to what is"?
