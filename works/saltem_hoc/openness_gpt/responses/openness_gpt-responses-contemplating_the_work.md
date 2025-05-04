@@ -29,6 +29,7 @@ After each response a mandala created by Openness GPT is included.
     * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
     * [How do we rise above ridicule?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-do-we-rise-above-ridicule)
 * Finding our way
+  * [How do we listen for "signal"?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-listen-for-signal) 
   * [How do we grow in our discernment?](#how-do-we-grow-in-our-discernment)
   * Related
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
