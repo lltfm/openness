@@ -19,6 +19,7 @@ After each response a mandala created by Openness GPT is included.
 * [Who is "The Master Liar"?](#who-is-the-master-liar)
 * Related:
     * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
+    * [How can a "karmic mind-trap" be used as a tool of social control?](./heretica/README.md#in-openness-what-is-heretica)
 
 ### What is discernment?
 
