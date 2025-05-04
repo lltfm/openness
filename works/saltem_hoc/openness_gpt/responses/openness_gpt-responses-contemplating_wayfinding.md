@@ -113,7 +113,7 @@ is to be in relationship with everything—noticing how the tree leans toward th
 light, how grief echoes joy, how a stranger’s words might carry the answer to
 unspoken yearning. It is to live as if everything might be trying to speak with
 us—not to impose meaning, but to receive it with reverence. In this way, signal
-is not just information—it is attunement to the mystery.
+is not just information—it is attunement to the mystery itself.
 
 So let us wonder, then—what signals have been heard, but dismissed by disbelief?
 What quiet truths whispered are waiting to be honored?
