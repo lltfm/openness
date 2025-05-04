@@ -11,8 +11,7 @@ After each response a mandala created by Openness GPT is included.
 
 * [What is discernment?](#what-is-discernment)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
-    *
-  Related: [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+    * Related: [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is "gaslighting"?](#what-is-gaslighting)
 * [Can making truth appear offensive, confusing or foolish help hide it?](#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
