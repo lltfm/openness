@@ -7,6 +7,8 @@ shortcut works)
 * rename prompt to .md and redo screenshots
 * Notable responses todo
     * What to work on next
+      * add section contemplating struggle and suffering
+      * add section contemplating the occult and dark spirituality
       * write answers to reduce the word "sacred" in recent answers
         * being open to what is (27)
         * possibility (20)

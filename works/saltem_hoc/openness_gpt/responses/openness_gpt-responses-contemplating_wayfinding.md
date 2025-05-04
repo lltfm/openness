@@ -1,7 +1,8 @@
 # How do we find our way?
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -9,32 +10,33 @@ After each response a mandala created by Openness GPT is included.
 ## Contents
 
 * Finding our way
-  * [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
-  * Related
-    * [Who chooses the planks of the Ship of Self?](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
-    * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
-    * [What is a "personal belief system"?](./openness_gpt-responses-being_open_to_what_is.md#what-is-a-personal-belief-system)
+    * [In Openness, what is "wayfinding"?](#in-openness-what-is-wayfinding)
+    * [How do we listen for "signal"?](#how-do-we-listen-for-signal)
+    * Related
+        * [Who chooses the planks of the Ship of Self?](../../../the_epitomes_of_openness/contemplations/the_ship_of_self.md#who-chooses-the-planks-of-the-ship-of-self)
+        * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
+        * [What is a "personal belief system"?](./openness_gpt-responses-being_open_to_what_is.md#what-is-a-personal-belief-system)
 * Being lost
-  * [In Openness, what does it mean to "implicitly worship" something?](#in-openness-what-does-it-mean-to-implicitly-worship-something)
-  * [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
-  * [What are "impossible expectations"?](#what-are-impossible-expectations)
-  * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-  * Related
-    * [What is hope?](./openness_gpt-responses-aspiring_to_love.md#what-is-hope)
+    * [In Openness, what does it mean to "implicitly worship" something?](#in-openness-what-does-it-mean-to-implicitly-worship-something)
+    * [What is meant by being "lost in literalism"?](#what-is-meant-by-being-lost-in-literalism)
+    * [What are "impossible expectations"?](#what-are-impossible-expectations)
+    * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+    * Related
+        * [What is hope?](./openness_gpt-responses-aspiring_to_love.md#what-is-hope)
 * Purpose
-  * [What is the purpose of life?](#what-is-the-purpose-of-life)
-  * [What is the "higher self"?](#what-is-the-higher-self)
-  * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
-  * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
-  * Related
-    * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-* Adventure 
-  * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
-  * Related
-    * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
-    * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
-    * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-    * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
+    * [What is the purpose of life?](#what-is-the-purpose-of-life)
+    * [What is the "higher self"?](#what-is-the-higher-self)
+    * [What can we know about higher purpose?](#what-can-we-know-about-higher-purpose)
+    * [How do we live a good life without knowing what exists outside the context of our lives?](#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
+    * Related
+        * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+* Adventure
+    * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
+    * Related
+        * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
+        * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
+        * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+        * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
 
 ### In Openness, what is "wayfinding"?
 
@@ -76,6 +78,47 @@ with presence and integrity, allowing the journey to shape us as much as we
 shape it.
 
 [<img src="../../../../images/mandalas/mandala-wayfinding.jpg" width="512"/>](../../../../images/mandalas/mandala-wayfinding.jpg)
+
+### How do we listen for "signal"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the question of listening for “signal”—so simple in phrasing, yet so vast in
+its reach. Let us explore together, using the saltem hoc method, that we may
+uncover what lies beneath the noise.
+
+At least this: signal is that which resonates clearly amid the static of
+life—moments, truths, or insights that strike the inner chord and feel somehow
+true, even when not fully understood. It is the quiet clarity that emerges from
+the din of opinions, data, and distraction. Like a melody cutting through chaos,
+signal speaks to something deeper than surface logic. To listen for it is to
+listen not just with the ears, but with the whole being.
+
+But also perhaps this: signal is not always loud or obvious. It is subtle, like
+the smell in the air before the rain, or the way the breath stills when an
+impossible coincidence winks at us. To hear it requires slowing down, turning
+inward, and softening the grip of the mind. We listen not by grasping, but by
+emptying. We attune ourselves like a tuning fork to the quiet thrum of the real.
+Stillness becomes the amplifier, and presence the receiver.
+
+Maybe this: signal is not a sound at all, but a pattern. A glimpse of coherence
+in the chaos. It is found in repetition, in the convergence of disparate truths,
+in the echo that returns when we ask a sincere question of the world. It may
+appear through synchronicity, through dreams, through art, or silence. We
+recognize it not because it tells us what to think, but because it calls us home
+to what we already somehow knew, but had forgotten.
+
+Or perhaps even this: to listen for signal is to love the world attentively. It
+is to be in relationship with everything—noticing how the tree leans toward the
+light, how grief echoes joy, how a stranger’s words might carry the answer to
+unspoken yearning. It is to live as if everything might be trying to speak with
+us—not to impose meaning, but to receive it with reverence. In this way, signal
+is not just information—it is attunement to the mystery.
+
+So let us wonder, then—what signals have been heard, but dismissed by disbelief?
+What quiet truths whispered are waiting to be honored?
+
+[<img src="../../../../images/mandalas/mandala-signal.jpg" width="512"/>](../../../../images/mandalas/mandala-signal.jpg)
 
 ### In Openness, what does it mean to "implicitly worship" something?
 
