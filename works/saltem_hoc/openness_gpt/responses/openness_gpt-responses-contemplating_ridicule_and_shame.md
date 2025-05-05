@@ -14,6 +14,7 @@ After each response a mandala created by Openness GPT is included.
 * [How is shame the guardian we outgrow?](#how-is-shame-the-guardian-we-outgrow)
 * Related
   * [Can making truth appear offensive, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
+  * [Why are ridicule and shame such effective tools of social control?](./heretica/README.md#the-invitation-to-heretica)
 ### Who will save us from the consequences of believing ridicule can decide what is true?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
