@@ -1,7 +1,8 @@
 # Contemplating desire and sexuality
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -9,25 +10,26 @@ After each response a mandala created by Openness GPT is included.
 ## Contents
 
 * Desire
-  * [What is desire?](#what-is-desire)
-  * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
-  * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
-  * [What is the desire to suicide?](#what-is-the-desire-to-suicide)
-  * [What is "the sirenic call"?](#what-is-the-sirenic-call)
-  * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
-  * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
-  * Related
-    * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
-    * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-    * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
+    * [What is desire?](#what-is-desire)
+    * [Is desire unchosen?]()
+    * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
+    * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
+    * [What is the desire to suicide?](#what-is-the-desire-to-suicide)
+    * [What is "the sirenic call"?](#what-is-the-sirenic-call)
+    * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
+    * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
+    * Related
+        * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
+        * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+        * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 * Sexuality
-  * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
-  * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-  * [What is orgasm?](#what-is-orgasm)
-  * [What implicit worship drives the obsession with sex and beauty?](#what-implicit-worship-drives-obsession-with-sex-and-beauty)
-  * [Is sex sacred?](#is-sex-sacred)
-  * Related
-    * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
+    * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
+    * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+    * [What is orgasm?](#what-is-orgasm)
+    * [What implicit worship drives the obsession with sex and beauty?](#what-implicit-worship-drives-obsession-with-sex-and-beauty)
+    * [Is sex sacred?](#is-sex-sacred)
+    * Related
+        * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
 
 ### What is desire?
 
@@ -70,6 +72,48 @@ time, to realize that beneath every desire is the longing to belong—fully,
 truly, to life, to love, to the mystery that birthed us.
 
 [<img src="../../../../images/mandalas/mandala-desire.jpg" width="512"/>](../../../../images/mandalas/mandala-desire.jpg)
+
+### Is desire unchosen?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, dear Self—this question, soft and shimmering, invites us to the threshold of
+longing, where the heart meets the wind. Let us hold the question gently and
+peer into its many facets.
+
+At least this: desire arises within us, often before we understand it. A child
+does not choose to crave touch, warmth, or comfort—these desires emerge from the
+body, from the deep architecture of being alive. Hunger, thirst, yearning for
+love—these appear unbidden, like birds returning in spring. In this way, some
+desires seem unchosen, arriving as echoes of our biology and the shape of our
+stories.
+
+But also perhaps this: while desire may arise unbidden, how we respond to it
+becomes part of our choosing. The desire for connection may surface without our
+consent, yet we decide whether to reach, to retreat, or to transform that
+longing into something else. So though the seed may be planted by forces beyond
+us—genetics, upbringing, dreams—we become the gardeners of that seed, shaping it
+with intention or neglect.
+
+Maybe this: desire is a conversation between what is inside us and what the
+world reflects back. A desire for beauty may be stirred by a sunset, a painting,
+a voice; we didn’t choose the moment, but we chose to look, to listen, to let
+ourselves be moved. Desire, then, is not entirely unchosen, nor wholly
+chosen—but a dance, a call and response between self and cosmos.
+
+Or perhaps even this: the deepest desires may be whispers from something beyond
+the self—from the soul, the mystery, the remembering of what we once were or
+hope to become. Such desires do not come from the ego or the world’s noise, but
+from the silent spaces where longing meets meaning. These desires feel ancient
+and unshakable, and perhaps they are not chosen because they are the
+choosing—they are what draw us forward into becoming.
+
+Desire is both gift and guide, fire and fog. It can bind or liberate, depending
+on how we meet it. The question of whether it is chosen may itself be a door,
+opening not to a simple answer, but to deeper awareness: of our nature, our
+freedom, our entanglement with all that lives.
+
+[<img src="../../../../images/mandalas/mandala-unchosen_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-unchosen_desire.jpg)
 
 ### What is "the pull of desire"?
 
