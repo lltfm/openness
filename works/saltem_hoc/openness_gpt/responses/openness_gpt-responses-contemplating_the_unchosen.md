@@ -15,6 +15,8 @@ After each response a mandala created by Openness GPT is included.
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
 * [What happens after we die?](#what-happens-after-we-die)
+* Related
+  * [Is desire unchosen?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-desire-unchosen)
 
 ### What is Nature?
 

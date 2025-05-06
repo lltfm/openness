@@ -11,7 +11,7 @@ After each response a mandala created by Openness GPT is included.
 
 * Desire
     * [What is desire?](#what-is-desire)
-    * [Is desire unchosen?]()
+    * [Is desire unchosen?](#is-desire-unchosen)
     * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
     * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
     * [What is the desire to suicide?](#what-is-the-desire-to-suicide)
