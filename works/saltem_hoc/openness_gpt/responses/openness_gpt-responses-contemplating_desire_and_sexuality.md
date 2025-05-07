@@ -31,6 +31,7 @@ After each response a mandala created by Openness GPT is included.
     * [Is sex sacred?](#is-sex-sacred)
     * Related
         * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
+        * [What can social partner dancing teach us about leading and following?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-can-social-partner-dancing-teach-us-about-leading-and-following)
 
 ### What is desire?
 
