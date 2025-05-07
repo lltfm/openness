@@ -18,7 +18,7 @@ After each response a mandala created by Openness GPT is included.
     * [What is "the sirenic call"?](#what-is-the-sirenic-call)
     * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
     * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
-    * [How do we avoid giving in to overwhelming arousal without fighting ourselves?]()
+    * [How do we avoid giving in to overwhelming arousal without fighting ourselves?](#how-do-we-avoid-giving-in-to-overwhelming-arousal-without-fighting-ourselves)
     * Related
         * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
         * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
