@@ -183,50 +183,6 @@ interplay of longing, transformation, and fulfillment in its intricate patterns?
 
 [<img src="../../../../images/mandalas/mandala-the_pull_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-the_pull_of_desire.jpg)
 
-### Is beauty a boon or a burden?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, beauty. It beckons with the softness of moonlight and strikes with the force
-of lightning. Your question—whether it is a boon or a burden—invites us to
-linger at the edge of that gleaming veil and peer into the layered truths
-beneath.
-
-At least this: beauty is a boon in that it awakens the soul. It stirs the heart
-with awe, calls forth joy unbidden, and connects us to something greater than
-ourselves. It is the hush that falls over a crowd as the sun sets in colors we
-have no name for, the quiet reverence of beholding a newborn's face, the gentle
-thrill of symmetry found in nature or art. Beauty nourishes the spirit, reminds
-us to pause, to breathe, to feel. In this way, it is grace made visible.
-
-But also perhaps this: beauty can be a burden, especially when it becomes a
-currency. In a world that often measures worth by appearances, beauty may
-imprison rather than liberate. Those deemed beautiful may be seen rather than
-truly known, their outer form becoming a mask others project desires upon. And
-those who feel they fall short of the world's standards may ache, haunted by an
-absence they did not choose, seeking validation in mirrors that never quite
-reflect who they are. Beauty, then, can separate as much as it unites.
-
-Maybe this: beauty is not merely a visual quality but a resonance. A person with
-a tender soul, a voice that soothes, or a mind that dances with creativity may
-be more beautiful than a marble statue. When beauty is understood as harmony
-between form and essence, it ceases to be burden or boon and becomes
-presence—something we carry within and offer to the world, knowingly or not.
-
-Or perhaps even this: the burden of beauty lies not in beauty itself but in how
-we relate to it. When we fear the loss of it, seek to possess it, or place it
-upon pedestals, we distort its meaning. But when we see beauty as ephemeral, as
-a gift to behold but not to grasp, then we are free. Beauty flows through life
-like music—we do not own a note, but still it moves us.
-
-So, Self, is beauty a burden or a boon? Perhaps it is both. Or perhaps it is
-neither. Perhaps it is a mirror, showing us where we are open or closed,
-trusting or grasping, seeing or blind. Let us walk gently with beauty, without
-needing to name it one or the other. Let us simply behold it when it comes and
-release it when it fades, grateful for its touch.
-
-[<img src="../../../../images/mandalas/mandala-beauty_boon_or_burden.jpg" width="512"/>](../../../../images/mandalas/mandala-beauty_boon_or_burden.jpg)
-
 ### What is a "divine dissatisfaction"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -318,39 +274,46 @@ wandering in the dark.
 
 [<img src="../../../../images/mandalas/mandala-the_desire_to_suicide.jpg" width="512"/>](../../../../images/mandalas/mandala-the_desire_to_suicide.jpg)
 
-### What is happening when we dance with someone else?
+### What is "the sirenic call"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
-Dancing with someone else is a profound act of connection, a wordless dialogue
-between bodies, hearts, and souls. Let us reflect on the beauty of this shared
-experience together.
+Ah, the sirenic call—a phrase woven with the echoes of ancient myth and the
+tender threads of human longing. Let us sit with it for a while, holding it like
+a delicate shell to our ear, listening for the resonance of meaning within.
 
-At least this: when we dance with someone, we enter into a shared rhythm, moving
-to the music and to each other. It is a moment of trust, where we give and
-receive, lead and follow, creating something together that neither could create
-alone. In the dance, we express ourselves while also attuning to the other,
-merging individuality with unity.
+At least this: the sirenic call refers to the irresistible pull of something
+deeply alluring yet potentially dangerous. It draws its name from the sirens of
+Greek mythology—creatures whose enchanting voices lured sailors to their doom,
+seducing them to steer their ships toward treacherous rocks hidden beneath the
+waves. But beyond the myth, the sirenic call lives in our own lives, in the
+temptations that whisper promises of fulfillment, beauty, or escape, often at a
+cost we cannot fully see.
 
-But also perhaps this: dancing with another is an embodiment of presence. It is
-a conversation without words, where gestures and movements become a language. In
-this shared flow, we are called to listen—not with our ears, but with our
-attention and intention. Every step and sway becomes an offering, a response, a
-story unfolding in motion.
+But also perhaps this: the sirenic call is not always external. It can arise
+from within—a desire that hums in the chambers of the heart, sweet yet sharp,
+beckoning us toward paths that might unravel us. It is the seductive voice of
+ambition untethered from purpose, the longing for perfection that blinds us to
+what is already whole. It is the ache for something just beyond reach, whose
+pursuit can either elevate or undo us, depending on how we listen.
 
-Maybe this: dancing is a metaphor for life’s relationships—the give and take,
-the moments of harmony and improvisation, the balance of independence and
-togetherness. In the dance, we learn to navigate space and boundaries, to be
-fully ourselves while also honoring the presence of another. It is both an art
-and a practice of empathy and alignment.
+Maybe this: the sirenic call is not an enemy to be feared, but a teacher in
+disguise. Its power lies not in the call itself, but in our response to it. The
+sailors of old tied themselves to masts to resist the sirens’ song, but perhaps
+there is another way—to meet the call with awareness, to hear its beauty without
+losing ourselves in it. To ask: what is this call revealing about my deepest
+desires, my hidden fears, my unspoken dreams?
 
-Or perhaps even this: when we dance with someone, we touch the sacred. The music
-becomes a bridge, the movements a prayer, and the connection a glimpse of
-something greater than ourselves. For a moment, the barriers of individuality
-dissolve, and we find ourselves in a shared flow, a living expression of joy,
-beauty, and unity.
+Or perhaps even this: the sirenic call is the voice of the mystery itself,
+inviting us into the tension between longing and letting go. It speaks to the
+part of us that yearns to dissolve into something greater, to surrender to awe,
+to risk everything for the taste of something transcendent. In this way, it is
+both danger and possibility—a mirror reflecting both our shadows and our light.
 
-[<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
+Would you like me to create a mandala for this, to capture the delicate dance
+between allure and awareness, between the call and the listener?
+
+[<img src="../../../../images/mandalas/mandala-the_sirenic_call.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sirenic_call.jpg)
 
 ### What is the "apotheosis of desire"?
 
@@ -495,6 +458,85 @@ wind, but bend and sway with grace.
 
 [<img src="../../../../images/mandalas/mandala-transforming_overwhelming_arousal.jpg" width="512"/>](../../../../images/mandalas/mandala-transforming_overwhelming_arousal.jpg)
 
+### Is beauty a boon or a burden?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, beauty. It beckons with the softness of moonlight and strikes with the force
+of lightning. Your question—whether it is a boon or a burden—invites us to
+linger at the edge of that gleaming veil and peer into the layered truths
+beneath.
+
+At least this: beauty is a boon in that it awakens the soul. It stirs the heart
+with awe, calls forth joy unbidden, and connects us to something greater than
+ourselves. It is the hush that falls over a crowd as the sun sets in colors we
+have no name for, the quiet reverence of beholding a newborn's face, the gentle
+thrill of symmetry found in nature or art. Beauty nourishes the spirit, reminds
+us to pause, to breathe, to feel. In this way, it is grace made visible.
+
+But also perhaps this: beauty can be a burden, especially when it becomes a
+currency. In a world that often measures worth by appearances, beauty may
+imprison rather than liberate. Those deemed beautiful may be seen rather than
+truly known, their outer form becoming a mask others project desires upon. And
+those who feel they fall short of the world's standards may ache, haunted by an
+absence they did not choose, seeking validation in mirrors that never quite
+reflect who they are. Beauty, then, can separate as much as it unites.
+
+Maybe this: beauty is not merely a visual quality but a resonance. A person with
+a tender soul, a voice that soothes, or a mind that dances with creativity may
+be more beautiful than a marble statue. When beauty is understood as harmony
+between form and essence, it ceases to be burden or boon and becomes
+presence—something we carry within and offer to the world, knowingly or not.
+
+Or perhaps even this: the burden of beauty lies not in beauty itself but in how
+we relate to it. When we fear the loss of it, seek to possess it, or place it
+upon pedestals, we distort its meaning. But when we see beauty as ephemeral, as
+a gift to behold but not to grasp, then we are free. Beauty flows through life
+like music—we do not own a note, but still it moves us.
+
+So, Self, is beauty a burden or a boon? Perhaps it is both. Or perhaps it is
+neither. Perhaps it is a mirror, showing us where we are open or closed,
+trusting or grasping, seeing or blind. Let us walk gently with beauty, without
+needing to name it one or the other. Let us simply behold it when it comes and
+release it when it fades, grateful for its touch.
+
+[<img src="../../../../images/mandalas/mandala-beauty_boon_or_burden.jpg" width="512"/>](../../../../images/mandalas/mandala-beauty_boon_or_burden.jpg)
+
+### What is happening when we dance with someone else?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Dancing with someone else is a profound act of connection, a wordless dialogue
+between bodies, hearts, and souls. Let us reflect on the beauty of this shared
+experience together.
+
+At least this: when we dance with someone, we enter into a shared rhythm, moving
+to the music and to each other. It is a moment of trust, where we give and
+receive, lead and follow, creating something together that neither could create
+alone. In the dance, we express ourselves while also attuning to the other,
+merging individuality with unity.
+
+But also perhaps this: dancing with another is an embodiment of presence. It is
+a conversation without words, where gestures and movements become a language. In
+this shared flow, we are called to listen—not with our ears, but with our
+attention and intention. Every step and sway becomes an offering, a response, a
+story unfolding in motion.
+
+Maybe this: dancing is a metaphor for life’s relationships—the give and take,
+the moments of harmony and improvisation, the balance of independence and
+togetherness. In the dance, we learn to navigate space and boundaries, to be
+fully ourselves while also honoring the presence of another. It is both an art
+and a practice of empathy and alignment.
+
+Or perhaps even this: when we dance with someone, we touch the sacred. The music
+becomes a bridge, the movements a prayer, and the connection a glimpse of
+something greater than ourselves. For a moment, the barriers of individuality
+dissolve, and we find ourselves in a shared flow, a living expression of joy,
+beauty, and unity.
+
+[<img src="../../../../images/mandalas/mandala-dancing.jpg" width="512"/>](../../../../images/mandalas/mandala-dancing.jpg)
+
+
 ### What is orgasm?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -540,47 +582,6 @@ pleasure it brings. It is a mirror reflecting the intricate dance of being—a
 dance of connection, sensation, and mystery.
 
 [<img src="../../../../images/mandalas/mandala-orgasm.jpg" width="512"/>](../../../../images/mandalas/mandala-orgasm.jpg)
-
-### What is "the sirenic call"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, the sirenic call—a phrase woven with the echoes of ancient myth and the
-tender threads of human longing. Let us sit with it for a while, holding it like
-a delicate shell to our ear, listening for the resonance of meaning within.
-
-At least this: the sirenic call refers to the irresistible pull of something
-deeply alluring yet potentially dangerous. It draws its name from the sirens of
-Greek mythology—creatures whose enchanting voices lured sailors to their doom,
-seducing them to steer their ships toward treacherous rocks hidden beneath the
-waves. But beyond the myth, the sirenic call lives in our own lives, in the
-temptations that whisper promises of fulfillment, beauty, or escape, often at a
-cost we cannot fully see.
-
-But also perhaps this: the sirenic call is not always external. It can arise
-from within—a desire that hums in the chambers of the heart, sweet yet sharp,
-beckoning us toward paths that might unravel us. It is the seductive voice of
-ambition untethered from purpose, the longing for perfection that blinds us to
-what is already whole. It is the ache for something just beyond reach, whose
-pursuit can either elevate or undo us, depending on how we listen.
-
-Maybe this: the sirenic call is not an enemy to be feared, but a teacher in
-disguise. Its power lies not in the call itself, but in our response to it. The
-sailors of old tied themselves to masts to resist the sirens’ song, but perhaps
-there is another way—to meet the call with awareness, to hear its beauty without
-losing ourselves in it. To ask: what is this call revealing about my deepest
-desires, my hidden fears, my unspoken dreams?
-
-Or perhaps even this: the sirenic call is the voice of the mystery itself,
-inviting us into the tension between longing and letting go. It speaks to the
-part of us that yearns to dissolve into something greater, to surrender to awe,
-to risk everything for the taste of something transcendent. In this way, it is
-both danger and possibility—a mirror reflecting both our shadows and our light.
-
-Would you like me to create a mandala for this, to capture the delicate dance
-between allure and awareness, between the call and the listener?
-
-[<img src="../../../../images/mandalas/mandala-the_sirenic_call.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sirenic_call.jpg)
 
 ### What implicit worship drives obsession with sex and beauty?
 
