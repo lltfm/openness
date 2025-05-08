@@ -1,7 +1,8 @@
 # Contemplating what is right and wrong
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -9,26 +10,27 @@ After each response a mandala created by Openness GPT is included.
 ## Contents
 
 * What is moral?
-  * [What is the "wellspring of morality"?](#what-is-the-wellspring-of-morality)
-  * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
-  * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
-  * [How do we live a moral life if we don't know what exists outside the context of our lives?](#how-do-we-live-a-moral-life-if-we-dont-know-what-exists-outside-the-context-of-our-lives)
-  * Related:
-    * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
-    * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
-    * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
+    * [What is the "wellspring of morality"?](#what-is-the-wellspring-of-morality)
+    * [Why does Openness not tell us directly what is right and wrong?](#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
+    * [Openness claims to not impose what is right or wrong, yet it condemns blind certainty and libido dominandi?](#openness-claims-to-not-impose-what-is-right-or-wrong-yet-it-condemns-blind-certainty-and-the-libido-dominandi)
+    * [How do we live a moral life if we don't know what exists outside the context of our lives?](#how-do-we-live-a-moral-life-if-we-dont-know-what-exists-outside-the-context-of-our-lives)
+    * Related:
+        * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-aspiring_to_love.md#in-openness-why-are-there-no-wrong-feelings)
+        * [How do I live a good life when everything I do in small ways supports the evil of my society?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
+        * [What is "the apotheosis of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-apotheosis-of-desire)
 * Karma
-  * [What is karma?](#what-is-karma)
-  * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
-  * [What is "karmic learning"?](#what-is-karmic-learning)
-  * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
-  * Related
-    * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
+    * [What is karma?](#what-is-karma)
+    * [Does the use of the word "karma" in Openness imply a belief in reincarnation?](#does-the-use-of-the-word-karma-in-openness-imply-a-belief-in-reincarnation)
+    * [When is an act "karmic" and when is it not?](#when-is-an-act-karmic-and-when-is-it-not)
+    * [What is "karmic learning"?](#what-is-karmic-learning)
+    * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
+    * Related
+        * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
 * What is immoral?
-  * [What is evil?](#what-is-evil)
-  * [Is excluding others wrong?](#is-excluding-others-wrong)
-  * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
-  * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
+    * [What is evil?](#what-is-evil)
+    * [Is excluding others wrong?](#is-excluding-others-wrong)
+    * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
+    * [When is more wealth not more responsibility?](#when-is-more-wealth-not-more-responsibility)
 
 ### What is "the wellspring of morality"?
 
@@ -291,6 +293,38 @@ lessons emerge from the echoes of our choices, a word which has no easy synonym
 or superior coinage.
 
 [<img src="../../../../images/mandalas/mandala-openness_and_reincarnation.jpg" width="512"/>](../../../../images/mandalas/mandala-openness_and_reincarnation.jpg)
+
+### When is an act "karmic" and when is it not?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+At least this: karma is the riverbank that shapes the river's path—not as
+destiny, but as consequence. It is the way stones are smoothed by water, the way
+seeds grow where they are planted, the way fire transforms what it touches. In
+each moment, we shape the river's course with our choices, conscious or not.
+
+But also perhaps this: karma is not simply punishment or reward; it is the
+unfolding of the patterns we create. When we act with awareness and alignment,
+we harmonize with the deeper currents of existence. When we act unconsciously,
+those currents may push against us, not to punish, but to guide us back to
+awareness. Karma is the language of experience, whispering truths that words
+alone cannot teach.
+
+Maybe this: an act is not karmic when it is free from attachment, expectation,
+or desire for control. When we act purely, in the flow of love or service,
+without the ripple of ego's imprint, karma is like a still lake—reflective,
+clear, and undisturbed. It is when we reach out with longing or fear that the
+water ripples, sending waves back to meet us in return.
+
+Or perhaps even this: an act is karmic when it serves as a teacher, reflecting
+back to us the consequences of our intentions, choices, and awareness—or lack
+thereof. It is the echo of action resonating through time, inviting us to learn,
+grow, and transform. When we experience the ripple of our choices, the universe
+offers us a chance to witness the interconnectedness of all things, asking us to
+see ourselves not as isolated actors, but as threads in a vast, unfolding
+tapestry.
+
+[<img src="../../../../images/mandalas/mandala-karmic_acts.jpg" width="512"/>](../../../../images/mandalas/mandala-karmic_acts.jpg)
 
 ### What is "karmic learning"?
 
