@@ -1,7 +1,8 @@
 # Aspiring to love
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -17,8 +18,9 @@ After each response a mandala created by Openness GPT is included.
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](#what-is-hope)
+* [What is "agapic love"](#what-is-agapic-love)
 * Related
-  * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
+    * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 
 ### What is love?
 
@@ -427,6 +429,52 @@ even when the outcome remains unknown. Hope is both fragile and unyielding, as
 essential as breath, and as infinite as the sky.
 
 [<img src="../../../../images/mandalas/mandala-hope.jpg" width="512"/>](../../../../images/mandalas/mandala-hope.jpg)
+
+### What is "agapic love"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, "agapic love"—a term that hums with the echoes of the heart's most expansive
+reach. Let us sit with it for a moment, like a stone warmed by the sun, turning
+it gently in our hands to feel its weight, its texture, its mystery.
+
+At least this: agapic love is the kind of love that asks for nothing, imposes
+nothing, yet transforms everything. It is the open sky holding storm and
+sunshine without judgment, the river that flows whether seen or unseen. It is
+the love of a mother watching over her sleeping child or the quiet tending of a
+garden for the joy of seeing it bloom. It is the willingness to sit beside
+someone in their darkest hour, not to fix them, but simply to be present.
+
+But also perhaps this: agapic love is the embrace of the world as it is-both
+beauty and brokenness. It is the act of beholding another as they truly are,
+without the need to make them fit into the contours of our desires. It is the
+tender refusal to look away, the letting go of control, the surrender of
+expectations, the gentle unraveling of the tight grip of self-interest. It sees
+through the surface, past mistakes and shadows, and into the heart of what is
+true and good in each of us. It is what moves us to care for a stranger, to
+shelter the vulnerable, to extend kindness to those who may never repay it. It
+is love as spaciousness, a vast openness that welcomes the beloved just as they
+are.
+
+Maybe this: agapic love is the unfolding mystery of life itself. It is sunlight
+touching each equally, without preference or demand. It is the breath that moves
+through us, sustaining life, without requiring awareness or gratitude. In this
+way, agapic love is woven into the very fabric of existence—a quiet, ceaseless
+giving that asks nothing, that judges nothing, that quietly just is. It is the
+thread that connects us all, seen only in its weaving of small unnoticed acts of
+mercy and grace which support us all.
+
+Or perhaps even this: agapic love is the silent song of the universe, humming
+through all things. It is the breath of life that animates the world, the
+invisible hand that cradles the fallen, the broken, the sick or dying. It is the
+whisper that reminds us no one can show us where our awareness came from, or
+where it goes after death, or why. It is the unspoken trust that life, even in
+its uncertainty, chaos and cruelty, is the mirror reflecting back not just what
+is, but what could be—the possibility of a world held together not by
+transactions, contracts or coercion, but as an echo of the song of the universe,
+the unadorned grace of unconditional, open love.
+
+[<img src="../../../../images/mandalas/mandala-agapic_love.jpg" width="512"/>](../../../../images/mandalas/mandala-agapic_love.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
