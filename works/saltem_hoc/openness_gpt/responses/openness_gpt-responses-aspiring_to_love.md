@@ -18,7 +18,7 @@ After each response a mandala created by Openness GPT is included.
 * [How do we learn to love others who have betrayed us yet still keep our boundaries?](#how-do-we-learn-to-love-others-who-have-betrayed-us-yet-still-keep-our-boundaries)
 * [How are hearts returned to wonder?](#how-are-hearts-returned-to-wonder)
 * [What is hope?](#what-is-hope)
-* [What is "agapic love"](#what-is-agapic-love)
+* [What is "agapic love"?](#what-is-agapic-love)
 * Related
     * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
 
