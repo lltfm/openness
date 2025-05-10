@@ -320,7 +320,7 @@ and to know what truly longs to be met: connection, security, belonging, love.
 
 ### What is "the sirenic call"?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, the sirenic call—a phrase woven with the echoes of ancient myth and the
 tender threads of human longing. Let us sit with it for a while, holding it like
