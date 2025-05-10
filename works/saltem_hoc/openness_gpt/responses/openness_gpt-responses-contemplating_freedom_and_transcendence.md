@@ -14,6 +14,7 @@ After each response a mandala created by Openness GPT is included.
     * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
     * Related
         * [Can freedom without wisdom be a tool of social control?](./heretica/README.md#contents)
+        * [Can we ever be free of desire?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#can-we-ever-be-free-of-desire)
 * Transcendence
     * [What is transcendence?](#what-is-transcendence)
     * [What does it mean to "raise consciousness"?](#what-does-it-mean-to-raise-consciousness)

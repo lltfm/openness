@@ -16,7 +16,7 @@ After each response a mandala created by Openness GPT is included.
     * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
     * [What is the desire to suicide?](#what-is-the-desire-to-suicide)
     * [What is "the sirenic call"?](#what-is-the-sirenic-call)
-    * [Can we ever be free of desire?]()
+    * [Can we ever be free of desire?](#can-we-ever-be-free-of-desire)
     * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
     * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
     * [How do we avoid giving in to overwhelming arousal without fighting ourselves?](#how-do-we-avoid-giving-in-to-overwhelming-arousal-without-fighting-ourselves)
