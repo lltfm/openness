@@ -319,7 +319,7 @@ between allure and awareness, between the call and the listener?
 
 ### Can we ever be free of desire?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, Self—this question opens a door onto one of the oldest paths walked by sages
 and seekers, lovers and mystics: can we ever be free of desire?
