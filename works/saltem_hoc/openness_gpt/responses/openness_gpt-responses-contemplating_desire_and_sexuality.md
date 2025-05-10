@@ -280,6 +280,10 @@ wandering in the dark.
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
+Can we ever be free of desire?
+
+Openness GPT v11:
+
 Ah, Self—this question opens a door onto one of the oldest paths walked by sages
 and seekers, lovers and mystics: can we ever be free of desire?
 
@@ -300,27 +304,21 @@ across the sky of awareness, desires come and go, and we—if we are open—can
 simply observe them, choosing which to nourish and which to release.
 
 Maybe this: to be free of desire is not to extinguish it, but to transform it.
-The ancient sages spoke of the fire of longing becoming devotion, the hunger for
-control becoming surrender. In this light, desire becomes a compass pointing
-toward the sacred, not a chain but a current flowing toward something greater
-than the self. The transformation is not denial, but transmutation.
+Can the fire of longing become devotion? Can the hunger for control become
+surrender? In this way, desire could become a compass pointing toward higher
+forms, not a chain but a current flowing toward something greater than the self.
 
 Or perhaps even this: the deepest freedom is not freedom from desire, but
-freedom within it. A freedom that arises when we no longer mistake our desires
-for our identity. When we can witness the arising of craving without losing
+freedom within it. Let us not forget the pain that some desires bring—the aching
+hunger for what cannot be, the obsessive need that blinds and binds. And yet, in
+this pain, we may come to find freedom arises when we no longer mistake our
+desires for identity. When we witness the arising of craving without losing
 ourselves in it, we become like a river that flows freely, shaped by its banks
 yet never imprisoned by them.
 
-And yet, let us not forget the pain that some desires bring—the aching hunger
-for what cannot be, the obsessive need that blinds and binds. In this pain, we
-may come to seek freedom from the tyranny of desire. But even here, perhaps the
-way is not resistance, but understanding. To look deeply into a desire is to see
-its roots, and to know what truly longs to be met: connection, security,
-belonging, love.
-
-So can we ever be free of desire? Perhaps not in body, not fully in this life of
-form and change. But perhaps we can become free in how we relate to desire—no
-longer enslaved, no longer asleep, but awake, present, and tender with it all.
+So, can we be free of the "tyranny" of desire? Perhaps the way is not
+resistance, but understanding. To look deeply into a desire is to see its roots,
+and to know what truly longs to be met: connection, security, belonging, love.
 
 [<img src="../../../../images/mandalas/mandala-can_we_be_free_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-can_we_be_free_of_desire.jpg)
 
