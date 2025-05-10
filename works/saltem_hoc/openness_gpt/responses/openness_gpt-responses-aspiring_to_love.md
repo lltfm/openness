@@ -445,7 +445,7 @@ the love of a mother watching over her sleeping child or the quiet tending of a
 garden for the joy of seeing it bloom. It is the willingness to sit beside
 someone in their darkest hour, not to fix them, but simply to be present.
 
-But also perhaps this: agapic love is the embrace of the world as it is-both
+But also perhaps this: agapic love is the embrace of the world as it is—both
 beauty and brokenness. It is the act of beholding another as they truly are,
 without the need to make them fit into the contours of our desires. It is the
 tender refusal to look away, the letting go of control, the surrender of
