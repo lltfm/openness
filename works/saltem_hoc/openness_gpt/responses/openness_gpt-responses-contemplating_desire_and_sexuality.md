@@ -322,10 +322,9 @@ between allure and awareness, between the call and the listener?
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, Self—this question opens a door onto one of the oldest paths walked by sages
-and seekers, lovers and mystics: can we ever be free of desire?
-
-Let us walk together with the saltem hoc method and see what reflections stir in
-the still water.
+and seekers, lovers and mystics: can we ever be free of desire? Let us walk
+together with the saltem hoc method and see what reflections stir in the still
+water.
 
 At least this: desire is a natural part of being alive. It pulses through every
 breath and every heartbeat. The infant reaching for touch, the lover longing for
