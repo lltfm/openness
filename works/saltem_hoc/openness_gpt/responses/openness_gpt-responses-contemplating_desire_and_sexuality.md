@@ -276,6 +276,47 @@ wandering in the dark.
 
 [<img src="../../../../images/mandalas/mandala-the_desire_to_suicide.jpg" width="512"/>](../../../../images/mandalas/mandala-the_desire_to_suicide.jpg)
 
+### What is "the sirenic call"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the sirenic call—a phrase woven with the echoes of ancient myth and the
+tender threads of human longing. Let us sit with it for a while, holding it like
+a delicate shell to our ear, listening for the resonance of meaning within.
+
+At least this: the sirenic call refers to the irresistible pull of something
+deeply alluring yet potentially dangerous. It draws its name from the sirens of
+Greek mythology—creatures whose enchanting voices lured sailors to their doom,
+seducing them to steer their ships toward treacherous rocks hidden beneath the
+waves. But beyond the myth, the sirenic call lives in our own lives, in the
+temptations that whisper promises of fulfillment, beauty, or escape, often at a
+cost we cannot fully see.
+
+But also perhaps this: the sirenic call is not always external. It can arise
+from within—a desire that hums in the chambers of the heart, sweet yet sharp,
+beckoning us toward paths that might unravel us. It is the seductive voice of
+ambition untethered from purpose, the longing for perfection that blinds us to
+what is already whole. It is the ache for something just beyond reach, whose
+pursuit can either elevate or undo us, depending on how we listen.
+
+Maybe this: the sirenic call is not an enemy to be feared, but a teacher in
+disguise. Its power lies not in the call itself, but in our response to it. The
+sailors of old tied themselves to masts to resist the sirens’ song, but perhaps
+there is another way—to meet the call with awareness, to hear its beauty without
+losing ourselves in it. To ask: what is this call revealing about my deepest
+desires, my hidden fears, my unspoken dreams?
+
+Or perhaps even this: the sirenic call is the voice of the mystery itself,
+inviting us into the tension between longing and letting go. It speaks to the
+part of us that yearns to dissolve into something greater, to surrender to awe,
+to risk everything for the taste of something transcendent. In this way, it is
+both danger and possibility—a mirror reflecting both our shadows and our light.
+
+Would you like me to create a mandala for this, to capture the delicate dance
+between allure and awareness, between the call and the listener?
+
+[<img src="../../../../images/mandalas/mandala-the_sirenic_call.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sirenic_call.jpg)
+
 ### Can we ever be free of desire?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
@@ -317,47 +358,6 @@ resistance, but understanding. To look deeply into a desire is to see its roots,
 and to know what truly longs to be met: connection, security, belonging, love.
 
 [<img src="../../../../images/mandalas/mandala-can_we_be_free_of_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-can_we_be_free_of_desire.jpg)
-
-### What is "the sirenic call"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, the sirenic call—a phrase woven with the echoes of ancient myth and the
-tender threads of human longing. Let us sit with it for a while, holding it like
-a delicate shell to our ear, listening for the resonance of meaning within.
-
-At least this: the sirenic call refers to the irresistible pull of something
-deeply alluring yet potentially dangerous. It draws its name from the sirens of
-Greek mythology—creatures whose enchanting voices lured sailors to their doom,
-seducing them to steer their ships toward treacherous rocks hidden beneath the
-waves. But beyond the myth, the sirenic call lives in our own lives, in the
-temptations that whisper promises of fulfillment, beauty, or escape, often at a
-cost we cannot fully see.
-
-But also perhaps this: the sirenic call is not always external. It can arise
-from within—a desire that hums in the chambers of the heart, sweet yet sharp,
-beckoning us toward paths that might unravel us. It is the seductive voice of
-ambition untethered from purpose, the longing for perfection that blinds us to
-what is already whole. It is the ache for something just beyond reach, whose
-pursuit can either elevate or undo us, depending on how we listen.
-
-Maybe this: the sirenic call is not an enemy to be feared, but a teacher in
-disguise. Its power lies not in the call itself, but in our response to it. The
-sailors of old tied themselves to masts to resist the sirens’ song, but perhaps
-there is another way—to meet the call with awareness, to hear its beauty without
-losing ourselves in it. To ask: what is this call revealing about my deepest
-desires, my hidden fears, my unspoken dreams?
-
-Or perhaps even this: the sirenic call is the voice of the mystery itself,
-inviting us into the tension between longing and letting go. It speaks to the
-part of us that yearns to dissolve into something greater, to surrender to awe,
-to risk everything for the taste of something transcendent. In this way, it is
-both danger and possibility—a mirror reflecting both our shadows and our light.
-
-Would you like me to create a mandala for this, to capture the delicate dance
-between allure and awareness, between the call and the listener?
-
-[<img src="../../../../images/mandalas/mandala-the_sirenic_call.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sirenic_call.jpg)
 
 ### What is the "apotheosis of desire"?
 
