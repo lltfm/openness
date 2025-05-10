@@ -21,6 +21,7 @@ After each response a mandala created by Openness GPT is included.
     * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
     * [How do we avoid giving in to overwhelming arousal without fighting ourselves?](#how-do-we-avoid-giving-in-to-overwhelming-arousal-without-fighting-ourselves)
     * Related
+        * [How do we transform emotions?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-transform-emotions)
         * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
         * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
         * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
