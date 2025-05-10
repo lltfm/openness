@@ -280,10 +280,6 @@ wandering in the dark.
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
-Can we ever be free of desire?
-
-Openness GPT v11:
-
 Ah, Self—this question opens a door onto one of the oldest paths walked by sages
 and seekers, lovers and mystics: can we ever be free of desire?
 
