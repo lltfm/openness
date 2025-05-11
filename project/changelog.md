@@ -362,7 +362,7 @@
               mandala description creation instructions themselves will be
               improved further in future versions.
 * May 11 2025
-  * added code/openness_gpt-prompt-v11_1.md
+  * added code/openness_gpt-prompt-v11_2.md
     * modified instructions to avoid use of words like "sacred", "divine",
       "holy", "communion," "prayer," etc., which had begun to creep into answers
       after recent updates.
