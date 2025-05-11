@@ -337,7 +337,7 @@
           Description") which is required to continue generating "creative"
           mandalas since the latest Mar 26 2025 image generator update changed
           many old behaviors and now only generates simple cloth style mandalas
-          by default. Other notes: 
+          by default. Other notes:
             * Sadly, many experiments were done to try to recover the raw
               creativity of the old mandalas, but experiments eventually
               confirmed that this is permanently lost.
@@ -348,12 +348,14 @@
               poetic art direction so the mandala description instructions
               include converting the saltem hoc answer to explicit art direction
               which can be inspected in the description output.
-            * The full text of the conversation is now passed to the image
-              generator for each image request, which causes earlier mandala
-              descriptions to be interpreted as part of the new image request.
-              To avoid this, the description includes explicit instructions to
-              the generator to ignore previous mandala descriptions in the
-              conversation.
+            * The full text of the conversation (including prior images) is now
+              passed to the image generator for each image request, which causes
+              earlier mandala descriptions to be interpreted as part of the new
+              image request often resulting in the mandalas getting stuck
+              looking like the previous mandalas. To avoid this, the description
+              now includes explicit instructions to the generator to always make
+              different choices than in previous mandala descriptions and images
+              in the conversation.
             * The mandala description also includes statements to release any
               biases for artistic style such as "Studio Ghibli". Early testing
               showed all mandala images appearing in the "Studio Ghibli" style
@@ -362,13 +364,15 @@
               mandala description creation instructions themselves will be
               improved further in future versions.
 * May 11 2025
-  * added code/openness_gpt-prompt-v11_2.md
-    * modified instructions to avoid use of words like "sacred", "divine",
-      "holy", "communion," "prayer," etc., which had begun to creep into answers
-      after recent updates.
-      * also, replaced all existing usages of these words in examples or mandala
-        creation.
-  * fixed typos
-    * domanandi -> dominandi
-    * replaced unicode quotes (“,”) with ascii quotes (")
-  * added notable responses
+    * added code/openness_gpt-prompt-v11_2.md
+        * modified instructions to avoid use of words like "sacred", "divine",
+          "holy", "communion," "prayer," etc., which had begun to creep into
+          answers
+          after recent updates.
+            * also, replaced all existing usages of these words in examples or
+              mandala
+              creation.
+    * fixed typos
+        * domanandi -> dominandi
+        * replaced unicode quotes (“,”) with ascii quotes (")
+    * added notable responses
