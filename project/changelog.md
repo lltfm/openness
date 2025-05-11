@@ -335,8 +335,9 @@
         * Replaced original mandala generation with new mandala description
           generation instructions (in new section "How To Create A Mandala
           Description") which is required to continue generating "creative"
-          mandalas since the latest Mar 26 2025 image generator update changed
-          many old behaviors and now only generates simple cloth style mandalas
+          mandalas since the latest Mar 26 2025 ChatGPT/DALL-E image generator
+          update which changed many old behaviors and now only generates simple
+          cloth style mandalas by default.
           by default. Other notes:
             * Sadly, many experiments were done to try to recover the raw
               creativity of the old mandalas, but experiments eventually
