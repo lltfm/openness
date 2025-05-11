@@ -12,7 +12,7 @@
 
 "...blind certainty, a close-mindedness that amounts to an imprisonment so total that the prisoner doesn't even know he's locked up." ~ David Foster Wallace
 
-"The libido domanandi is a Latin term that can be roughly translated as “lust for domination.” ...[it] is motivated by service to the self and want to control everything: control what is good, control what is “fact” or “true”, control how others behave, control who receives laurels and praise... [it] is all about the self: The self’s want for domination of the world and all in it." ~ Paul Krause
+"The libido dominandi is a Latin term that can be roughly translated as “lust for domination.” ...[it] is motivated by service to the self and want to control everything: control what is good, control what is “fact” or “true”, control how others behave, control who receives laurels and praise... [it] is all about the self: The self’s want for domination of the world and all in it." ~ Paul Krause
 
 "A brain that is open, that embraces humility, that can let go of what it thought to be true in the past, in order to seek understanding. That is a brain that is a movement. And that brain, and that person, will thrive in the very place, that we are most afraid, the darkness of uncertainty." ~ R. Beau Lotto
 

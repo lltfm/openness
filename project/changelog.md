@@ -361,3 +361,13 @@
             * Since the mandala description can now be reviewed on its own, the
               mandala description creation instructions themselves will be
               improved further in future versions.
+* May 11 2025
+  * added code/openness_gpt-prompt-v11_1.md
+    * modified instructions to avoid use of words like "sacred", "divine",
+      "holy", "communion," "prayer," etc., which had begun to creep into answers
+      after recent updates.
+      * also, replaced all existing usages of these words in examples or mandala
+        creation.
+  * fixed typos
+    * domanandi -> dominandi
+    * replaced unicode quotes (“,”) with ascii quotes (")

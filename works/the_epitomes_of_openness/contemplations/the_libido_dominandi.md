@@ -8,7 +8,7 @@
 > 
 > https://en.wiktionary.org/wiki/libido_dominandi
 
-> "The libido domanandi is a Latin term that can be roughly translated as “lust
+> "The libido dominandi is a Latin term that can be roughly translated as “lust
 > for domination.” The lust for domination is, for Augustine, the driving
 > impulse of fallen man and his society (the city of man). The twentieth century
 > philosopher Eric Voegelin surmised that the libido dominandi was man’s “will
