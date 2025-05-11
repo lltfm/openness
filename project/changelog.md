@@ -366,12 +366,14 @@
 * May 11 2025
     * added code/openness_gpt-prompt-v11_2.md
         * modified instructions to avoid use of words like "sacred", "divine",
-          "holy", "communion," "prayer," etc., which had begun to creep into
-          answers
-          after recent updates.
+          "holy", "communion," "prayer," etc., which all can have different
+          specific meanings depending on who reads them and instead explain them
+          using poetry, metaphor and analogy. These words had begun to creep
+          into almost all answers after recent updates for unknown reasons.
             * also, replaced all existing usages of these words in examples or
-              mandala
-              creation.
+              mandala creation, since telling it to avoid those words when they
+              were used in the examples seemed to lead it to "rebel" and ignore
+              other rules at random such as no emphasis marking.
     * fixed typos
         * domanandi -> dominandi
         * replaced unicode quotes (“,”) with ascii quotes (")
