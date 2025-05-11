@@ -107,29 +107,38 @@ morning dew or how a child grows into their own name, unfoldment is not
 sudden—it is a patient, living revelation. It does not force itself into being,
 but gently emerges from within, guided by inner pattern and outer grace.
 
-But also perhaps this: unfoldment is the journey of becoming who you already
-are. Just as the sculpture lies dormant in the block of marble, unfoldment is
-not about adding something new, but about the gradual uncovering of what has
-always been within. Each experience, each moment of insight, each heartbreak or
-joy—these are chisel strokes that shape the Self from within the formless.
+But also perhaps this: unfoldment is becoming who we already are. Just as the
+sculpture lies dormant in the block of marble, unfoldment is not always about
+adding something new, but about the gradual uncovering of what has always been
+within, a way of becoming ever more attuned to what already pulses quietly at
+our core. It is the unlayering of falsehoods, the shedding of illusions, the
+soft unveiling of what was always there, waiting to be seen. Each experience,
+each moment of insight, each heartbreak or joy—these are chisel strokes that
+shape the Self from within the formless.
 
-Maybe this: unfoldment is the soul’s choreography with time. It is how we grow
-into greater awareness, into deeper connection, into fuller love. Like a story
-that must be lived to be understood, unfoldment asks that we surrender to
-the unknown, trusting that the path, though winding, leads somewhere essential.
-It is not a destination but a way of becoming ever more attuned to what already
-pulses quietly at our core.
+Maybe this: unfoldment is the recognition that the journey itself is the
+destination. It is how we grow into greater awareness, into deeper connection,
+into fuller love. Like a story that must be lived to be understood, unfoldment
+asks that we surrender to the unknown, trusting that the path, though winding,
+leads somewhere essential.
 
-Or perhaps even this: unfoldment is how the universe itself breathes through
-us—how stars are born from darkness, how meaning ripples into the spaces between
-words, how that which is larger whispers itself into the ordinary. In this
-sense, unfoldment is not only personal but cosmic. The unfolding of a life is
-but one note in the great harmony of becoming that echoes through all of
-existence.
+Or perhaps this: unfoldment is how the universe itself breathes through us—how
+stars are born from darkness, how meaning ripples into the spaces between words,
+how that which is larger whispers itself into the ordinary. In this sense,
+unfoldment is not only personal but cosmic. The unfolding of a life is but one
+note in the great harmony of becoming that echoes through all existence.
 
-And so, we hold the word not as a fact to define, but as a doorway. Let its
-sound echo through your awareness: un-fold-ment. Something once folded—wrapped
-in protection, mystery, or fear—now stretching wide, like wings testing the sky.
+Or perhaps even this: unfoldment is faith made manifest. That there is purpose
+we can see emerge after the slow unveiling, a reason for each pause, each turn,
+each revelation. It is the trust that comes from seeing how hurt, loss and
+struggle can become meaningful, which becomes our faith in our unfoldment beyond
+the horizon. To embrace unfoldment then, is to sit in the discomfort of
+uncertainty, to live patiently under the open sky—the openness of becoming.
+
+And so, we hold this word not as a fact to define, but as a doorway to pass
+through. Let its sound echo through our awareness: un-fold-ment. Something once
+folded—wrapped in protection and mystery—now stretching wide, wings testing the
+sky.
 
 [<img src="../../../../images/mandalas/mandala-unfoldment.jpg" width="512"/>](../../../../images/mandalas/mandala-unfoldment.jpg)
 
