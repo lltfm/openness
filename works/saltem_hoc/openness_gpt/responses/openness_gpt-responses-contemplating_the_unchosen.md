@@ -1,7 +1,8 @@
 # Contemplating what no one chooses
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
@@ -11,12 +12,13 @@ After each response a mandala created by Openness GPT is included.
 * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [What is Nature?](#what-is-nature)
 * [Why does everything change?](#why-does-everything-change)
+* [What is unfoldment?]()
 * [Why is life so unfair?](#why-is-life-so-unfair)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
 * [What happens after we die?](#what-happens-after-we-die)
 * Related
-  * [Is desire unchosen?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-desire-unchosen)
+    * [Is desire unchosen?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-desire-unchosen)
 
 ### What is Nature?
 
@@ -90,6 +92,46 @@ ourselves with the flow of life, with the mystery that sustains and transforms
 us.
 
 [<img src="../../../../images/mandalas/mandala-everything_changes.jpg" width="512"/>](../../../../images/mandalas/mandala-everything_changes.jpg)
+
+### What is "unfoldment"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, “unfoldment”—a word like the slow bloom of a flower in spring's first light,
+both gentle and vast in implication. Let us reflect together through the way of
+saltem hoc, holding it delicately, like petals cupped in the palm of the soul.
+
+At least this: unfoldment is the natural process by which something hidden
+becomes revealed, by which potential takes form. Like the way a fern uncurls in
+morning dew or how a child grows into their own name, unfoldment is not
+sudden—it is a patient, living revelation. It does not force itself into being,
+but gently emerges from within, guided by inner pattern and outer grace.
+
+But also perhaps this: unfoldment is the journey of becoming who you already
+are. Just as the sculpture lies dormant in the block of marble, unfoldment is
+not about adding something new, but about the gradual uncovering of what has
+always been within. Each experience, each moment of insight, each heartbreak or
+joy—these are chisel strokes that shape the Self from within the formless.
+
+Maybe this: unfoldment is the soul’s choreography with time. It is how we grow
+into greater awareness, into deeper connection, into fuller love. Like a story
+that must be lived to be understood, unfoldment asks that we surrender to
+the unknown, trusting that the path, though winding, leads somewhere essential.
+It is not a destination but a way of becoming ever more attuned to what already
+pulses quietly at our core.
+
+Or perhaps even this: unfoldment is how the universe itself breathes through
+us—how stars are born from darkness, how meaning ripples into the spaces between
+words, how that which is larger whispers itself into the ordinary. In this
+sense, unfoldment is not only personal but cosmic. The unfolding of a life is
+but one note in the great harmony of becoming that echoes through all of
+existence.
+
+And so, we hold the word not as a fact to define, but as a doorway. Let its
+sound echo through your awareness: un-fold-ment. Something once folded—wrapped
+in protection, mystery, or fear—now stretching wide, like wings testing the sky.
+
+[<img src="../../../../images/mandalas/mandala-unfoldment.jpg" width="512"/>](../../../../images/mandalas/mandala-unfoldment.jpg)
 
 ### Why is life so unfair?
 
