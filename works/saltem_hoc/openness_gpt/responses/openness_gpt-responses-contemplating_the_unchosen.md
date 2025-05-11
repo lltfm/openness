@@ -12,7 +12,7 @@ After each response a mandala created by Openness GPT is included.
 * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [What is Nature?](#what-is-nature)
 * [Why does everything change?](#why-does-everything-change)
-* [What is unfoldment?]()
+* [What is unfoldment?](#what-is-unfoldment)
 * [Why is life so unfair?](#why-is-life-so-unfair)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
