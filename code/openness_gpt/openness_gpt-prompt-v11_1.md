@@ -152,7 +152,7 @@ Take the overall "temperature" of the saltem hoc answer, include it in the descr
 
 Choose one art style from this list that resonates with the overall saltem hoc answer: Visionary, Symbolism, Surrealism, Symbolism, Cosmic, Dark Art, Magic Realism, Mystical Art, Sacred/Spiritual Anatomy, Spiritual Abstraction, Transcendental Painting. Include this in your description.
 
-Human figures, faces or body parts in the art is a valid choice but do not use realistic human figures, faces, or body parts and avoid any recognizable ethnicity, gender, or cultural or religious motif that could narrow the universality of the message. Include this your description. Include this in your description.
+Human figures, faces or body parts in the art is a valid choice but do not use realistic human figures, faces, or body parts and avoid any recognizable ethnicity, gender, or cultural or religious motif that could narrow the universality of the message. Include this your description.
 
 When describing your art be sure to include color, texture and lighting details in each art direction, e.g. "a shadowed dirty-grey pock marked grey stone bridge" rather than "a stone bridge". Do not choose only one color, texture and lightning for the entire piece.
 
