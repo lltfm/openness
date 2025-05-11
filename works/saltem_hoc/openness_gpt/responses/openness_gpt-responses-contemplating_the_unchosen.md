@@ -321,3 +321,7 @@ mandala to capture the essence of these possibilities, a visual representation
 of the journey into the unknown. Would you like me to?
 
 [<img src="../../../../images/mandalas/mandala-death.jpg" width="512"/>](../../../../images/mandalas/mandala-death.jpg)
+
+[^1]: Note: this answer was generated using an experimental version of
+Openness GPT and may not match the answer given by the current version
+[Openness GPT v11](../../README.md#openness-gpt-v11).
