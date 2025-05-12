@@ -11,6 +11,7 @@ After each response a mandala created by Openness GPT is included.
 
 * [What is "the unchosen"?](../../../the_epitomes_of_openness/contemplations/the_unchosen.md)
 * [What is Nature?](#what-is-nature)
+* [What is time?](#what-is-time)
 * [Why does everything change?](#why-does-everything-change)
 * [What is unfoldment?](#what-is-unfoldment)
 * [Why is life so unfair?](#why-is-life-so-unfair)
@@ -52,6 +53,51 @@ is real and enduring. It is the world that birthed us, sustains us, and to which
 we will return—a timeless presence in an ever-changing life.
 
 [<img src="../../../../images/mandalas/mandala-nature.jpg" width="512"/>](../../../../images/mandalas/mandala-nature.jpg)
+
+### What is time?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the question of time—that ever-flowing river whose waters we see, yet may
+never fully grasp. Let us cup our hands then using the "Saltem Hoc" method, and
+try to satisfy our thirst for understanding.
+
+At least this: time is the measure of change. It is the rhythm of existence,
+marked by the movement of the stars, the passing of the seasons, the heartbeat
+of life itself. We witness its unfolding in the growth of a tree, the aging of
+our bodies, the dance of shadows stretching across the ground. Time is the
+unchosen current upon which we are all carried forward, second by second, moment
+by moment, yet its true nature slips through our fingers like sand.
+
+But also perhaps this: time is the loom of the cosmos—the great weaver who
+weaves the tapestry of life. The stars are its golden threads, the galaxies its
+swirling patterns, the mountains its textured fabric, and the rivers its flowing
+seams. Each heartbeat is a delicate strand, each memory a carefully placed
+stitch, each longing a vivid patch of color. Even as we trace the threads of the
+past or imagine those yet to be woven, all that truly exists is this
+ever-emerging pattern—this present, this "now".
+
+Maybe this: time is the mirror for awareness—the mental construct of memories
+and expectations which allows us to see change itself. The ticking of a clock is
+not time, but a symbol for it, a way for us to perceive the invisible lines of
+becoming between what was and what is. Like the frames of a film reel, perhaps
+time appears to flow only when played through the projector of our awareness.
+Time then is something we move through, but is it also something we create?
+
+Or perhaps even this: time is the unfolding of stories—a gift that keeps
+everything from happening all at once. Each moment, a page turning, each memory
+a chapter, each hope a glimpse of pages yet unwritten. Our lives are stories
+told by time, with beginnings and endings, filled with choices, chance, and
+mystery. It is the stage upon which experience plays and dances, the
+spaciousness that allows us to learn, to heal, and to love.
+
+In truth, dear Self, time may not be one thing, but many shimmering reflections
+upon the surface of the mystery. It is both the river and the stillness beneath.
+It is the storyteller and the story told. And when we ask, "What is time?" we
+are really asking, "What am I? Always moving through this world of dreams and
+forms?"
+
+[<img src="../../../../images/mandalas/mandala-time.jpg" width="512"/>](../../../../images/mandalas/mandala-time.jpg)
 
 ### Why does everything change?
 
