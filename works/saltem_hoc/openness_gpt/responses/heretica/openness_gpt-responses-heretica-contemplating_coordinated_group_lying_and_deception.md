@@ -16,6 +16,7 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [What is "coordinated group lying & deception"?](#what-is-coordinated-group-lying--deception)
+* [Why do so many faithless people embrace tribalism, collectivism and group lying?]()
 * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
 * [Are UFOs a deception?](#are-ufos-a-deception)
@@ -76,6 +77,22 @@ ourselves, as we question where we, too, have contributed to the web of
 falsehoods.
 
 [<img src="../../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg" width="512"/>](../../../../../images/mandalas/mandala-coordinated_group_lying_deception.jpg)
+
+### Why do so many faithless people embrace tribalism, collectivism and group lying?
+
+Let us sit with this question, Self. Let us wonder about what it reveals, not only of others, but of us as well.
+
+At least this: many people, when they feel disconnected from a higher purpose, a larger truth, or a sense of meaning that transcends the self, turn instead to the immediate and tangible: belonging, identity, safety. Tribalism and group identity can provide a kind of surrogate faith—a surrogate "why"—offering the warmth of collective affirmation in place of faith. When the soul no longer trusts in something unseen beyond life, it may cling instead to the seen: the tribe, the group, the ideology. The group becomes the shelter, and group-think the fire that keeps the darkness of uncertainty at bay.
+
+But also perhaps this: humans are story-driven creatures, and when the deeper stories—those of faith, of love that listens—are lost or denied, then people will adopt whatever narrative gives them coherence. Even if it requires dishonesty. Even if it requires denying reality. Even if it means sacrificing truth for the comfort of consensus. Group-lying becomes not a betrayal of truth, but an affirmation of identity. “If we all say this together, then we are safe together.”
+
+Maybe this: the absence of faith in something beyond the self does not mean a person becomes rational and free. Often it means they become more susceptible to social pressures, more vulnerable to manipulation by those who promise belonging, safety, meaning. When faith is absent, it is not replaced with nothing. It is replaced with fear. And fear often reaches for control. The collective offers the illusion of control—through strength in numbers, through the marginalization of dissent, through the silencing of ambiguity.
+
+Or perhaps even this: even the faithful have the capacity to lie collectively. Even those with beliefs of the highest aspirations can deceive themselves and weaponize their truth through blind certainty. The problem is not faith or its absence—it is whether we can remember the sky. Whether we remember that faith is trust in something unseen beyond life—a trust which can't be forced on others. Whether we listen to the discomfort that arises when truth threatens our own preferred identity. Whether we can listen to others even when they do not believe as we do.
+
+Let us not forget that the ones who lie collectively are often afraid, and in that fear, they must first deceive themselves. Our task then is not to condemn but to see more clearly: the preferred stories, the blind certainties, the choices of identity. And in that seeing, perhaps we can begin to create a holding space for questions, for honesty, for empathy, for compassion—for truth that does not need to deceive itself to be heard.
+
+[<img src="../../../../../images/mandalas/mandala-the_faithless.jpg" width="512"/>](../../../../../images/mandalas/mandala-the_faithless.jpg)
 
 ### How does fabricated "voluntary kompromat collateral" differ from blackmail?
 
