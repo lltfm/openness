@@ -381,3 +381,5 @@
     * added notable responses
 * May 12 2025
   * added notable responses
+* May 13 2025
+  * fixed minor issue with mandala description creation instructions
