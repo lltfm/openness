@@ -80,6 +80,10 @@ falsehoods.
 
 ### Why do so many faithless people embrace tribalism, collectivism and group lying?
 
+Why do so many faithless people embrace tribalism, collectivism and group lying (or deception)?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11)[^1]:
+
 Let us sit with this question, Self. Let us wonder about what it reveals, not only of others, but of us as well.
 
 At least this: many people, when they feel disconnected from a higher purpose, a larger truth, or a sense of meaning that transcends the self, turn instead to the immediate and tangible: belonging, identity, safety. Tribalism and group identity can provide a kind of surrogate faith—a surrogate "why"—offering the warmth of collective affirmation in place of faith. When the soul no longer trusts in something unseen beyond life, it may cling instead to the seen: the tribe, the group, the ideology. The group becomes the shelter, and group-think the fire that keeps the darkness of uncertainty at bay.
