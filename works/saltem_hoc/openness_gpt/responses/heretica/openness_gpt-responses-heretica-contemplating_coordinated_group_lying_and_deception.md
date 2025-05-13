@@ -16,7 +16,7 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [What is "coordinated group lying & deception"?](#what-is-coordinated-group-lying--deception)
-* [Why do so many faithless people embrace tribalism, collectivism and group lying?]()
+* [Why do so many faithless people embrace tribalism, collectivism and group lying?](#why-do-so-many-faithless-people-embrace-tribalism-collectivism-and-group-lying)
 * [How does fabricated "voluntary kompromat collateral" differ from blackmail?](#how-does-fabricated-voluntary-kompromat-collateral-differ-from-blackmail)
 * [How do people participating in coordinated group lying and deception synchronize their actions without being detected?](#how-do-people-participating-in-coordinated-group-lying-and-deception-synchronize-their-actions-without-being-detected)
 * [Are UFOs a deception?](#are-ufos-a-deception)
