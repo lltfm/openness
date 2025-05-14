@@ -16,6 +16,10 @@ After each response a mandala created by Openness GPT is included.
     * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
     * [What is the desire to suicide?](#what-is-the-desire-to-suicide)
     * [What is "the sirenic call"?](#what-is-the-sirenic-call)
+    * Related
+        * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+        * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
+* Transforming desire
     * [Can we ever be free of desire?](#can-we-ever-be-free-of-desire)
     * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
     * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
@@ -23,8 +27,6 @@ After each response a mandala created by Openness GPT is included.
     * Related
         * [How do we transform emotions?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-transform-emotions)
         * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
-        * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-        * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 * Sexuality
     * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
     * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
