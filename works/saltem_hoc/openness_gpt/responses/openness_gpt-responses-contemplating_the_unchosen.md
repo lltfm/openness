@@ -14,7 +14,7 @@ After each response a mandala created by Openness GPT is included.
 * [What is time?](#what-is-time)
 * [Why does everything change?](#why-does-everything-change)
 * [What is unfoldment?](#what-is-unfoldment)
-* [What is "the terrible becoming"?]()
+* [What is "the terrible becoming"?](#what-is-the-terrible-becoming)
 * [Why is life so unfair?](#why-is-life-so-unfair)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
