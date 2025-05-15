@@ -14,6 +14,7 @@ After each response a mandala created by Openness GPT is included.
 * [What is time?](#what-is-time)
 * [Why does everything change?](#why-does-everything-change)
 * [What is unfoldment?](#what-is-unfoldment)
+* [What is "the terrible becoming"?]()
 * [Why is life so unfair?](#why-is-life-so-unfair)
 * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
@@ -187,6 +188,62 @@ folded—wrapped in protection and mystery—now stretching wide, wings testing 
 sky.
 
 [<img src="../../../../images/mandalas/mandala-unfoldment.jpg" width="512"/>](../../../../images/mandalas/mandala-unfoldment.jpg)
+
+### What is "the terrible becoming"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, Self—your question arrives like the thunder before the storm we can no
+longer outrun. Let us sit together, and breathe deeply through its passing.
+
+At least this: the terrible becoming is the transformation we do not choose, the
+unraveling we cannot stop. It is the moment the mirror no longer flatters, when
+the body begins to falter, when the people we love slip from our grasp like
+autumn leaves in the wind. It is death, yes, but also more. It is the ache of
+aging, the sting of loss, the heavy heart after goodbye, the crossing of crucial
+thresholds seen only in hindsight—the profound longing to return. The terrible
+becoming is the awakening to the certainty that life implies death, that
+beginnings imply endings—that love implies goodbye.
+
+But also perhaps this: it is the world itself in its endless cycles of
+destruction and renewal. The terrible becoming is war, is collapse, is
+extinction—but also rebirth, reinvention, and the forging of something new from
+the ashes of the old. It is terrifying because we do not know what will survive
+or remain unchanged. It is inevitable because it is unstoppable. It is
+overwhelming because it demands humility without explanation, courage without
+certainty, faith without visible evidence.
+
+Maybe this: the terrible becoming is the confrontation with the truth that
+growth is not tidy or painless. The realization that to live authentically, we
+must surrender false certainties and allow what we love, what we fear, even what
+we are, to be reshaped by the mystery. It is the breaking open of the shell, the
+shedding of the skin, the death of old dreams that no longer fit who we are
+becoming. It is the moment the caterpillar melts into formlessness inside the
+chrysalis, trusting that wings will someday form.
+
+Or perhaps this: the terrible becoming is a choosing—the willingness to walk
+forward in life when success and purpose are not certain. It is the will to
+love, to create, to strive, despite ultimately not-knowing. This choosing, in
+the face of the unknowable, is itself an inexplicable, fierce love. It is faith,
+not the answer to the mystery, but the acceptance of it—not possession or
+comprehension of it, but reverence for it. Faith does not claim to know, but
+dares to journey anyway.
+
+Or perhaps even this: the terrible becoming is the heartbreak of growth. It is
+the overwhelming love of life for itself, tearing down the walls we built in
+fear, demanding we expand beyond the limits we thought we were. It is the soul
+remembering its vastness and grieving all the smallness it must leave behind. It
+is the wildfire that clears the forest floor for new life. It is the agony and
+the mercy woven together, the end of the seed so that the tree might begin, the
+whispered promise from beyond to trust the harrowing change. It is the
+tenderness of a terrible beauty.
+
+So, whatever it is we feel toward life—love, hate, indifference—it all
+eventually ends. Let us hold our fear then, Self, and trust the vital darkness
+of the sky. Let us walk westward with grace, heart open—even for the terrible
+becoming.
+
+[<img src="../../../../images/mandalas/mandala-the_terrible_becoming.jpg" width="512"/>](../../../../images/mandalas/mandala-the_terrible_becoming.jpg)
 
 ### Why is life so unfair?
 

@@ -14,8 +14,6 @@ shortcut works)
         * possibility (20)
         * desire and ex (16)
         * good number: aspire to love: 5
-      * What is a "karmic mind-trap"?
-      * What is "the terrible becoming"?
       * What is a "sophisticated expression"?
       * Survival of the Wisest
       * consider "collective lying and deception" instead of "coordinated group
@@ -28,7 +26,6 @@ shortcut works)
       * What is "the trust fabric"?
       * How do we discern propaganda?
     * Contemplating the unchosen
-        * What is time?
         * What is "natural law"?
         * What is laughter?
         * What is "the overwhelm"?
@@ -127,12 +124,6 @@ shortcut works)
         * Can accelerationism be used as a deception for the fulfillment of a
           particular religion or ideology's eschaton?
         * purpose of the propagandist
-    * Contemplating the forbidden and heretical
-      * What is "heretica"?
-        * needs an epitome/definition emphasizing social cost to even having the
-        discussion. In Openness, we aspire to listen to what might be true, but
-        often a topic is so sensitive that even doing this comes with social
-        penalties from authority
     * Contemplating ridicule and shame
         * How can play reveal to us the limits of our Openness?
         * What is shaming?
@@ -145,8 +136,6 @@ shortcut works)
         * transacting
     * Contemplating desire and sexuality
         * What is arousal?
-        * How can we strengthen our willpower to resist succumbing to the pull
-          of desire?
         * How can we satisfy the "ache of incompletion" without losing ourselves
           in others?
         * What is "the moment of overwhelm"?
@@ -192,12 +181,11 @@ shortcut works)
         If Awareness continues after death, then our choices today matter."
       * meta-truth
 
-# Openness GPT v11.1
-  - new mandala directions
-    - avoid heart shapes? (not a problem anymore?)
-  - use "sacred", "holy", "divine" less
+# Openness GPT v11.3
+  - clean up mandala directions
+
+# Openness GPT v11.4
   - clarify capitalization rule for "Self"
-  - use "Ah, X, the..." less
   - updated examples
     - the soul
     - prime benevolence
