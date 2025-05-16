@@ -342,10 +342,11 @@ the world to enter and echo within.
 Or perhaps this: nomadism is a ritual of listening. Attuned to the rhythms of
 the land and the cultures they shelter within, the nomad learns many ways of
 being, yet also learns that no way is final or complete. The tent may rise for a
-night, yet the stars above remain unchanged—revealing what changes yet also what
-endures. Thus, each new destination, culture, and sky, becomes a teacher. In
-this way, a nomadic soul learns from everyone and everything, cultivating a
-deeper openness to the mystery of person and place alike.
+night, yet the stars above remain unchanged—revealing to the nomad what always
+changes yet also what endures. Thus, each new destination, culture, and sky,
+becomes a teacher. In this way, a nomadic soul learns from everyone and
+everything, cultivating a deeper openness to the mystery of person and place 
+alike.
 
 Or perhaps even this: nomadism is not only movement across earth but movement
 within—the pathless path. The soul, too, can be nomadic—wandering through inner
