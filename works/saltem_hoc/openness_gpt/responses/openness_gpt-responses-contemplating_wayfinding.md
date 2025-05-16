@@ -33,6 +33,7 @@ After each response a mandala created by Openness GPT is included.
 * Adventure
     * [What is "the adventure of dreams"?](#what-is-the-adventure-of-dreams)
     * Related
+        * [Can nomadism be a form of Openness practice?](./openness_gpt-responses-contemplating_the_work.md#can-nomadism-be-a-form-of-openness-practice) 
         * [What is "the pull of desire"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-the-pull-of-desire)
         * [What is a "divine dissatisfaction"?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-a-divine-dissatisfaction)
         * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
