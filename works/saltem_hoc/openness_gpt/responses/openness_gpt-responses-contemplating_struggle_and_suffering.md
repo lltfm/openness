@@ -29,9 +29,9 @@ After each response a mandala created by Openness GPT is included.
   * [What is hope?](#what-is-hope)
   * [What is "faith" in Openness?](#what-is-faith-in-openness)
   * Related
+    * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
     * [What does it feel like to be uninhibited?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-does-it-feel-like-to-be-uninhibited)
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
-    * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
     * [What exactly do we do in "shadow work"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
     * [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
 
