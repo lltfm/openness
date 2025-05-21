@@ -22,7 +22,7 @@ After each response a mandala created by Openness GPT is included.
     * [What are "impossible expectations"?](#what-are-impossible-expectations)
     * [How do I live a good life when everything I do in small ways supports the evil of my society?](#how-do-i-live-a-good-life-when-everything-i-do-in-small-ways-supports-the-evil-of-my-society)
     * Related
-        * [What is hope?](./openness_gpt-responses-aspiring_to_love.md#what-is-hope)
+        * [What is hope?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-hope)
 * Purpose
     * [What is the purpose of life?](#what-is-the-purpose-of-life)
     * [What is the "higher self"?](#what-is-the-higher-self)

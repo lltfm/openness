@@ -14,7 +14,7 @@ After each response a mandala created by Openness GPT is included.
     * [Is free will real, or is everything predetermined?](#is-free-will-real-or-is-everything-predetermined)
     * Related
         * [Can freedom without wisdom be a tool of social control?](./heretica/README.md#contents)
-        * [Can we ever be free of desire?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#can-we-ever-be-free-of-desire)
+        * [Can we ever be free of desire?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#can-we-ever-be-free-of-desire)
 * Transcendence
     * [What is transcendence?](#what-is-transcendence)
     * [What does it mean to "raise consciousness"?](#what-does-it-mean-to-raise-consciousness)
@@ -31,11 +31,12 @@ After each response a mandala created by Openness GPT is included.
         * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
         * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 * Mastery
-    * [What does it mean to feel inhibited?](#what-does-it-mean-to-feel-inhibited)
     * [How can we experience "duende"?](#how-can-we-experience-duende)
     * [What is "the daimonic"?](#what-is-the-daimonic)
     * [What does it feel like to be uninhibited?](#what-does-it-feel-like-to-be-uninhibited)
     * [How do we achieve mastery?](#how-do-we-achieve-mastery)
+    * Related
+      * [What does it mean to feel inhibited?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-does-it-mean-to-feel-inhibited)
 
 ### What is freedom?
 
@@ -527,52 +528,6 @@ can hold all things. And in that holding, we find a deeper freedom than
 rejection ever offered.
 
 [<img src="../../../../images/mandalas/mandala-psychodrama.jpg" width="512"/>](../../../../images/mandalas/mandala-psychodrama.jpg)
-
-### What does it mean to feel inhibited?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-To feel inhibited is to sense an invisible barrier between yourself and the full
-expression of who you are, as if something within holds you back, restrains you,
-quiets you when you long to speak, stills you when you ache to move. It is the
-tension between impulse and hesitation, between desire and restraint, between
-the self that longs to be and the self that stands watching, uncertain.
-
-At least this: to feel inhibited is to experience the weight of awareness—of
-judgment, of expectation, of consequence. It is the way a body stiffens under
-scrutiny, the way words catch in the throat, the way joy becomes measured,
-careful, contained. It is the fear of being seen too much, of being wrong, of
-stepping out of place. It is the subtle retreat from the fullness of experience,
-the quiet shrinking of presence.
-
-But also perhaps this: inhibition is the body's way of remembering. It holds the
-echoes of past moments—of embarrassment, of rejection, of pain—and whispers
-warnings, even when the moment is new. It is the hesitation born of learned
-caution, the instinct to withdraw before harm can come. It is not always wrong.
-Sometimes, it protects. Sometimes, it is the wisdom of experience urging
-patience, discernment, care.
-
-Maybe this: to feel inhibited is to live with an inner friction, a river that
-meets an unseen dam. The energy is there, the movement wants to happen, but
-something resists. It is the dancer whose body does not yet trust its own
-rhythm, the artist whose hand hesitates over the canvas, the lover who cannot
-fully surrender to touch. It is a pause that, if left unexamined, can become a
-habit, a way of being.
-Or perhaps even this: to feel inhibited is to stand at a doorway, unsure whether
-to step through. The mind says wait. The heart says go. And so you linger,
-caught between freedom and fear. But what if inhibition is not an enemy, but a
-conversation? What if, instead of fighting it, we ask what it wants us to know?
-To feel inhibited is not only to be restrained—it is to be aware of a threshold.
-And in that awareness, there is choice.
-
-And so, to feel inhibited is to feel the pull of possibility, even as something
-within resists. It is not a flaw, not a failure, but a place of unfolding, a
-space where something waits to be understood, softened, released. The river does
-not forget how to flow. The voice does not forget how to sing. The moment will
-come when the body, the mind, the heart—all of it—will know: now. Now is the
-time to move.
-
-[<img src="../../../../images/mandalas/mandala-inhibited.jpg" width="512"/>](../../../../images/mandalas/mandala-inhibited.jpg)
 
 ### How can we experience "duende"?
 

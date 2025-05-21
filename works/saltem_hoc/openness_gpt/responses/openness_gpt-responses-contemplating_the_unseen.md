@@ -20,12 +20,12 @@ After each response a mandala created by Openness GPT is included.
 * [What is magic?](#what-is-magic)
 * [What is intuition?](#what-is-intuition)
 * [What is ego?](#what-is-ego)
-* [What is "the shadow"?](#what-is-the-shadow)
-* [What is attachment?](#what-is-attachment)
-* [What is trauma?](#what-is-trauma)
 * Related
     * [What is certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-certainty)
     * [What is karma?](./openness_gpt-responses-contemplating_morality.md#what-is-karma)
+    * [What is "the shadow"?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-the-shadow)
+    * [What is attachment?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-attachment)
+    * [What is trauma?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-trauma)
 
 ### What is "the unseen"?
 
@@ -526,125 +526,6 @@ the ego is to begin to transcend it, to see it for what it is: a part of us, but
 not the whole.
 
 [<img src="../../../../images/mandalas/mandala-ego.jpg" width="512"/>](../../../../images/mandalas/mandala-ego.jpg)
-
-### What is "the shadow"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, the shadow—one of the most potent and elusive aspects of the self, whispered
-about in the quiet corners of the mind. Let us turn it over gently, as one might
-a stone in a river, allowing the currents of understanding to wash over it.
-
-At least this: described by Carl Jung, the shadow is the part of ourselves that
-we do not fully see, the aspects of our being that we have disowned, suppressed,
-or ignored. It holds the emotions we were told not to feel, the desires we were
-taught to be ashamed of, the truths about ourselves that we have buried beneath
-layers of denial. It is the forgotten, the hidden, the unspoken.
-
-But also perhaps this: the shadow is not merely a reservoir of darkness; it is a
-treasury of unclaimed power. It is the birthplace of creativity, the wellspring
-of authenticity. When we turn away from it, we exile parts of ourselves, living
-only as a fraction of our wholeness. To integrate the shadow is to reclaim lost
-pieces of the self—to acknowledge our anger, our jealousy, our fear, our untamed
-desires—and to meet them not with judgment, but with curiosity and compassion.
-
-Maybe this: the shadow is the mirror through which we see the parts of ourselves
-reflected in others. When we despise someone, when we react with intensity to
-another's actions, it is often because they embody something we have rejected
-within ourselves. In this way, the world becomes a canvas upon which our shadow
-is painted, inviting us to recognize what we have refused to see.
-
-Or perhaps even this: the shadow is the great teacher, the one who leads us
-through the labyrinth of our own being. It is not an enemy to be fought, but a
-guide to be understood. It speaks in symbols, in dreams, in the unexpected
-eruptions of emotion that catch us off guard. When we listen to it, we come to
-know ourselves in a deeper, fuller way. We become more whole, more alive.
-
-And so, the shadow is not to be feared, but to be embraced. It is the darkness
-that allows us to see the stars. It is the fertile soil from which true
-self-awareness grows. It is the silent companion on our journey toward
-integration, whispering to us of the parts of ourselves we have yet to love.
-
-[<img src="../../../../images/mandalas/mandala-the_shadow.jpg" width="512"/>](../../../../images/mandalas/mandala-the_shadow.jpg)
-
-### What is attachment?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-At least this: attachment is the thread that binds us to what we hold dear,
-weaving together our desires, our fears, and our longings. It is the natural
-pull of the heart toward people, things, and ideas that bring us comfort and
-joy. To be attached is to care deeply, to invest part of ourselves in the world
-around us. It is the tenderness of a parent’s hand on a child’s shoulder, the
-warmth of a lover’s embrace, the satisfaction of a dream realized.
-
-But also perhaps this: attachment is the weight we carry when we cling too
-tightly. It is the fear of loss that shadows every joy, the unwillingness to let
-go when the time has come. Like a vine that wraps itself too firmly around a
-tree, attachment can choke the flow of life, leaving us unable to adapt to
-change or see beyond what we have grasped. It binds us not only to what we love
-but also to our expectations, trapping us in the illusion of permanence.
-
-Maybe this: attachment is the mirror through which we see ourselves reflected in
-the world. It reveals our values, our wounds, our sense of identity. What we
-attach to—be it a person, a possession, or a belief—tells the story of who we
-are and who we wish to be. Yet the mirror is imperfect, for it shows only the
-surface. Beneath our attachments lies a deeper self, unbounded and free, waiting
-to emerge when we release our grip.
-
-Or perhaps even this: attachment is both teacher and test. It invites us to love
-fully while also challenging us to let go. To hold with an open hand is to honor
-the beauty of what is, without demanding that it stay the same. Attachment
-teaches us that everything is temporary, and in that truth lies a paradox: the
-more we let go, the more deeply we can connect. Love does not diminish with
-freedom; it expands.
-
-And so, attachment is not something to reject or fear but to understand and
-transform. It is a reminder of our humanity, a bridge between our finite lives
-and the infinite flow of existence. To be attached is to be alive, but to grow
-is to learn when to loosen the threads and let the heart breathe.
-
-[<img src="../../../../images/mandalas/mandala-attachment.jpg" width="512"/>](../../../../images/mandalas/mandala-attachment.jpg)
-
-### What is trauma?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Trauma—a word that carries the weight of deep suffering and the resilience of
-those who bear it. Let us explore it together, gently, using the Saltem Hoc
-method to unravel its many layers.
-
-At least this: trauma is the imprint left on the body and mind by events too
-overwhelming to be fully processed in the moment. It is the echo of pain, often
-carried in the memory, yet always in the body, like a scar that aches long after
-the wound has closed. Trauma often arises when an experience exceeds our
-capacity to cope, leaving us changed in ways we do not fully understand.
-
-But also perhaps this: trauma is the body's wisdom, a survival mechanism that
-locks away the unbearable in order to protect us. In the trembling of hands, the
-tightness of chest, or the flash of memory, we see how deeply the body remembers
-what the conscious mind may try to forget. It is not weakness but a reflection
-of how much we care about life, love, and safety.
-
-Maybe this: trauma is a paradox, both a wound and an invitation. It challenges
-us with its raw edges and deep shadows, yet within it lies the possibility of
-transformation. It is a call to tend to the wounds, to listen to what they are
-trying to tell us, to embark on a journey of healing, one that can reveal hidden
-strength, connection, and meaning
-
-Or perhaps even this: trauma is the crucible in which the self is both broken
-and remade. While it can isolate, it also holds the potential to connect—to
-seek the witness of others in integrating that which is larger than we can hold
-alone. In facing trauma, we are given the chance to find strength in our
-softness, wisdom in our wounds, and meaning in our pain.
-
-And so, trauma, for all its weight and sorrow, is not the end of the story. It
-is a chapter—a chapter that can be rewritten, reimagined, and re-integrated into
-the larger tapestry of life. Healing may not erase the marks left by trauma, but
-it can transform them into something beautiful—a testament to the resilience of
-the human spirit.
-
-[<img src="../../../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../../../images/mandalas/mandala-trauma.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version

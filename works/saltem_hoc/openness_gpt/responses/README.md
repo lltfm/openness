@@ -44,6 +44,11 @@ Sections:
     * [Why does everything change?](./openness_gpt-responses-contemplating_the_unchosen.md#why-does-everything-change)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen.md#what-happens-after-we-die)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
+  * Contemplating struggle and suffering
+    * a
+    * b
+    * c
+    * [More...](./openness_gpt-responses-contemplating_struggle_and_suffering.md)
 ### Section III: The Hidden Path
   * How do we find our way?
     * [In Openness, what is "wayfinding"?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-is-wayfinding)

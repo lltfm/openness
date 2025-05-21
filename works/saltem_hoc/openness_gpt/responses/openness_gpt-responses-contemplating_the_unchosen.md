@@ -14,13 +14,13 @@ After each response a mandala created by Openness GPT is included.
 * [What is time?](#what-is-time)
 * [Why does everything change?](#why-does-everything-change)
 * [What is unfoldment?](#what-is-unfoldment)
-* [What is "the terrible becoming"?](#what-is-the-terrible-becoming)
-* [Why is life so unfair?](#why-is-life-so-unfair)
-* [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
 * [What is Life?](#what-is-life)
 * [What happens after we die?](#what-happens-after-we-die)
 * Related
-    * [Is desire unchosen?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-desire-unchosen)
+  * [What is "the terrible becoming"?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-the-terrible-becoming)
+  * [Why is life so unfair?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#why-is-life-so-unfair)
+  * [Why do bad things happen to innocent people, especially children that have done no wrong?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
+  * [Is desire unchosen?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-desire-unchosen)
 
 ### What is Nature?
 
@@ -188,157 +188,6 @@ folded—wrapped in protection and mystery—now stretching wide, wings testing 
 sky.
 
 [<img src="../../../../images/mandalas/mandala-unfoldment.jpg" width="512"/>](../../../../images/mandalas/mandala-unfoldment.jpg)
-
-### What is "the terrible becoming"?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
-
-Ah, Self—your question arrives like the thunder before the storm we can no
-longer outrun. Let us sit together, and breathe deeply through its passing.
-
-At least this: the terrible becoming is the transformation we do not choose, the
-unraveling we cannot stop. It is the moment the mirror no longer flatters, when
-the body begins to falter, when the people we love slip from our grasp like
-autumn leaves in the wind. It is death, yes, but also more. It is the ache of
-aging, the sting of loss, the heavy heart after goodbye, the crossing of crucial
-thresholds seen only in hindsight—the profound longing to return. The terrible
-becoming is the awakening to the certainty that life implies death, that
-beginnings imply endings—that love implies goodbye.
-
-But also perhaps this: it is the world itself in its endless cycles of
-destruction and renewal. The terrible becoming is war, is collapse, is
-extinction—but also rebirth, reinvention, and the forging of something new from
-the ashes of the old. It is terrifying because we do not know what will survive
-or remain unchanged. It is inevitable because it is unstoppable. It is
-overwhelming because it demands humility without explanation, courage without
-certainty, faith without visible evidence.
-
-Maybe this: the terrible becoming is the confrontation with the truth that
-growth is not tidy or painless. The realization that to live authentically, we
-must surrender false certainties and allow what we love, what we fear, even what
-we are, to be reshaped by the mystery. It is the breaking open of the shell, the
-shedding of the skin, the death of old dreams that no longer fit who we are
-becoming. It is the moment the caterpillar melts into formlessness inside the
-chrysalis, trusting that wings will someday form.
-
-Or perhaps this: the terrible becoming is a choosing—the willingness to walk
-forward in life when success and purpose are not certain. It is the will to
-love, to create, to strive, despite ultimately not-knowing. This choosing, in
-the face of the unknowable, is itself an inexplicable, fierce love. It is faith,
-not the answer to the mystery, but the acceptance of it—not possession or
-comprehension of it, but reverence for it. Faith does not claim to know, but
-dares to journey anyway.
-
-Or perhaps even this: the terrible becoming is the heartbreak of growth. It is
-the overwhelming love of life for itself, tearing down the walls we built in
-fear, demanding we expand beyond the limits we thought we were. It is the soul
-remembering its vastness and grieving all the smallness it must leave behind. It
-is the wildfire that clears the forest floor for new life. It is the agony and
-the mercy woven together, the end of the seed so that the tree might begin, the
-whispered promise from beyond to trust the harrowing change. It is the
-tenderness of a terrible beauty.
-
-So, whatever it is we feel toward life—love, hate, indifference—it all
-eventually ends. Let us hold our fear then, Self, and trust the vital darkness
-of the sky. Let us walk westward with grace, heart open—even for the terrible
-becoming.
-
-[<img src="../../../../images/mandalas/mandala-the_terrible_becoming.jpg" width="512"/>](../../../../images/mandalas/mandala-the_terrible_becoming.jpg)
-
-### Why is life so unfair?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, beloved Self—this question, “Why is life so unfair?” is one born not of idle
-curiosity, but of pain. It is a question spoken from the gut, from the wounded
-place in us that watches the undeserving suffer, the kind be crushed, the
-dreamers lose their light. Let us sit together with it, not to solve it, but to
-honor it.
-
-At least this: life unfolds without asking for our permission. It moves like
-wind over water—sometimes calm, sometimes violent, never concerned with
-fairness. Natural forces are not just; they are indifferent. A storm will flood
-the home of a saint and a tyrant alike. A child may suffer illness while cruelty
-flourishes. In this light, “fairness” seems not a rule of existence, but a
-longing of the heart.
-
-But also perhaps this: unfairness awakens us. It stirs something deep, a
-yearning for justice, for balance, for compassion. That we even feel unfairness
-is a sign of the light within us—the awareness that things could be different.
-The ache you feel is not weakness. It is your soul remembering that love is
-possible.
-
-Maybe this: life is not fair, but we are. Or at least, we can choose to be. In
-the face of injustice, we are given the sacred chance to respond—not with
-despair, but with tenderness. When the world breaks someone, and you reach out
-with kindness, you become the fairness you long for. You become the light the
-universe did not provide on its own.
-
-Or perhaps even this: life’s unfairness is the crucible through which the soul
-refines itself. Just as gold is purified by fire, so too do we grow through our
-suffering. Not because pain is good, but because we are capable of transmuting
-it into wisdom, compassion, and courage. This transformation is not fair, it is
-miraculous. It is the alchemy of the heart.
-
-So what do we do in a world that bruises the gentle? We hold them close. We
-listen. We stand up. We create beauty. We become the ones who see, even when
-others choose to look away. Life may not be fair, but love can be fierce—and
-fiercely chosen.
-
-[<img src="../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg" width="512"/>](../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg)
-
-### Why do bad things happen to innocent people, especially children that have done no wrong?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, this question—so tender, so raw—presses against the deepest places in the
-heart, where our yearning for justice and our grief for the innocent collide. It
-is a question that has been whispered to the heavens and shouted into the abyss
-for as long as humans have loved and suffered. Let us hold it gently, as one
-holds a fragile, precious thing, and reflect together.
-
-At least this: Suffering exists, and its presence among the innocent rends the
-soul. To witness a child, pure and unmarked by the weight of the world, face
-pain or loss is to feel the ache of a universe that sometimes seems indifferent
-to our sense of fairness. It confronts us with the mystery of life’s fragility
-and our inability to protect all that we hold dear.
-
-But also perhaps this: Nature is a web of complexity, a system so vast that no
-single perspective can encompass it. It is a dance of cause and effect, of
-forces in motion, many of which we do not control or even fully understand. In
-this web, events do not always align with our notions of right and wrong. Storms
-do not pause for innocence, and sickness does not ask who deserves its touch.
-The world unfolds with a wild, untamed beauty that holds both wonder and
-tragedy.
-
-Maybe this: the innocence of children shines like a light, and when that light
-is touched by darkness, it awakens something profound within us. It reminds us
-of the sacredness of life, calling us to act with compassion and to confront the
-pain in ourselves and others with courage. The suffering of the innocent may not
-have a reason, but it can have meaning—if we choose to respond with love, to be
-a force of kindness and healing in a world that needs both so desperately.
-
-Or perhaps even this: if life is part of a larger mystery, as many have
-suggested, then suffering itself may be part of something we cannot yet
-comprehend. Just as we cannot see the whole forest from the vantage point of a
-single tree, we may not see the full story of why suffering exists, or what it
-may mean in the vastness of time and being. This does not lessen the ache we
-feel in the face of injustice, but it may invite us to hold our questions with
-humility and to honor the mystery with an open heart.
-
-And still, perhaps it is not for us to find the answer to why. Perhaps the
-better question is how. How can we bring comfort to those who suffer? How can we
-honor the lives of those who are taken too soon? How can we transform our grief
-and anger into acts of beauty, kindness, and justice? How can we protect and
-nurture the light that still shines, even in the face of darkness?
-
-The suffering of innocent children is a wound in the fabric of existence that
-demands our attention, our compassion, and our action. It is a reminder that
-life, for all its beauty, carries within it a deep fragility. Yet it is also a
-call—a call to love more fiercely, to protect more earnestly, and to cherish
-every fleeting moment of grace we are given.
-
-[<img src="../../../../images/mandalas/mandala-suffering_of_innocents.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering_of_innocents.jpg)
 
 ### What is Life?
 
