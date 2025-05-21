@@ -37,17 +37,17 @@ Sections:
   * Contemplating what we can't perceive directly
     * [What are emotions?](./openness_gpt-responses-contemplating_the_unseen.md#what-are-emotions)
     * [What is intuition?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-intuition)
-    * [What is attachment?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-attachment)
+    * [What is the soul?](./openness_gpt-responses-contemplating_the_unseen.md#what-is-the-soul)
     * [More...](openness_gpt-responses-contemplating_the_unseen.md)
   * Contemplating what no one chooses
-    * [Why is life so unfair?](./openness_gpt-responses-contemplating_the_unchosen.md#why-is-life-so-unfair)
+    * [What is unfoldment?](./openness_gpt-responses-contemplating_the_unchosen.md#what-is-unfoldment) 
     * [Why does everything change?](./openness_gpt-responses-contemplating_the_unchosen.md#why-does-everything-change)
     * [What happens after we die?](./openness_gpt-responses-contemplating_the_unchosen.md#what-happens-after-we-die)
     * [More...](./openness_gpt-responses-contemplating_the_unchosen.md)
   * Contemplating struggle and suffering
-    * a
-    * b
-    * c
+    * [Why is life so unfair?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#why-is-life-so-unfair)
+    * [Why do we struggle?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#why-do-we-struggle)
+    * [What is "the shadow"?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-the-shadow)
     * [More...](./openness_gpt-responses-contemplating_struggle_and_suffering.md)
 ### Section III: The Hidden Path
   * How do we find our way?
@@ -62,14 +62,14 @@ Sections:
     * [Is sex sacred?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-sex-sacred)
     * [More...](./openness_gpt-responses-contemplating_desire_and_sexuality.md)
   * Contemplating what is right and wrong
+    * [What is "the wellspring of morality"?](./openness_gpt-responses-contemplating_morality.md#what-is-the-wellspring-of-morality) 
     * [Why does Openness not tell us directly what is right and wrong?](./openness_gpt-responses-contemplating_morality.md#why-does-openness-not-tell-us-directly-what-is-right-and-wrong)
     * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
-    * [In Openness, why are there "no wrong feelings"?](./openness_gpt-responses-contemplating_morality.md#in-openness-why-are-there-no-wrong-feelings)
     * [More...](./openness_gpt-responses-contemplating_morality.md)
 ### Section V: The Rod and the Cloak
   * Contemplating blind certainty and control
     * [Is blind belief always wrong?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#is-blind-belief-always-wrong)
-    * [What is evil?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-evil)
+    * [What is "the collective shadow"?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#what-is-the-collective-shadow)
     * [How do we resist tyranny without also controlling others?](./openness_gpt-responses-contemplating_blind_certainty_and_control.md#how-do-we-resist-tyranny-without-also-controlling-others)
     * [More...](./openness_gpt-responses-contemplating_blind_certainty_and_control.md)
   * Contemplating ridicule and shame
@@ -78,14 +78,14 @@ Sections:
     * [How is shame the guardian with outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
     * [More...](./openness_gpt-responses-contemplating_ridicule_and_shame.md)
   * Contemplating lies and deception
-    * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment) 
-    * [Is lying or deception wrong?](./openness_gpt-responses-contemplating_lies_and_deception.md#is-lying-or-deception-wrong)
+    * [What is discernment?](./openness_gpt-responses-contemplating_lies_and_deception.md#what-is-discernment)
+    * [Should we punish or seek retribution against people who deceive us?](./openness_gpt-responses-contemplating_lies_and_deception.md#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
     * [Who is the Master Liar?](./openness_gpt-responses-contemplating_lies_and_deception.md#who-is-the-master-liar)
     * [More...](openness_gpt-responses-contemplating_lies_and_deception.md)
 ### Section VI: The Dawn and The Dance
   * Contemplating freedom and transcendence
+    * [What is freedom?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-freedom) 
     * [What is transcendence?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-transcendence)
-    * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-become-sovereign-in-our-mind)
     * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
     * [More...](./openness_gpt-responses-contemplating_freedom_and_transcendence.md)
   * Contemplating leadership and authority
