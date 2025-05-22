@@ -36,6 +36,7 @@ After each response a mandala created by Openness GPT is included.
     * [What exactly do we do in "shadow work"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
     * [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
     * [How do we transform emotions?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-transform-emotions)
+    * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 
 ### Why do we struggle?
 
