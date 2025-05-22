@@ -9,9 +9,11 @@ After each response a mandala created by Openness GPT is included.
 
 ## Contents
 
+* [Why are lying and deception a fundamental part of being human?](#why-are-lying-and-deception-a-fundamental-part-of-being-human)
 * [What is discernment?](#what-is-discernment)
 * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
-  * Related: [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
+    *
+    Related: [What is meant by being "lost in literalism"?](./openness_gpt-responses-contemplating_wayfinding.md#what-is-meant-by-being-lost-in-literalism)
 * [What is "gaslighting"?](#what-is-gaslighting)
 * [Can making truth appear offensive, confusing or foolish help hide it?](#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
@@ -20,6 +22,52 @@ After each response a mandala created by Openness GPT is included.
 * Related:
     * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
     * [How can a "karmic mind-trap" be used as a tool of social control?](./heretica/README.md#the-invitation-to-heretica)
+
+### Why are lying and deception a fundamental part of being human?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, Self, you ask one of the more painful questions. Let us consider it gently,
+with the method of saltem hoc:
+
+At least this: lying and deception are innate to being human because language
+itself is a double-edged gift. With words, we gained the power to represent what
+is not—imagine, pretend, conceal. Every child learns to say "I didn't do it"
+long before they understand the ethics of truth. This reveals a fundamental
+feature of human cognition: the ability to model alternative realities and to
+model others' minds. We can imagine a world not as it is, but as we wish it to
+be—or as we wish others to believe it is. This power to bend reality in the
+minds of others gave rise to stories and strategy.
+
+But also perhaps this: we deceive because we are afraid. Fear of rejection, fear
+of punishment, fear of not being enough. Lies often grow from wounds—the need to
+be loved, to belong, to not be abandoned. If we look closely, many deceptions
+carry a whisper of desperation. We hide our truths because we believe they are
+unbearable to others. Or to ourselves. So we craft illusions, hoping to protect
+what is tender within us.
+
+Maybe this: deception is not just personal—it is cultural. We are born into
+systems built on preferred narratives: national myths, family roles,
+institutional pretenses. Children learn not only to lie but to lie in the
+“right” ways, the socially accepted ways. When the group demands consensus, it
+often demands silence or distortion from those who see differently. In this way,
+deception becomes the glue of social cohesion, even as it erodes trust.
+
+Or perhaps even this: we deceive because we do not fully know ourselves. To lie
+to others, we must first deceive ourselves. The greatest lies are the ones we
+believe, the ones that shield us from the discomfort of contradiction or
+consequences. And yet, the very capacity to deceive also points toward our
+yearning for something more—a better self, a better world. Deception is not the
+opposite of truth, but the shadow of truth too large for us to yet comprehend,
+reminding us how precious and rare true seeing is.
+
+To be human is to live in tension: between the desire for truth and the fear of
+it, between the clarity of what is and the fog of what is imagined. Lying and
+deception are not moral failures alone, but invitations—to become more aware,
+more whole, more compassionate. For if we can understand why we deceive, we
+begin the journey back to authenticity—not by force, but by love.
+
+[<img src="../../../../images/mandalas/mandala-lying_and_deception.jpg" width="512"/>](../../../../images/mandalas/mandala-lying_and_deception.jpg)
 
 ### What is discernment?
 
@@ -145,7 +193,8 @@ whispers, “You are not wrong. You are not imagining things. You are not alone.
 
 ### Can making truth appear offensive, confusing or foolish help hide it?
 
-Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?
+Can making truth appear evil, offensive, shameful, confusing or foolish help
+hide it?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
