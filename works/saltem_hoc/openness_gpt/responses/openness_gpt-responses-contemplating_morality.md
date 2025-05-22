@@ -26,7 +26,7 @@ After each response a mandala created by Openness GPT is included.
   * [What is the "undeniable demonstration of karmic learning"?](#what-is-the-undeniable-demonstration-of-karmic-learning)
   * Related
     * [What is the "river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md)
-* What is immoral?
+* What is not moral?
   * [What is evil?](#what-is-evil)
   * [Is excluding others wrong?](#is-excluding-others-wrong)
   * [Is lying (or deception) wrong?](#is-lying-or-deception-wrong)
