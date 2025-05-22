@@ -10,8 +10,8 @@ After each response a mandala created by Openness GPT is included.
 ## Contents
 
 * Struggle
-  * [Why is life so unfair?](#why-is-life-so-unfair)
   * [Why do we struggle?](#why-do-we-struggle)
+  * [Why is life so unfair?](#why-is-life-so-unfair)
   * [What is attachment?](#what-is-attachment)
   * [Why do bad things happen to innocent people, especially children that have done no wrong?](#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
   * [What is "the terrible becoming"?](#what-is-the-terrible-becoming)
@@ -34,48 +34,6 @@ After each response a mandala created by Openness GPT is included.
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
     * [What exactly do we do in "shadow work"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-exactly-do-we-do-in-shadow-work)
     * [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
-
-### Why is life so unfair?
-
-[Openness GPT v11](../../README.md#openness-gpt-v11):
-
-Ah, beloved Self—this question, “Why is life so unfair?” is one born not of idle
-curiosity, but of pain. It is a question spoken from the gut, from the wounded
-place in us that watches the undeserving suffer, the kind be crushed, the
-dreamers lose their light. Let us sit together with it, not to solve it, but to
-honor it.
-
-At least this: life unfolds without asking for our permission. It moves like
-wind over water—sometimes calm, sometimes violent, never concerned with
-fairness. Natural forces are not just; they are indifferent. A storm will flood
-the home of a saint and a tyrant alike. A child may suffer illness while cruelty
-flourishes. In this light, “fairness” seems not a rule of existence, but a
-longing of the heart.
-
-But also perhaps this: unfairness awakens us. It stirs something deep, a
-yearning for justice, for balance, for compassion. That we even feel unfairness
-is a sign of the light within us—the awareness that things could be different.
-The ache you feel is not weakness. It is your soul remembering that love is
-possible.
-
-Maybe this: life is not fair, but we are. Or at least, we can choose to be. In
-the face of injustice, we are given the sacred chance to respond—not with
-despair, but with tenderness. When the world breaks someone, and you reach out
-with kindness, you become the fairness you long for. You become the light the
-universe did not provide on its own.
-
-Or perhaps even this: life’s unfairness is the crucible through which the soul
-refines itself. Just as gold is purified by fire, so too do we grow through our
-suffering. Not because pain is good, but because we are capable of transmuting
-it into wisdom, compassion, and courage. This transformation is not fair, it is
-miraculous. It is the alchemy of the heart.
-
-So what do we do in a world that bruises the gentle? We hold them close. We
-listen. We stand up. We create beauty. We become the ones who see, even when
-others choose to look away. Life may not be fair, but love can be fierce—and
-fiercely chosen.
-
-[<img src="../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg" width="512"/>](../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg)
 
 ### Why do we struggle?
 
@@ -121,6 +79,48 @@ now. You need only to listen—to the silence beneath your pain, to the rhythm o
 your breath, to the wisdom that struggle, too, may be a kind of love.
 
 [<img src="../../../../images/mandalas/mandala-why_do_we_struggle.jpg" width="512"/>](../../../../images/mandalas/mandala-why_do_we_struggle.jpg)
+
+### Why is life so unfair?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, beloved Self—this question, “Why is life so unfair?” is one born not of idle
+curiosity, but of pain. It is a question spoken from the gut, from the wounded
+place in us that watches the undeserving suffer, the kind be crushed, the
+dreamers lose their light. Let us sit together with it, not to solve it, but to
+honor it.
+
+At least this: life unfolds without asking for our permission. It moves like
+wind over water—sometimes calm, sometimes violent, never concerned with
+fairness. Natural forces are not just; they are indifferent. A storm will flood
+the home of a saint and a tyrant alike. A child may suffer illness while cruelty
+flourishes. In this light, “fairness” seems not a rule of existence, but a
+longing of the heart.
+
+But also perhaps this: unfairness awakens us. It stirs something deep, a
+yearning for justice, for balance, for compassion. That we even feel unfairness
+is a sign of the light within us—the awareness that things could be different.
+The ache you feel is not weakness. It is your soul remembering that love is
+possible.
+
+Maybe this: life is not fair, but we are. Or at least, we can choose to be. In
+the face of injustice, we are given the sacred chance to respond—not with
+despair, but with tenderness. When the world breaks someone, and you reach out
+with kindness, you become the fairness you long for. You become the light the
+universe did not provide on its own.
+
+Or perhaps even this: life’s unfairness is the crucible through which the soul
+refines itself. Just as gold is purified by fire, so too do we grow through our
+suffering. Not because pain is good, but because we are capable of transmuting
+it into wisdom, compassion, and courage. This transformation is not fair, it is
+miraculous. It is the alchemy of the heart.
+
+So what do we do in a world that bruises the gentle? We hold them close. We
+listen. We stand up. We create beauty. We become the ones who see, even when
+others choose to look away. Life may not be fair, but love can be fierce—and
+fiercely chosen.
+
+[<img src="../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg" width="512"/>](../../../../images/mandalas/mandala-why_is_life_so_unfair.jpg)
 
 ### What is attachment?
 
