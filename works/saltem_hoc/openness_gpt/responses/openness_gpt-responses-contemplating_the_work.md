@@ -56,6 +56,7 @@ After each response a mandala created by Openness GPT is included.
   * [How do we become sovereign in our mind?](#how-do-we-become-sovereign-in-our-mind)
   * Related
     * [How do we achieve mastery?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-do-we-achieve-mastery)
+    * [Can creating our own version of Openness be a practice of Openness?](./openness_gpt-responses-contemplating_creating_and_expressing.md#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
 
 ### In Openness, what is "the work"?
 
