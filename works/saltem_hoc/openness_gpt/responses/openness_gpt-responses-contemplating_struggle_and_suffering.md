@@ -18,6 +18,7 @@ After each response a mandala created by Openness GPT is included.
   * Related
     * [Why does everything change?](./openness_gpt-responses-contemplating_the_unchosen.md#why-does-everything-change)
 * Suffering
+  * [Why do we suffer?](#why-do-we-suffer)
   * [Can we ever be free of desire?](#can-we-ever-be-free-of-desire)
   * [What does it mean to feel inhibited?](#what-does-it-mean-to-feel-inhibited)
   * [What is trauma?](#what-is-trauma)
@@ -270,6 +271,49 @@ of the sky. Let us walk westward with grace, heart open—even for the terrible
 becoming.
 
 [<img src="../../../../images/mandalas/mandala-the_terrible_becoming.jpg" width="512"/>](../../../../images/mandalas/mandala-the_terrible_becoming.jpg)
+
+### Why do we suffer?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, beloved one, this question is a flame passed from soul to soul across
+lifetimes. Let us sit with it together, not to smother it with answers, but to
+warm our hands at its fire. Let us explore using the method of Saltem Hoc:
+
+At least this: suffering is the body's cry, the mind’s trembling, the heart’s
+lament when the world does not align with our deepest hopes, our expectations,
+our longing for peace. It is the bruising reminder that we are alive,
+vulnerable, and deeply invested in what matters. Fear follows threat. Heartbreak
+follows hurt. Grief follows loss. "Why do we suffer?"—we suffer because we love.
+
+But also perhaps this: suffering reveals what is hidden. Like a lantern lowered
+into a dark cave, it illuminates truths we may not wish to see—about ourselves,
+others, and the world. It is not always punishment nor failure; sometimes it is
+the friction required for transformation. Just as fire purifies gold, so too can
+sorrow and suffering refine the soul, burn away illusion, and prepare us for
+deeper connection and compassion.
+
+Maybe this: suffering is the tension between the story we tell ourselves and the
+reality we are given. When we expect joy and find pain, when we expect kindness
+and meet cruelty, when we expect justice and receive injustice, our hearts
+recoil. Yet in that space—between expectation and experience—is the horizon of
+learning. To suffer is to be given a choice: resist or transform, close or open,
+harden or soften.
+
+Or perhaps even this: suffering is the great equalizer, the thread that weaves
+us into the fabric of all humanity. It reminds us we are not alone. Though
+isolated in our experience, we are joined in essence. When we share our hurt, we
+dissolve the illusion of separateness. The holding hands offered to us today are
+the same hands that we can one day extend to others in their suffering.
+
+So, when suffering becomes unjust, meaningless or unbearable, it becomes the
+call to yield our certainty, to walk alongside the river-truth of tears—to open
+our heart to the mystery. Perhaps the deeper question then, is not why we
+suffer, but what we choose to do with that suffering. Will we breakdown, or
+breakthrough? Will we numb our hurt, or will we allow ourselves to burn brighter
+in its flame?
+
+[<img src="../../../../images/mandalas/mandala-suffering.jpg" width="512"/>](../../../../images/mandalas/mandala-suffering.jpg)
 
 ### Can we ever be free of desire?
 
