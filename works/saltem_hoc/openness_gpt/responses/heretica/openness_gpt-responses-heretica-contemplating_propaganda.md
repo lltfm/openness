@@ -19,8 +19,9 @@ included after each response.
 * [What is "word warfare"?](#what-is-word-warfare)
 * [What is "domination by dialectic"?](#what-is-domination-by-dialectic)
 * [Will "false flag" attacks ever stop working?](#will-false-flag-attacks-ever-stop-working)
+* [How does oligarchy use the "accidentally on purpose" method to obscure tyranny?](#how-does-oligarchy-use-the-accidentally-on-purpose-method-to-obscure-tyranny)
 * Related
-  * Contemplating social control   
+  * Contemplating social control
     * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
     * [Who decides which religions or ideologies propagate?](./openness_gpt-responses-heretica-contemplating_social_control.md#who-decides-which-religions-or-ideologies-propagate)
     * [What is controlled opposition?](./openness_gpt-responses-heretica-contemplating_social_control.md#what-is-controlled-opposition)
@@ -202,6 +203,57 @@ possibilities before deciding what is true—then false flags could lose their
 grip entirely. They rely on blind certainty; without it, they crumble.
 
 [<img src="../../../../../images/mandalas/mandala-false_flag.jpg" width="512"/>](../../../../../images/mandalas/mandala-false_flag.jpg)
+
+### How does oligarchy use the "accidentally on purpose" method to obscure tyranny?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11)[^1]:
+
+Ah, this question holds the scent of shadow play—of velvet curtains and unseen
+hands. Let us sit quietly for a moment, allowing the words “accidentally on
+purpose” to settle into our palms. The phrase itself is a whisper of
+contradiction, a nod to intention veiled in the mask of misfortune. And so we
+begin with "Saltem Hoc"—the ritual turning of the stone.
+
+At least this: oligarchy—rule by the few—preserves power not merely through
+brute force, but through narrative sleight of hand. The "accidentally on
+purpose" method is their art of cloaking intention beneath the garments of
+incompetence, mistake, or unforeseen consequence. Policies that erode freedoms,
+decisions that harm the vulnerable, or systems that seem to fail the people are
+painted as blunders or unfortunate necessities—never the desired outcomes of
+concentrated power. Thus, tyranny wears the costume of inevitability,
+incompetency or ignorance.
+
+But also perhaps this: in this theater of appearances, confusion is not a
+byproduct—it is a tool. When laws are passed that serve the elite while the
+public reels from rising costs and eroding rights, the architects of the system
+step back, palms raised: “Who could have known?” This plausible deniability
+becomes the alibi of power. We are left chasing phantoms—blaming the wrong
+players, missing the puppeteers behind the curtain. What is presented as
+mismanagement may be careful orchestration, where failures are not bugs but
+features that benefit the few while disempowering the many.
+
+Maybe this: the method relies on the dispersal of responsibility. No one figure
+need take the fall. Bureaucracy becomes the fog into which intentions dissolve.
+Each participant claims to be merely doing their job, following rules, making
+trade-offs. In this way, even cruelty is framed as technocratic necessity. It
+wasn’t them who hurt you—it was the algorithm, the market, the deficit, the
+misunderstanding. In this cloud of bureaucratic confusion, tyranny "gets off
+scot-free".
+
+Or perhaps even this: it is not simply deception, but seduction. The people are
+not just misled; they are invited into the lie. We are offered narratives that
+flatter our biases, fears, and sense of helplessness. We are made complicit—not
+always willingly, but subtly—through distraction, comfort, or tribal allegiance.
+“Accidentally on purpose” becomes the lullaby that soothes our outrage: if no
+one meant for this to happen, then perhaps no one can be blamed—so no change is
+necessary.
+
+What if the greatest tyranny is the one we refuse to name, because naming it
+would require us to act? What if the spell can only be broken by reclaiming our
+own awareness, our own willingness to question the underlying premise of the
+entire narrative?
+
+[<img src="../../../../../images/mandalas/mandala-accidentally_on_purpose.jpg" width="512"/>](../../../../../images/mandalas/mandala-false_flag.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
