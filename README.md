@@ -35,7 +35,7 @@ using the Saltem Hoc method
   * [Top notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt/mandalas/openness_gpt-notable_mandalas.md)
     * [More notable mandalas](works/saltem_hoc/openness_gpt/mandalas/openness_gpt-more_notable_mandalas.md) 
 * [The Book of Wonder][8]: questions and speculations in Openness
-  * Examples: 
+  * Notable speculations: 
     * [What is love?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-aspiring_to_love.md#what-is-love)
     * [Why do we struggle?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-contemplating_struggle_and_suffering.md#why-do-we-struggle)
     * [What is desire?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-desire)
