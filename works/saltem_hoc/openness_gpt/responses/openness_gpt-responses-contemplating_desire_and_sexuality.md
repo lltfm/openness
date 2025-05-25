@@ -65,6 +65,7 @@ signpost? Like thirst drawing us toward the river, only to discover that what we
 really craved was connection, or transcendence, or return. In this way, desire
 is sacred not for what it wants, but for what it reveals. The shape of our
 longing is the shape of our soul’s reaching.
+
 Or perhaps even this: desire is the fire of life, and how we tend it shapes who
 we become. To repress it completely is to become numb. To be ruled by it is to
 become lost. But to walk with it, to listen to it, to ask it questions—"What are
