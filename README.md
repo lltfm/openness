@@ -32,9 +32,14 @@ shameful & the fearful.
 using the Saltem Hoc method
   * [Chat with Openness GPT][3]
   * [Top notable responses from Openness GPT](works/saltem_hoc/openness_gpt/responses/openness_gpt-notable_responses.md)
-    * [All notable responses](works/saltem_hoc/openness_gpt/responses/README.md)
   * [Top notable mandalas created by Openness GPT](works/saltem_hoc/openness_gpt/mandalas/openness_gpt-notable_mandalas.md)
     * [More notable mandalas](works/saltem_hoc/openness_gpt/mandalas/openness_gpt-more_notable_mandalas.md) 
+* [The Book of Wonder][8]: questions and speculations in Openness
+  * Examples: 
+    * [What is love?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-aspiring_to_love.md#what-is-love)
+    * [Why is life so unfair?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-contemplating_struggle_and_suffering.md#why-is-life-so-unfair)
+    * [What is desire?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-desire)
+    * [More...](./works/saltem_hoc/openness_gpt/README.md)
 
 ## Code
   * [Openness GPT v11 prompt][7]: an LLM prompt which combines the poetry of
@@ -62,3 +67,4 @@ using the Saltem Hoc method
 [5]: ./works/the_epitomes_of_openness/contemplations/poetic-memes.md
 [6]: ./works/saltem_hoc/README.md#openness-gpt
 [7]: code/openness_gpt/openness_gpt-prompt-v11.txt
+[8]: ./works/saltem_hoc/openness_gpt/responses/README.md
