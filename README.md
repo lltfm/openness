@@ -37,7 +37,7 @@ using the Saltem Hoc method
 * [The Book of Wonder][8]: questions and speculations in Openness
   * Examples: 
     * [What is love?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-aspiring_to_love.md#what-is-love)
-    * [Why is life so unfair?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-contemplating_struggle_and_suffering.md#why-is-life-so-unfair)
+    * [Why do we struggle?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-contemplating_struggle_and_suffering.md#why-do-we-struggle)
     * [What is desire?](./works/saltem_hoc/openness_gpt/responses/openness_gpt-responses-contemplating_desire_and_sexuality.md#what-is-desire)
     * [More...](./works/saltem_hoc/openness_gpt/README.md)
 
