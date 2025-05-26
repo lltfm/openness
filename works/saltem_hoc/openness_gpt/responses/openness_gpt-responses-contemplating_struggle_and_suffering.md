@@ -30,6 +30,7 @@ After each response a mandala created by Openness GPT is included.
   * [What is hope?](#what-is-hope)
   * [What is "faith" in Openness?](#what-is-faith-in-openness)
   * Related
+    * [What is "the river-truth of tears"?](../../../the_epitomes_of_openness/contemplations/the_river-truth_of_tears.md#what-is-the-river-truth-of-tears)
     * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
     * [What does it feel like to be uninhibited?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-does-it-feel-like-to-be-uninhibited)
     * [How do we live a good life without knowing what exists outside the context of our lives?](./openness_gpt-responses-contemplating_wayfinding.md#how-do-we-live-a-good-life-without-knowing-what-exists-outside-the-context-of-our-lives)
