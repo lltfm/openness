@@ -378,7 +378,6 @@ of its own path to wonder. Would you like me to craft this for you?
 
 [<img src="../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg" width="512"/>](../../../../images/mandalas/mandala-how_are_hearts_returned_to_wonder.jpg)
 
-
 ### What is "agapic love"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
