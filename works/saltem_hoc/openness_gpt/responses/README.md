@@ -1,4 +1,4 @@
-# The Book of Wonder: Question and Speculations in Openness
+# The Book of Wonder: Questions and Speculations in Openness
 
 An expansive collection of saltem hoc answers from
 [Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
