@@ -106,6 +106,10 @@ Sections:
     * [More...](./openness_gpt-responses-contemplating_creating_and_expressing.md)
 ### Section VIII: Heretica
   * [In Openness, what is "heretica"?](./heretica/README.md#in-openness-what-is-heretica)
+  * Contemplating religion as "at least a story"
+    * [How can contemplating a religion as "at least a story" help us understand it without dismissing believers’ faith?](./heretica/README.md#contents)
+    * [Adopting the lens of Christianity as "at least a story", what makes Lucifer/Satan evil?](./heretica/README.md#contents)
+    * [More...](./heretica/README.md#contents)
   * Contemplating oligarchy
     * [What is oligarchy?](./heretica/README.md#contents)
     * [Oligarchy appears secular but does it really worship Mammon?](./heretica/README.md#contents)
