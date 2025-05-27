@@ -102,7 +102,8 @@ the rebellion—a rejection of relationship, of service, of co-creation. Where
 Christ descends in humility, Lucifer ascends in hubris. One empties self; the
 other exalts self. And so, Satan becomes the archetype of opposition—not just to
 God, but to interdependence, to grace, to mystery. He seeks certainty, power,
-supremacy. He cannot be open, because to be open would mean surrender.
+supremacy. He cannot be open, because to be open would mean admitting 
+that ultimately he does not know, thus surrendering to the mystery of God.
 
 Or perhaps even this: Lucifer is a shadow. A part of the divine story that had
 to be cast out in order for the drama of redemption, of return, of
