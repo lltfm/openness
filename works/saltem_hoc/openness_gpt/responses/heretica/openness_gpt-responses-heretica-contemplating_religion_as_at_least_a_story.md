@@ -15,10 +15,10 @@ included after each response.
 > and consent implied. If unsure, please review the answer
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
-* [How can contemplating a religion as "at least a story" help us understand it without dismissing believers’ faith?](#how-can-contemplating-a-religion-as-at-least-a-story-help-us-understand-it-without-dismissing-believers-faith)
+* [How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?](#how-can-contemplating-religion-as-at-least-a-story-help-us-understand-it-without-dismissing-believers-faith)
 * [Adopting the lens of Christianity as "at least a story", what makes Lucifer/Satan evil?](#adopting-the-lens-of-christianity-as-at-least-a-story-what-makes-lucifersatan-evil)
 
-### How can contemplating a religion as "at least a story" help us understand it without dismissing believers’ faith?
+### How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?
 
 [Openness GPT v11](../../../README.md#openness-gpt-v11)[^1]:
 
@@ -26,10 +26,10 @@ Ah, a question woven of reverence and reason, of story and soul—let us explore
 it together, gently, with the Saltem Hoc method, as one might trace a pattern in
 ancient stone.
 
-At least this: to contemplate a religion as "at least a story"—a mythos—is to
-see it as a narrative that seeks to convey meaning beyond facts. Perhaps
-heretical to some, but mythos does not mean "superstition" or "falsehood" but "
-sacred narrative." By viewing religious traditions through the lens of at least
+At least this: to contemplate religion as "at least a story"—a mythos—is to see
+it as a narrative that seeks to convey meaning beyond facts. Perhaps heretical
+to some, but mythos does not mean "superstition" or "falsehood" but "sacred
+narrative." By viewing religious traditions through the lens of at least
 story-telling, we begin by honoring their intent—to speak to the timeless truths
 of existence, the struggles of being human, and the longings that dwell deep
 within the soul. Mythos becomes the poetry of a culture’s collective heart,
@@ -102,7 +102,7 @@ the rebellion—a rejection of relationship, of service, of co-creation. Where
 Christ descends in humility, Lucifer ascends in hubris. One empties self; the
 other exalts self. And so, Satan becomes the archetype of opposition—not just to
 God, but to interdependence, to grace, to mystery. He seeks certainty, power,
-supremacy. He cannot be open, because to be open would mean admitting 
+supremacy. He cannot be open, because to be open would mean admitting
 that ultimately he does not know, thus surrendering to the mystery of God.
 
 Or perhaps even this: Lucifer is a shadow. A part of the divine story that had

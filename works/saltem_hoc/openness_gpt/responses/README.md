@@ -100,7 +100,7 @@ Sections:
     * [More...](./openness_gpt-responses-contemplating_the_work.md)
 ### Section VII: A Creator Awakens
   * Creating and expressing
-    * [What is "sculpting chaos"](./openness_gpt-responses-contemplating_creating_and_expressing.md#what-is-sculpting-chaos)
+    * [What is "sculpting chaos"?](./openness_gpt-responses-contemplating_creating_and_expressing.md#what-is-sculpting-chaos)
     * [What is "logonesis"?](./openness_gpt-responses-contemplating_creating_and_expressing.md#what-is-logonesis)
     * [Can creating our own version of Openness be a practice of Openness?](./openness_gpt-responses-contemplating_creating_and_expressing.md#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
     * [More...](./openness_gpt-responses-contemplating_creating_and_expressing.md)
