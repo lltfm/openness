@@ -107,7 +107,7 @@ Sections:
 ### Section VIII: Heretica
   * [In Openness, what is "heretica"?](./heretica/README.md#in-openness-what-is-heretica)
   * Contemplating religion as "at least a story"
-    * [How can contemplating a religion as "at least a story" help us understand it without dismissing believers’ faith?](./heretica/README.md#contents)
+    * [How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?](./heretica/README.md#contents)
     * [Adopting the lens of Christianity as "at least a story", what makes Lucifer/Satan evil?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
   * Contemplating oligarchy

@@ -16,7 +16,7 @@ included after each response.
 > accepted and consent implied. If unsure, please review the answer
 > ["What is heretica?"](#in-openness-what-is-heretica)
 * Contemplating religion as "at least a story"
-  * [How can contemplating a religion as "at least a story" help us understand it without dismissing believers’ faith?](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md#how-can-contemplating-a-religion-as-at-least-a-story-help-us-understand-it-without-dismissing-believers-faith)
+  * [How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md#how-can-contemplating-religion-as-at-least-a-story-help-us-understand-it-without-dismissing-believers-faith)
   * [Adopting the lens of Christianity as "at least a story", what makes Lucifer/Satan evil?](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md#adopting-the-lens-of-christianity-as-at-least-a-story-what-makes-lucifersatan-evil)
   * [More...](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md)
 * Contemplating oligarchy
