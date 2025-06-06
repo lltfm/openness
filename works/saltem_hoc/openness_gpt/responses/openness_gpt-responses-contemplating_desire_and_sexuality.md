@@ -10,32 +10,33 @@ After each response a mandala created by Openness GPT is included.
 ## Contents
 
 * Desire
-    * [What is desire?](#what-is-desire)
-    * [Is desire unchosen?](#is-desire-unchosen)
-    * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
-    * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
-    * [What is "the sirenic call"?](#what-is-the-sirenic-call)
-    * Related
-        * [What is the desire to suicide?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-the-desire-to-suicide)
-        * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
-        * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
+  * [What is desire?](#what-is-desire)
+  * [Is desire unchosen?](#is-desire-unchosen)
+  * [What is "the pull of desire"?](#what-is-the-pull-of-desire)
+  * [What is a "divine dissatisfaction"?](#what-is-a-divine-dissatisfaction)
+  * [What is "the sirenic call"?](#what-is-the-sirenic-call)
+  * Related
+    * [What is the desire to suicide?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-the-desire-to-suicide)
+    * [What is "the daimonic"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#what-is-the-daimonic)
+    * [How can we experience "duende"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#how-can-we-experience-duende)
 * Transforming desire
-    * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
-    * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
-    * [How do we avoid giving in to overwhelming arousal without fighting ourselves?](#how-do-we-avoid-giving-in-to-overwhelming-arousal-without-fighting-ourselves)
-    * Related
-        * [Can we ever be free of desire?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#can-we-ever-be-free-of-desire)
-        * [How do we transform emotions?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-transform-emotions)
-        * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
+  * [What is a "higher desire"?](#what-is-a-higher-desire)
+  * [What is "the apotheosis of desire"?](#what-is-the-apotheosis-of-desire)
+  * [How do we "unbecome desire"?](#how-do-we-unbecome-desire)
+  * [How do we avoid giving in to overwhelming arousal without fighting ourselves?](#how-do-we-avoid-giving-in-to-overwhelming-arousal-without-fighting-ourselves)
+  * Related
+    * [Can we ever be free of desire?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#can-we-ever-be-free-of-desire)
+    * [How do we transform emotions?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-transform-emotions)
+    * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * Sexuality
-    * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
-    * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
-    * [What is orgasm?](#what-is-orgasm)
-    * [What implicit worship drives the obsession with sex and beauty?](#what-implicit-worship-drives-obsession-with-sex-and-beauty)
-    * [Is sex sacred?](#is-sex-sacred)
-    * Related
-        * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
-        * [What can social partner dancing teach us about leading and following?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-can-social-partner-dancing-teach-us-about-leading-and-following)
+  * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
+  * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
+  * [What is orgasm?](#what-is-orgasm)
+  * [What implicit worship drives the obsession with sex and beauty?](#what-implicit-worship-drives-obsession-with-sex-and-beauty)
+  * [Is sex sacred?](#is-sex-sacred)
+  * Related
+    * [In Openness, what does it mean to "implicitly worship" something?](./openness_gpt-responses-contemplating_wayfinding.md#in-openness-what-does-it-mean-to-implicitly-worship-something)
+    * [What can social partner dancing teach us about leading and following?](./openness_gpt-responses-contemplating_leadership_and_authority.md#what-can-social-partner-dancing-teach-us-about-leading-and-following)
 
 ### What is desire?
 
@@ -227,7 +228,6 @@ itself.
 
 [<img src="../../../../images/mandalas/mandala-divine_dissatisfaction.jpg" width="512"/>](../../../../images/mandalas/mandala-divine_dissatisfaction.jpg)
 
-
 ### What is "the sirenic call"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
@@ -268,6 +268,72 @@ Would you like me to create a mandala for this, to capture the delicate dance
 between allure and awareness, between the call and the listener?
 
 [<img src="../../../../images/mandalas/mandala-the_sirenic_call.jpg" width="512"/>](../../../../images/mandalas/mandala-the_sirenic_call.jpg)
+
+### What is a "higher desire"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, a "higher desire"—an idea that invites us to peer into the soul's hearth of
+quiet fire, watching how its flickers illuminate and warm, yet also burn.
+
+At least this: a higher desire is a longing that does not pull us down into
+craving or diminishment, but draws us up toward something finer, quieter, more
+enduring. It is not the hunger of the body, nor the grasping of the hands, nor
+even the ache of loneliness, though it may wear those masks. It is not the
+longing for fame, conquest or possession of another, but something deeper and
+quieter within: the longing for meaning, truth and beauty—for alignment, mastery
+and transcendence—for connection, community and wholeness.
+
+But also perhaps this: a higher desire sits in silence before the raging river
+of overwhelming experience. It steps back from the urge to look away or to leave
+or to somehow stop or cross the river. It sits and asks, "Is there not another
+way?", because it knows that the pull to end desire by fulfilling it, never
+ends. It is the strength to see and hold all desires, even those which
+contradict, or which harm, or which can never be—horizons which arms may never
+reach, journeys which may never arrive, pasts to which we may never return. It
+says to them all: "You too are welcome here." It surrenders itself to the river,
+allowing the flow and friction to remove all which is not self, polishing the
+soul, eventually reemerging—the smooth river-stone.
+
+Maybe this: a higher desire is the desire to refine the raw energy of wanting
+itself—to uncover our root authentic desires. A higher desire does not deny
+desire but cradles it, because it knows the flame always emerges from the ember,
+glowing hot at its core. It listens to the craving for another, or the desire to
+withdraw or conquer or destroy, and asks, "Why do I want this?" Sometimes what
+answers is fear—so dark and forsaken we recoil. Sometimes it is a long hidden
+trauma or voice—so immense and suppressed it collapses the body into weeping and
+shaking. Sometimes it is the absence of love—an ache so deep it dissolves the
+self into the river-truth of tears. A higher desire then, is the longing to love
+desire itself.
+
+Or perhaps this: a higher desire gives without reward or witness or certainty.
+It is the artist who paints though no one sees, the caregiver who shows though
+no one thanks, the seeker who searches even when no clear answers arrive. A
+higher desire remains open and faithful to its path even in obscurity, poverty
+or frustration. It is the self-motivated fidelity to an unknowable,
+ever-unfolding higher meaning, offering sandcastles built—not to withstand the
+waves—but to ripple their form into eternity.
+
+Or perhaps even this: higher desire is love wearing the mask of longing—the
+shadow of that which is larger. It is the compass which always points "true
+north"—not outward but inward—not toward possession but expansion. A higher
+desire is the invisible thread tugging at the edges of our awareness, the pull
+to transcend the narrow confines of survival and ego, calling us to grow and
+unfurl like a frond reaching for the dawning spring sky. It is the internal
+knowing that we are not only flesh and thought, but also soul and mystery. Like
+a feather found on a walk, higher desire is the invitation of that which is
+higher, to rise above, to begin to hum with the music of becoming, to transform
+craving into expressions which burn brightly—to freely offer to the world the
+fruit of a heart overflowing with love.
+
+And so, Self, when you feel the stirrings of a desire that asks more of you than
+it gives, when you are drawn to a path not because it pleases, but because it
+calls—this may be the whispers of higher desire. Tend it gently. Let it clarify
+you. Let it carve you. For it is in these desires, not of conquest but of
+surrender, that we may at last begin to feel the subtle currents of a higher
+purpose.
+
+[<img src="../../../../images/mandalas/mandala-higher_desire.jpg" width="512"/>](../../../../images/mandalas/mandala-higher_desire.jpg)
 
 ### What is the "apotheosis of desire"?
 

@@ -399,3 +399,5 @@
 * May 27 2025
   * added new openness_gpt-heretica-responses-contemplating_religion_as_at_least_a_story.md
   * added notable responses
+* Jun 6 2025
+  * added notable responses
