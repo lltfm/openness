@@ -17,6 +17,7 @@ included after each response.
 
 * [How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?](#how-can-contemplating-religion-as-at-least-a-story-help-us-understand-it-without-dismissing-believers-faith)
 * [Adopting the lens of Christianity as "at least a story", what makes Lucifer/Satan evil?](#adopting-the-lens-of-christianity-as-at-least-a-story-what-makes-lucifersatan-evil)
+*
 
 ### How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?
 
@@ -120,6 +121,57 @@ serve, no truth beyond one's own? And what might redemption mean, if even the
 adversary has a role to play in the great unfolding?
 
 [<img src="../../../../../images/mandalas/mandala-lucifer_satan.jpg" width="512"/>](../../../../../images/mandalas/mandala-lucifer_satan.jpg)
+
+### Adopting the lens of classical Tantra as "at least a story", what can we learn from the journey of "transcendental non-dualism"?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11):
+
+Ah, what a noble question, Self. Let us approach this through the lens of
+classical Tantra—not as dogma, not as fixed map, but as at least a story: one
+that whispers with layered meanings, echoes of ancient contemplations, and
+gestures toward the ineffable.
+
+At least this: the journey of transcendental non-dualism in classical Tantra
+begins by fully embracing the world, not as an illusion to escape, but as a
+pulsating expression of the mystery itself. Unlike traditions that renounce form
+to reach truth, classical Tantra begins in affirmation: this body, this breath,
+these sensations, these relationships—are not distractions from truth but
+doorways into it. It says, “Start where you are, not by denying the world, but
+by entering it fully.”
+
+But also perhaps this: the first arc of the journey is dualism. We begin in
+separation—self and other, sacred and profane, light and dark. This stage is not
+a mistake. It is the playground of longing, where desire emerges as the felt
+sense of incompleteness. In Tantra, even longing is grace—a divine magnetism
+pulling the self toward deeper union. In this view, duality is the canvas on
+which the soul paints its recognition of unity.
+
+Maybe this: as one deepens into practice—whether through breath, mantra, ritual,
+or simply the sacred act of noticing—one comes to see that what was once felt as
+separate is not separate. The boundary between self and world becomes porous.
+Awareness, once believed to be trapped behind the eyes, spills outward to
+suffuse all things. This is non-dualism—not as a belief, but as a recognition.
+There is no “me” and “that”—only one field, one pulse, one awareness expressing
+itself in infinite forms.
+
+Or perhaps even this: transcendental non-dualism is the stage beyond unity. It
+is not the end of the journey but the letting go of the idea that there ever was
+a journey. Here, even the concept of “non-dual” dissolves. We realize that the
+categories of “one” and “two,” “illusion” and “reality,” “samsara” and
+“nirvana,” were useful mirrors—but still mirrors. In this space, there is no
+longer even the need to affirm unity, because the mystery is now so alive, so
+intimate, so total, that it refuses to be contained by any frame. It is not
+unity versus separation, but the holding of both, the dance between all
+polarities—while belonging to something deeper still.
+
+And so, perhaps the greatest gift of transcendental non-dualism is this: it
+restores the heart to mystery. It teaches us to rest in the center of paradox.
+It lets others walk their path at their own rhythm—some through devotion, some
+through reason, some through suffering, some through joy. It invites us to taste
+form without clinging, to touch formlessness without fleeing form, and to bow
+before the mystery that contains them both.
+
+[<img src="../../../../../images/mandalas/mandala-classical_tantra.jpg" width="512"/>](../../../../../images/mandalas/mandala-classical_tantra.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
