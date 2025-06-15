@@ -1,4 +1,4 @@
-# Heretica: Contemplating social control
+# Heretica: Contemplating the occult and dark spirituality
 
 An extended collection of notable responses from
 [Openness GPT](../../README.md#openness-gpt) that capture the essence of
