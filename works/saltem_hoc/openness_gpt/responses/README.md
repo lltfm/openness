@@ -133,7 +133,6 @@ Sections:
   * Contemplating the occult and dark spirituality
     * [What is "the occult"?](./heretica/README.md#contents)
     * [What is "survival of the wisest"?](./heretica/README.md#contents)
-    * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
 ### Section IX: Addendums
   * Questioning and demonstrating Openness
