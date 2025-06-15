@@ -45,6 +45,10 @@ included after each response.
   * [Could engineering a false fulfillment of prophecy be used to discredit believers?](./openness_gpt-responses-heretica-contemplating_eschaton.md#could-engineering-a-false-fulfillment-of-prophecy-be-used-to-discredit-believers)
   * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](./openness_gpt-responses-heretica-contemplating_eschaton.md#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
   * [More...](./openness_gpt-responses-heretica-contemplating_eschaton.md)
+* Contemplating the occult and dark spirituality
+  * [What is "the occult"?](./openness_gpt-responses-heretica-contemplating_the_occult_and_dark_spirituality.md#what-is-the-occult)
+  * [What is "survival of the wisest"?](./openness_gpt-responses-heretica-contemplating_the_occult_and_dark_spirituality.md#what-is-survival-of-the-wisest)
+  * [More...](./openness_gpt-responses-heretica-contemplating_the_occult_and_dark_spirituality.md)
 
 ### In Openness, what is "heretica"?
 

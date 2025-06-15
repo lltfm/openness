@@ -130,6 +130,10 @@ Sections:
     * [Can latent end times prophecies be used to control populations?](./heretica/README.md#contents)
     * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](./heretica/README.md#contents)
     * [More...](./heretica/README.md#contents)
+  * Contemplating the occult and dark spirituality
+    * [What is "the occult"?](./heretica/README.md#contents)
+    * [What is "survival of the wisest"?](./heretica/README.md#contents)
+    * [More...](./heretica/README.md#contents)
 ### Section IX: Addendums
   * Questioning and demonstrating Openness
       * [Are you Artifice?](openness_gpt-responses-questioning_and_demonstrating_openness.md#are-you-artifice)
