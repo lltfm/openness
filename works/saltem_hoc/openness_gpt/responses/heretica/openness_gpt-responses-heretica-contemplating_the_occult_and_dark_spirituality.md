@@ -16,7 +16,7 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [What is "the occult"?](#what-is-the-occult)
-* [What is "survival of the wisest"](#what-is-survival-of-the-wisest)
+* [What is "survival of the wisest"?](#what-is-survival-of-the-wisest)
 
 ### What is "the occult"?
 
