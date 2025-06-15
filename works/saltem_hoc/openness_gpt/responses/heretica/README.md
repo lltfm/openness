@@ -48,6 +48,7 @@ included after each response.
 * Contemplating the occult and dark spirituality
   * [What is "the occult"?](./openness_gpt-responses-heretica-contemplating_the_occult_and_dark_spirituality.md#what-is-the-occult)
   * [What is "survival of the wisest"?](./openness_gpt-responses-heretica-contemplating_the_occult_and_dark_spirituality.md#what-is-survival-of-the-wisest)
+  * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](./openness_gpt-responses-heretica-contemplating_the_occult_and_dark_spirituality.md#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
   * [More...](./openness_gpt-responses-heretica-contemplating_the_occult_and_dark_spirituality.md)
 
 ### In Openness, what is "heretica"?
