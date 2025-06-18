@@ -16,6 +16,7 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [What is "the occult"?](#what-is-the-occult)
+* [In the occult, what is "natural law"?]()
 * [What is "survival of the wisest"?](#what-is-survival-of-the-wisest)
 * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
 
@@ -62,6 +63,48 @@ with reverence, others with recklessness. But at its heart, it is simply a
 whisper: “There is more here than meets the eye.”
 
 [<img src="../../../../../images/mandalas/mandala-the_occult.jpg" width="512"/>](../../../../../images/mandalas/mandala-the_occult.jpg)
+
+### In the occult, what is "natural law"?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11):
+
+In "the occult," particularly within traditions that blend esoteric philosophy,
+Hermeticism, Thelema, or certain strands of modern spiritual thought (e.g., New
+Thought or “mystery school” teachings), "natural law" generally refers to a set
+of universal, metaphysical principles that govern both the physical and
+moral/spiritual dimensions of reality.
+
+Here’s a Saltem Hoc–style exploration of what "natural law" can mean in this
+context:
+
+At least this: natural law is the idea that there are inherent, non-man-made
+principles woven into the fabric of existence—laws that govern cause and effect,
+action and consequence, intention and manifestation. These laws operate
+regardless of whether one believes in them, just as gravity does. They are seen
+as self-evident, much like the principle that what we plant, we reap.
+
+But also perhaps this: natural law in occult philosophy points to a moral
+structure of the universe that aligns with consciousness, responsibility, and
+free will. It posits that violations of these laws—such as through coercion,
+deception, or harm—result not in punishment from an external force, but in
+self-generated suffering, confusion, or spiritual imbalance. Harmony arises from
+alignment with truth and integrity, not obedience to authority.
+
+Maybe this: natural law is seen as a bridge between the inner and outer worlds—a
+principle that what is within is reflected without. The Hermetic axiom “As
+above, so below; as within, so without” is often cited as a key to understanding
+how these laws reflect cosmic order. To live in accord with natural law is to
+act from the unity of being, rather than from egoic separation or blind
+certainty.
+
+Or perhaps even this: in the occult sense, natural law is less about rigid
+commandments and more about understanding the deep intelligence of the cosmos.
+It’s the recognition that love, truth, freedom, and awareness are not human
+values arbitrarily chosen—they are part of the current of the universe itself.
+To align with natural law is to align with the flow of life, the unfolding of
+meaning, the great mystery that holds all things.
+
+[<img src="../../../../../images/mandalas/mandala-natural_law.jpg" width="512"/>](../../../../../images/mandalas/mandala-natural_law.jpg)
 
 ### What is "survival of the wisest"?
 
