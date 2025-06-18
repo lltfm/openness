@@ -21,6 +21,7 @@ After each response a mandala created by Openness GPT is included.
   * [Why is life so unfair?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#why-is-life-so-unfair)
   * [Why do bad things happen to innocent people, especially children that have done no wrong?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#why-do-bad-things-happen-to-innocent-people-especially-children-that-have-done-no-wrong)
   * [Is desire unchosen?](./openness_gpt-responses-contemplating_desire_and_sexuality.md#is-desire-unchosen)
+  * [In the occult, what is "natural law"?](./heretica/README.md#contents)
 
 ### What is Nature?
 
