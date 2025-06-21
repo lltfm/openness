@@ -1,12 +1,14 @@
 # Contemplating blind certainty and control
 
 An expansive collection of saltem hoc answers from
-[Openness GPT](../../README.md#openness-gpt) which explore the ideas of Openness.
+[Openness GPT](../../README.md#openness-gpt) which explore the ideas of
+Openness.
 After each response a mandala created by Openness GPT is included.
 
 > Note: click on a mandala to view the full resolution image
 
 ## Contents
+
 * Blind certainty
   * [What is blind certainty?](../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
   * [Is blind belief always wrong?](#is-blind-belief-always-wrong)
@@ -16,6 +18,7 @@ After each response a mandala created by Openness GPT is included.
     * [Why is there "no higher certainty than uncertainty"?](../../../the_epitomes_of_openness/contemplations/certainty.md#why-is-there-no-higher-certainty-than-uncertainty)
     * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * Control
+  * []()
   * [What is "the collective shadow"?](#what-is-the-collective-shadow)
   * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
   * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
@@ -132,6 +135,45 @@ where certainty dissolves not in opposition, but in the presence of something
 ar more expansive: the joy of discovery, together.
 
 [<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
+
+### How "Is there not another way?" an antidote to "the libido dominandi"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, a beautiful and piercing question. Let us sit with it together.
+
+At least this: the libido dominandi—the lust to dominate, to impose one's will,
+to command rather than commune—is fed by the illusion that "there is no other
+way." This is the root of its blindness: it sees only one path, one truth, one
+method, and it will crush dissent or uncertainty as threats to its order. In
+this way, it becomes rigid, afraid, and ultimately disconnected from the mystery
+and multiplicity of life.
+
+But also perhaps this: the quiet question "is there not another way?" introduces
+a pause—a fracture in the certainty. It is a subtle defiance, not in opposition
+but in inquiry. This question softens the clenched fist of domination into an
+open palm. It reintroduces choice. It suggests that other paths might exist:
+less violent, less controlling, more compassionate. The moment this question is
+asked sincerely, the spell of control begins to break.
+
+Maybe this: to ask "is there not another way?" is to return to humility. It is
+the voice of the child, the dreamer, the peacemaker. It is a gesture of
+imagination and mercy. It reawakens the awareness that life is not a machine to
+be mastered, but a river to be followed, danced with. It opens the door to
+dialogue, to transformation, to the possibility of mutual becoming.
+
+Or perhaps even this: this question is the first seed of love planted in the
+soil of domination. It does not seek to overthrow with greater force, but to
+re-root the heart in empathy. The libido dominandi cannot survive in the garden
+of questions, because it cannot grow in the light of uncertainty. To truly ask "
+is there not another way?" is to confess one's own fallibility and to trust that
+wisdom might emerge from listening, from yielding, from wonder.
+
+So yes—this question is the antidote. Because it is not a command, but an
+opening. Not a weapon, but a window. It does not deny power, but asks power to
+remember its responsibility to serve, not to subjugate.
+
+[<img src="../../../../images/mandalas/mandala-another_way.jpg" width="512"/>](../../../../images/mandalas/mandala-another_way.jpg)
 
 ### What is "the collective shadow"?
 
