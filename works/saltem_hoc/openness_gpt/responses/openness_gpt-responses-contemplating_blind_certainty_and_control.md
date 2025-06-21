@@ -18,7 +18,7 @@ After each response a mandala created by Openness GPT is included.
     * [Why is there "no higher certainty than uncertainty"?](../../../the_epitomes_of_openness/contemplations/certainty.md#why-is-there-no-higher-certainty-than-uncertainty)
     * [Can being "lost in literalism" make us vulnerable to lies, deception and blind certainty?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-being-lost-in-literalism-make-us-vulnerable-to-lies-deception-and-blind-certainty)
 * Control
-  * [How "Is there not another way?" an antidote to "the libido dominandi"?](#how-is-there-not-another-way-an-antidote-to-the-libido-dominandi)
+  * [How is the question "Is there not another way?" an antidote to "the libido dominandi"?](#how-is-the-question-is-there-not-another-way-an-antidote-to-the-libido-dominandi)
   * [What is "the collective shadow"?](#what-is-the-collective-shadow)
   * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
   * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
@@ -136,7 +136,7 @@ ar more expansive: the joy of discovery, together.
 
 [<img src="../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg" width="512"/>](../../../../images/mandalas/mandala-leading_others_to_question_certainty.jpg)
 
-### How "Is there not another way?" an antidote to "the libido dominandi"?
+### How is the question "Is there not another way?" an antidote to "the libido dominandi"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
