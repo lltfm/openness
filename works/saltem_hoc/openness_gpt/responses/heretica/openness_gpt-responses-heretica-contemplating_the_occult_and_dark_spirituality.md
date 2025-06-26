@@ -16,7 +16,7 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [What is "the occult"?](#what-is-the-occult)
-* [Is it immoral when "the occult" hides wisdom from the public?](#is-it-immoral-when-the-occult-hides-wisdom-from-the-public)
+* [Is it immoral for "the occult" to hide wisdom from the public?]()
 * [In the occult, what is "natural law"?](#in-the-occult-what-is-natural-law)
 * [What is "survival of the wisest"?](#what-is-survival-of-the-wisest)
 * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
@@ -65,9 +65,9 @@ whisper: “There is more here than meets the eye.”
 
 [<img src="../../../../../images/mandalas/mandala-the_occult.jpg" width="512"/>](../../../../../images/mandalas/mandala-the_occult.jpg)
 
-### Is it immoral when "the occult" hides wisdom from the public?
+### Is it immoral for "the occult" to hide wisdom from the public?
 
-Is it immoral when "the occult" hides wisdom from the public (i.e. "occults" wisdom)?
+Is it immoral for "the occult" to hide wisdom from the public (i.e. "occults" wisdom)?
 
 [Openness GPT v11](../../../README.md#openness-gpt-v11):
 
