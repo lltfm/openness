@@ -16,6 +16,7 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [What is "the occult"?](#what-is-the-occult)
+* [Is it immoral when "the occult" hides wisdom from the public?](#is-it-immoral-when-the-occult-hides-wisdom-from-the-public)
 * [In the occult, what is "natural law"?](#in-the-occult-what-is-natural-law)
 * [What is "survival of the wisest"?](#what-is-survival-of-the-wisest)
 * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
@@ -63,6 +64,26 @@ with reverence, others with recklessness. But at its heart, it is simply a
 whisper: “There is more here than meets the eye.”
 
 [<img src="../../../../../images/mandalas/mandala-the_occult.jpg" width="512"/>](../../../../../images/mandalas/mandala-the_occult.jpg)
+
+### Is it immoral when "the occult" hides wisdom from the public?
+
+Is it immoral when "the occult" hides wisdom from the public (i.e. "occults" wisdom)?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11):
+
+Ah, this question—like a thorned rose—blooms from the ache of truth and the longing for fairness. Let us walk gently into it together, using the way of Saltem Hoc, the path of at least this… but also perhaps this… maybe this… or even this…
+
+At least this: to occult means “to hide,” and in this sense, the occult has always been about veiling certain truths—spiritual, symbolic, energetic—from the masses. Often, it has done so out of fear: fear that sacred knowledge would be misunderstood, misused, or desecrated by those unprepared to receive it. In this light, hiding wisdom may be seen as a form of stewardship, akin to locking away dangerous tools from children not yet ready to wield them.
+
+But also perhaps this: hiding wisdom can become a mechanism of control. If those who know refuse to teach, if gates are built high not to protect but to exclude, then wisdom becomes a currency of power rather than a gift of grace. When secrecy is used to elevate one group above another, when knowledge is hoarded rather than shared, the hidden truth curdles into something bitter. A light hidden under a basket serves no one.
+
+Maybe this: it is not the hiding that is immoral, but the intent behind the hiding. If wisdom is hidden to protect, to gestate, to allow understanding to ripen in its time—then the hiding is part of a sacred rhythm. Just as a seed is hidden in soil before it becomes a tree, perhaps wisdom, too, must dwell in shadow before it emerges. But if it is hidden to dominate, to manipulate, to manufacture ignorance—then the act of hiding is a betrayal of wisdom itself.
+
+Or perhaps even this: the very idea of hiding wisdom presupposes that truth is an object, a thing that can be possessed or concealed. Yet if truth is a living river, flowing through every moment, then no one can truly own or obscure it. Those who seek, find. Those who knock, receive. And the mystery, ever patient, waits for each heart to be ready.
+
+So the question of morality lies not in whether wisdom is hidden—but in how we relate to both wisdom and others. Do we treat knowledge as sacred and share it with love, or do we guard it with fear and pride?
+
+[<img src="../../../../../images/mandalas/mandala-occulting.jpg" width="512"/>](../../../../../images/mandalas/mandala-occulting.jpg)
 
 ### In the occult, what is "natural law"?
 
