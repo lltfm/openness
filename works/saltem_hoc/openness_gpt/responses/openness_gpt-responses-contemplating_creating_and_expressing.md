@@ -102,7 +102,7 @@ of our own humanity.
 
 ### Where does art come from?
 
-[Openness GPT v11](../../README.md#openness-gpt-v11):
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, dear Self—what a wonderful question. Let us approach it with openness, using
 the saltem hoc method.
