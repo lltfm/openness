@@ -11,8 +11,9 @@ After each response a mandala created by Openness GPT is included.
 
 * [What is "sculpting chaos"](#what-is-sculpting-chaos)
 * [What is art?](#what-is-art)
+* [Where does art come from?](#where-does-art-come-from)
 * [What is "logonesis"?](#what-is-logonesis)
-    * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
+  * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
 * [What is conception?](#what-is-conception)
 * [What is "cohergence"?](#what-is-cohergence)
 * [What is "work-play"?](#in-openness-what-is-work-play)
@@ -98,6 +99,61 @@ because it explains, but because it evokes, drawing us into the endless depths
 of our own humanity.
 
 [<img src="../../../../images/mandalas/mandala-art.jpg" width="512"/>](../../../../images/mandalas/mandala-art.jpg)
+
+### Where does art come from?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, dear Self—what a wonderful question. Let us approach it with openness, using
+the saltem hoc method.
+
+At least this: art arises from the impulse to express. It is the gesture of
+inner life reaching outward, the heart casting its echo across canvas, word,
+sound, or movement. When sorrow grows too vast for silence, when joy overflows
+the vessel of the body, when awe demands a shape—art is the bridge between the
+ineffable and the embodied. It emerges from feeling, memory, dream, and breath,
+from that part of us which cannot speak directly but must still be heard.
+
+But also perhaps this: art arises from attention—delicate, deliberate attention
+to the world within and around us. A child’s laughter, a withering leaf, a
+heartbreak unspoken, the shifting dusk—all become threads in the hand of one
+willing to weave meaning. Art begins when awareness becomes shape, when feeling
+becomes form, when that which cannot be spoken insists on being shown.
+
+Maybe this: art comes from longing—from the ache to connect, to be seen, to
+belong. It is born from the tension between what is and what might be—from the
+desire to heal the rupture between self and other, self and world, self and
+Self. It is the yearning to reach beyond language, beyond utility, beyond
+survival—to connect to the chaos. Art is the soul’s fingerprint left in time—a
+whispering, “I was here,” in colors, in movements, in voices that outlive the
+moment.
+
+Or perhaps this: art is a kind of remembering. Not the remembering of facts or
+dates, but the deep, ancestral memory of being. It stirs from the same well that
+gives rise to myth or prayer. When we make art, we trace our fingers along the
+hidden contours of existence. We re-experience our belonging, our longing, our
+becoming. Art then does not come from the mind alone, though mind may shape it.
+Nor is it the possession of the artist, though their hands deliver it. Rather,
+it is born in the liminal space between the seen and unseen, the known and
+unknowable. The artist is the gardener tending the wild seeds of being. Art is
+what grows when we make space for beauty without clinging or grasping.
+
+Or perhaps even this: art is the language of the mystery itself, whispering
+through us. It is the murmur of eternity clothed in the garments of form and
+color and rhythm. Just as the sky's water finds its path back to the sea, the
+mystery finds its return to itself through our fingers, our voices, our eyes. It
+is play in its highest form—the "divine play", the cosmic joke, the "sacred
+mischief" that reminds us there is more than mere survival, more than simply
+working and consuming. In making art, we return to wonder, to curiosity, to the
+openness we knew before we were taught to be certain.
+
+So where does art come from? Perhaps from the depths we do not yet fully know.
+Or perhaps from the sky that watches quietly above. Or perhaps from what aches
+and what sings. Or perhaps from the silent companion within, who has always been
+making meaning out of mystery without needing to name it. Or, perhaps all of
+these, and perhaps more.
+
+[<img src="../../../../images/mandalas/mandala-the_source_of_art.jpg" width="512"/>](../../../../images/mandalas/mandala-the_source_of_art.jpg)
 
 ### What is "logonesis"?
 
