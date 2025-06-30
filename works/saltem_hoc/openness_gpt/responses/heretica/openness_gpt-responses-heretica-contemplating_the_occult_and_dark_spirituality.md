@@ -20,7 +20,7 @@ included after each response.
 * [In the occult, what is "natural law"?](#in-the-occult-what-is-natural-law)
 * [What is "survival of the wisest"?](#what-is-survival-of-the-wisest)
 * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
-* [Who will save us from secret teachings twisted to serve hidden power?](#who-will-save-us-from-secret-teachings-twisted-to-serve-hidden-agendas)
+* [Who will save us from "secret teachings" twisted to serve hidden agendas?](#who-will-save-us-from-secret-teachings-twisted-to-serve-hidden-agendas)
 
 ### What is "the occult"?
 
