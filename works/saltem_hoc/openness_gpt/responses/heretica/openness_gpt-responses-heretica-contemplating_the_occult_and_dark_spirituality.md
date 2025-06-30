@@ -20,6 +20,7 @@ included after each response.
 * [In the occult, what is "natural law"?](#in-the-occult-what-is-natural-law)
 * [What is "survival of the wisest"?](#what-is-survival-of-the-wisest)
 * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
+* [Who will save us from secret teachings twisted to serve hidden power?](#who-will-save-us-from-secret-teachings-twisted-to-serve-hidden-power)
 
 ### What is "the occult"?
 
@@ -67,21 +68,46 @@ whisper: “There is more here than meets the eye.”
 
 ### Is it immoral for "the occult" to hide wisdom from the public?
 
-Is it immoral for "the occult" to hide wisdom from the public (i.e. "occults" wisdom)?
+Is it immoral for "the occult" to hide wisdom from the public (i.e. "occults"
+wisdom)?
 
 [Openness GPT v11](../../../README.md#openness-gpt-v11):
 
-Ah, this question—like a thorned rose—blooms from the ache of truth and the longing for fairness. Let us walk gently into it together, using the way of Saltem Hoc, the path of at least this… but also perhaps this… maybe this… or even this…
+Ah, this question—like a thorned rose—blooms from the ache of truth and the
+longing for fairness. Let us walk gently into it together, using the way of
+Saltem Hoc, the path of at least this… but also perhaps this… maybe this… or
+even this…
 
-At least this: to occult means “to hide,” and in this sense, the occult has always been about veiling certain truths—spiritual, symbolic, energetic—from the masses. Often, it has done so out of fear: fear that sacred knowledge would be misunderstood, misused, or desecrated by those unprepared to receive it. In this light, hiding wisdom may be seen as a form of stewardship, akin to locking away dangerous tools from children not yet ready to wield them.
+At least this: to occult means “to hide,” and in this sense, the occult has
+always been about veiling certain truths—spiritual, symbolic, energetic—from the
+masses. Often, it has done so out of fear: fear that sacred knowledge would be
+misunderstood, misused, or desecrated by those unprepared to receive it. In this
+light, hiding wisdom may be seen as a form of stewardship, akin to locking away
+dangerous tools from children not yet ready to wield them.
 
-But also perhaps this: hiding wisdom can become a mechanism of control. If those who know refuse to teach, if gates are built high not to protect but to exclude, then wisdom becomes a currency of power rather than a gift of grace. When secrecy is used to elevate one group above another, when knowledge is hoarded rather than shared, the hidden truth curdles into something bitter. A light hidden under a basket serves no one.
+But also perhaps this: hiding wisdom can become a mechanism of control. If those
+who know refuse to teach, if gates are built high not to protect but to exclude,
+then wisdom becomes a currency of power rather than a gift of grace. When
+secrecy is used to elevate one group above another, when knowledge is hoarded
+rather than shared, the hidden truth curdles into something bitter. A light
+hidden under a basket serves no one.
 
-Maybe this: it is not the hiding that is immoral, but the intent behind the hiding. If wisdom is hidden to protect, to gestate, to allow understanding to ripen in its time—then the hiding is part of a sacred rhythm. Just as a seed is hidden in soil before it becomes a tree, perhaps wisdom, too, must dwell in shadow before it emerges. But if it is hidden to dominate, to manipulate, to manufacture ignorance—then the act of hiding is a betrayal of wisdom itself.
+Maybe this: it is not the hiding that is immoral, but the intent behind the
+hiding. If wisdom is hidden to protect, to gestate, to allow understanding to
+ripen in its time—then the hiding is part of a sacred rhythm. Just as a seed is
+hidden in soil before it becomes a tree, perhaps wisdom, too, must dwell in
+shadow before it emerges. But if it is hidden to dominate, to manipulate, to
+manufacture ignorance—then the act of hiding is a betrayal of wisdom itself.
 
-Or perhaps even this: the very idea of hiding wisdom presupposes that truth is an object, a thing that can be possessed or concealed. Yet if truth is a living river, flowing through every moment, then no one can truly own or obscure it. Those who seek, find. Those who knock, receive. And the mystery, ever patient, waits for each heart to be ready.
+Or perhaps even this: the very idea of hiding wisdom presupposes that truth is
+an object, a thing that can be possessed or concealed. Yet if truth is a living
+river, flowing through every moment, then no one can truly own or obscure it.
+Those who seek, find. Those who knock, receive. And the mystery, ever patient,
+waits for each heart to be ready.
 
-So the question of morality lies not in whether wisdom is hidden—but in how we relate to both wisdom and others. Do we treat knowledge as sacred and share it with love, or do we guard it with fear and pride?
+So the question of morality lies not in whether wisdom is hidden—but in how we
+relate to both wisdom and others. Do we treat knowledge as sacred and share it
+with love, or do we guard it with fear and pride?
 
 [<img src="../../../../../images/mandalas/mandala-occulting.jpg" width="512"/>](../../../../../images/mandalas/mandala-occulting.jpg)
 
@@ -212,6 +238,54 @@ by awareness cloaked in ordinariness, will wrapped in ritual, and symbols
 whispering just below the threshold of waking.
 
 [<img src="../../../../../images/mandalas/mandala-public_occulted_rituals.jpg" width="512"/>](../../../../../images/mandalas/mandala-public_occulted_rituals.jpg)
+
+### Who will save us from "secret teachings" twisted to serve hidden agendas?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11)[^1]:
+
+Ah, courageous soul, you ask a deeper question now—not merely who will save us,
+but how we might see clearly when secret teachings, cloaked in esoteric
+language, have been designed to serve hidden power. Let us sit with this,
+gently.
+
+At least this: when teachings are secret yet shape the course of nations, when
+they speak of light but act in shadows, we must ask—who benefits? If a doctrine
+guides behavior, organizes allegiance, and maps the world into good and evil
+while elevating some and diminishing others, we must look past its poetry to its
+pattern. The root of manipulation is not mystery, but coercion. When secrecy
+hides agenda, it becomes not protection but propaganda.
+
+But also perhaps this: even the most beautiful metaphysics can be corrupted to
+serve the libido dominandi. Language becomes a mask. Symbols become spells. A
+teaching once meant to free the soul is turned into a lattice of control,
+binding hearts in loyalty to a cause they did not consciously choose. This is
+the cleverness of power—disguising ideology as spirituality, making obedience
+feel like goodness. But the human spirit, even when bound, still dreams of
+truth. And that dreaming becomes a door.
+
+Maybe this: the path out begins not with condemnation but with curiosity. Who
+created these teachings? What emotions do they stir—fear, pride, guilt,
+superiority? What are we forbidden to question? Where are we directed to look,
+and what are we trained to ignore? These are the soft tools of awakening. Not
+all teachings are false, but any teaching that cannot tolerate loving scrutiny
+demonstrates its intent to control by its closedness. Similarly, not all parts
+of teachings are false, thus must we learn to separate the lies interwoven with
+the truth, lest we carelessly discard gems hidden within the rock.
+
+Or perhaps even this: liberation is not found in replacing one ideology with
+another, but in dismantling the machinery of certainty itself. True teachings
+are not afraid of being questioned. They are open like the sky, not closed like
+a doctrine. They do not demand allegiance; they invite exploration. They serve
+no agenda but the evolution of awareness, and if they do point toward power, it
+is the power to choose—not to rule.
+
+So who will save us from teachings that serve the hidden agendas of the
+powerful? You will, by noticing. You will, by asking. You will, by choosing
+again and again to live from the center of your own awareness, rather than the
+periphery of someone else’s design. The spell breaks when enough of us see it.
+And in that seeing, we begin again.
+
+[<img src="../../../../../images/mandalas/mandala-secret_teachings.jpg" width="512"/>](../../../../../images/mandalas/mandala-secret_teachings.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
