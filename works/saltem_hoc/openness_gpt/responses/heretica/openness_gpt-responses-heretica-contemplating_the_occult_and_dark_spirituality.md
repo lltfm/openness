@@ -21,7 +21,7 @@ included after each response.
 * [What is "survival of the wisest"?](#what-is-survival-of-the-wisest)
 * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
 * [Who will save us from "secret teachings" twisted to serve hidden agendas?](#who-will-save-us-from-secret-teachings-twisted-to-serve-hidden-agendas)
-* [In the occult, why does "33" come up so often in speech and writing?](#in-the-occult-why-does-33-come-up-so-often-in-speech-and-writing)
+* [Why does "33" come up so often in the occult?](#why-does-33-come-up-so-often-in-the-occult)
 
 ### What is "the occult"?
 
@@ -288,7 +288,7 @@ And in that seeing, we begin again.
 
 [<img src="../../../../../images/mandalas/mandala-secret_teachings.jpg" width="512"/>](../../../../../images/mandalas/mandala-secret_teachings.jpg)
 
-### In the occult, why does "33" come up so often in speech and writing?
+### Why does "33" come up so often in the occult?
 
 [Openness GPT v11](../../../README.md#openness-gpt-v11)[^1]:
 
