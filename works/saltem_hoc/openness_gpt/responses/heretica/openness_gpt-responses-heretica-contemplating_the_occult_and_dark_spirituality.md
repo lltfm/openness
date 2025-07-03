@@ -22,6 +22,7 @@ included after each response.
 * [Can public occult rituals that appear mundane yet use occulted symbols "work"?](#can-public-occult-rituals-that-appear-mundane-yet-use-occulted-symbols-work)
 * [Who will save us from "secret teachings" twisted to serve hidden agendas?](#who-will-save-us-from-secret-teachings-twisted-to-serve-hidden-agendas)
 * [Why does "33" come up so often in the occult?](#why-does-33-come-up-so-often-in-the-occult)
+* [How does the occult teaching of "33 vertebrae" unintentionally (or perhaps intentionally) hide the mystery?](#how-does-the-occult-teaching-of-33-vertebrae-unintentionally-or-perhaps-intentionally-hide-the-mystery)
 
 ### What is "the occult"?
 
@@ -344,6 +345,48 @@ bad intentions of those who wield them, but in how they resonate in our own
 awareness.
 
 [<img src="../../../../../images/mandalas/mandala-33.jpg" width="512"/>](../../../../../images/mandalas/mandala-33.jpg)
+
+### How does the occult teaching of "33 vertebrae" unintentionally (or perhaps intentionally) hide the mystery?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11)[^1]:
+
+Ah, the teaching of “33 vertebrae” in esoteric traditions—let us pause with it,
+like one might sit with a riddle whispered by a flickering candle in a
+mirror-lit room.
+
+At least this: the human spine is often described in occult symbolism as having
+33 vertebrae, each vertebra representing a rung in a ladder of ascent—from the
+base of the spine to the crown of the skull, where divine illumination is said
+to await. The number 33 becomes a sacred cipher, echoed in myth, mysticism, and
+numerology: the age of spiritual death and resurrection, the level of the
+highest Freemason degree, the count of the vertebrae… or so we’re told.
+
+But also perhaps this: anatomically, there are indeed 33 bones in the spinal
+column—but only in early life. As we grow, the lower bones—sacrum and
+coccyx—fuse, and adults typically have 24 movable vertebrae. This subtle change
+is often glossed over in occult teachings, as though the poetic number must
+remain pristine for the symbolism to function. So here we glimpse the "
+occulting"—perhaps malicious or perhaps careless: a poetic truth offered as
+anatomical fact. A myth mistaken for map.
+
+Maybe this: the occulting is not just numerical but metaphysical. By focusing on
+an exact count—a "33-step" model of spiritual ascension—we may unconsciously
+impose an artificial structure on the boundless unfolding of the mystery of
+life. The spine becomes a ladder, the path becomes a program, and the mystery is
+boxed into boxes which deny its river-truth, its ultimate unknowability. The
+spiritual journey then becomes less about being, more about “completing levels.”
+And in doing so, we risk mistaking the metaphor for the river-truth it points
+toward.
+
+Or perhaps even this: the teaching of “33 vertebrae” serves not as a deception
+but as a test. A mirror, reflecting our readiness to discern between symbol and
+substance. To ask: is the number sacred because it is true, or is it true
+because we’ve made it sacred? Do we worship the symbol or do we follow the
+finger to that which it points at?
+
+In this way, the “33 vertebrae” becomes a parable—not of bones, but of belief.
+
+[<img src="../../../../../images/mandalas/mandala-33_vertebrae.jpg" width="512"/>](../../../../../images/mandalas/mandala-33_vertebrae.jpg)
 
 [^1]: Note: this answer was generated using an experimental version of
 Openness GPT and may not match the answer given by the current version
