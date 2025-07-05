@@ -31,7 +31,7 @@ After each response a mandala created by Openness GPT is included.
     * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
     * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
     * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
-* Self-love
+* Loving ourselves and others
   * [In Openness, what does it mean to be "Self-chosen"?](#in-openness-what-does-it-mean-to-be-self-chosen)
 * Mastery
   * [How can we experience "duende"?](#how-can-we-experience-duende)
