@@ -634,6 +634,7 @@ self leans in toward us with love. And in that symmetry of mercy and grace, we
 feel their answer to our “yes” echo back across the ages: “Worthy Vessel!
 Chosen!”
 
+[<img src="../../../../images/mandalas/mandala-self_chosen.jpg" width="512"/>](../../../../images/mandalas/mandala-self_chosen.jpg)
 
 ### How can we experience "duende"?
 
