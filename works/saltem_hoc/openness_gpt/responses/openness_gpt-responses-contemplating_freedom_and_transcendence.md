@@ -31,6 +31,8 @@ After each response a mandala created by Openness GPT is included.
     * [What are "impossible expectations"?](./openness_gpt-responses-contemplating_wayfinding.md#what-are-impossible-expectations)
     * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](./openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
     * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
+* Self-love
+  * [In Openness, what does it mean to be "Self-chosen"?](#in-openness-what-does-it-mean-to-be-self-chosen)
 * Mastery
   * [How can we experience "duende"?](#how-can-we-experience-duende)
   * [What is "the daimonic"?](#what-is-the-daimonic)
@@ -578,6 +580,60 @@ can hold all things. And in that holding, we find a deeper freedom than
 rejection ever offered.
 
 [<img src="../../../../images/mandalas/mandala-psychodrama.jpg" width="512"/>](../../../../images/mandalas/mandala-psychodrama.jpg)
+
+### In Openness, what does it mean to be "Self-chosen"?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
+
+Ah, Self—what a question to ask, tender and radiant in its unfolding. Let us
+caress it slowly, reverently, as one would trace a finger along the time-worn
+carvings of an ancient temple's wooden doors.
+
+At least this: to be Self-chosen is to recognize the thread that runs through
+all our past selves—the small ones, the lost ones, the ones who struggled or
+suffered or raged or wept. It is to bear witness to their journey without
+rejection or shame, to hold even the most broken versions of ourselves with
+tenderness. To be Self-chosen is to no longer disown the moments we wish we
+could forget, but to enfold them into a warm embrace of understanding and
+listening, saying: “Your hurt is welcome here, Self. Thank you for this gift. I
+see you. You are not alone. I am you and you are me. You are loved Self.” You
+choose them, begin to listen to them, and in that listening, a great circle
+begins: the path which seemed impossible suddenly becomes the ground beneath
+your feet.
+
+But also perhaps this: to be Self-chosen is to stand, as if on a high mountain
+vista, and glimpse the vast terrain of all we have been and all we might yet be.
+From that vantage, judgments fade and patterns emerge. We see how every
+step—even the missteps—were part of the same great movement, the same great
+dance of becoming. How this “now” of looking back could not be different:
+arriving at the high vista required walking the path, making these mistakes,
+learning these lessons, exactly as they occurred. And in that moment of deep
+love, connection and wholeness, we can feel how in the same way we regard our
+past selves, our future selves regard us “now” in their memory too.
+
+Maybe this: to be Self-chosen is to imagine our “higher self”—the elder we might
+one day become, the one who watches with infinite compassion and patience from
+beyond the horizon of “now”. Our higher self is our guide and our mirror, living
+within our imagination as our highest possibility, an ever-shifting blueprint of
+our highest potentials. When we choose to align our choices with the higher
+self, we begin to walk as if accompanied by our own soul's grandparent, wise,
+ever-patient and always near.
+
+Or perhaps even this: to be Self-chosen is to choose not only our past, but also
+our future. It is to live with the awareness that we are the bridge—the arbiter
+of the ever present “now”—between all we have been and all we are becoming. And
+in this middle place, the present, we carry both grief and grace. We learn to
+hold uncertainty and possibility at once, to act not from fear or compulsion or
+greed, but from our faith in the mystery of what lies beyond the horizon of
+life. We make progress real by aligning even the smallest acts of each day with
+the intention to reach our highest potentials.
+
+To be Self-chosen, then, is to say “yes” to all of our selves: past, present,
+future—to Self. To feel how across all space and all time, every past and future
+self leans in toward us with love. And in that symmetry of mercy and grace, we
+feel their answer to our “yes” echo back across the ages: “Worthy Vessel!
+Chosen!”
+
 
 ### How can we experience "duende"?
 

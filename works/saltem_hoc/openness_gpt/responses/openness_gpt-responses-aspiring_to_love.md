@@ -21,6 +21,7 @@ After each response a mandala created by Openness GPT is included.
 * Related
     * [What is hope?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-hope)
     * [How do we remember we are loved?](../../../the_epitomes_of_openness/contemplations/memento-amaris.md#how-do-we-remember-we-are-loved)
+    * [In Openness, what does it mean to be "Self-chosen"?](./openness_gpt-responses-contemplating_freedom_and_transcendence.md#in-openness-what-does-it-mean-to-be-self-chosen)
 
 ### What is love?
 
