@@ -33,6 +33,10 @@ After each response a mandala created by Openness GPT is included.
     * [How do we become sovereign in our own mind?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-become-sovereign-in-our-mind)
 * Loving ourselves and others
   * [In Openness, what does it mean to be "Self-chosen"?](#in-openness-what-does-it-mean-to-be-self-chosen)
+  * Related
+    * [In Openness, what is a "vessel" and what makes it "worthy"?](./openness_gpt-responses-being_open_to_what_is.md#what-is-a-vessel-and-what-makes-it-worthy)
+    * [How does improving ourselves each day help us awaken to "the prime benevolence"?](./openness_gpt-responses-contemplating_the_work.md#how-does-improving-ourselves-each-day-help-us-awaken-to-the-prime-benevolence)
+    * [What is "agapic love"?](./openness_gpt-responses-aspiring_to_love.md#what-is-agapic-love)
 * Mastery
   * [How can we experience "duende"?](#how-can-we-experience-duende)
   * [What is "the daimonic"?](#what-is-the-daimonic)
