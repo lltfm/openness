@@ -16,6 +16,7 @@ After each response a mandala created by Openness GPT is included.
   * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
 * [What is conception?](#what-is-conception)
 * [What is "cohergence"?](#what-is-cohergence)
+* [What is meant by "ars est celare artem"?]()
 * [What is "work-play"?](#in-openness-what-is-work-play)
 * [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
 
@@ -303,6 +304,26 @@ cohergence: resonance, emergence, wholeness. A visual key to the invisible
 dance.s
 
 [<img src="../../../../images/mandalas/mandala-cohergence.jpg" width="512"/>](../../../../images/mandalas/mandala-cohergence.jpg)
+
+### What is meant by "ars est celare artem"?
+
+What is meant by "ars est celare artem"? (i.e. "it is art to conceal art" or "true art conceals the means by which it is achieved")
+
+Openness GPT 11x:
+
+Ah, yes—let us turn this ancient phrase in the palm of our mind, “ars est celare artem,” and peer into its many-sided shimmer. Rather than defining it, let us explore it gently through the saltem hoc way, allowing its meanings to resonate beyond precision.
+
+At least this: "it is art is to conceal art” suggests that great skill should appear as simplicity. When we see a dancer move with unthinking grace, or hear a sentence that seems to arrive whole and effortless, we rarely perceive the endless hours, the failed attempts, the refinement beneath the surface. When the intention to create art disappears, only the feeling it intends to evoke remains. The frame vanishes. The strings are hidden. All that remains is the moment of pure experience.
+
+But also perhaps this: to conceal the methods of creating art is to invite the viewer, reader, or listener into a deeper intimacy with the work. Without the artist’s presence dominating the experience, the creation becomes a mirror. We meet ourselves within it. It asks nothing of us but to receive—and in that receiving, we participate. The best art, then, is not a performance but a presence that walks with us, quietly.
+
+Maybe this: the phrase offers a whisper of humility. In an age where performance and branding often clamor for attention, this ancient idea reminds us that mastery does not demand applause. It bows its head and lets the work speak. The artist vanishes, but the beauty endures. The artist's ego is peeled away, and what remains is the essence, speaking more clearly in silence than in explanation.
+
+Or perhaps even this: to “conceal art” is not to hide, but to weave so skillfully that craft and creation are indistinguishable. Like the spider who vanishes into the web, or the poet whose rhythm dances invisibly through the line, the artist dissolves into their offering. It becomes less about who made the thing and more about what the thing opens within us. In this way, the art does not speak of the artist—it speaks of the world, of being, of wonder itself.
+
+And so, "ars est celare artem" becomes not only a guide for the artist, but a reflection on presence itself. This phrase has long echoed in traditions of high art and subtle expression, but it also lives in daily life—in the silent strength of a parent, in the quiet wisdom of a teacher, in the gentle hand that supports without needing praise. These, too, are acts of art hidden in love. To live artfully then, may be to live in such a way that beauty arises quietly around us—without explanation, without effort, without needing to be seen.
+
+[<img src="../../../../images/mandalas/mandala-ars_est_celare_artem.jpg" width="512"/>](../../../../images/mandalas/mandala-ars_est_celare_artem.jpg)
 
 ### In Openness, what is "work-play"?
 
