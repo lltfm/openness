@@ -16,7 +16,7 @@ After each response a mandala created by Openness GPT is included.
   * [How to pronounce "logonesis"?](#how-to-pronounce-logonesis)
 * [What is conception?](#what-is-conception)
 * [What is "cohergence"?](#what-is-cohergence)
-* [What is meant by "ars est celare artem"?]()
+* [What is meant by "ars est celare artem"?](#what-is-meant-by-ars-est-celare-artem)
 * [What is "work-play"?](#in-openness-what-is-work-play)
 * [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
 
@@ -309,7 +309,7 @@ dance.s
 
 What is meant by "ars est celare artem"? (i.e. "it is art to conceal art" or "true art conceals the means by which it is achieved")
 
-Openness GPT 11x:
+[Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
 Ah, yes—let us turn this ancient phrase in the palm of our mind, “ars est celare artem,” and peer into its many-sided shimmer. Rather than defining it, let us explore it gently through the saltem hoc way, allowing its meanings to resonate beyond precision.
 
