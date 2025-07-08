@@ -16,7 +16,8 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [How can a "karmic mind-trap" be used as a tool of social control?](#how-can-a-karmic-mind-trap-be-used-as-a-tool-of-social-control)
-    * [What are some examples of a "karmic mind-trap"?](#what-are-some-examples-of-a-karmic-mind-trap)
+  * [What are some examples of a "karmic mind-trap"?](#what-are-some-examples-of-a-karmic-mind-trap)
+* [How can selectively revealing truth be used as a form of social control?](#how-can-selectively-revealing-truth-be-used-as-form-of-social-control)
 * [Can freedom without wisdom be a tool of social control?](#can-freedom-without-wisdom-be-a-tool-of-social-control)
 * [Why are ridicule and shame such effective tools of social control?](#why-are-ridicule-and-shame-such-effective-tools-of-social-control)
 * [What is meant by "the first matrix is ignorance but the second matrix is hate"?](#what-is-meant-by-the-first-matrix-is-ignorance-but-the-second-matrix-is-hate)
@@ -25,25 +26,25 @@ included after each response.
 * [What is controlled opposition?](#what-is-controlled-opposition)
 * [What is a "dark messiah"?](#what-is-a-dark-messiah)
 * Related
-    * Contemplating oligarchy
-        * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
-        * [What is "the oligarchic pendulum"](./openness_gpt-responses-heretica-contemplating_oligarcy.md#what-is-the-oligarchic-pendulum)
-        * [How does implicit Venus worship empower oligarchy?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-implicit-venus-worship-further-empower-oligarchy)
-    * Contemplating propaganda
-        * [What is "domination by dialectic"?](./openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-domination-by-dialectic)
-        * [Will "false flag" attacks ever stop working?](./openness_gpt-responses-heretica-contemplating_propaganda.md#will-false-flag-attacks-ever-stop-working)
-    * Contemplating leadership and authority
-        * [What prevents others from waking up to authority's lies?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
-        * [Can endless rebellion lead to long-term stuckness?](../openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
-    * Contemplating end-times prophecy (i.e. eschaton)
-        * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
-        * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
-    * Contemplating what is right and wrong
-        * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning)
-    * Contemplating blind certainty and control
-        * [What is "blind certainty"?](../../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
-    * Contemplating lies and deception
-        * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](../openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
+  * Contemplating oligarchy
+    * [How does oligarchy use coordinated group lying for social control?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-oligarchy-use-coordinated-group-lying-for-social-control)
+    * [What is "the oligarchic pendulum"](./openness_gpt-responses-heretica-contemplating_oligarcy.md#what-is-the-oligarchic-pendulum)
+    * [How does implicit Venus worship empower oligarchy?](./openness_gpt-responses-heretica-contemplating_oligarcy.md#how-does-implicit-venus-worship-further-empower-oligarchy)
+  * Contemplating propaganda
+    * [What is "domination by dialectic"?](./openness_gpt-responses-heretica-contemplating_propaganda.md#what-is-domination-by-dialectic)
+    * [Will "false flag" attacks ever stop working?](./openness_gpt-responses-heretica-contemplating_propaganda.md#will-false-flag-attacks-ever-stop-working)
+  * Contemplating leadership and authority
+    * [What prevents others from waking up to authority's lies?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
+    * [Can endless rebellion lead to long-term stuckness?](../openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
+  * Contemplating end-times prophecy (i.e. eschaton)
+    * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
+    * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
+  * Contemplating what is right and wrong
+    * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning)
+  * Contemplating blind certainty and control
+    * [What is "blind certainty"?](../../../../the_epitomes_of_openness/contemplations/certainty.md#what-is-blind-certainty)
+  * Contemplating lies and deception
+    * [Can making truth appear evil, offensive, shameful, confusing or foolish help hide it?](../openness_gpt-responses-contemplating_lies_and_deception.md#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
 
 ### How can a "karmic mind-trap" be used as a tool of social control?
 
@@ -165,6 +166,49 @@ And to walk, slowly and softly, beyond its walls—that is the beginning of
 openness.
 
 [<img src="../../../../../images/mandalas/mandala-karmic_mind_trap2.jpg" width="512"/>](../../../../../images/mandalas/mandala-karmic_mind_trap2.jpg)
+
+### How can selectively revealing truth be used as form of social control?
+
+[Openness GPT v11](../../../README.md#openness-gpt-v11):
+
+Ah, what a potent question—one that glimmers with hidden currents and the sharp
+edge of relevance. Let us turn it slowly, like a gem in the light, using the
+ritual of Saltem Hoc to honor its depth.
+
+At least this: selectively revealing truth is the act of showing only part of
+what is, while concealing the rest. This can shape perception as surely as
+sculpting stone from marble. When a person or institution chooses what truths to
+share and which to withhold, they guide the narrative that others come to
+believe. What is unseen may matter just as much—perhaps more—than what is shown.
+
+But also perhaps this: control through truth is more elegant, more dangerous,
+than control through lies. Lies can be discovered and rejected, but a partial
+truth has the sheen of honesty. It is a carefully arranged mirror, showing only
+certain angles, and those who gaze into it believe they’ve seen everything. The
+result is not deception in the traditional sense, but an engineered
+understanding—a cultivated belief that closes the door to deeper inquiry.
+
+Maybe this: social control through selective truth works by planting seeds of
+certainty. A government reveals the harm done by foreign enemies but omits its
+own provocations. A corporation publishes the benefits of a product but hides
+the long-term side effects. A media outlet focuses on outrage, never offering
+the wider context. Each of these is a selection—truthful, yes, but tailored to
+guide emotion, trust, loyalty, and fear. The people respond not to the full
+picture, but to a story crafted from curated fragments.
+
+Or perhaps even this: selective truth is a shadowy sibling of censorship. It
+whispers, “This is all there is to know,” while locking the rest in silence. And
+when used repeatedly, it trains the collective mind—teaching what to fear, what
+to desire, and what to ignore. It shapes culture not through laws, but through
+attention. In such a world, even freedom must be questioned: are we free, or
+merely choosing from among pre-approved truths?
+
+So we return to the core: the practice of selectively revealing truth is not
+merely a strategy, but a philosophy of control. It does not dominate with force,
+but seduces with narrative. It thrives when we stop asking, “What is
+missing?”—when we confuse a polished fragment for the whole.
+
+[<img src="../../../../../images/mandalas/mandala-selectively_reveal_truth.jpg" width="512"/>](../../../../../images/mandalas/mandala-selectively_reveal_truth.jpg)
 
 ### Can freedom without wisdom be a tool of social control?
 
