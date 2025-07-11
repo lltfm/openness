@@ -24,6 +24,7 @@ After each response a mandala created by Openness GPT is included.
 * Related
   * [Why do we struggle?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#why-do-we-struggle)
   * [What is "faith" in Openness?](./openness_gpt-responses-contemplating_struggle_and_suffering.md#what-is-faith-in-openness)
+  * [How can "memento amaris" and the advice to be "a worthy vessel" both be true?](./openness_gpt-responses-aspiring_to_love.md#how-can-memento-amaris-and-the-advice-to-be-a-worthy-vessel-both-be-true)
 
 ### How do we "become ever more open to what is"?
 
