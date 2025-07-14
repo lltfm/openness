@@ -37,7 +37,7 @@ included after each response.
     * [What prevents others from waking up to authority's lies?](../openness_gpt-responses-contemplating_leadership_and_authority.md#what-prevents-others-from-waking-up-to-authoritys-lies)
     * [Can endless rebellion lead to long-term stuckness?](../openness_gpt-responses-contemplating_leadership_and_authority.md#can-endless-rebellion-lead-to-long-term-stuckness)
   * Contemplating end-times prophecy (i.e. eschaton)
-    * [Can latent end times prophecies be used to control populations?](#can-latent-end-times-prophecies-be-used-to-control-populations)
+    * [Can latent end times prophecies be used to control populations?](./openness_gpt-responses-heretica-contemplating_eschaton.md#can-latent-end-times-prophecies-be-used-to-control-populations)
     * [Is the prophecy of "the beast system" true or is it just self-fulfilling?](#is-the-prophecy-of-the-beast-system-true-or-is-it-just-self-fulfilling)
   * Contemplating what is right and wrong
     * [What is "karmic learning"?](../openness_gpt-responses-contemplating_morality.md#what-is-karmic-learning)
