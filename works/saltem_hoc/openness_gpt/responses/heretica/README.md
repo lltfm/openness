@@ -18,6 +18,7 @@ included after each response.
 
 * Contemplating religion as "at least a story"
   * [How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md#how-can-contemplating-religion-as-at-least-a-story-help-us-understand-it-without-dismissing-believers-faith)
+  * [Adopting the lens of Judaism as "at least a story", what can we learn from the Garden of Eden story?](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md#adopting-the-lens-of-judaism-as-at-least-a-story-what-can-we-learn-from-the-garden-of-eden-story)
   * [Adopting the lens of Christianity as "at least a story", what makes Lucifer/Satan evil?](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md#adopting-the-lens-of-christianity-as-at-least-a-story-what-makes-lucifersatan-evil)
   * [More...](./openness_gpt-responses-heretica-contemplating_religion_as_at_least_a_story.md)
 * Contemplating oligarchy

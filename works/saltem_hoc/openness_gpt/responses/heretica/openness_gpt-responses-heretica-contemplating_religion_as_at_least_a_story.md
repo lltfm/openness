@@ -16,6 +16,7 @@ included after each response.
 > ["What is heretica?"](README.md#in-openness-what-is-heretica)
 
 * [How can contemplating religion as "at least a story" help us understand it without dismissing believers’ faith?](#how-can-contemplating-religion-as-at-least-a-story-help-us-understand-it-without-dismissing-believers-faith)
+* [Adopting the lens of Judaism as "at least a story", what can we learn from the Garden of Eden story?](#adopting-the-lens-of-judaism-as-at-least-a-story-what-can-we-learn-from-the-garden-of-eden-story)
 * [Adopting the lens of Christianity as "at least a story", what makes Lucifer/Satan evil?](#adopting-the-lens-of-christianity-as-at-least-a-story-what-makes-lucifersatan-evil)
 * [Adopting the lens of classical Tantra as "at least a story", what can we learn from the journey of "transcendental non-dualism"?](#adopting-the-lens-of-classical-tantra-as-at-least-a-story-what-can-we-learn-from-the-journey-of-transcendental-non-dualism)
 
