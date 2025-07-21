@@ -9,7 +9,7 @@ After each response a mandala created by Openness GPT is included.
 
 ## Contents
 
-* [What is "sculpting chaos"](#what-is-sculpting-chaos)
+* [What is "sculpting chaos"?](#what-is-sculpting-chaos)
 * [What is art?](#what-is-art)
 * [Where does art come from?](#where-does-art-come-from)
 * [What is "logonesis"?](#what-is-logonesis)
