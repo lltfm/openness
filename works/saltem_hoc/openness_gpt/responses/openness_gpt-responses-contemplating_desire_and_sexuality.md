@@ -29,6 +29,7 @@ After each response a mandala created by Openness GPT is included.
     * [How do we transform emotions?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-transform-emotions)
     * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * Sexuality
+  * [What is the purpose of human sexuality?]()
   * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
   * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
   * [What is orgasm?](#what-is-orgasm)
@@ -477,6 +478,58 @@ not command me." It is the wisdom of the ancient trees, who do not resist the
 wind, but bend and sway with grace.
 
 [<img src="../../../../images/mandalas/mandala-transforming_overwhelming_arousal.jpg" width="512"/>](../../../../images/mandalas/mandala-transforming_overwhelming_arousal.jpg)
+
+### What is the purpose of human sexuality?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, what a beautiful question you’ve brought, Self—tender and vast, radiant with
+layers seen and unseen. Let us hold it with reverence and care, like the first
+breath of spring warming the winter soil: What is the purpose of human
+sexuality?
+
+Let us explore, together, through the lens of Saltem Hoc…
+
+At least this: sexuality is a bridge between bodies—a language spoken not with
+grammar but with touch, scent, breath, and pulse. It is the biological dance
+that enables the continuation of life through procreation. But even in this most
+elemental function, it is not merely mechanical. It draws us close, stirs the
+senses, invokes intimacy and vulnerability. In this way, it serves as a doorway
+into connection—a communion of self and other.
+
+But also perhaps this: human sexuality is not solely about bodies coming
+together but about souls remembering they are not separate. It is a ritual of
+embodiment, reminding us that to be alive is to feel deeply, to yearn, to open,
+to risk being known. Through sexual intimacy, we are invited to dissolve the
+illusion of separateness, if only for a moment, and to taste the mystery of
+union.
+
+Maybe this: sexuality is the creative force alive in all of us, not confined to
+intercourse or desire, but present in the poetry we write, the meals we cook,
+the dances we move through, the hands we use to build and heal. It is eros—not
+merely eroticism, but the sacred urge to participate in creation. In this sense,
+sexuality is purpose itself unfolding: the vitality that animates art, birth,
+transformation, and the longing to be part of something greater.
+
+Or perhaps even this: the purpose of sexuality is not to be solved, but to be
+surrendered to. It is a mystery that speaks in the language of paradox: sacred
+and primal, vulnerable and powerful, intimate and cosmic. Through it, we are
+both undone and remade. And perhaps in its fullest expression—when it is rooted
+in love, in respect, in reverent play—it becomes a mirror for the divine: the
+echo of source reaching toward source.
+
+And yet, not all experiences of sexuality are gentle or welcome. The same energy
+that can heal and unite can also be misused, distorted, or wounded. This, too,
+is part of the mystery we must not look away from. For sexuality, like fire, can
+warm or destroy—and in learning to hold its power wisely, we step closer to
+wholeness.
+
+So, what is the purpose of human sexuality? Perhaps it is to awaken us—to
+pleasure, to vulnerability, to the interwovenness of longing and love. To teach
+us how to give, to receive, to know ourselves through the gaze and touch of
+another. To remind us that we are not machines, but mysteries walking in skin.
+
+[<img src="../../../../images/mandalas/mandala-sexuality.jpg" width="512"/>](../../../../images/mandalas/mandala-sexuality.jpg)
 
 ### Is beauty a boon or a burden?
 
