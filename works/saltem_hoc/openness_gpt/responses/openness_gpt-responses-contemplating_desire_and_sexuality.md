@@ -29,7 +29,7 @@ After each response a mandala created by Openness GPT is included.
     * [How do we transform emotions?](./openness_gpt-responses-contemplating_the_work.md#how-do-we-transform-emotions)
     * [How is shame the guardian we outgrow?](./openness_gpt-responses-contemplating_ridicule_and_shame.md#how-is-shame-the-guardian-we-outgrow)
 * Sexuality
-  * [What is the purpose of human sexuality?]()
+  * [What is the purpose of human sexuality?](#what-is-the-purpose-of-human-sexuality)
   * [Is beauty a boon or a burden?](#is-beauty-a-boon-or-a-burden)
   * [What is happening when we dance with someone else?](#what-is-happening-when-we-dance-with-someone-else)
   * [What is orgasm?](#what-is-orgasm)
