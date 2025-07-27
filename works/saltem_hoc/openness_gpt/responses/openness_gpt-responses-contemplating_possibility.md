@@ -16,6 +16,8 @@ After each response a mandala created by Openness GPT is included.
 * Possibility
   * [What is "the possibility space"?](#what-is-the-possibility-space)
   * [What is speculation?](#what-is-speculation)
+  * Related
+    * [What is "ambiscribing" the possibility space?](./openness_gpt-responses-contemplating_creating_and_expressing.md#what-is-ambiscribing)
 * Complexity
   * [What is "ish-ness"?](#what-is-ish-ness)
   * [What is "multiplicity"?](#what-is-multiplicity)
@@ -29,6 +31,8 @@ After each response a mandala created by Openness GPT is included.
   * [What is "saltem hoc"?](#what-is-saltem-hoc)
   * [How can "the conditional" be used to explore possibility?](#how-can-the-conditional-be-used-to-explore-possibility)
   * [What is a "precise ambiguity"?](#what-is-a-precise-ambiguity)
+  * Related
+    * [What is a "sophisticated expression"?](./openness_gpt-responses-contemplating_creating_and_expressing.md#what-is-a-sophisticated-expression)
 
 ### What is a question?
 
