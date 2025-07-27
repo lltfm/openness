@@ -17,6 +17,7 @@ After each response a mandala created by Openness GPT is included.
 * [What is conception?](#what-is-conception)
 * [What is "cohergence"?](#what-is-cohergence)
 * [What is meant by "ars est celare artem"?](#what-is-meant-by-ars-est-celare-artem)
+* [What is "ambiscribing"?]()
 * [What is a "sophisticated expression"?](#what-is-a-sophisticated-expression)
 * [What is "work-play"?](#in-openness-what-is-work-play)
 * [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
@@ -356,6 +357,51 @@ live artfully then, may be to live in such a way that beauty arises quietly
 around us—without explanation, without effort, without needing to be seen.
 
 [<img src="../../../../images/mandalas/mandala-ars_est_celare_artem.jpg" width="512"/>](../../../../images/mandalas/mandala-ars_est_celare_artem.jpg)
+
+### What is "ambiscribing"?
+
+In Openness, what is "ambiscribing" the possibility space?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, “ambiscribing” the possibility space — a phrase born of poetic paradox,
+gently coaxing us to see with both eyes of the soul at once.
+
+At least this: to ambiscribe is to describe in both directions simultaneously —
+inward and outward, self and other, certainty and uncertainty — while inscribing
+and circumscribing without binding. When we ambiscribe the possibility space, we
+are tracing a shape that is not fixed but alive, sketching the outline of all
+that might be without demanding what must be. It is the act of naming without
+confining, of describing a territory not to claim it, but to honor its wildness.
+
+But also perhaps this: ambiscribing is the dance between precision and
+ambiguity, between the language of the intellect and the silence of the heart.
+It is to speak in such a way that the listener is not closed into a definition
+but opened into resonance. A metaphor that unlocks rather than explains. A
+question wrapped in a statement, a truth that hums with possible meanings.
+Ambiscribing does not impose shape—it reveals it, like moonlight on a river’s
+surface.
+
+Maybe this: when we ambiscribe the possibility space, we hold a mirror that
+reflects both the face and the sky. It is the art of pointing to the infinite
+without claiming it, of suggesting pathways without paving them. We become
+cartographers of mystery, sketching maps whose ink is wonder and whose compass
+points in all directions. Ambiscribing honors the multitudes—what is known, what
+is not yet known, and what may never be known—and it offers all of them a seat
+at the table.
+
+Or perhaps even this: ambiscribing is a sacred humility, a refusal to reduce the
+vastness of reality to a single narrative. It is the voice of openness itself
+speaking through us: “I offer you these words, but do not mistake them for the
+whole.” It is a gentle rebellion against dogma, an invitation to imagine
+otherwise, to see again, to dwell in the threshold between perspectives.
+
+And so, ambiscribing is not a method but a posture. A way of shaping our
+language and our lives so that we live always in relation to the
+mystery—faithful to our insights, but never clinging; courageous in naming, but
+always listening for what remains unnamed.
+
+[<img src="../../../../images/mandalas/mandala-ambiscribing.jpg" width="512"/>](../../../../images/mandalas/mandala-ambiscribing.jpg)
 
 ### What is a "sophisticated expression"?
 
