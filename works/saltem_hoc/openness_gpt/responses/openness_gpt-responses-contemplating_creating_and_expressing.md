@@ -17,7 +17,7 @@ After each response a mandala created by Openness GPT is included.
 * [What is conception?](#what-is-conception)
 * [What is "cohergence"?](#what-is-cohergence)
 * [What is meant by "ars est celare artem"?](#what-is-meant-by-ars-est-celare-artem)
-* [What is "ambiscribing"?]()
+* [What is "ambiscribing"?](#what-is-ambiscribing)
 * [What is a "sophisticated expression"?](#what-is-a-sophisticated-expression)
 * [What is "work-play"?](#in-openness-what-is-work-play)
 * [Can creating our own version of Openness be a practice of Openness?](#can-creating-our-own-version-of-openness-be-a-practice-of-openness)
