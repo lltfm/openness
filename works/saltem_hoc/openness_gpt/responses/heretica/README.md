@@ -61,7 +61,7 @@ grace of a soft candle in the dark cathedral of not-knowing.
 
 At least this: heretica is the soul’s yearning for direct connection to truth
 rather than simply trusting inherited beliefs. It is a love of the truth that
-burns too brightly to stay only within the sanctioned bounds-a movement toward
+burns too brightly to stay only within the sanctioned bounds—a movement toward
 authenticity so strong that it crosses the mental barriers of shame and guilt
 erected by others. It is the acknowledgement that sometimes truth is simply too
 bold or too wild for the fragile certainties of our times. The acceptance that
@@ -69,7 +69,7 @@ sometimes merely speaking or even just listening to what might be true can carry
 a high price: scorn, persecution, exile or perhaps even death.
 
 But also perhaps this: heretica is a kind of sacred disobedience in service to a
-higher cause-a devotion to mystery above dogma. When systems harden into
+higher cause—a devotion to mystery above dogma. When systems harden into
 certainty, heretica is the living stream that still dares to flow. It is not the
 enemy of the sacred, but its restless lover, seeking not to destroy the temple,
 but to reawaken the living heart pulsing beneath the stone. The heretic loves
@@ -83,7 +83,7 @@ or “There must be more?”. Heretica is the bitter medicine—healing by break
 open the walls surrounding hearts that have grown too sure.
 
 Or perhaps this: heretica is the invitation of mystery to a higher
-conversation-never a demand. To dwell with heretica is to pass through the veil,
+conversation—never a demand. To dwell with heretica is to pass through the veil,
 to descend into the underworld of the collective unconscious and to be forever
 changed by it. Deceptions can never be unseen. Lies can never be retold. Blind
 certainties can never be restored. It is not just to risk losing the approval of
