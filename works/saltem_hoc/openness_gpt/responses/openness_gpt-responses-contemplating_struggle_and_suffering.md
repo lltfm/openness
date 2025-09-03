@@ -492,7 +492,7 @@ of tears too deep to explain, where something ends and something waits to begin.
 It is not the punishment of being human, but the doorway into what it means to
 truly be one.
 
-[<img src="../../../../images/mandalas/mandala-trauma.jpg" width="512"/>](../../../../images/mandalas/mandala-trauma.jpg)
+[<img src="../../../../images/mandalas/mandala-the_overwhelm.jpg" width="512"/>](../../../../images/mandalas/mandala-trauma.jpg)
 
 ### What is the desire to suicide?
 
