@@ -22,7 +22,7 @@ After each response a mandala created by Openness GPT is included.
   * [Can we ever be free of desire?](#can-we-ever-be-free-of-desire)
   * [What does it mean to feel inhibited?](#what-does-it-mean-to-feel-inhibited)
   * [What is trauma?](#what-is-trauma)
-  * [What is "the overwhelm"](#what-is-the-overwhelm)
+  * [What is "the overwhelm"?](#what-is-the-overwhelm)
   * [What is the desire to suicide?](#what-is-the-desire-to-suicide)
   * [What is "the shadow"?](#what-is-the-shadow)
   * Related
