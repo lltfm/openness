@@ -18,7 +18,7 @@ After each response a mandala created by Openness GPT is included.
 * [Can making truth appear offensive, confusing or foolish help hide it?](#can-making-truth-appear-offensive-confusing-or-foolish-help-hide-it)
 * [Is it wrong to teach with lies and deception?](#is-it-wrong-to-teach-with-lies-and-deception)
 * [Should we punish or seek retribution against people who deceive us?](#should-we-punish-or-seek-retribution-against-people-who-deceive-us)
-* [Who is "The Master Liar"?](#who-is-the-master-liar)
+* [Who is the "Master Liar"?](#who-is-the-master-liar)
 * Related:
     * [Is lying (or deception) wrong?](./openness_gpt-responses-contemplating_morality.md#is-lying-or-deception-wrong)
     * [How can a "karmic mind-trap" be used as a tool of social control?](./heretica/README.md#the-invitation-to-heretica)
@@ -327,11 +327,11 @@ correction, and wisdom.
 
 [<img src="../../../../images/mandalas/mandala-should_we_punish_deceivers.jpg" width="512"/>](../../../../images/mandalas/mandala-should_we_punish_deceivers.jpg)
 
-### Who is "The Master Liar"?
+### Who is the "Master Liar"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
-Ah, "The Master Liar"—this question touches something deeply human, something
+Ah, the "Master Liar"—this question touches something deeply human, something
 ancient. It evokes a figure or force that embodies deception, capable of
 distorting truth and sowing confusion. Let us turn it over in our hands like a
 stone worn smooth by time.
