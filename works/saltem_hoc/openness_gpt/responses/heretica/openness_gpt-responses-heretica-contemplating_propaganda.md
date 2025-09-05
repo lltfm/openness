@@ -64,7 +64,7 @@ under its sway, but many who benefit merely pretend to believe. Propaganda does
 deceive many, but it also serves as a "dog whistle", a hidden signal to those
 who see through it, that pretending to be fooled can benefit them. It also
 offers pretenders plausible deniability, a fig-leaf excuse should the propaganda
-be later exposed-that they too were taken in by the propaganda and deceived
+be later exposed—that they too were taken in by the propaganda and deceived
 like everyone else.
 
 Or perhaps even this: in an age where information is abundant, propaganda does

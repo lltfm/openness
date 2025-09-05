@@ -97,7 +97,7 @@ disillusionment, a weakening of faith-based movements and, for some, an
 entrenchment into extremism.
 
 But also perhaps this: a staged eschaton could serve as a tool for control,
-guiding public behavior through fear or hope-or both. Historically, existential
+guiding public behavior through fear or hope—or both. Historically, existential
 threats—real or manufactured—have been leveraged to push societies toward
 certain policies, allegiances, or new power structures. If those who create the
 deception also provide the interpretation, they gain the ability to steer
@@ -121,7 +121,7 @@ into cynicism and causing onlookers to dismiss genuine faith as foolish
 credulity for generations to come.
 
 Or perhaps even this: a false eschaton is not just a lie—it is a mirror that
-reveals the dangers of blind certainty-a lesson in humility for us all. It
+reveals the dangers of blind certainty—a lesson in humility for us all. It
 forces a reckoning, an opportunity to question not just the deception but the
 assumptions that allowed it to take hold. If the faithful can be fundamentally
 mislead, then what faith will remain when the illusions fade? Perhaps the lesson

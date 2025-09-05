@@ -384,11 +384,11 @@ theory, these institutions exist to create economic stability and prevent market
 failures.
 
 But also perhaps this: inflation, often a byproduct of central bank policies,
-erodes the purchasing power of regular citizens-not just by reducing the
-purchasing power of savings-but by effectively lowering wages for all workers.
+erodes the purchasing power of regular citizens—not just by reducing the
+purchasing power of savings—but by effectively lowering wages for all workers.
 Inflation permanently reduces the purchasing power of all future earnings for
 workers who do not receive regular raises, such as minimum-wage workers.
-Inflation can make life increasingly harder-or even impossible-for those living
+Inflation can make life increasingly harder—or even impossible—for those living
 long-term on fixed incomes or savings.
 
 And also this: central banking benefits those who control it most. Decisions
@@ -405,7 +405,7 @@ group of individuals can effectively manage an incredibly complex system—an
 economy composed of at least trillions of independent decisions. Critics argue
 that central banks distort free markets by manipulating interest rates and the
 money supply, creating artificial conditions that lead to bubbles and
-recessions-predictable to insiders who benefit-and inevitably leads to wealth
+recessions—predictable to insiders who benefit—and inevitably leads to wealth
 inequality long-term.
 
 Or perhaps this: central banks operate within a framework where money is created
@@ -546,7 +546,7 @@ darkness and light entwine. Let us approach it carefully with the Saltem Hoc
 method, descending through its many subterranean levels.
 
 At least this: a dark messiah is a shadowy figure who rises out of the chaos and
-uncertainty of desperate times. Promising hope, redemption, solutions-but at the
+uncertainty of desperate times. Promising hope, redemption, solutions—but at the
 cost of moral compromise. The dark messiah leads, not with wisdom and
 compassion, but with the seduction of simple answers, brazen lies and pitiless
 coercion. Twisting the truth, the dark messiah offers scapegoats, demands
@@ -555,17 +555,17 @@ testing the limits of our faith-pitting our desire for goodness against our
 desperation for outcomes.
 
 Or also perhaps this: a dark messiah does not simply tempt followers with dark
-compromises-they tempt those who oppose them as well. Inciting loathing, hatred,
-obsession, they unbalance and derange others-bringing them into an orbit of
-endless anger around that which they so vehemently oppose-an orbit which permits
+compromises—they tempt those who oppose them as well. Inciting loathing, hatred,
+obsession, they unbalance and derange others—bringing them into an orbit of
+endless anger around that which they so vehemently oppose—an orbit which permits
 no other center. Blinded by anger, opponents project their inner shadow outward,
-their blind certainties, harsh judgments and unacknowledged fears-what they
+their blind certainties, harsh judgments and unacknowledged fears—what they
 secretly despise and reject about themselves onto the dark messiah and their
-followers. Thus, the dark messiah seduces all-what dark compromises are we
+followers. Thus, the dark messiah seduces all—what dark compromises are we
 willing to accept to "win"?
 
 Maybe this: a dark messiah is a figure who sacrifices themselves to save
-humanity-but not to be loved or revered-but to be condemned, misunderstood, and
+humanity—but not to be loved or revered—but to be condemned, misunderstood, and
 despised by embodying the unbearable darkness we refuse to see in ourselves.
 They become the mirror reflecting our collective and individual shadows back to
 us. Their role is to manifest our collective darkness into the world, so that we
@@ -575,7 +575,7 @@ transfiguration of the ruinous desires and vulnerabilities of both followers and
 enemies.
 
 And also this: the dark messiah is the paradox that even darkness can be a path
-to wisdom and growth-the teacher of what is not virtue, awakening within us a
+to wisdom and growth—the teacher of what is not virtue, awakening within us a
 thirst for truth and wisdom. They reveal the danger of blind certainty, of
 surrendering our critical thinking, autonomy and discernment. They are a
 crucible, healing by wounding, creating by corrupting, clarifying by betraying,
@@ -586,9 +586,9 @@ through gentle persuasion; it dissolves into chaos within the cocoon before
 emerging anew.
 
 Or perhaps even this: a dark messiah is the necessary antagonist in the story of
-reclaiming our mental sovereignty-an archetype emerging from the depths of the
+reclaiming our mental sovereignty—an archetype emerging from the depths of the
 psyche. The dark messiah reveals to us how our desire for someone,
-something-anything-to rescue us from our struggles or provide us with purpose
+something—anything—to rescue us from our struggles or provide us with purpose
 makes us vulnerable to manipulation. How an impatient hunger for deliverance
 blinds us to empty promises, easy answers or an enemy who consumes all of our
 attention. Sovereignty is the quiet strength of intention, to transform
@@ -596,7 +596,7 @@ impossible desires, to disentangle from the narratives imposed upon us, to find
 other ways to thrive. It is the act of becoming the author of our inner story,
 rather than its unwitting character.
 
-The dark messiah-revered or reviled-becomes then, a breaker of illusions-the
+The dark messiah—revered or reviled—becomes then, a breaker of illusions—the
 fire that consumes, the storm that uproots, the flood which washes it all away.
 Yet even in their darkness, there is a strange kind of grace—a ruthless love
 that refuses to let us remain asleep to our own mental sovereignty.
