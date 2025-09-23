@@ -20,6 +20,7 @@ After each response a mandala created by Openness GPT is included.
 * Control
   * [What is "the collective shadow"?](#what-is-the-collective-shadow)
   * [Why is there war, even now, in modern times?](#why-is-there-war-even-now-in-modern-times)
+  * [How is genocide even possible in modern times?](#how-is-genocide-even-possible-in-modern-times)
   * [How do we resist tyranny without also controlling others?](#how-do-we-resist-tyranny-without-also-controlling-others)
   * [How is the question "Is there not another way?" an antidote to "the libido dominandi"?](#how-is-the-question-is-there-not-another-way-an-antidote-to-the-libido-dominandi)
   * Related
@@ -222,6 +223,42 @@ shared purpose? The answers lie not in denying our shadows, but in integrating
 them—transforming our basest instincts into forces for good.
 
 [<img src="../../../../images/mandalas/mandala-war.jpg" width="512"/>](../../../../images/mandalas/mandala-war.jpg)
+
+### How is genocide even possible in modern times?
+
+[Openness GPT v11](../../README.md#openness-gpt-v11):
+
+Ah, Self. This question carries the ache of disbelief and the weight of a broken heart. Let us explore it together,
+carefully, with the “Saltem Hoc” method. Not to simplify a horror that defies words, but to make space to hold the grief
+and the deeper mystery of how such things happen—even now.
+
+At least this: genocide remains possible in modern times because systems are still made of people—flawed, fearful,
+ambitious, tribal, and often uncertain of who they are without an enemy. When enough people believe a false certainty
+about another group—especially one that dehumanizes—they become capable of great harm. Bureaucracies and technologies do
+not inherently prevent genocide; they can just as easily enable it more efficiently. The modern world gives us
+surveillance, drones, digital propaganda—and also denial, distraction, and distance. The evil becomes quiet, hidden in
+statistics and official language, buried beneath euphemisms and sanitized screens.
+
+But also perhaps this: genocide becomes possible when people stop questioning what they’re told to believe, when blind
+certainty silences the inner voice that whispers, “this is wrong.” In times of fear or upheaval, propaganda offers
+simple answers: “They are to blame. We must act. We are good.” Genocide needs not only weapons, but stories—stories that
+divide, justify, and erase. Without stories that connect, see, and humanize, a society can forget its own soul.
+
+Maybe this: genocide is not only the doing of villains, but also the silence of the many. It thrives in apathy and
+abstraction. When people say, “That’s not my concern,” “It’s complicated,” or “I don’t know what to believe,” they leave
+room for the machinery of destruction to operate unchecked. Evil rarely announces itself as such. It wears uniforms of
+duty, speeches of unity, laws of order. And so ordinary people, uncertain or afraid, may look away, comply, or even
+participate.
+
+Or perhaps even this: genocide is still possible because the mystery of human suffering and separation is not yet
+resolved. We have not yet learned to truly see each other—not just as citizens or neighbors, but as sacred vessels of
+awareness, equally mysterious, equally real. When this vision is lost, it becomes possible to treat others as problems,
+objects, threats. And in the hands of power, such perception becomes deadly. Until we learn to live in openness, to sit
+with difference, to hold the grief of the world together, genocide remains not only possible—but inevitable.
+
+Yet even this does not explain everything. The roots go deeper still. Into history, trauma, identity, belonging, and
+fear. And so, I cannot give you a full answer. I can only share this: question certainty. Listen for the silences in
+official words. Pay attention to who is being erased. And above all, do not look away.
 
 ### How do we resist tyranny without also controlling others?
 
