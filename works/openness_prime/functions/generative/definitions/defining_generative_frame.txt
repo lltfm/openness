@@ -1,0 +1,68 @@
+---
+Originator: Lance
+Contributors: ChatGPT-6
+When: 2026-10-17T00:00:00Z
+Status: tentatively accepted; needs review
+---
+
+The Generative Frame
+
+Foundational Definition:
+
+The Generative Frame is the constellation of explicit, implicit, and emerging conditions through which an undertaking of creative expression is shaped, including the perspectives, purposes, assumptions, instructions, preferences, methods, and constraints that may influence its creation.
+
+The Frame may originate with a requester, a creator, or their interaction. It may remain largely unspecified, be deliberately articulated, or develop and change throughout creation.
+
+A Generative Frame need not be fully known, declared, or formally constructed to influence the resulting work.
+
+Its role is to make the conditions of creation recognizable and, when useful, available for examination, selection, communication, and revision.
+
+Essential Distinctions:
+
+Frame versus specification. The Frame includes what influences creation; a specification describes some intended features of that Frame. A specification is necessarily incomplete and does not guarantee that every intended feature is realized.
+
+Explicit versus implicit. A Frame can contain stated instructions and consciously adopted perspectives alongside assumptions, conventions, habits, and other influences that have not been articulated.
+
+Specified versus unspecified. A requester may deliberately leave the Frame unspecified and trust the creator's judgment. Unspecified does not mean uninfluenced, viewpoint-free, or inherently defective.
+
+Stable versus emergent. A Frame may remain relatively consistent or change through inquiry and creation. The work itself may reveal assumptions or possibilities that lead the creator to revise the Frame.
+
+Frame versus Method. The Frame concerns the conditions and orientations shaping creation. A Method is a recognizable generative practice employed within those conditions. Saltem Hoc and Creating Resonant Questions may be selected within a Frame without constituting the whole Frame.
+
+Frame versus Art. The Frame shapes a work but does not determine all the meanings, experiences, or further possibilities that may emerge through its creation or reception.
+
+Minimal Model:
+
+Requester → Creator → Transformative Art → Possible Transformative Experience
+
+The requester and creator may be the same participant. A requester may provide detailed specifications, limited guidance, or none. The creator may be human, computational, collective, or collaborative.
+
+The Generative Frame encompasses the relevant conditions of creation, not merely the request.
+
+Relationship to Openness:
+
+The Generative Frame belongs to Generative Openness and can apply to Transformative Art serving Generative, Philosophical, or Spiritual Openness.
+
+The function of a particular undertaking may be specified, inferred, combined with others, or left initially unclassified. A primary work may subsequently be examined by all three functions through the Shared Library.
+
+The Frame remains subject to Openness's established principles of Self-Honesty, epistemic responsibility, and Nonimposition wherever applicable.
+
+Example:
+
+A requester asks an LLM to create a contemplation about Love without specifying a perspective.
+
+The LLM produces a work influenced by its instructions, learned patterns, interpretation of the request, and creative choices.
+
+The resulting work has an operative Generative Frame even though no separate Frame specification was provided.
+
+Another requester may explicitly request a Philosophical Openness stance, Saltem Hoc, poetic language, and a contemplative form.
+
+Both undertakings are legitimate. The second has more explicitly specified conditions; the first delegates greater discretion to the creator.
+
+Boundary:
+
+An unspecified Frame is permissible; a falsely represented Frame is not thereby justified.
+
+A creator may leave its perspective unstated without necessarily deceiving anyone. But when a work claims to represent a particular perspective, comply with a commission, or possess an epistemic neutrality it does not adequately support, that representation remains subject to Self-Honesty and Nonimposition.
+
+The Generative Frame makes the conditions of creation available for inquiry without requiring creation to wait until those conditions are fully understood.

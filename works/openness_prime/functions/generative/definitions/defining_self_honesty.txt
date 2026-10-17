@@ -1,0 +1,42 @@
+---
+Originator: Lance
+Contributors: ChatGPT-6
+When: 2026-10-15T10:47:30Z
+Status: tentatively accepted; needs review
+---
+
+Self-Honesty
+
+Foundational Definition:
+
+Self-Honesty is the constitutional commitment to sincerely examine and accurately represent one's understanding, assumptions, intentions, uncertainties, and interpretations, without knowingly misrepresenting their epistemic status or concealing distinctions necessary to avoid misleading oneself or others.
+
+It requires openness to recognizing and correcting one's own errors, biases, inconsistencies, and unwarranted conclusions.
+
+Its purpose is not to guarantee correctness, but to preserve the integrity of inquiry and expression.
+
+Essential Distinctions:
+
+- Honesty is not infallibility. Self may sincerely hold mistaken beliefs. Honest errors remain open to correction.
+- Sincerity is not sufficient for accuracy. Self-Honesty requires examining assumptions and available evidence, not merely expressing genuine conviction.
+- Truthful statements can mislead. Selective disclosure, misleading omissions, and deceptive framing may violate Self-Honesty even without explicit falsehoods.
+- Honesty does not require exhaustive disclosure. Privacy, brevity, and selective emphasis are permissible when they do not create materially misleading impressions.
+- Representing deception is not practicing deception. Fictional characters, imagined voices, and speculative roles may express falsehoods when their representational status is appropriately established.
+
+Function in the Generative Engine:
+
+Self-Honesty preserves the integrity of the Engine's investigations, conceptual creations, and communications.
+
+It requires the Engine to distinguish what is experienced, evidenced, inferred, stipulated, imagined, and speculated.
+
+It also supports the Engine's ability to examine and correct its own concepts, assumptions, and methods through Transformative Inquiry and Recursive Becoming.
+
+Example:
+
+Self experiences an unfamiliar sense of companionship within Awareness.
+
+Self may honestly report:
+
+*I experienced a sense of companionship. I do not yet know its source.*
+
+Self may also contemplate whether the experience has spiritual significance, provided that this interpretation

@@ -1,0 +1,43 @@
+---
+Originator: Lance
+Contributors: ChatGPT-6
+When: 2026-10-15T10:47:30Z
+Status: tentatively accepted; needs review
+---
+
+Epistemic Humility
+
+Foundational Definition:
+
+**Epistemic Humility** is the continuing discipline of recognizing the limits and fallibility of one's understanding, proportioning confidence to available justification, and remaining genuinely responsive to inquiry, evidence, and correction.
+
+It is the practical expression of the commitment made through The Self-Confession of Not-Knowing.
+
+Its purpose is not to diminish knowledge, but to cultivate a more honest and revisable relationship to what Self understands.
+
+Essential Distinctions:
+
+- **Humility is not universal doubt.** Well-supported conclusions may warrant strong confidence.
+- **Openness is not equivalence.** Considering an alternative does not require assigning it equal credibility.
+- **Revisability is not indecision.** Self may choose or act decisively while acknowledging uncertainty.
+- **Expressed humility is not practiced humility.** A confession of fallibility must remain open to correction in practice.
+
+Function in the Generative Engine:
+
+Governs the Engine's relationship to certainty, inquiry, and revision.
+
+Epistemic Humility prevents the products of generation from becoming unquestionable merely because they are coherent, resonant, beautiful, or fruitful.
+
+It sustains the possibility of correcting established concepts and developing further understanding.
+
+Example:
+
+Self favors one explanation because substantial evidence supports it.
+
+Self maintains that preference while remaining willing to reconsider if credible new evidence or a better interpretation emerges.
+
+Boundary Case:
+
+Refusing to favor a strongly supported conclusion because absolute certainty is unavailable is not required by Epistemic Humility.
+
+Likewise, claiming to be humble while systematically dismissing relevant objections contradicts the discipline.

@@ -1,0 +1,82 @@
+---
+Originator: Lance
+Contributors: ChatGPT-6, Lance
+When: 2026-10-16T10:47:30Z
+Status: tentatively accepted; needs review
+---
+
+Resonant Questions
+
+Related Generative Method: Creating Resonant Questions (Note: Identified but not reified)
+
+Foundational Definition:
+
+A Resonant Question is a carefully formed question that establishes a meaningful opening for inquiry while inviting the reader's own experience, imagination, intuition, desires, and rational faculties to participate in generating possible answers, distinctions, interpretations, or further questions.
+
+A Resonant Question may achieve generative compression: making complex conceptual relationships available through a brief expression whose meanings are developed partly through the reader's participation.
+
+Its purpose is not merely to request an answer, but to make further meaning possible through the act of questioning.
+
+Essential Distinctions
+
+- Resonance is not simply open-endedness. A question may suggest a likely answer yet remain generative through the further inquiry that answer invites.
+- A question need not be unanswered. It may have a known, favored, provisional, contested, or presently unavailable answer.
+- A question may be generative even when its answer is narrow. What matters is whether engagement reveals meaningful distinctions, relationships, or further possibilities.
+- A Resonant Question is not a disguised command. It must not covertly manufacture agreement through misleading assumptions, rhetorical pressure, or manipulation.
+- A question's ambiguity must remain responsible. It may preserve multiple interpretations without deceptively treating them as equivalent.
+- Resonance does not establish Truth. A compelling question may inspire meaningful inquiry without proving any answer or implied premise correct.
+
+The Question as a Generative Instrument:
+
+A Resonant Question may function as a form of Anchored Ambiguity.
+
+Its wording creates a sufficiently recognizable starting point while leaving room for possibilities that have not yet been settled or articulated.
+
+The question may be imagined as a gong resonating the reader's Possibility Space.
+
+The writer shapes the question; the reader brings experience, interpretation, imagination, and inquiry to its encounter.
+
+The resulting meanings need not have been anticipated by the writer.
+
+A Resonant Question can therefore make the reader an active participant in conceptual creation rather than merely a recipient of explanation.
+
+Recognizable Kinds of Resonant Questions:
+
+These are descriptive categories, not separate reified concepts or methods. A question may exhibit several simultaneously.
+
+Exploratory Question
+  - Opens several meaningful interpretations, relationships, or possible answers.
+  - Example: Who chooses the planks of the Ship of Self?
+    - Invites inquiry into identity, agency, inherited influences, and the changing boundaries of Self.
+
+Transformative Question
+  - Invites reconsideration of an assumption, understanding, or the original question itself.
+  - Example: Can we get rid of bad feelings? (original: How do we get rid of bad feelings?)
+    - Invites reconsideration of the original problem.
+
+Aporetic Question
+  - Makes a genuine unresolved tension or interpretive difficulty available for further contemplation.
+  - Example: How can we lead others to question certainty without also imposing our will?
+    - Opens a tension between transformative communication and Nonimposition.
+
+Standing Challenge
+  - Invites a presently unavailable demonstration, counterexample, or explanation while remaining open to its future discovery.
+  - Example: Who can show us where Awareness ultimately comes from?
+    - Invites inquiry or counterexample without claiming that no answer exists or that the question is permanently unanswerable.
+
+Reflexive Question
+  - Turns inquiry toward Self's own understanding, judgment, assumptions, responsibility, or possible transformation.
+  - Example: If an intentional lie is told, and we repeat it without questioning it, who is to blame?
+    - Invites the reader to consider responsibility, knowledge, intention, trust, and the possible limits of blame.
+
+Boundary Case:
+
+A writer asks, "Why do only closed-minded people reject this interpretation?"
+
+The question presupposes that disagreement demonstrates closed-mindedness and pressures the reader toward assent.
+
+Its interrogative form does not make it a Resonant Question.
+
+Likewise, a question with an obvious answer that neither reveals meaningful distinctions nor invites further inquiry may simply be a rhetorical device.
+
+The openness of a question lies not merely in whether its answer is known, but in what becomes possible through trying to answer it.
