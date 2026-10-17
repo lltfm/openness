@@ -1,5 +1,5 @@
 ---
-Originator: Lance
+Originator: gdl
 Contributors: ChatGPT-6
 When: 2026-10-16T10:47:30Z
 Status: tentatively accepted; needs review
