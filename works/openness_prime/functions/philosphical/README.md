@@ -4,7 +4,7 @@
 **Updated:** 17 October 2026  
 **Status:** Overview; not a substitute for full canonical definitions or the primary works.
 
-> **At least this:** Philosophical Openness is the function of Openness that investigates experience, Self, other Selves, reality, meaning, choosing, knowledge, and the consequences of interpretation without requiring elective spiritual premises. It cultivates honest inquiry, imaginative and rational discernment, revisable understanding, and the possibility that inquiry changes what can be understood next. **But perhaps more?**
+The Philosophical function of Openness investigates experience, reality, meaning, knowledge, and ethics. It seeks justified understanding and curates possibilities when questions cannot yet be resolved.
 
 ## 1. Where P belongs
 

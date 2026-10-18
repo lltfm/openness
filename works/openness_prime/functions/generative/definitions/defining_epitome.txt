@@ -1,0 +1,75 @@
+
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-10-17T00:00:00Z
+Status: tentatively accepted; needs review
+---
+
+Epitome
+
+Foundational Definition
+
+An Epitome is a concise, generally poetic, self-contained expression that communicates the essential meaning or significance of a concept, relationship, experience, or possibility through carefully selected language and generative semantic compression.
+
+It may employ metaphor, imagery, juxtaposition, paradox, Resonant Questions, fragments, rhythm, or other expressive techniques to invite the reader's imagination, intuition, experience, and reasoning to participate in developing meaning beyond what is explicitly stated.
+
+An Epitome seeks Brevity Without Loss of Essential Meaning: sufficient clarity to be independently intelligible, with enough expressive openness to invite further interpretation.
+
+Its purpose is not to exhaustively explain a subject but to make its central meaning accessible, memorable, and potentially generative.
+
+Essential Characteristics
+
+Concision: An Epitome expresses substantial meaning with relatively little language. No fixed word count or sentence structure is required.
+
+Poetic Expression: Language is selected for its capacity to communicate through multiple faculties, not merely for factual or expository efficiency. Conventional verse is unnecessary; prose fragments, aphorisms, questions, and compact symbolic expressions may all qualify.
+
+Generative Compression: A few expressive elements can make complex relationships available through the reader's own imaginative and interpretive participation.
+
+Independent Intelligibility: The Epitome must provide sufficient grounding to stand on its own. It may reward familiarity with a larger philosophical system, but such familiarity should not be necessary to encounter its central meaning.
+
+Expressive Openness: An Epitome may invite interpretations beyond its immediate subject without requiring that all possible interpretations be equally warranted or intended.
+
+Optional Visual Accompaniment
+
+An Epitome may be paired with an image, illustration, painting, or other visual expression.
+
+The image may clarify its subject, reinforce its imagery, or introduce additional interpretive possibilities.
+
+The image must not be necessary for understanding the Epitome's central meaning.
+
+When an Epitome is presented alongside an image, the resulting pairing may constitute a richer multimodal work while the textual Epitome remains independently meaningful.
+
+Distinctions
+
+Epitome versus Formal Definition: A definition establishes a concept's meaning and boundaries with sufficient precision for reliable use. An Epitome communicates its essential significance through a compact expressive encounter. One may complement the other without replacing it.
+
+Epitome versus Saltem Hoc: Saltem Hoc is a reified Generative Method for developing possibilities from a defensible anchor or declared hypothesis. An Epitome is an expressive form and need not follow Saltem Hoc's movements. An Epitome may nevertheless be created using Saltem Hoc.
+
+Epitome versus Anchored Ambiguity: Anchored Ambiguity supports recognizable minimal meaning alongside further interpretations. An Epitome may use this approach but need not be structured around a minimum meaning followed by successive speculative possibilities.
+
+Epitome versus Resonant Question: A Resonant Question invites active meaning-making through inquiry. An Epitome may contain one or several Resonant Questions, or consist primarily of a question, but questioning is not compulsory.
+
+Epitome versus Method: Epitome names a recognizable expressive form. Methods used in creating it may vary. Recognizing the form does not automatically establish a separate reified Method of Creating Epitomes.
+
+Function
+
+An Epitome may introduce a concept, summarize a developed understanding, provide a compact expressive representation of a larger contemplation, or serve as a standalone work of Transformative Art.
+
+It may invite the reader to understand, question, reinterpret, or imaginatively inhabit possibilities whose further meaning has not been fully expressed by the writer.
+
+Its generativity is possible rather than guaranteed.
+
+Boundaries and Safeguards
+
+Concision does not justify removing distinctions essential to the work's meaning.
+
+Ambiguity does not justify presenting unsupported assertions as established facts.
+
+Beauty, emotional force, or resonance does not establish truth.
+
+An Epitome may speak through fictional, hypothetical, or explicitly spiritual perspectives, provided its expressive character does not covertly misrepresent their epistemic status.
+
+A successful Epitome is neither merely an abbreviated explanation nor an evocative collection of words whose essential meaning is unintelligible without supplementary explanation.
+
+The Epitome offers enough meaning to begin understanding—and enough openness for understanding to continue.

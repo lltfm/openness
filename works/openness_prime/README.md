@@ -4,13 +4,41 @@
 **Updated:** 17 October 2026  
 **Status:** Root overview. The function-specific READMEs and canonical definitions contain the details.
 
-> **At least this:** Openness is an ongoing practice and developing framework for encountering experience, acknowledging the limits of understanding, examining what may be true, and creating meanings and possibilities through inquiry, imagination, reason, feeling, and expression. It values responsible judgment and action while preserving the capacity to reconsider what has been understood, chosen, or created. **But perhaps more?**
+# What is Openness?
 
-Its foundational confession is:
+**Openness** is a posture toward life and a system for inquiry, creation, and becoming.
+
+To be open is to aspire to embrace all experience as we might embrace another person: with attention and benevolence, holding closely enough to encounter what is, gently enough to allow it to breathe, and freely enough to let it go. We cannot fully know what we embrace. We listen, question, imagine, discern, and allow room for what we do not yet understand.
+
+Openness may be symbolized by an **open circle** surrounding an empty space of mystery which it does not know. Its boundary gives form without enclosing it. Its opening allows the unknown beyond our present understanding to enter, while preserving our capacity to discern what we encounter. We hold, but do not cling.
+
+As a system, Openness seeks **meta-truth**: understanding how meanings, beliefs, knowledge, judgments, and possibilities arise, are examined, cultivated, and revised. Rather than prescribe a universal truth, morality, or way of life, it provides conceptual tools, methods, contemplations, and examples through which individuals may develop their own understandings, Preferred Stories or systems. It seeks to make further possibilities available without requiring everyone to choose the same ones.
+
+The foundational confession of Openness is:
 
 > **For I Know I Do Not Know.**
 
 This is not a declaration that knowledge is impossible. It is a recognition that present understanding may be incomplete, even where confidence is justified. The value of that recognition is **generative**: a new question, distinction, interpretation, relationship, or creative work may make further understanding possible.
+
+Openness has three interacting functions, each with a distinct primary purpose.
+
+## Generative Openness
+
+The Generative function of Openness identifies, investigates, develops, and refines Methods for creating **Transformative Art**. It also develops generative concepts that support creation and may be reused throughout Openness.
+
+## Philosophical Openness
+
+The Philosophical function of Openness investigates experience, reality, meaning, knowledge, and ethics. It seeks justified understanding and curates possibilities when questions cannot yet be resolved.
+
+## Spiritual Openness
+
+The Spiritual function of Openness cultivates wisdom through lived experience, contemplation, choosing, and becoming. It explores existential, moral, spiritual, and mythopoetic concepts and stories as possible ways of living meaningfully, without requiring belief.
+
+## The Functions as a Living System
+
+The three functions resemble a living tree. **Generative Openness forms the roots**, gathering and developing experiences for transformative creations. **Philosophical Openness forms the trunk and vascular system**, giving structure to understanding and circulating concepts and possibilities. **Spiritual Openness forms the branches, leaves, and crown**, encountering the wider world and transforming experience into wisdom, nourishment, and fruit.
+
+This mapping is symbolic, not exclusive. As water and nutrients rise through a tree and sugars produced by its leaves nourish the whole, each function both supports and learns from the others. As the tree grows, it may also begin to nurture a wider ecosystem—new understanding, creations, and possibilities extending beyond Openness itself.
 
 ## 1. Three interacting functions
 

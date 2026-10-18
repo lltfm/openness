@@ -1,6 +1,6 @@
 # The Generative Function of Openness
 
-**Generative Openness** is the generative function of Openness: the development, identification, investigation, and refinement of methods through which meanings and possibilities may be explored and **Transformative Art** may be created. Such art may invite **Transformative Experience** and make further understanding, inquiry, and creation possible.
+The Generative function of Openness identifies, investigates, develops, and refines Methods for creating **Transformative Art**. It also develops generative concepts that support creation and may be reused throughout Openness.
 
 Generative Openness is the **roots** of Openness's three-function tree. **Philosophical Openness (P)**, the trunk, develops and examines philosophical understanding; **Spiritual Openness (S)**, the branches, explores elective spiritual and mythopoetic possibilities. These are interacting functions, not a hierarchy of authority or obligatory stages. P and S can inspire G, while G develops methods available to either. Instructions and guidance for creating works belong primarily to G.
 

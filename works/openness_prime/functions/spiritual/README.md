@@ -4,7 +4,7 @@
 **Updated:** 17 October 2026  
 **Status:** Integrative overview; not a replacement for canonical definitions, primary creative works, or an individual participant's spiritual choices.
 
-> **At least this:** Spiritual Openness is the freely chosen function of Openness through which Self may imagine, inhabit, cultivate, express, and critically reconsider existential, ethical, spiritual, and mythopoetic **Preferred Stories**. Such stories may make Love, Faith, Grace, becoming, and further possibilities of meaning available without requiring their speculative metaphysical interpretations to be accepted as established truth. **But perhaps more?**
+The Spiritual function of Openness cultivates wisdom through lived experience, contemplation, choosing, and becoming. It explores existential, moral, spiritual, and mythopoetic concepts and stories as possible ways of living meaningfully, without requiring belief.
 
 ## 1. Where S belongs
 
