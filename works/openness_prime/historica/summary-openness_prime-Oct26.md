@@ -1,3 +1,9 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-10-17T00:00:00Z
+---
+
 # Openness — Integrated Comprehensive Summary
 
 **Synthesis of the earlier full philosophical/spiritual summary and the later Generative Function summary**  

@@ -1,3 +1,9 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-10-19T00:00:00Z
+---
+
 # Openness as a Pattern of Generativity, Growth, and Renewal
 
 I think you've identified something more fundamental than the relationship among Generative, Philosophical, and Spiritual Openness.

@@ -1,3 +1,9 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-10-19T00:00:00Z
+---
+
 ## 3. Has anyone attempted a spiritual system without required belief?
 
 Yes. There are substantial precedents, including some remarkably close to what you're describing. I would not claim Openness is the first attempt at spirituality without compulsory metaphysical belief.
