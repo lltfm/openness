@@ -1,133 +1,140 @@
-# Philosophical Openness (P)
+# The Philosophical Function of Openness
 
 **The philosophical function of Openness · Working overview and definition backlog**  
-**Updated:** 17 October 2026  
-**Status:** Overview; not a substitute for full canonical definitions or the primary works.
+**Updated:** 18 October 2026  
+**Status:** Working overview and conceptual backlog; primary works and established definitions remain authoritative where more precise.
 
-The Philosophical function of Openness investigates experience, reality, meaning, knowledge, and ethics. It seeks justified understanding and curates possibilities when questions cannot yet be resolved.
+The **Philosophical function of Openness (P)** investigates experience, reality, meaning, knowledge, and ethics. It seeks **justified understanding** and **curates possibilities** when questions cannot yet be resolved.
 
-## 1. Where P belongs
+P examines what we can responsibly understand, how understandings arise and change, and what remains open to inquiry. Its purpose is not to establish a worldview that everyone must accept, but to develop and share increasingly fruitful ways of understanding reality—while remaining answerable to reality itself.
 
-Openness now comprises **three interacting functions**, represented by a tree rather than a hierarchy of authority:
+## Purpose and Relationship to Openness
 
-| Function | Tree image | Primary responsibility |
-|---|---|---|
-| **Generative Openness (G)** | Roots | Identify, develop, and explain **Generative Methods** for creating Transformative Art that may invite Transformative Experience. |
-| **Philosophical Openness (P)** | Trunk | Investigate and develop philosophical meanings; critically examine, organize, curate, and teach concepts and works. |
-| **Spiritual Openness (S)** | Branches | Explore elective spiritual, existential, and mythopoetic interpretations and Preferred Stories without compulsory metaphysical assent. |
-
-G is responsible primarily for **how to create**; P and S may analyze **what works mean** in their respective fields. Each function may inspire developments in the others, and none is a higher rank of truth. A shared **Openness library** preserves primary works independent of any one function; P can curate analyses, commentaries, teaching sequences, conceptual maps, and derivative discussions that refer to those works. An original work may be relevant to G, P, and S simultaneously.
-
-**Terminology:** use **Generative Method** when speaking from P or general Openness; within G itself, **Method** suffices. Methods, generative approaches, creative techniques, expressive forms, and media are distinguishable, combinable categories. P may evaluate what a Method achieves without assuming responsibility for formally teaching or reifying that Method.
-
-## 2. The philosophical character of Openness
-
-P begins with the possibility that Self's current interpretations are incomplete. It does **not** assert that nothing is knowable, that every interpretation is equally credible, or that uncertainty must prevent action. It permits strong warranted confidence while preserving the possibility of correction, improved questions, and conceptual creation. It regards epistemic humility as *generative*: recognizing a limit can open inquiries that misplaced certainty would foreclose.
-
-The canonical confession from the Engine of Transformative Inquiry is:
+**Openness is the path of becoming ever more open to what is.** Its foundational confession is:
 
 > **For I Know I Do Not Know.**
 
-Its formal name is **The Self-Confession of Not-Knowing**: Self reflexively acknowledges incomplete understanding within Awareness. **Epistemic Humility** is the continuing practice of proportionate confidence and responsiveness to evidence and correction; the confession and its practice are distinguishable.
+The confession recognizes that present understanding may be incomplete. It does not deny knowledge, imply that all claims deserve equal confidence, or establish that ultimate understanding is impossible. Even our understanding of knowing and not-knowing remains open to inquiry. **Epistemic Humility** is the practice of proportioning confidence to justification and remaining responsive to correction; saying the confession is not proof of practicing it.
 
-P can regard **The Mystery**, **Awareness**, and **Self** as indispensable concepts for many inquiries without presuming their ultimate metaphysical nature. These are already defined together in the **Constitution** of the 24-concept **Engine of Transformative Inquiry**, housed in G. P draws upon their canonical meanings rather than silently redefining them.
+Openness as a whole aspires **to cultivate ways of encountering reality that make further understanding, wisdom, and becoming possible**. Its three interacting functions contribute differently:
 
-Another governing distinction is **What Resonates, What Follows & What Is True**:
+| Function | Principal purpose | Symbolic tree image |
+|---|---|---|
+| **Generative Openness (G)** | Develops generative concepts and Methods for creating **Transformative Art** that may invite further experience and possibility. | Roots |
+| **Philosophical Openness (P)** | Seeks justified understanding and curates unresolved possibilities through inquiry and conceptual development. | Trunk and vascular system |
+| **Spiritual Openness (S)** | Cultivates wisdom through lived experience, contemplation, choosing, and becoming, without requiring belief. | Branches, leaves, and crown |
 
-> **Resonance ≠ Fruit ≠ Truth.** A contemplation can move someone, produce consequences, and describe reality accurately—or fail at any of these independently. One may inform another where a genuine evidential relationship warrants it; none automatically proves the others.
+The mapping is symbolic, not literal or hierarchical. Like a living tree, the functions exchange resources: art may raise philosophical questions; philosophy may clarify spiritual possibilities; lived experience may challenge philosophy or inspire new Methods. No function exclusively owns a subject, a work, or the capacity to generate new ideas. P investigates ethics; S may explore moral and spiritual ways of living. Neither difference forbids the other from reasoning, imagining, or learning through experience.
 
-P relies on the established constitutional standards **Self-Honesty**, **Epistemic Hospitality**, **Preferred Stories**, and **Nonimposition**. Their ultimate organizational home across *all three* functions remains a deferred architectural question; their present definitions remain in G's Engine. Nonimposition concerns how works are offered, while the wider-P concept of Mental Sovereignty concerns a person's ability to judge, defer, reject, or leave.
+The **shared Openness library** holds primary works independently of G, P, and S. Each function may reference the same original while developing distinct interpretations or derivative analyses. When discussing creation from P, use **Generative Method**; within G, **Method** suffices. The practical reification and teaching of Generative Methods belongs primarily to G.
 
-## 3. Core philosophical inquiries
+## Truth, Meta-Truth, and the Limits of Knowing
 
-### 3.1 Awareness, encounter, and conceptual form
+**P seeks truth where it can be responsibly established.** Where a question remains open, it distinguishes evidence, interpretation, uncertainty, and speculation rather than supplying a compulsory answer. Its preference for honest inquiry and revisability is itself an examinable commitment—not a claim to have no preferences.
 
-An experience can be real *as experience* even when its explanation is mistaken. **The River** symbolizes the ongoing flux of reality and experience; **Riverbanks** symbolize the words, interpretations, categories, and identities that allow navigation without exhausting that flux. **River-Truth** protects the distinction between what is directly felt or encountered and what is inferred about its source.
+**Meta-truth**, as a developing description of Openness's wider concern, asks how meanings, claims, judgments, and possibilities are generated, justified, interpreted, communicated, and revised. It offers ways of examining our relationship with truth, not a superior factual truth that overrides particular discoveries. The metaphor **truth as fruit** suggests that understandings may arise through cultivation, may be useful or generative in different ways, and may invite further growth. The metaphor is itself *fruit*: a revisable model, not a necessary account of everything that can be true.
 
-**The Shores of Awareness**—prefer the **plural**—symbolize the many changing places, perspectives, and positions of experiential encounter. The singular **Shore of Awareness** can focus on one particular encounter. **The Horizon of Self** is a separate symbol for the apparent and revisable extent of self-conception. **A wave arriving within Awareness does not establish where its source belongs.** It may arise through bodily, interpersonal, cultural, environmental, or still-unknown influences.
+**Functional or generative fruit is not sufficient evidence of factual truth.** A belief may be useful yet false; rival models can work in different domains without every conflicting proposition becoming equally correct. Conversely, a true conclusion need not be emotionally resonant or immediately useful. The established Engine distinction remains:
 
-Other water images (lake, ocean, waves, sky, undercurrents, undertow) offer generative associations but do not assert a literal metaphysics of consciousness or nonduality. Concepts are useful riverbanks, not prison walls and not the River itself.
+> **Resonance ≠ Fruit ≠ Truth.**
 
-### 3.2 Identity, influence, and choosing
+Openness need not compete to make others adopt particular philosophical fruits. Its freedom to inquire, create, share, revise, and generate further possibilities matters, however. **Disagreement with its fruit—or criticism of its meta-truth—remains legitimate; coercion, deception, or the suppression of independent inquiry may call for proportionate defense.** Nonimposition is not nondefense. Defending the conditions of inquiry must not make the current framework immune to criticism.
 
-**The Ship of Self** figures evolving identity as planks of beliefs, habits, memories, roles, relationships, and commitments—some inherited, some seemingly chosen, some revised. Its distinctive resonant questions include **“Who chooses the planks?”** and **“Where does the ship end?”**
+### The embrace and its boundary
 
-**The Unchosen** includes experiences and conditions Self did not consciously select, without settling whether metaphysical Free Will exists. **The Unseen** should preserve three epistemic distinctions: directly **Experienced Unseen**, evidence-supported **Inferred Unseen**, and unestablished **Speculative Unseen**.
+Openness can be understood as an **embrace of experience**: attentive and benevolent, close enough to encounter what is, gentle enough to let it breathe, and free enough to let it go. Its open-circle symbol gives form without enclosing the Mystery or preventing what lies beyond current understanding from entering.
 
-**The Unconscious Self** is a provisional symbolic attribution of subconscious processes and imaginal inner figures, not proof of an independent agent or a fixed Jungian Shadow. **The Unconscious Depths** (preferred name) explores the unresolved extent and sources of these processes. **The Undercurrents** concerns largely unrecognized bodily, psychological, social, and other influences that shape encounters and apparent choosing; today's deliberate activity may become tomorrow's unconscious habit.
+The aspiration is to give the world **the greatest possible latitude to be as it is**. This is not an objectively calculable maximum or a demand for passive exposure to harm. Self—or a Collective Self—must discern its own limits, obligations, and boundaries while seeking not to impose unnecessary closure on others. Openness may listen, refuse, protect, choose, and act. **We hold without clinging.**
 
-Choosing can be examined from experience without presupposing libertarian free will or determinism. **Freedom of Re-formation** concerns revising Self's forms of understanding and action without proving uncaused agency. **The Refinement of Choosing** concerns becoming more discerning *before* the next decision's outcome is known; a wise decision may still have an unfortunate outcome.
+## Principal Fields of Philosophical Inquiry
 
-### 3.3 The Intersubjective and collectives
+### Experience, Awareness, and conceptual form
 
-**The Intersubjective** concerns what is shared, negotiated, developed, interpreted, justified, or sometimes *constituted* among Selves. A fact about an institution may partly exist through social rules and practices; an astronomical event need not depend on agreement. **The constitution of social facts, the interpretation of claims, and the justification of knowledge are different relationships**. Consensus can be correct, mistaken, incomplete, or coercively maintained.
+An experience can be real *as experience* even when an explanation of its cause is mistaken. **The River** symbolizes the flow of reality and experience; **Riverbanks** are the words, distinctions, concepts, and identities that help us navigate it without exhausting it. **River-Truth** distinguishes the felt truth of an encounter from inferences concerning its source or broader factual significance.
 
-**The Collective Self** is a promising provisional conception of a family, friendship group, business, institution, academic field, or country as a participant in shared memory, inquiry, identity, commitments, and action. The analogy does **not** entail a unified subjective mind. **Collective attention, distributed knowledge, authorized decision-making, representation, dissent, and accountability** must be carefully distinguished. A group's confession, *“For We Know We Do Not Know,”* has substance only if its practices allow evidence and disagreement to matter.
+**The Shores of Awareness** (plural) symbolize multiple changing positions of encounter. The singular *Shore of Awareness* may denote one such encounter. **The Horizon of Self** concerns the apparent and revisable extent of self-conception. A wave arriving in Awareness need not originate within what Self currently identifies as itself; bodily, interpersonal, cultural, environmental, and unknown influences may all be relevant.
 
-**Who decides what is true?** may lead to a productive aporia: what is the difference between making a judgment, possessing authority to declare something, constructing a social fact, and describing something that resists agreement? A more precise question may be better fruit than a prematurely final answer.
+Other water images—lake, ocean, sky, waves, undercurrents—invite interpretation, not literal conclusions about consciousness or metaphysical unity. **The Mystery, Awareness, and Self** retain their established conceptual anchors in G's 24-concept Engine of Transformative Inquiry; P investigates them without silently supplying final metaphysical definitions.
 
-### 3.4 Judgment, action, and return
+### Identity, influence, choosing, and mortality
 
-P values the **deliberate suspension of judgment** where closure is unwarranted or unnecessary. An inquirer can think rigorously about how a future decision would be made without deciding now. When action is necessary, **Provisional Commitment** permits choosing responsibly on available evidence without claiming certainty. **The Return to Openness** means releasing unnecessary attachment to past interpretations and remaining open to revision—even after having acted—without denying justified beliefs, incurred responsibilities, or irreversible consequences.
+**The Ship of Self** imagines identity through inherited, chosen, and revised planks of habits, beliefs, commitments, relationships, and roles. *Who chooses the planks? Where does the ship end?* **The Unchosen** encompasses conditions and encounters not intentionally selected by Self. **The Unseen** separates what is internally *experienced*, reasonably *inferred*, and merely *speculated*. **The Unconscious Self**, **The Unconscious Depths**, and **The Undercurrents** explore influences not presently transparent to Self, without asserting a literal second inner agent.
+
+**Choosing** can be studied as lived deliberation and action without settling metaphysical Free Will. **Freedom of Re-formation** concerns Self's possible revision of its forms; **The Refinement of Choosing** concerns learning to discern better before a future outcome is known. A responsible choice can have tragic consequences, and a careless choice can turn out favorably.
+
+Recent inquiry adds two **provisional, unreified** themes to P. **Mortality-Integrated Becoming** (*working name; rename pending*) considers finitude as a present condition shaping choice, risk, and possibilities, not only a future ending. **The Illusion of Safety** examines the mistaken promise of exemption from mortality and The Unchosen through control or avoidance. These ideas do **not** deny that preparation and particular risk reductions can be real and valuable. The related **Prepared Journey** and **First Crossing** are being explored principally in S, not imposed as P doctrines or obligatory ways of living.
+
+### Intersubjectivity, Collective Self, and authority
+
+**The Intersubjective** concerns meanings, judgments, evidence, practices, and some social facts arising or developing among Selves. **Constituting a social fact**, **interpreting a claim**, and **justifying its truth** are distinct: collective agreement can establish certain conventional statuses without controlling every fact about reality.
+
+**The Collective Self** is a provisional analogy for shared identity, memory, inquiry, action, and responsibility in groups or institutions, not a claim that such groups possess unified first-person Awareness. It raises unfinished questions about representation, dissent, decision-making, boundaries, and whether groups actually learn from disagreement. *For We Know We Do Not Know* has substance only when members can challenge a collective's claims.
+
+**Who decides what is true?** is not exhausted by identifying who speaks, votes, claims authority, or maintains an institution. P distinguishes the freedom to judge from the evidence that warrants judgment, and both from social rules that constitute some kinds of facts.
+
+### Judgment, ethics, power, and the return to inquiry
+
+P can **suspend judgment** without abandoning serious inquiry and make **provisional commitments** without pretending to infallibility. **Situated Certainty** is justified confidence in context; **Blind Certainty** is defended closure resistant to relevant evidence. **Ignor-ance** names active avoidance, distinct from ordinary ignorance or the legitimate decision to protect one's attention and boundaries.
 
 > **Deciding & acting when we must, but ever returning to Openness.**
 
-Neither permanent doubt nor perpetual reopening is a virtue by itself. **Situated Certainty** is warranted confidence in context; **Blind Certainty** is defended conviction that obstructs relevant inquiry. **Ignor-ance** names avoidant turning-away, but must not be confused with protective refusal or healthy boundaries.
+**The Return to Openness** concerns freedom from unnecessary attachment to past interpretations—not perpetual doubt, repeated reconsideration without cause, or denial of responsibilities and irreversible consequences.
 
-### 3.5 Agency, ethics, power, and risk
+P examines **Mental Sovereignty**, including the distinct **Interpretive Sovereignty** of readers and **Temporal Sovereignty** over whether and when to continue inquiry. Its ethical and institutional inquiries include **Institutional Witness**, **The Independence Test**, **Fiat Falsehood**, and **The Concealment–Dominance Cycle**. The ability to question, refuse, and act within legitimate boundaries matters alongside the aspiration to offer others the greatest possible latitude. **Nonimposition** forbids manipulation and unjustified control, not honest disagreement, persuasion, or self-defense. The provisional S concept **The Master Liar's Promise of Safety** examines manipulative offers of protection; P can examine their factual and institutional implications without adopting a mythopoetic premise.
 
-**Mental Sovereignty** includes freedom of interpretation, attention, judgment, and engagement with claims. **Interpretive Sovereignty** concerns the reader's independence from a writer's intended meaning; **Temporal Sovereignty** concerns when or whether inquiry continues. These belong to wider P, not as duplicates of the Engine's Nonimposition safeguard.
+**The Overwhelm** examines experiences that exceed capacities for integration. Openness does not require courting traumatic or destabilizing experience as the price of wisdom. Preparation, limits, withdrawal, and support can be appropriate responses to actual risks. Beneficial later consequences do not by themselves justify earlier harm; related investigations include **The Master Liar's Fallacy** and **Non-Appropriation of Fruit**.
 
-P studies how language, authority, institutions, and consensus can distort inquiry. **Institutional Witness** allows dissenting testimony and inconvenient evidence to become examinable. **The Independence Test** asks whether a teacher or system enables inquiry beyond permanent reliance on that teacher. **The Concealment–Dominance Cycle** describes a possible progression from hidden inconvenient evidence to defended authority, not a universal law.
+### Interpretation, Artifice, generativity, and further fruit
 
-**The Overwhelm** names the risk of experiences exceeding capacities for integration. Openness does not recommend seeking overwhelming distress in pursuit of transcendence; boundaries, withdrawal, safe forms, and outside support can preserve valuable capacities. A fruitful outcome after harm does not retroactively justify the harm. Ethical P inquiry may therefore draw on **the Master Liar's Fallacy** and **Non-Appropriation of Fruit**, although their most developed narrative settings belong to S.
+**Artifice** concerns created cultural, institutional, linguistic, and conceptual forms, especially when they are mistaken for inevitable Nature. Narrative endings may make a contingent outcome appear final even while further consequences remain unknown. The Chinese Farmer's *“Maybe”* illustrates the difference between judging a known event and claiming to know all of its ultimate fruit; this is an interpretive insight, **not a revision of the Engine's canonical definition of Fruitional Discernment**.
 
-### 3.6 Interpretation, symbolic thought, and further fruit
+A text may make multiple interpretations available without belonging to any one of them. P distinguishes **the primary work**, **its supportable readings**, **the reader's or author's preferences**, and **new understandings developed through interpreting it**. A powerful reinterpretation—for example, Cain and Abel as present and future Self, or a reading of *WESTWARD* through mortality and The First Crossing—need not be the work's only meaning or its creator's established intention.
 
-P can provisionally **inhabit possibilities** without making their premises literal truths. A costume, fictional voice, metaphor, or role can create an examinable model. **Role-Premise**, **Role-Fruit**, and **Role-Truth** distinguish the assumed character, what inhabiting it produces, and the truth of any claims implied by it. This matters particularly when an AI performs a fictional Generative Persona: a useful interpretation does not prove the persona's literal nature or the AI's consciousness.
+**Role-Inhabitation** can test a perspective without accepting its premise as fact. **Role-Premise**, **Role-Fruit**, and **Role-Truth** remain distinct; the artistry of an AI Generative Persona cannot demonstrate literal Awareness or spiritual status. **Generative Frame** and **Generative Stance**, housed in G outside its Engine, can clarify how a work's requester, creator, and circumstances shape expression without requiring a complete declared frame or an authoritative interpretation.
 
-The **Fruit of a Possibility**, **The Fruit of Further Possibility**, **Fruitional Discernment**, **Poiesis**, **Transcendence**, and **Recursive Becoming** already have Engine definitions in G. In wider P, more specialized fruit—**Fruit of Inhabitation**, **Fruit of Realization**, **Displacement of Fruit**, and **Comparative Fruit**—can be studied without becoming compulsory Engine entries.
+**The Fruit of a Possibility**, **The Fruit of Further Possibility**, **Fruitional Discernment**, **Poiesis**, **Transcendence**, and **Recursive Becoming** have existing definitions in G's Engine. P may study more specific varieties of fruit and interpretive effects such as **Generative Doorways**, **Poietic Transcendence**, **Heretical Counterpoint**, and the **Emergent Third-Text Effect**, while preserving the difference between fruitful meaning and demonstrated truth.
 
-**Generative Doorways**, **Poietic Transcendence**, **Resonant Communication**, **Transcendent Communication**, and **Generative Compression** describe valuable phenomena at the interface of P and G. They may explain why a metaphor, symbol, or resonant question makes sophisticated relationships accessible through the reader's own imaginative and rational participation. The reader can extend or reject an interpretation; communicative beauty must not substitute for evidence.
+### Systems, revision, and continuity
 
-## 4. P's works and its relationship to the shared library
+The success of an adaptive system can produce accumulated structures that support further work while becoming harder to revise. A concept, institution, or philosophy may eventually protect its established forms at the expense of new possibility. P can investigate the **generativity, maintenance, limits, internal renewal, and successor forms** of systems without asserting an inevitable cycle of collapse or that persistence is itself goodness.
 
-P can maintain several kinds of **function-specific material** without owning or duplicating the primary artifacts of the shared Openness library:
+The **Long Now** aspiration is the continuity of inquiry and generativity, not necessarily permanent preservation of Openness's present form. A fruitful system may help others develop independent frameworks that revise or reject its starting concepts. An **Openness Fork** can be a legitimate continuation of inquiry rather than an act of disloyalty. The system should be able to defend its capacity to operate while welcoming factual criticism and reasoned changes to its own foundational claims.
 
-1. **Canonical definitions and conceptual reference works:** careful anchors, essential distinctions, conceptual maps, relations, boundary cases, and revision notes.
-2. **Philosophical investigations:** essays, dialogues, contemplations, counterarguments, comparisons, and open research questions.
-3. **Derived discussion and analysis:** interpretations of works held in the shared library, including critical or contrastive readings.
-4. **Didactic and curated experiences:** introductory pathways, thematic readers, annotated texts, and examples arranged for learning rather than for compulsory assent.
-5. **Applied and intersubjective inquiry:** questions concerning personal choosing, relationships, communities, institutions, knowledge practices, and collective revision.
+## Works and Intellectual Stewardship
 
-The primary work remains distinct from its later commentary. For example, the *Cain and Abel* contemplation may be examined in P as a model of responsibility between present and future Self; S may investigate its elective spiritual implications; G may analyze its use of Saltem Hoc, questioning, and interpretive re-entry. **Guidance for creating such works belongs principally to G**.
+P curates **conceptual definitions, philosophical investigations, commentaries, critical and contrastive readings, learning pathways, and applied inquiries**. Its work may take the form of essays, dialogues, interpretive analyses, conceptual maps, or contemplations. These remain distinct from the original works in the shared library and from G's practical Methods for creating such works.
 
-A philosophical analysis may be completely correct about a narrow distinction yet have little immediate emotional resonance. An inspiring interpretation may later prove inaccurate. P should preserve both careful evaluation and room for further inquiry.
+An Epitome is a **reified expressive form in G**, not a template for every philosophical definition. P may analyze Epitomes for their meanings and consequences, and may use generative compression when it clarifies rather than obscures. **Saltem Hoc** and **Anchored Ambiguity** should be used where they genuinely develop a question; neither belongs automatically in a definition or overview.
 
-## 5. Editorial and epistemic standards
+The Constitution's established resources—**Self-Honesty, Epistemic Hospitality, Preferred Stories, and Nonimposition**—inform this work. Their eventual home as shared commitments across G, P, and S remains an open architectural question; P should reference their definitions rather than creating conflicting versions.
 
-- **Define precisely enough to enable inquiry.** Distinguish direct experience, stipulation, evidence, inference, and speculation. Preserve ambiguity where its exact limits can be stated; do not remove it merely because it is unresolved.
-- **Do not make metaphor do illicit ontological work.** A personified Mystery, Unconscious Self, or Collective Self may be useful without being demonstrated as a literal independent entity.
-- **Treat the reader as a participant, not a target.** A philosophical question may be evocative and open without being rhetorically rigged to manufacture agreement.
-- **Preserve established wording where possible.** Definitions remain distinguishable from exploratory essays and Saltem Hoc contemplations; deliberate, justified revisions are preferred over silent drift.
-- **Leave appropriately bounded work unfinished.** Aporia, a revised question, or a responsible decision to defer may be valid fruit of inquiry.
-- **Keep classification honest.** An identified idea need not be reified; a P concept does not enter G's Engine solely because it is interesting, beautiful, or generative.
+### Editorial commitments
 
-For canonical definitions, use the established **Openness Definition Guidelines**: definitional precision, generative function where relevant, optional self-demonstrating Saltem Hoc, and brevity without loss of meaning. When a concept already has a canonical definition in G or S, prefer a cross-reference to a second competing definition.
+- **Seek justified understanding.** Distinguish experienced fact, inference, evidence, convention, stipulation, hypothesis, and imaginative possibility. Strong warranted confidence is compatible with humility.
+- **Preserve meaningful distinctions.** Reality, resonance, usefulness, moral preference, and factual truth must not be treated as interchangeable.
+- **Hold forms without clinging.** Keep definitions precise enough for inquiry, and revisit them when further understanding warrants revision; avoid using a universal claim about provisional knowledge as another unexamined certainty.
+- **Give readers their freedom.** Separate the work from the interpretation, including spiritual or philosophical preferences, and do not disguise speculative interpretations as the work's established meaning.
+- **Practice benevolence with discernment.** Give the world the greatest possible latitude to be as it is while recognizing legitimate boundaries, refusal, and protection of inquiry.
+- **Avoid premature reification.** Names, metaphors, possible distinctions, and meaningful examples need not become separate canonical concepts or Engine entries. Do not force every idea into Saltem Hoc or an Epitome.
+- **Keep the system generative.** Preserve criticism, institutional dissent, revisable concepts, and the possibility of successors that develop beyond the current architecture.
+
+The established Openness Definition Guidelines remain useful: **Define precisely enough to make inquiry possible. Explore openly enough to make further meaning possible. Revise honestly when further inquiry reveals a better distinction.**
 
 ---
 
 # Definition backlog for Philosophical Openness
 
-**Purpose.** The following is a consolidated *P-oriented* backlog of named concepts, distinctions, and provisional categories to define or refine later. The short entries are **meaning anchors / draft epitomes**, not replacements for full definitions. Entries record what must be protected if a definition is eventually written. **Listing a term does not mean it is fully reified, requires its own document, or belongs in the 24-concept Engine.** Some related entries may ultimately be grouped, merged, or left as descriptive symbols.
+**Purpose.** This is a consolidated *P-oriented* inventory of existing and proposed concepts, distinctions, and symbols. Its compact entries are **working meaning anchors, not Epitomes or full definitions**. Entries record what must be protected if a definition is eventually written. **Listing a term does not mean it is fully reified, requires its own document, or belongs in the 24-concept Engine.** Some related entries may ultimately be grouped, merged, or left as descriptive symbols.
 
-**Statuses:** **Developed** = substantial prior explanation exists but a dedicated P definition may still be useful; **Provisional** = a workable anchor exists and future definition is open; **Exploratory** = primarily a candidate distinction or image. The grouping is editorial, not an ontological taxonomy.
+**Statuses:** **Developed** = substantial earlier explanation exists, although a dedicated definition may still be useful; **Provisional** = a working anchor awaits further examination; **Exploratory** = a candidate distinction or image. Status does not imply truth, ethical value, or a requirement to reify. The grouping is editorial, not an ontological taxonomy.
 
 ## A. P's identity, epistemology, and the intersubjective
 
 | Term | Concise definition anchor / epitome | Maturity |
 |---|---|---|
-| **Philosophical Openness (P)** | Examines experience, interpretation, reality, choosing, and shared understanding with humble, discerning, revisable inquiry—without requiring elective spiritual claims. | Developed |
+| **Philosophical Openness (P)** | Investigates experience, reality, meaning, knowledge, and ethics; seeks justified understanding and curates possibilities where questions remain unresolved. | Developed |
+| **Meta-truth** | Provisional inquiry into how meanings, claims, judgments, and possibilities arise, are tested, interpreted, and revised; no privileged exemption for this model itself. | Provisional |
+| **Truth as Fruit** | A generative metaphor: discoveries and interpretations may be cultivated and yield further possibility; practical usefulness never alone establishes factual truth. | Provisional; metaphor |
 | **The Intersubjective** | What arises, is interpreted, justified, shared, or constituted *among* Selves; neither private opinion nor mere consensus nor proof that all reality is socially made. | Provisional |
 | **Intersubjective Constitution** | Collective practices and recognized actions can constitute certain social facts, roles, agreements, and institutions; they need not constitute every empirical fact. | Exploratory |
 | **Intersubjective Interpretation** | Language, history, testimony, and relations among perspectives shape what claims mean and how they can be contested. | Exploratory |
@@ -172,6 +179,8 @@ For canonical definitions, use the established **Openness Definition Guidelines*
 | **The Undercurrents** | Largely unseen bodily, learned, interpersonal, institutional, and other influences shaping feelings and choosing, sometimes recursively. | Developed |
 | **Undertow / Rip Currents** | An image for forces that can carry experience beyond safe integration; danger is not evidence of revelation or benefit. | Exploratory |
 | **The Overwhelm** | Experience exceeding familiar capacities to integrate, interpret, or withstand it; protective boundaries are legitimate and distress is not proof of insight. | Developed |
+| **Mortality-Integrated Becoming** *(working name)* | Mortality is a present condition of finite living, choice, loss, and possibility, not only a future ending; name and scope remain open. | Provisional; rename pending |
+| **The Illusion of Safety** | The mistaken promise that risk control or avoidance can remove fundamental mortality and The Unchosen; distinct from effective preparation or reducing specific risks. | Provisional |
 | **Unchosen Overwhelm** | Destabilizing experience arriving without deliberate pursuit; naming it may orient Self without guaranteeing protection or resolution. | Developed |
 
 ## C. Choosing, agency, time, and reflective ethics
@@ -191,6 +200,7 @@ For canonical definitions, use the established **Openness Definition Guidelines*
 | **Institutional Witness** | Practices making inconvenient evidence and dissent examinable rather than suppressing them in defense of a shared Preferred Story. | Developed |
 | **The Concealment–Dominance Cycle** | A possible progression from avoiding contradictory evidence to protected narratives and control of permitted interpretations; not a universal law. | Developed |
 | **The Independence Test** | Does a teacher, institution, or generative system foster learners able to question and create without permanent dependence? | Developed |
+| **Nonimposition and Defensive Boundaries** | Others may refuse or criticize a system's fruit; threats to independent inquiry or a system's right to operate may justify proportionate defense without making its beliefs immune to critique. | Provisional; distinction, not independent Engine entry |
 | **Institutional Return to Openness** | Collective revision of interpretations and policies that preserves dissent, accountability, and the consequences of earlier actions. | Provisional |
 | **The Master Liar's Fallacy** | A later benefit does not by itself excuse deception, coercion, cruelty, or other wrongful means. | Developed; P/S link |
 | **Non-Appropriation of Fruit** | A wrongdoer cannot claim ownership or moral credit for a survivor's later growth merely because their wrongdoing formed part of its history. | Developed; P/S link |
@@ -240,6 +250,7 @@ For canonical definitions, use the established **Openness Definition Guidelines*
 | **Canonical / Foundational Definition** | The stable minimal meaning and necessary distinctions used across works; exploratory richness does not silently revise the anchor. | Developed |
 | **Applied Philosophical Contemplation** | A work using P's existing conceptual resources to investigate a subject, which may in turn expose an assumption needing revision. | Developed |
 | **Conceptual / Foundational Revision** | A justified, explicit change to a shared concept whose consequences may propagate through other works and classifications. | Developed |
+| **Generative Succession / Internal Renewal** | Systems may revise themselves or enable independent successor forms; neither their survival nor their collapse alone establishes goodness or progress. | Exploratory; systems analogy |
 
 ## F. Existing Engine definitions to **reference**, not redundantly redefine in P
 
@@ -262,4 +273,4 @@ These **24 Engine entries are already part of the narrower G framework**. P uses
 
 ---
 
-*Source basis: **Openness — Integrated Comprehensive Summary (17 October 2026)**, reconciled with its earlier full philosophical/spiritual summary and the subsequent accepted three-function architecture. More precise canonical definitions and primary creative works govern over compressed descriptions here.*
+*Source basis: the supplied Philosophical README (17 October 2026), established Engine and three-function architecture, and subsequent discussions through 18 October 2026. Canonical definitions and original works govern where they provide more precise accounts. Newly included interpretations and provisional labels are not automatically reified.*

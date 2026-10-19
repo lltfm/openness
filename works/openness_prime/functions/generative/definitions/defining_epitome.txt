@@ -8,7 +8,7 @@ Status: tentatively accepted; needs review
 
 Epitome
 
-Foundational Definition
+Foundational Definition:
 
 An Epitome is a concise, generally poetic, self-contained expression that communicates the essential meaning or significance of a concept, relationship, experience, or possibility through carefully selected language and generative semantic compression.
 
@@ -18,7 +18,7 @@ An Epitome seeks Brevity Without Loss of Essential Meaning: sufficient clarity t
 
 Its purpose is not to exhaustively explain a subject but to make its central meaning accessible, memorable, and potentially generative.
 
-Essential Characteristics
+Essential Characteristics:
 
 Concision: An Epitome expresses substantial meaning with relatively little language. No fixed word count or sentence structure is required.
 
@@ -30,7 +30,7 @@ Independent Intelligibility: The Epitome must provide sufficient grounding to st
 
 Expressive Openness: An Epitome may invite interpretations beyond its immediate subject without requiring that all possible interpretations be equally warranted or intended.
 
-Optional Visual Accompaniment
+Optional Visual Accompaniment:
 
 An Epitome may be paired with an image, illustration, painting, or other visual expression.
 
@@ -40,7 +40,7 @@ The image must not be necessary for understanding the Epitome's central meaning.
 
 When an Epitome is presented alongside an image, the resulting pairing may constitute a richer multimodal work while the textual Epitome remains independently meaningful.
 
-Distinctions
+Distinctions:
 
 Epitome versus Formal Definition: A definition establishes a concept's meaning and boundaries with sufficient precision for reliable use. An Epitome communicates its essential significance through a compact expressive encounter. One may complement the other without replacing it.
 
@@ -52,7 +52,7 @@ Epitome versus Resonant Question: A Resonant Question invites active meaning-mak
 
 Epitome versus Method: Epitome names a recognizable expressive form. Methods used in creating it may vary. Recognizing the form does not automatically establish a separate reified Method of Creating Epitomes.
 
-Function
+Function:
 
 An Epitome may introduce a concept, summarize a developed understanding, provide a compact expressive representation of a larger contemplation, or serve as a standalone work of Transformative Art.
 
@@ -60,7 +60,7 @@ It may invite the reader to understand, question, reinterpret, or imaginatively 
 
 Its generativity is possible rather than guaranteed.
 
-Boundaries and Safeguards
+Boundaries and Safeguards:
 
 Concision does not justify removing distinctions essential to the work's meaning.
 
