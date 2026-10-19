@@ -7,3 +7,21 @@
 - how Awareness may perceive an objective world subjectively
 - relation to intersubjective (already defined)
 4. Defining: Interpretive Sovereignty
+5. further work on interrupted "Can Openness be open to ultimate truth?" 
+  - seems like we could conclude that no mental model can validate its completeness or finality itself? how to do so?
+6. Defining: The Long Now / The Slow Now 
+7. Openness values/desires?
+   - the desire to see clearly
+   - the desire to be aligned with what is true and real
+   - the desire to understand and be aligned with the limits of knowing
+   - the desire to be revisible and adaptable
+   - the desire to respond benevolently by default to all experience
+   - the desire to give greatest latitude possible to the world to be as it is
+   - the desire for to be a pattern of patterns for others
+   - the desire to be a system of patterns that adapts and aligns
+   - the desire to be a system that persists across the Long Now
+   - the desire to listen
+   - the desire to become ever more open to what is
+8. Openness listens is missing from overview -- perhaps needs more definition in P/S?
+9. JTrue work analysis
+
