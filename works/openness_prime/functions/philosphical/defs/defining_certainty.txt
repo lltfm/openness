@@ -1,86 +1,102 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-10-19T00:00:00Z
-Status: needs review; partially, tentatively accepted
+When: 2026-10-20T00:00:00Z
+Status: needs review; tentatively accepted
 ---
 
 Certainty
 
 Foundational Definition:
 
-Certainty concerns the degree to which Self regards an understanding, interpretation, proposition, or expectation as settled, and the grounds upon which that confidence rests.
+Certainty is the condition of regarding something as settled, whether through conviction, justification, or acceptance of a conclusion as sufficient for a particular purpose.
 
-Certainty has distinguishable experiential and epistemic dimensions. Self may feel certain that something is true, yet lack sufficient justification for that confidence. Conversely, Self may possess strong justification for an understanding while continuing to experience doubt.
+The experience of being certain, the justification for that certainty, and the truth of what is held certain are distinguishable and may diverge.
 
-Situated Certainty, or Situated Confidence, is the confidence Self encounters within Awareness, arising through its present feelings, interpretations, evidence, reasoning, and understanding of what it knows and does not know.
+Certainty may concern a claim, interpretation, expectation, or directly encountered experience. Its scope and grounds may be explicit, implicit, or unexamined.
 
-Self may seek increasingly objective understanding through evidence, rational inquiry, and engagement with other Selves. Yet its encounter with that understanding remains situated within Awareness. It encounters its own best-present understanding and assessment of justification, not an infallible perspective outside all experience.
-
-The function of distinguishing these dimensions is to cultivate increasingly discerning confidence: neither mistaking felt conviction for established truth nor diminishing justified understanding merely because further uncertainty remains possible.
+Certainty may be justified, mistaken, revisable, or appropriately maintained. The possibility of further understanding does not, by itself, establish that an existing certainty is false or unjustified.
 
 Essential Distinctions:
 
-Felt Certainty. The experienced sense that something is true, settled, or beyond reasonable doubt. It may arise through perception, intuition, familiarity, emotion, memory, reasoning, or trust. Its intensity does not establish the truth of what is believed or the adequacy of its justification.
+Certainty versus Truth. Certainty concerns how something is regarded or justified; Truth concerns whether a claim is true. Certainty does not make a claim true, and a true claim need not be recognized as certain.
 
-Justified Confidence. Confidence warranted by the available evidence, reasoning, methods of inquiry, and relevant alternatives. Its appropriate strength depends upon the quality and limitations of that justification, not merely upon Self's feeling of conviction. Justification can be examined and challenged by other Selves and need not be confined to Self's own assessment of it.
+Certainty versus Knowing. Certainty may accompany or contribute to Knowing without independently establishing it. Whether every form of Knowing requires certainty remains a philosophical question.
 
-Situated Certainty / Situated Confidence. Self's presently encountered confidence in an understanding or proposition, within the conditions and limitations of its Awareness, knowledge, experience, and inquiry. It includes what Self feels, the justification Self recognizes, and the degree of confidence Self is prepared to adopt. It may be strongly warranted, poorly warranted, or somewhere between.
+Certainty versus Confidence. Confidence may admit degrees of strength. Certainty commonly indicates that a conclusion is treated as settled, although what qualifies as sufficient settlement may vary by context. Strong confidence need not exclude all conceivable doubt.
 
-Felt Certainty versus Justified Confidence. Feeling certain and having good reasons to be confident are distinguishable. Neither automatically produces the other. Self may feel certain without sufficient evidence, or experience anxiety and doubt despite substantial justification.
+Certainty versus Finality. A matter may be considered settled within a defined scope without establishing that no further understanding is possible. Conversely, the possibility of ultimate or final certainty is not excluded merely because many certainties are revisable.
 
-Justification versus Truth. Justified confidence does not guarantee truth. An understanding may be well supported by available evidence and subsequently prove mistaken. Conversely, a belief may happen to be true without having been adequately justified.
+Certainty versus Commitment. Choosing or acting upon available understanding does not necessarily entail believing that uncertainty has disappeared. Responsible action may require commitment without certainty.
 
-Situated versus Objective. Situated Confidence does not mean that truth is merely subjective or that objective inquiry is impossible. It recognizes that Self encounters, evaluates, and revises its understanding from within Awareness, while evidence and realities beyond its present understanding may support or challenge its conclusions.
+Possible Dimensionalizations:
 
-Situated Certainty versus Blind Certainty. Situated Certainty acknowledges the conditions and possible limitations of confidence. Blind Certainty arises when conviction becomes resistant to relevant evidence, questions, or correction. Strong confidence is not Blind Certainty merely because it is strong.
+Felt Certainty. The subjective experience of being certain, including an apparent absence of doubt. Felt Certainty may accompany accurate understanding, mistaken interpretation, or insufficiently examined assumptions. Its intensity does not establish its justification.
 
-Confidence versus Infallibility. Confidence may be exceptionally high when justification warrants it. Recognizing the possibility of error does not require permanent hesitation, compulsory doubt, or treating well-established knowledge as equivalent to speculation.
+Justified Confidence. Confidence supported by evidence, reasoning, experience, or other relevant grounds, proportionate to their strength and limitations. It may support certainty within a particular scope or remain strong without becoming absolute. Justified Confidence is therefore closely related to, but not always a subtype of, Certainty.
+
+Situated Certainty. A conclusion treated as sufficiently established within identifiable conditions, purposes, evidence, or standards. Its situatedness does not make it false or merely subjective, nor does it automatically establish unrestricted finality.
+
+Formal or Conditional Certainty. A conclusion established through valid reasoning from specified premises, definitions, or rules. The conclusion may follow necessarily within that system without independently establishing the truth of every premise or the system's applicability beyond its stated scope.
+
+Practical Certainty. A degree of settlement sufficient for a decision or action under particular circumstances. It may be supported by substantial justification without requiring complete knowledge or eliminating every possible alternative.
+
+Unwarranted Certainty. Conviction stronger than its available justification supports. It may arise through error, incomplete evidence, mistaken inference, or unexamined assumptions without necessarily involving deliberate resistance to correction.
+
+Blind Certainty. Certainty maintained through resistance to relevant inquiry or correction, rather than merely through insufficient evidence. For more details about its distinctive mechanisms and implications, see the definition of Blind Certainty.
+
+Individual versus Collective Certainty. Certainty may be attributed to an individual judgment or to a collectively maintained conclusion, policy, or institutional position. Collective certainty does not require unified Awareness, and institutional endorsement does not independently establish factual truth or certainty of all members.
 
 Relationship to Openness:
 
-Certainty belongs primarily to Philosophical Openness, which investigates how Self develops, justifies, and revises understanding.
+Certainty belongs primarily to Philosophical Openness, supporting inquiry into Knowing, Mental Models, Epistemic Humility, judgment, and the distinction between Truth and belief.
 
-It informs Awareness, Self, The Self-Confession of Not-Knowing, Epistemic Humility, Self-Honesty, The Intersubjective, Situated Certainty, Blind Certainty, Preferred Stories, and The Return to Openness.
+Openness does not require the abandonment of certainty. It encourages examination of what is regarded as settled, why it is regarded as settled, and whether its grounds remain adequate.
 
 The foundational confession—
 
 For I Know I Do Not Know.
 
-—recognizes the incompleteness of Self's understanding without denying that Self may genuinely know particular things or hold exceptionally well-justified confidence.
+—does not require doubting everything or denying the possibility of ultimate knowledge. It allows justified certainty while recognizing that confidence in an understanding does not, by itself, establish the completeness or finality of everything upon which that understanding depends.
 
-Epistemic Humility does not require confidence to remain weak. It asks that confidence remain proportionate to justification and responsive to what further inquiry reveals.
+Certainty becomes especially generative when its grounds, scope, or limitations become available for examination. A justified conclusion may support further inquiry just as an unjustified certainty may obstruct it.
 
-The Intersubjective makes additional perspectives, evidence, criticism, and methods of verification available. Other Selves may identify errors or provide justification that Self could not develop alone. Shared inquiry can improve confidence without making consensus itself an infallible authority.
+Examples:
 
-Situated Confidence may therefore become more discerning through continued inquiry, even though Self never ceases to encounter its understanding from within Awareness.
+Example — Formal Certainty
 
-Example:
+Within ordinary arithmetic, 2 + 2 = 4.
 
-Self experiences a powerful feeling that another person has deliberately acted against it.
+The conclusion follows from established mathematical definitions and rules. There is no need to withhold confidence merely because broader philosophical questions about mathematics remain open.
 
-The experience of suspicion is real. Its intensity may create Felt Certainty about the other person's intentions.
+This is an example of justified certainty within a clearly understood framework.
 
-Yet the available evidence may be incomplete. Alternative explanations remain possible. Self's Justified Confidence in the accusation may therefore be considerably weaker than its felt conviction.
+Example — Felt Certainty Without Adequate Justification
 
-Through further inquiry, Self discovers information that challenges its initial interpretation.
+Self sends a message to a close friend and receives no reply.
 
-Its Situated Confidence changes as its understanding of the evidence develops. The earlier feeling remains a genuine experience, but its proposed explanation is revised.
+Self feels certain the friend is angry. The conviction may be emotionally compelling, especially if earlier experiences have made rejection seem likely.
 
-The reverse is also possible.
+Yet the friend's silence does not establish anger. The feeling of certainty exceeds the available evidence.
 
-Self may have strong evidence supporting a conclusion while continuing to feel anxious or uncertain. The absence of Felt Certainty does not negate the justification.
+Later, Self learns that the friend's phone stopped working.
 
-In either case, Self may need to decide and act before every question is resolved.
+The new information gives reason to revise the earlier belief. The original Felt Certainty was genuine as an experience without making its interpretation true.
 
-Boundary:
+Example — Situated Certainty and Practical Judgment
 
-Certainty is not synonymous with truth, and uncertainty is not synonymous with wisdom.
+A town receives extensive evidence that a bridge is structurally unsafe. Engineers agree that the observed damage warrants immediate closure.
 
-The experience of being certain cannot establish that a belief is true. Equally, the fact that confidence is encountered within Awareness does not make all beliefs equally justified or reduce objective inquiry to personal preference.
+Officials may be justified in treating the bridge's present unsuitability for public traffic as settled and acting accordingly.
 
-Situated Certainty does not assert that ultimate certainty is impossible, that every established understanding must be continually doubted, or that Self must refrain from action until uncertainty disappears. *(originator: controversial;under discussion)
+They need not know every cause of the damage, every possible repair, or the bridge's eventual future.
 
-It recognizes that Self can examine the grounds of its confidence, distinguish conviction from justification, and revise its understanding when warranted.
+The decision can be responsible even while some relevant questions remain unresolved.
 
-Self may become increasingly confident in what it understands while remaining open to what it has yet to understand.
+Boundary
+
+Certainty's frequent vulnerability to error should not be taken as proof that all certainty is unjustified, that knowledge must remain permanently uncertain, or that ultimate certainty is impossible.
+
+A certainty may be legitimate within its scope while remaining open to examination of that scope.
+
+The purpose of distinguishing forms and grounds of Certainty is not to make uncertainty compulsory, but to make discernment possible between what is felt, what is justified, what is settled, and what remains open.
