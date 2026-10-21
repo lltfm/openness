@@ -1,13 +1,6 @@
-1. New concept similar to anchored ambiguity? a minimal definition of something unseen is Fiat Formed as a provisionally useful separateness which demonstrates its openness by admitting it is flawed, revisible and merely useful for discussion, reasoning and exploring possibilities -- its ultimate truth or falseness isn't what's important the accuracy of its minimal rendering which can accurately resonate/constrain the possibility space -- in coding, or this we might create a Type-Class -- not a thing that actually exists but an arbitrary category that defines capabilities members must possesses to be included in the category -- but the category itself is arbitrary and useful for organizing and expressing mental/coding objects 
-4. Redefining Mental Models as anchored ambiguity?
-  - The Mind (of Self) is "at least this: the mystery of a Self's mental faculties for thought, speech and movement and its ability to accumulate Mental Models which automatically predict, explain, feel and think"*** logonesis
-  - "A Mental Model borne by Self" is "at least this: the mystery of Self's Unchosen mental abilities to explain, predict reality or Unchosen abilities to move within it." *** logonesis
-  - a Mental Model exists only within a Self though they remain unseen by the Self that bears them
-  - Within The Mind Of Self, a Mental Model is the story of a chosen separateness Self can assign to a part of its own mind or to external entities that appears to it to have a degree of volitional independence (see Finger saltem hoc) for the purpose of explaining and predicting (modeling) the Unchosen behavior of itself or external entities.
-  - the term Mental Model is a somewhat arbitrary provisional logonesis (Fiat Form from the Unseen i.e. "let there be form" a type of Poiesis -- Who chooses what is separate from totality? No higher insight than choosing of what is separate from totality -- The Unseen is a totality) to point at the mystery of what they actually are whose fruit lies in its ability to frame discussion. It is not an existential claim on reality or a claim of completeness, correctness or finality of form. The concept may be unreified in Self or other Selves or be conceptually reified differently or have conceptual overlap with other forms. 
-  - While Mental Models remain unseen by Self, scientific inquiries suggest this may not always be true.
-  - A group may appear to Self as having a Group Mind and Group Mental Models though its individual members still contain their own Mind and Mental Models
-  - Artifice may contain a projected summation of a Self's Mental Models (Artificial Mental Models)
+1. Clarify that Fiat Form also is the invitation to imagine before and after the genesis of all form "Fiat Form!" -- and helpful for us recognize Artifice -- also a category for labeling highly arbitrary forms that derive from the unseen (and have no
+direct evidence of existence someone can show us) that are perhaps currently unnoticed "Fiat Form!" (i.e. Fiat Anchors)
+e.g. the mind, the subconscious, mental models, etc
 4. Lens of Openness -- we can fully explore Illuminism without becoming Illuminist -- we can later adopt that lens anytime
 5. Should Stepping Back and Inhabit/Costume Possibility go in G and remove Preferred Story?
 6. What are the preferences/preferred stories of G,P,S openness?
