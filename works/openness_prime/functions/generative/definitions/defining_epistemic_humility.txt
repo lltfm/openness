@@ -9,7 +9,7 @@ Epistemic Humility
 
 Foundational Definition:
 
-**Epistemic Humility** is the continuing discipline of recognizing the limits and fallibility of one's understanding, proportioning confidence to available justification, and remaining genuinely responsive to inquiry, evidence, and correction.
+Epistemic Humility is the continuing discipline of recognizing the limits and fallibility of one's understanding, proportioning confidence to available justification, and remaining genuinely responsive to inquiry, evidence, and correction.
 
 It is the practical expression of the commitment made through The Self-Confession of Not-Knowing.
 
@@ -17,10 +17,10 @@ Its purpose is not to diminish knowledge, but to cultivate a more honest and rev
 
 Essential Distinctions:
 
-- **Humility is not universal doubt.** Well-supported conclusions may warrant strong confidence.
-- **Openness is not equivalence.** Considering an alternative does not require assigning it equal credibility.
-- **Revisability is not indecision.** Self may choose or act decisively while acknowledging uncertainty.
-- **Expressed humility is not practiced humility.** A confession of fallibility must remain open to correction in practice.
+- Humility is not universal doubt. Well-supported conclusions may warrant strong confidence.
+- Openness is not equivalence. Considering an alternative does not require assigning it equal credibility.
+- Revisability is not indecision. Self may choose or act decisively while acknowledging uncertainty.
+- Expressed humility is not practiced humility. A confession of fallibility must remain open to correction in practice.
 
 Function in the Generative Engine:
 

@@ -1,0 +1,141 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-10-21T00:00:00Z
+Status: needs work
+Todos:
+  - Reflow as "Models"; Mental Models now refers to mental processes of Self
+  - re-evaluate if really needed; common language "model" may be sufficient
+---
+
+Mental Models
+
+Foundational Definition:
+
+A Mental Model is a situated, potentially evolving organization of representations, assumptions, possibilities, relationships, and expectations through which aspects of reality or possibility may be interpreted, understood, anticipated, or examined. Its specific form need not be mental.
+
+Mental Models may inform judgment, choosing, and action, while also shaping what is noticed, questioned, or regarded as possible.
+
+Mental Models may be recursively composed: one model may incorporate, organize, interpret, or represent other models. They may also overlap, contradict, coexist without integration, or remain relatively independent.
+
+Mental Models may develop or change through encounters with information and experience, including perception, memory, reasoning, language, testimony, imagination, instruction, interaction, and other processes where applicable.
+
+Mental Models may be examined, corrected, expanded, or transformed through new evidence, interaction, comparison with alternative models, examination of their assumptions, and further encounters with what they seek to represent.
+
+
+Essential Distinctions:
+
+The map versus the territory. A Mental Model represents and interprets what is encountered; it is not identical to everything it represents. Its limitations do not establish corresponding limitations in reality itself.
+
+Internal coherence versus independent validation. A Mental Model may be logically coherent and consistent with its own assumptions while misrepresenting reality. Its claims may be tested against further evidence, consequences, and alternative interpretations, but its own endorsement of its completeness or correctness is not independent validation of that completeness.
+
+A Mental Model versus Knowing. A Mental Model may organize representations, interpretations, and beliefs that contribute to or support knowledge. Possessing a representation does not, by itself, establish that its content is known. Nor does the concept of Mental Models establish that all Knowing must occur through such models. Whether and how Mental Models participate in Knowing remains a further philosophical inquiry.
+
+Bearer versus operative. An entity is the bearer of a Mental Model when there is sufficient reason to regard the relevant representational organization as maintained or available within it, whether or not presently operative. What can qualify as a bearer remains open to inquiry. For example:
+  - A person is the bearer of a Mental Model of their neighborhood even while not navigating it.
+  - A team maintains a risk model distributed across shared maps, documents, procedures, and participants.
+
+Describes or models. A Mental Model "describes" or "models" an entity when the Mental Model describes, predicts or explains its interpretations, expectations, inferences, or behavior.
+
+
+Possible Dimensionalizations:
+
+Scope and subject. A Mental Model may concern a narrow question, a complex domain, a hypothetical possibility, or another Mental Model. Its boundaries may be explicitly defined, implicitly assumed, or subject to revision.
+
+Bearer and distribution. Mental Models may be attributed to individuals, groups, or computational systems where warranted. An attributed collective model may consist of partially shared or distributed representations, practices, and expectations without constituting one unified inner model or Awareness.***
+
+Composition and coherence. Mental Models may contain other models, represent relationships among models, overlap, reinforce one another, contradict one another, or remain relatively independent. The presence of multiple models does not establish their integration into one coherent whole.
+
+Formation and evolution. Mental Models may develop and evolve through experience, inference, imagination, instruction, testimony, interaction, inherited conventions, or other processes. Their origins and influences may be partially known, disputed, or unrecognized.
+
+Stability and transformation. Mental Models may remain stable, accumulate further relationships, undergo correction, become reorganized, coexist with contradictory models, or cease to guide interpretation and action. Change does not necessarily constitute improvement.
+
+Reflexive or nonreflexive. A Mental Model may represent its own structure, assumptions, development, or limitations, or contain models of other models.
+
+Explicit versus implicit. A Mental Model may be explicitly articulated, partially recognized, tacitly operative, or reconstructed through examination of interpretation and behavior. A Mental Model may be attributed through an observed pattern of interpretation, expectation, or action without there being evidence of a separately identifiable structure corresponding exactly to our description. Attribution of an implicit model is an explanatory proposal, not proof that its bearer maintains a corresponding explicit representation.
+
+Completeness, Correctness and Finality:
+
+Correctness concerns whether a Mental Model's claims accurately represent what they purport to represent, according to applicable standards. 
+
+Completeness concerns whether a model includes everything required within a specified scope or criterion. 
+
+Finality concerns whether further correction, expansion, or replacement could be warranted. Each may be considered relative to a bounded purpose or claimed without such limits.
+
+A Mental Model may be correct but incomplete, complete under a defined criterion while containing errors, or adequate for a purpose without being ultimately final. A model's situatedness—its operation under particular conditions, capacities, histories, and available information—does not itself establish error or incompleteness. Demonstrated completeness within a bounded scope does not establish unrestricted completeness.
+
+Internal coherence and valid reasoning may justify conclusions relative to a model's assumptions. Explanatory success and corroborating evidence may provide further justification. But a model's own assertion of correctness, completeness, or finality does not independently establish those properties.
+
+A Mental Model may contain truths, including possibly ultimate truths, without thereby establishing that those truths have been recognized or conclusively validated. The insufficiency of self-endorsement does not establish that ultimate correctness, completeness, or finality is impossible, or that these could never be justified through means not yet understood.
+
+Language expression:
+
+The phrase "Mental Model" may be shortened to simply "Model" when the context allows unambiguously inferring "Mental Model".
+
+The expression "The Mental Model of X" is allowed, but can be ambiguous in certain contexts since it could mean "X's Mental Model" or "the Mental Model which models X". Care should be taken to always use an unambiguous phrasing when the context does not make the inference clear.
+
+Expressing that a Mental Model is operative cannot be inferred and requires explicit statement:
+  - "Self's Mental Model for their neighborhood is operative while navigating."
+  - "The team is implementing the risk model now."
+
+Relationship to Openness:
+
+Mental Models belong primarily to Philosophical Openness, supporting inquiry into knowledge, interpretation, certainty, understanding, the organization of experience, and the limits and possibilities of further inquiry.
+
+The concept offers one possible interpretation of Openness's foundational confession:
+
+For I Know I Do Not Know.
+
+The confession need not deny the possibility of ultimate knowledge. Under the Mental Model interpretation, confidence in an understanding does not, by itself, establish the completeness or finality of the model through which that understanding is organized.
+
+The Mental Model concept is foundational and informs many other foundational concepts, such as Epistemic Humility, Self-Honesty, Blind Certainty and Preferred Stories.
+
+Its generative significance lies in recognizing that even a powerful and well-supported understanding need not close the possibility of further understanding.
+
+Example - Self:
+
+Self sends a message to a close friend and receives no reply.
+
+An expectation arises: the friend usually responds quickly. As time passes, Self begins to suspect that something is wrong. Perhaps the friend is angry. Perhaps the relationship has changed.
+
+These interpretations may draw upon several Mental Models: a model of the friendship, a model of the friend's likely behavior, and models developed through earlier experiences of acceptance, rejection, and uncertainty.
+
+The models need not form a coherent whole. Self may simultaneously believe that the friend is trustworthy and fear that the silence signals rejection.
+
+The anxiety may be real as experience without establishing that its interpretation is correct.
+
+Self considers other possibilities. The friend may be occupied, distracted, or unable to respond. None of these explanations is established merely by imagining it.
+
+Later, the friend explains that their phone stopped working. This new information supports a different interpretation of the silence.
+
+Self may revise an earlier assumption: an unanswered message does not necessarily indicate rejection.
+
+The revised understanding may be more accurate and useful. Yet the explanation need not establish everything about the friend's intentions, the relationship, or the origins of Self's initial anxiety.
+
+Example - Collective:
+
+A town prepares for an approaching storm.
+
+A longtime resident expects the river to remain within its banks, remembering many earlier storms. An engineer considers the condition of a bridge. An emergency planning team anticipates which roads may remain passable.
+
+Each understanding involves Mental Models developed through different experiences, evidence, and assumptions. The models may overlap without being identical or coherently integrated.
+
+The planning team may speak of "our model of the situation" even though its members hold partly different or incompatible expectations. The planning team's model may exist partly through documents, procedures, shared maps, and coordinated practices, rather than as one identical representation held by every participant.
+
+An existing evacuation plan assumes that a particular bridge will remain available. This assumption has become so familiar that it is rarely examined.
+
+New observations show the river rising faster than expected. Further inspection reveals structural concerns. The town's understanding changes as previously unrecognized assumptions become available for examination.
+
+Officials decide to close the bridge. Their decision does not determine the physical condition of the river or bridge, but it does establish an institutional restriction that becomes relevant to subsequent planning.
+
+The revised models may support an effective evacuation without establishing that every underlying assumption was correct or that every possible risk has been understood.
+
+Boundary:
+
+A Mental Model's inability to establish its own ultimate completeness or correctness does not settle the question of whether knowledge is purely subjective or objective (or some combination), that every claim is equally uncertain, or that evidence cannot justify strong confidence.
+
+The concept of a "Mental Model" is itself a model and used primarily as a lens. It should not be treated as an absolutely established metaphysical final concept that settles, in advance, every possible form of knowledge or validation. Its principle fruit is providing a coherent concept for exploring and discussing other ideas and possibilities. The scope of the limitation remains available for philosophical examination.
+
+A Mental Model may be accurate, useful, justified, and even complete within a specified domain without possessing an independent certificate of ultimate finality or correctness.
+
+The possibility of further understanding remains open without requiring the assertion that further understanding must always exist.
