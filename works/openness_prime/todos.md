@@ -1,16 +1,21 @@
-1. Clarify that Fiat Form also is the invitation to imagine before and after the genesis of all form "Fiat Form!" -- and helpful for us recognize Artifice -- also a category for labeling highly arbitrary forms that derive from the unseen (and have no
-direct evidence of existence someone can show us) that are perhaps currently unnoticed "Fiat Form!" (i.e. Fiat Anchors)
-e.g. the mind, the subconscious, mental models, etc
-4. Lens of Openness -- we can fully explore Illuminism without becoming Illuminist -- we can later adopt that lens anytime
-5. Should Stepping Back and Inhabit/Costume Possibility go in G and remove Preferred Story?
-6. What are the preferences/preferred stories of G,P,S openness?
-7. The River, Riverbanks & River-Truth (e.g. morality)
-9. The Ship of Self
-10. The Future Self
-11. Listening
-12. Suspending Judgment
-13. Resonance
-14. Deciding & Acting
+1. 
+2. Analogical Projection
+3. Fiat Form
+    - Clarify that Fiat Form also is the invitation to imagine before and after the genesis of all form "Fiat Form!" -- and helpful for us recognize Artifice -- also a category for labeling highly arbitrary forms that derive from the unseen (and have no direct evidence of existence someone can show us) that are perhaps currently unnoticed "Fiat Form!" (i.e. Fiat Anchors) e.g. the mind, the subconscious, mental models, etc
+4. Fiat Anchor
+5. Redefine with Analogical Projection
+    - The Unchosen, The Unseen
+    - The Mind (fiat anchor), Certainty/Confidence, Blind Certainty (can't confess, closed/closure, unaware), Mental Models, Preferred Stories
+5. What are the preferences/preferred stories of G,P,S openness?
+6. The River, Riverbanks & River-Truth (e.g. morality)
+7. The Ship of Self
+8. The Future Self
+9. Listening
+10. Suspending Judgment
+11. Resonance
+12. Deciding & Acting
+13. Lens of Openness -- we can fully explore Illuminism without becoming Illuminist -- we can later adopt that lens anytime
+14. Should Stepping Back and Inhabit/Costume Possibility go in G?
 15. Stepping Back / The Return To Openness
 16. The Terrible Becoming
 17. The Unconscious Self
