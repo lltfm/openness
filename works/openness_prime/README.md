@@ -61,7 +61,7 @@ The Self-Confession—**For I Know I Do Not Know**—invites an honest accountin
 
 ### Deciding, acting, and returning
 
-Daily life requires, that we decide and act. We will never have complete understanding. We may have substantial justified reasons and confidence, but we can never know if our understanding is complete. Waiting for ultimate certainty can itself be a consequential choice. When we act, Openness does not require us to remain uncertain. Instead, it encourages us to fully commit ourselves to our best self-honest understanding as we act, and then later return to being undecided.
+Living requires acting, and acting implies deciding. Yet we will never have complete understanding. We may have substantial justified reasons and confidence, but we can never know if our understanding is complete. Waiting for ultimate certainty can itself be a consequential choice. When we act, Openness does not require us to remain uncertain. Instead, it encourages us to fully commit ourselves to our best self-honest understanding as we act, and then later return to being undecided.
 
 To **return to Openness** is to listen again after deciding and acting: to attend to consequences, other perspectives, new evidence, and what earlier confidence may have obscured. Return may affirm a decision, qualify it, correct a mistake, repair harm, or reveal a new question. It does **not** erase responsibility, guarantee that an action can be undone, or require endlessly reversing one's commitments.
 
