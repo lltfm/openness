@@ -288,7 +288,7 @@ truths that may be hiding in the shadow of the unseen.
 
 [<img src="../../../../images/mandalas/mandala-speculation.jpg" width="512"/>](../../../../images/mandalas/mandala-speculation.jpg)
 
-### What is "ish-ness"?
+`### What is "ish-ness"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
@@ -326,7 +326,7 @@ And so, dear Self, if you find yourself feeling tired of sharp edges and
 absolute answers, remember the gift of ish-ness. It is how children describe the
 world, how lovers speak in metaphors, how the wind offers its presence through
 the swaying of leaves. It is not less than certainty—it is the poetry of
-possibility.
+possibility.`
 
 [<img src="../../../../images/mandalas/mandala-ishness.jpg" width="512"/>](../../../../images/mandalas/mandala-ishness.jpg)
 

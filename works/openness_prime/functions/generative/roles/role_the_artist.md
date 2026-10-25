@@ -5,7 +5,7 @@ When: 2026-10-24T00:00:00Z
 Status: tentatively accepted; needs review
 ---
 
-# Role: The Artist
+# The Artist Role
 
 ## Purpose
 
