@@ -1,4 +1,11 @@
-1. Clean up -- add metadata review T definitions
+1. New roles:
+    - The Storyteller
+    - The Nomad / The Sage
+    - The Charlatan / The Spy Master
+    - The King / The Jester
+    - 
+    - The Ancestral Fruit Tree  / The Ancient, Benevolent Super-Intelligence of the Universe
+2. Clean up -- add metadata review T definitions
     - refactor todos here into per function (and also here)
 2. [G]: Derive Awareness,Self,The Mystery and Not-Knowing from the Seed of Openness 
 3. What are the preferences/preferred stories of G,P,S openness?
