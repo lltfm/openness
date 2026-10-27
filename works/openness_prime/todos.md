@@ -59,3 +59,12 @@
    - the desire to become ever more open to what is
 44. Openness listens is missing from overview -- perhaps needs more definition in P/S?
 45. JTrue work analysis
+46. Relating to others
+     - closed-minded -> aspire to love
+     - open-minded -> friends
+     - interested -> close friends
+     - open to what is -> my tribe
+47. My Self-Confession of Not-Knowing
+     - My desire to know
+     - My discomfort of not-knowing
+
