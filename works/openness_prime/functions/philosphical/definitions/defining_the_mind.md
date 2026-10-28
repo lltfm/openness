@@ -1,16 +1,22 @@
 # The Mind
 
+## Prelude
+
 **Fiat Form**: *"Let there be a form called **The Mind**..."*
 
-**Experiential**: *"...like **My Mind**..."*
+**Fiat Anchor**: *"...which none can see and so we must imagine..."*
+
+**Experiential Generalization**: *"...like the form I experience and imagine in myself which I call **My Mind**..."*
 
 **Anchored Ambiguity**: *"...which is **at least this** — but also perhaps more?"*
 
-## Experiential Fiat Anchored Ambiguity
+**Analogical Projection**: *"...which I can imagine others also possess..."*
+
+## Foundational Definition
 
 **The Mind — At least this: a conceptual pattern first recognized as My Mind through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself. But also perhaps more?**
 
-## Foundational Definition
+## The Definition Unfolded
 
 **The Mind** is an **Experiential Fiat Anchor** (i.e. **Fiat Anchor**/**Fiat Form** derived from experience) and **Anchored Ambiguity** through which mental activities, capacities, processes, their possible organization, and their relationships become recognizable and available for inquiry—including perception, thought, feeling, memory, imagination, learning, desire, and the coordination of activity.
 
@@ -160,7 +166,7 @@ An application of **The Mind** to another referent takes the form of an imaginal
 
 **The Mind** does not itself prove or disprove **Awareness**, identical mental organization across beings, a separate inner agent, or any proposed spiritual or physical explanation. Scientific, psychological, neurological, and medical inquiries can contribute relevant evidence without determining the meaning of the initial experiential anchor.
 
-## Conclusions
+## Summary
 
 ***The Mind** begins as a conceptual pattern recognized in my own mental life and generalized for possible application beyond myself. This recognizable beginning allows me to explore and reconsider further interpretations that fit this pattern, without assuming any one interpretation exhausts what mind may ultimately be.*
 
