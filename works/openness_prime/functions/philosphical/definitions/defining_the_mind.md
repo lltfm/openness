@@ -24,7 +24,7 @@ When I apply **The Mind** to a particular person, animal, system, or imagined be
 
 The projection may be recognizable *within what I call My Mind*, but this description does not settle where representations are physically located or how they ultimately exist. Similarly, the concept's immateriality does not decide whether any mind it represents is material, immaterial, both, or otherwise constituted. That question concerns the referent, not the status of the concept or projection.
 
-**Analogical Projection** makes possible applications of The Mind available for consideration. **Analogical Discernment** examines what supports them and where the analogies cease to fit. I do not directly experience another person's first-person mental life, yet their words, conduct, testimony, shared embodiment, and other evidence can make attributing a mind to them strongly justified. Lack of direct access is not the same as lack of good reasons.
+**Analogical Projection** makes possible applications of **The Mind** available for consideration. **Analogical Discernment** examines what supports them and where the analogies cease to fit. I do not directly experience another person's first-person mental life, yet their words, conduct, testimony, shared embodiment, and other evidence can make attributing a mind to them strongly justified. Lack of direct access is not the same as lack of good reasons.
 
 **The Mind** does not require that all the phenomena gathered under it form a naturally separate entity, share a single mechanism, or possess fixed boundaries. Nor does its experiential beginning decide whether the nature of mind is best understood through physical, spiritual, or other explanations. Its meaning and applications remain open to inquiry and revision.
 
@@ -80,9 +80,9 @@ These movements may overlap, recur, or emerge in a different order. They are an 
 
 ## Relationship to Openness
 
-**G — Generative Openness.** The Mind illustrates **Experiential Derivation** from **The Seed of Openness** without making *My Mind* an additional Seed constituent or separately reified Fiat Anchor. Experiences and inferences involving **My Awareness** and **My Self** make a first-person beginning recognizable. **Experiential Generalization** develops The Mind; **Analogical Projection** and **Analogical Discernment** examine possible applications. The entire conceptual development remains revisable.
+**G — Generative Openness.** The Mind illustrates **Experiential Derivation** from **The Seed of Openness** without making *My Mind* an additional Seed constituent or separately reified **Fiat Anchor**. Experiences and inferences involving **My Awareness** and **My Self** make a first-person beginning recognizable. **Experiential Generalization** develops The Mind; **Analogical Projection** and **Analogical Discernment** examine possible applications. The entire conceptual development remains revisable.
 
-**P — Philosophical Openness.** The Mind belongs primarily to P as a subject of inquiry into perception, reasoning, memory, imagination, desire, choosing, knowing, Certainty, **Mental Models**, **The Unchosen**, and **The Unseen**. It also asks how the very mental capacities through which inquiry occurs may themselves remain incompletely understood.
+**P — Philosophical Openness.** The Mind belongs primarily to P as a subject of inquiry into perception, reasoning, memory, imagination, desire, choosing, knowing, **Certainty**, **Mental Models**, **The Unchosen**, and **The Unseen**. It also asks how the very mental capacities through which inquiry occurs may themselves remain incompletely understood.
 
 **S — Spiritual Openness.** **The Mind** supports contemplation of lived thought, feeling, attention, intention, self-understanding, and embodied becoming. Spiritual or metaphysical interpretations may be explored with **Epistemic Hospitality**, without requiring or excluding them in advance. More specific inquiries into soul and spirit may begin from **My Self** and **My Awareness** as well as from their relationships with mental life.
 
@@ -98,9 +98,9 @@ These movements may overlap, recur, or emerge in a different order. They are an 
 
 **“The Mind”** — use quotation marks when mentioning the term rather than using the concept.
 
-**Imaginal projection** — a name for the conceptual representation used in applying The Mind to a referent; not a required adjective in every sentence and not a second kind of **Mind**. Other **Fiat Forms** may likewise be projected without having to carry *Imaginal* in their names. Distinguish what I represent from what, if anything, exists independently of that representation.
+**Imaginal projection** — a name for the conceptual representation used in applying **The Mind** to a referent; not a required adjective in every sentence. Use to emphasize the deeper epistemic intersubjective-reality and imply or explore the source that imagines the projection.  
 
-In writing about others, distinguish what I encounter—speech, actions, expressions, testimony, effects—from the mental life I represent or infer. The inability to experience another person's standpoint directly does not prevent strong justified confidence that the person has a mind.
+In writing about others, distinguish what “I” encounter—speech, actions, expressions, testimony, effects—from the mental life “I” represent or infer. The inability to experience another person's standpoint directly does not prevent strong justified confidence that the person has a mind.
 
 ## Examples
 
