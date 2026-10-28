@@ -2,6 +2,10 @@
 
 **Fiat Form**: *"Let there be a form called **The Mind**..."*
 
+**Experiential**: *"similar to **My Mind**..."*
+
+**Anchored Ambiguity**: *"which is **at least this** — but also perhaps more?"*
+
 ## Experiential Fiat Anchored Ambiguity
 
 **The Mind — At least this: a conceptual, unified pattern first observed in My Mind—my experienced mental activities, recognized capacities, and inferred processes—and generalized for possible application beyond myself. But also perhaps more?**
