@@ -2,9 +2,9 @@
 
 **Fiat Form**: *"Let there be a form called **The Mind**..."*
 
-**Experiential**: *"similar to **My Mind**..."*
+**Experiential**: *"...similar to **My Mind**..."*
 
-**Anchored Ambiguity**: *"which is **at least this** — but also perhaps more?"*
+**Anchored Ambiguity**: *"...which is **at least this** — but also perhaps more?"*
 
 ## Experiential Fiat Anchored Ambiguity
 
