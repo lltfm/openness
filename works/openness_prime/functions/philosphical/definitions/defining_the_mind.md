@@ -8,7 +8,7 @@
 
 ## Experiential Fiat Anchored Ambiguity
 
-**The Mind — At least this: a conceptual, unified pattern first observed in My Mind—my experienced mental activities, recognized capacities, and inferred processes—and generalized for possible application beyond myself. But also perhaps more?**
+**The Mind — At least this: a conceptual pattern first recognized as My Mind through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself. But also perhaps more?**
 
 ## Foundational Definition
 
