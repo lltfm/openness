@@ -18,7 +18,7 @@
 
 ## The Definition Unfolded
 
-**The Mind** is an **Experiential Fiat Anchor** (i.e. **Fiat Anchor**/**Fiat Form** derived from experience) and **Anchored Ambiguity** through which mental activities, capacities, processes, their possible organization, and their relationships become recognizable and available for inquiry—including perception, thought, feeling, memory, imagination, learning, desire, and the coordination of activity.
+The Mind is a **Fiat Form**, established through a **Fiat Anchor** that preserves **Anchored Ambiguity**. Its meaning is developed through **Experiential Derivation** and **Experiential Generalization** of which mental activities, capacities, processes, their possible organization, and their relationships become recognizable and available for inquiry—including perception, thought, feeling, memory, imagination, learning, desire, and the coordination of activity.
 
 Its **Experiential Derivation** begins with what I provisionally call **My Mind**: thoughts arising, feelings changing, images forming, memories being recalled, desires becoming recognizable, attention shifting, decisions being considered, and other activities encountered within **My Awareness** in relation to **My Self**. I may also recognize capacities through their exercise, such as remembering or imagining, and infer further processes from their effects, even when those processes are not themselves encountered as identifiable experiences.
 
