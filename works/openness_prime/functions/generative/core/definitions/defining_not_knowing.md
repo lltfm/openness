@@ -1,11 +1,11 @@
-# Not-Knowing
+---
+Originator: gdl
+Contributors: ChatGPT-6, Lance
+When: 2026-10-22T00:00:00Z
+Status: tentatively accepted; needs review
+---
 
-**Function:** Generative Openness (G)  
-**Home:** G / Core / Generalized Experiential Concepts  
-**Form:** Experiential Fiat Anchor; Fiat Anchored Ambiguity  
-**Experiential beginning:** My Self-Confession of Not-Knowing  
-**Primary development:** Experiential Generalization  
-**Status:** Proposed definition for adoption
+# Not-Knowing
 
 ## Fiat Anchored Ambiguity
 

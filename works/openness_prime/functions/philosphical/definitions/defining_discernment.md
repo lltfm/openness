@@ -1,3 +1,10 @@
+`---
+Originator: gdl
+Contributors: ChatGPT-6, Lance
+When: 2026-10-20T00:00:00Z
+Status: tentatively accepted; needs review
+---`
+
 ### Discernment — Candidate Fiat Anchored Ambiguity
 
 **Discernment — At least this: the capacity and activity of distinguishing what is encountered from what is inferred, imagined, preferred, or justified, so that the meaning, possible sources, and consequences of an encounter may be responsibly understood and engaged. But perhaps more?**

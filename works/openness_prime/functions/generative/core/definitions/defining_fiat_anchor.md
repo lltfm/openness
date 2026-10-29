@@ -1,8 +1,8 @@
 ---
 Originator: gdl
-Contributors: ChatGPT-6
+Contributors: ChatGPT-6, gdl
 When: 2026-10-29T00:00:00Z
-Status: tentatively accepted; needs review
+Status: accepted
 ---
 
 # Fiat Anchor

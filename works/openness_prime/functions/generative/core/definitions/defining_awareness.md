@@ -1,3 +1,10 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6, Lance
+When: 2026-10-22T00:00:00Z
+Status: tentatively accepted; needs review
+---
+
 # Awareness
 
 ## Fiat Anchored Ambiguity
