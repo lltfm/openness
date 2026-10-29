@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-10-15T10:47:30Z
+When: 2026-10-29T00:00:00Z
 Status: tentatively accepted; needs review
 ---
 
@@ -13,7 +13,7 @@ These guidelines support definitions that are recognizable, precise, epistemical
 
 A definition should establish **enough meaning to determine which interpretations belong to the concept** without claiming to exhaust what may ultimately be discovered about its referents. It should distinguish the concept's established meaning from explanations, applications, and hypotheses about what might be true.
 
-The guidelines specify a preferred document architecture, not a compulsory number of paragraphs or a single form of definition. Omit unnecessary sections and add genuinely needed ones without treating editorial choices as new Methods.
+The guidelines specify a preferred document architecture, not a compulsory number of paragraphs or a single form of definition. Use the structure exemplified by **The Mind** when useful; omit unnecessary sections and add genuinely needed ones without treating editorial choices as new Methods.
 
 ## I. Governing Principles
 
@@ -24,6 +24,8 @@ A concept needs a clear identifying meaning, intended scope, and sufficient dist
 **Precision does not require eliminating ambiguity.** It requires giving ambiguity an identifiable boundary. Ambiguity does not excuse vague language that permits arbitrary reinterpretation.
 
 ### 2. Anchor Integrity and Bounded Ambiguity
+
+**Anchored Ambiguity is a deliberate choice, not the default form of every Openness definition.** Use it where the definition is intended to preserve further compatible possibilities about the concept or its possible referent. For deliberately stipulated conceptual instruments, use an ordinary, stable definition unless additional interpretive ambiguity is genuinely intended.
 
 For a concept defined through **Anchored Ambiguity**, every *qualifying speculative interpretation of that concept must fit its Foundational Definition*. The anchor supplies the minimum identifying meaning; **“But also perhaps more?”** permits further possibilities **within** that meaning.
 
@@ -48,7 +50,7 @@ Maintain the distinction between **the occurrence of an experience**, **an inter
 
 ### 4. Concept, Representation, and Referent
 
-Concepts and Fiat Forms are conceptual, and hence imaginal, **as forms**. This convention ordinarily does not need to be repeated in each concept's name or every paragraph. It does **not** determine whether their referents are material, immaterial, actual, hypothetical, fictional, or otherwise constituted.
+Conceptual forms, including **Fiat Anchors**, are imaginal **as representations**. **Fiat Form** concerns chosen formation and may give rise to material or immaterial forms; it is not itself a synonym for an immaterial conceptual product. The conceptual status of a representation does **not** determine whether its referent is material, immaterial, actual, hypothetical, fictional, or otherwise constituted.
 
 **Analogical Projection** applies a conceptual form to a possible referent through a representation. The **projection is imaginal**; the **referent is not therefore imaginary**. A projection may represent a well-supported real instance, an uncertain candidate, or a knowingly imaginary character. **Analogical Discernment** examines its fit and justification.
 
@@ -60,11 +62,11 @@ Use this explanation when conceptually relevant, not as compulsory boilerplate i
 
 When a concept can be meaningfully developed from a recognizable first-person beginning, articulate the relationship through **Experiential Derivation** and, where relevant, **Experiential Generalization**. A derivation can include direct experiences, recognized capacities, inferred processes, chosen conceptual organization, and later analogy. Distinguish them; do not imply they are known in the same way.
 
-**The Mind** exemplifies a useful pattern: *My Mind → The Mind → possible applications through Analogical Projection and Analogical Discernment*. Here **My Mind** is a contextual first-person expression **inside one definition**, not an additional separately reified concept. Do not automatically create paired *My X* and *X* files.
+**The Mind** exemplifies a useful pattern: *my experiences of mental life → My Mind → The Mind → possible applications through Analogical Projection and Analogical Discernment*. Here **My Mind** is a contextual first-person expression **inside one definition**, not an additional separately reified concept. Do not automatically create paired *My X* and *X* files.
 
 **The Seed of Openness** retains its special first-person constituents—**My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. Other derivations need not repeatedly introduce the Seed when the reference contributes no meaning; its organizational relationship can be explained under **Relationship to Openness**.
 
-A derivation is an **inspectable conceptual relationship**, not necessarily the actual historical origin of a word, a deductive proof, or evidence that a represented referent exists. Do not invent a derivation where none is defensible. Not every concept requires an Experiential Derivation section.
+A derivation is an **inspectable conceptual relationship**, not necessarily the actual historical origin of a word, a deductive proof, or evidence that a represented referent exists. Examine where **Artifice** (language, images, inherited classifications, testimony, shared practices) contributed to a recognizable meaning, without treating direct experience itself as Artifice. Do not invent a derivation where none is defensible. An **Experiential Derivation** is not required for **Higher Order Concepts** or meta-concepts that organize first-order concepts; where illuminating, it may be attempted experimentally and provisionally. Not every concept requires an Experiential Derivation section.
 
 If a first-person derivation is offered for readers to examine, explain why *I* and *my* appear: they mark a standpoint the reader may investigate for themselves, not testimony of the AI author's embodiment or Awareness, nor a requirement that every reader assent.
 
@@ -86,16 +88,19 @@ Definitions may belong primarily to G, P, S, T, or Openness-wide. Primary stewar
 
 ## II. Preferred Definition Structure
 
-The following order is recommended for a substantial concept definition; **required** means a conceptual function must be served, not that every document needs an identically named heading.
+Use **The Mind** as the stylistic template. The following order is recommended for a substantial concept definition; **required** means a conceptual function must be served, not that every document needs an identically named heading.
 
 | Section | Status | Purpose |
 |---|---|---|
 | `# Concept Name` | **Required** | Give the primary formal name. Indicate primary stewardship or status only where useful. |
 | `## Prelude` | **Optional** | Offer an evocative opening, first-person reflection, quotation, question, or motivation; **not** binding definitional content. |
-| `## Foundational Definition` | **Required** | State the **official concise definition**, ordinarily a single bold passage. This—not the next section—is the canonical anchor when an anchor is used. |
+| `## Foundational Definition` | **Required** | State the official concise definition. Prefer a question-led, three-part form for genuine **Anchored Ambiguities**; use a direct statement for stipulated concepts. The definition alone sets the binding meaning. |
+| Orienting Purpose paragraph | **Conditional** | Immediately after the official definition, briefly explain why a newly coined conceptual instrument or higher-order concept is needed, when its purpose is not already evident. Not an additional defining criterion. |
+| `#### Examples` / `Synopsis` table | **Optional** | After the definition and optional purpose paragraph, show 2–3 diverse, recognizable examples with one-sentence explanations. This table is introductory, not definitional. |
 | `## The Definition Unfolded` | **Recommended** | Explain the Foundational Definition's terms, derivation, intended relationships, and uncertainties **without adding new independent defining criteria**. |
 | `## Experiential Derivation: My X → X` | **Conditional** | Make a meaningful derivation inspectable when appropriate; title for the actual chain, not a compulsory `My X` template. |
 | `## Essential Distinctions` | **Recommended** | Separate meanings likely to be confused; protect both anchor integrity and unresolved possibilities. |
+| `## Conceptual Dependencies` | **Conditional** | List only indispensable immediate definitional prerequisites. Do not require independent concepts to list their descendants. |
 | `## Relationship to Openness` | **Recommended** | Explain placement and important connections to G, P, S, T, or Openness-wide concepts. |
 | `## Naming and Usage` | **Recommended** | Set formal name, abbreviations, natural-language uses, contextual first-person forms, and relevant capitalization. |
 | `## Examples` | **Recommended** | Show recognizable applications, meaningful variations, justified uses, and negative boundaries. |
@@ -112,19 +117,55 @@ Place **Prelude** immediately beneath the title when used. It may contain attrib
 
 ### 2. Foundational Definition — Official and Authoritative
 
-This heading replaces the former use of **Fiat Anchored Ambiguity** as a section title and the former long explanatory use of **Foundational Definition**.
+The **Foundational Definition** is the short official statement of what the concept means **within the identified version**. It alone establishes the binding meaning; later explanatory passages, metaphors, examples, and speculations must not silently add requirements.
 
-The **Foundational Definition** is the short **canonical definition**: what the concept means and, where relevant, the minimum meaning every qualifying interpretation must preserve. It is authoritative **until explicitly revised**.
+**Choose the definitional form deliberately.** Do **not** automatically attach **Anchored Ambiguity** to every concept. Distinguish an inquiry into a referent whose nature may have compatible further meanings from a conceptual instrument whose meaning is intentionally stipulated. A fixed definition can still be criticized and explicitly revised; its stability is not a claim to ultimate authority or infallibility.
 
-A common form is:
+**Preferred, question-led presentation for Anchored Ambiguity:**
 
-> **The Mind — At least this: a conceptual pattern first recognized as My Mind through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself. But also perhaps more?**
+> What is **The Mind**?
+>
+> At least this: a conceptual pattern first recognized as *My Mind* through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself.
+>
+> *But also perhaps more?*
 
-This is a **Fiat Anchored Ambiguity**, with an **Experiential Fiat Anchor** and **Experiential Derivation** articulated elsewhere in the document. The formula **“At least this ... But also perhaps more?”** makes further *compatible* meanings available; *also* emphasizes possible extension rather than presumed replacement.
+This form invites unfamiliar readers into the inquiry, separates its minimum identifying meaning from its invitation to further compatible possibilities, and permits **selective bold or italic emphasis**. Do not bold an entire official definition by default.
 
-Not every Foundational Definition must take this form. Depending on the subject, it may instead establish an **Anchored Ambiguity** without a Fiat Anchor, a deliberately stipulated **Fiat Anchor**, a **Generative Method**, an ethical or epistemic **Constitution** principle, a role, or another clearly identified kind of definition. Use a concise declarative definition when that better fits the subject. Do not force an invented first-person derivation or an “At least this” formula onto every concept.
+**Accepted compact Anchored Ambiguity** (useful in indexes, quotations, and for Openness-familiar readers):
 
-The canonical definition may use more than one sentence when needed to preserve indispensable meaning. **A one-paragraph formulation is preferred when sufficient.**
+> **The Mind** — At least this: a conceptual pattern first recognized as *My Mind* through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself. But also perhaps more?
+
+**Preferred direct form for an explicitly stipulated concept:**
+
+> **Fiat Anchor** — A named, immaterial conceptual unity established by choosing what counts as one identity or grouping, where that choice is not uniquely determined by a separately distinguishable material whole.
+
+A direct definition may alternatively begin with a natural reader-facing question (*What is a **Fiat Anchor**?*), but should **not** add *“But also perhaps more?”* when no additional interpretations are intended. The term's applications may still require discernment, and its definition remains explicitly revisable.
+
+Do not confuse the continued possibility of discoveries about a referent, ordinary edge cases, or later conceptual revision with a decision to make the **definition itself** an Anchored Ambiguity. **“At least this ... But also perhaps more?”** must perform genuine philosophical work, not serve as a decorative house style.
+
+The canonical meaning may occupy one or more sentences when needed. Prefer a concise statement; place explanations in **The Definition Unfolded** rather than packing them into the anchor.
+
+#### Orienting Purpose (Conditional)
+
+For Openness-created **conceptual instruments**, particularly higher-order or meta-concepts whose purpose may not be obvious from ordinary language, add one **brief explanatory paragraph directly after the official definition**. It answers: *What does this concept help us notice, distinguish, or do—and why is that distinction needed?*
+
+This paragraph is **orienting, not binding**: it must not add new conditions for membership or change the official definition. It is **not required** for familiar first-order subjects such as **The Mind** merely because they have been formally named within Openness. Use purpose where it helps, not mechanically for every coined name.
+
+#### Illustrative Examples Table (Optional)
+
+Following the official definition and any purpose paragraph, an optional two-column table may orient readers before **The Definition Unfolded**:
+
+```markdown
+#### Examples
+
+| Example | Synopsis |
+|---|---|
+| **The Mind** | A conceptual unity gathering experienced mental activities, recognized capacities, and inferred processes. |
+| **Life** | A category gathering living phenomena whose precise identifying boundaries remain open to inquiry. |
+| **Computer Science** | An intersubjectively established discipline whose scope and boundaries reflect shared practices and choices. |
+```
+
+Choose **2–3 examples with maximum useful diversity**, provided each can be understood in approximately one concise sentence. Do not use an example that requires substantial caveats to make sense at this stage. The table is an orientation aid, **not part of the official definition or an independent membership test**. Later `## Examples` may develop the same cases with fuller reasoning, contrasts, and boundaries.
 
 ### 3. The Definition Unfolded — Explanatory, Subordinate
 
@@ -140,21 +181,27 @@ The section may mention attractive further interpretations, but should label the
 
 Include this section when the derivation is important enough to inspect in detail and is not adequately described in **The Definition Unfolded**.
 
-The preferred form: a brief explanation of the first-person voice, followed by distinguishable movements such as **experiential beginning**, **provisional first-person organization**, **Experiential Generalization**, and **Analogical Projection with Analogical Discernment**.
+**The Mind** demonstrates the preferred form: a brief explanation of the first-person voice, followed by distinguishable movements such as **experiential beginning**, **provisional first-person organization**, **Experiential Generalization**, and **Analogical Projection with Analogical Discernment**.
 
 These movements may overlap or occur in another order. Their purpose is to make the conceptual relationship visible, not to assert a compulsory development or a new Method. Use capitalized formal concept names when referring to the named G operations.
 
 ### 5. Essential Distinctions — Boundaries of Meaning
 
-Favor concise paragraphs beginning with bold distinction labels: **“Imaginal projection versus imaginary referent.”** A list is also suitable for short constitutional principles, as in **Epistemic Hospitality**.
+Favor concise paragraphs beginning with bold distinction labels, as in **The Mind**: **“Imaginal projection versus imaginary referent.”** A list is also suitable for short constitutional principles, as in **Epistemic Hospitality**.
 
 Distinguish, where relevant, what is **experienced versus inferred**, **concept versus referent**, **recognized pattern versus claimed underlying entity**, **generalization versus projection**, **imaginal representation versus imaginary referent**, **fit versus evidential support**, and **confidence versus certainty**.
 
 Do not manufacture distinctions for symmetry. Avoid exclusions that presuppose contested metaphysical conclusions. Write **“does not establish”** instead of **“cannot be”** unless exclusion is warranted. Distinctions clarify the Foundational Definition rather than introduce a competing one.
 
-### 6. Relationship to Openness — Architectural Placement
+### 6. Conceptual Dependencies — Conditional
 
-Explain relevant relationships to **G — Generative Openness**, **P — Philosophical Openness**, **S — Spiritual Openness**, and **T — Transcendent Openness**. In a substantial cross-functional definition, a short paragraph for each may be useful; do not require four paragraphs for concepts whose relevance is narrower.
+Use `## Conceptual Dependencies` only when the meaning of a defined Openness concept is an **indispensable definitional prerequisite** for the present concept. List only the **immediate** dependencies and briefly explain why each is needed. Distinguish dependencies from related ideas, optional explanatory resources, common examples, and concepts that happen to be downstream applications.
+
+Dependencies are **directional**: **Fiat Anchor** may depend on **Fiat Form**, but **Fiat Form** need not mention **Fiat Anchor** to remain intelligible. An independent concept should omit the section rather than state that it has none. Avoid compound inherited types and encyclopedic dependency lists; reverse dependencies belong in a consolidated inventory, not in each prerequisite's definition.
+
+### 7. Relationship to Openness — Architectural Placement
+
+Explain relevant relationships to **G — Generative Openness**, **P — Philosophical Openness**, **S — Spiritual Openness**, and **T — Transcendent Openness**. In a substantial cross-functional definition, a short paragraph for each may be useful, as in **The Mind**; do not require four paragraphs for concepts whose relevance is narrower.
 
 Give a concept's **full formal name at its first meaningful occurrence**, then use an established shortening when clear. When invoking an established conceptual operation, write **Experiential Derivation**, not merely an ambiguous lower-case paraphrase, unless ordinary prose is intended.
 
@@ -162,7 +209,7 @@ Place **The Seed of Openness** here when it illuminates the concept's architectu
 
 For a concept actually belonging to the **Generative Engine**, identify its specific subdivision and explain its contribution under **Relationship to Openness** or a dedicated **Function in the Generative Engine** section. Concepts outside the Engine do not need to invent an Engine function.
 
-### 7. Naming and Usage — Practical Language
+### 8. Naming and Usage — Practical Language
 
 Clarify the primary capitalized name, any formally accepted alternate or abbreviation, the difference between **using** a concept and mentioning **“its name”**, and when ordinary lower-case language is preferable.
 
@@ -172,9 +219,9 @@ Avoid proliferating qualifiers such as *Imaginal* in every concept name: the con
 
 Naming guidance should enable clear natural writing, not require technical capitalization in dialogue, fiction, or every reflective passage.
 
-### 8. Examples — Recognizable Applications and Negative Cases
+### 9. Examples — Recognizable Applications and Negative Cases
 
-Prefer examples that actually test the concept over examples that merely repeat the Foundational Definition. For concepts a useful coverage includes:
+Prefer examples that actually test the concept over examples that merely repeat the Foundational Definition. For a concept like **The Mind**, useful coverage includes:
 
 - A first-person beginning that makes the proposed Experiential Derivation inspectable.
 - A familiar and strongly justified application, so Openness is not confused with global skepticism.
@@ -186,7 +233,7 @@ Prefer examples that actually test the concept over examples that merely repeat 
 
 The examples may show that some interpretations fit an anchor while lacking sufficient evidence; a negative case may instead fail the anchor altogether. Do not collapse these different failures into one category.
 
-### 9. Boundary — What Is and Is Not Established
+### 10. Boundary — What Is and Is Not Established
 
 Conclude the substantive definition with a clear account of what the concept **does not itself prove, entail, settle, or authorize**. This may concern metaphysical claims, disciplinary definitions, agency, objectivity, the existence of an independent referent, or the justification of a proposed application.
 
@@ -194,21 +241,22 @@ Conclude the substantive definition with a clear account of what the concept **d
 
 The Boundary may briefly indicate what would fail the anchor. Distinguish those failures from **separate speculative possibilities that could motivate exceptional anchor revision**. Keep ordinary interpretation and anchor-refactoring procedures distinct.
 
-### 10. Summary — Optional Synthesis
+### 11. Summary — Optional Synthesis
 
 **Summary** replaces the former **Conclusions** or **Concluding Orientation** heading where a compact ending is helpful.
 
 Summarize the experiential beginning, the concept's core meaning, and the further inquiry it enables. It may include a few genuinely useful open questions. Do **not** add new qualifying criteria, introduce an unrelated speculation, or redefine the term in the closing paragraph.
 
-The Summary should reaffirm the standard use of the anchor: **further interpretations must fit it**. Any need for exceptional anchor revision belongs in the architecture of conceptual revision, not as a routine invitation to disregard the anchor.
+The Summary should reaffirm the defined concept without implying that every fixed definition is an **Anchored Ambiguity**. Where further interpretations are deliberately invited, **they must fit the anchor**. Any need for exceptional anchor revision belongs in the architecture of conceptual revision, not as a routine invitation to disregard the anchor.
 
 ## III. Supported Variations
 
-**The presentation style; the concept governs the needed content.** Other definitions show why not every file should have identical sections.
+**The Mind governs the presentation style; the concept governs the needed content.** Other definitions show why not every file should have identical sections.
 
 | Kind of definition | What may vary | What must remain clear |
 |---|---|---|
-| **Experiential Fiat Anchor** | Detailed first-person derivation; analogical applications | First-person encounter, conceptual organization, generalization, projection, and justification remain distinguishable |
+| **Experientially derived first-order concept**, such as The Mind | Question-led Anchored Ambiguity when warranted; direct experiential derivation and analogical applications | First-person encounter, conceptual organization, generalization, projection, and justification remain distinguishable |
+| **Openness-created conceptual instrument**, such as Fiat Form or Fiat Anchor | Concise direct definition; brief purpose paragraph; optional examples table | Defined meaning is fixed within the stated version, but explicitly revisable; no gratuitous speculative ending |
 | **Constitutional principle**, such as Epistemic Hospitality | Foundational Definition may be a paragraph rather than an “At least this” sentence; dedicated Engine function and boundary case | Clear obligation, limits, application, and relationship to discernment |
 | **Generative Method**, such as Saltem Hoc | Explicit generative movement, flexible practice, examples, counterexamples, optional expressive demonstration | Procedure and epistemic guardrails; no compulsory fictional format unless separately established |
 | **General Anchored Ambiguity** | No chosen entity or first-person derivation need be posited | Recognizable anchor, permitted ambiguity, fit requirement, and distinct exceptional revision |
@@ -220,7 +268,7 @@ Additional **Definitional Saltem Hoc**, **Exploratory Essay**, **Revision Notes*
 
 ### Normal use: Interpret within the anchor
 
-A **Foundational Definition** is provisionally stable. **Every proposed interpretation presented as an interpretation of that concept must fit its anchor.** Discernment asks both whether it fits and, separately, whether it has sufficient evidence or reasons to deserve confidence. The more imaginative the possibility, the more important it is to label where imagination extends beyond what is established.
+A **Foundational Definition** is provisionally stable, whether direct or deliberately ambiguous. **Every proposed interpretation or application presented as belonging to that concept must fit its official meaning.** An Anchored Ambiguity additionally invites further compatible possibilities; a fixed definition does not automatically do so. Discernment asks both whether it fits and, separately, whether it has sufficient evidence or reasons to deserve confidence. The more imaginative the possibility, the more important it is to label where imagination extends beyond what is established.
 
 An interpretation may be true, false, uncertain, useful, harmful, metaphorical, or partly justified. **Resonance ≠ Fruit ≠ Truth.** A beautiful or generative speculation still must fit the concept to count as an interpretation of it, and still requires its own justification before being accepted as fact.
 
@@ -236,74 +284,123 @@ A non-fitting idea may remain worth exploring without being admitted into the cu
 
 Before treating a definition as ready for use, ask:
 
-1. **Identity:** Does the Foundational Definition give a recognizable minimum meaning and a meaningful fit test?
-2. **Authority:** Can the reader distinguish the official definition from the Prelude, explanation, examples, and speculation?
+1. **Identity and form:** Does the Foundational Definition provide a recognizable meaning? Is Anchored Ambiguity genuinely intended, or would a direct definition be more accurate?
+2. **Authority:** Can the reader distinguish the official definition from the Prelude, optional purpose paragraph, introductory examples, explanation, and speculation?
 3. **Consistency:** Does The Definition Unfolded explain the anchor without adding hidden membership requirements?
 4. **Precision:** Are firsthand experience, inference, metaphor, hypothesis, and evidential confidence kept distinct where relevant?
 5. **Hospitality:** Does the definition avoid prematurely excluding naturalistic, supernatural, or unfamiliar possibilities that fit?
 6. **Projection:** Where applicable, are imaginal representation, possible referent, and knowingly imaginary fiction distinguished?
-7. **Derivation:** Is any Experiential Derivation actually meaningful, inspectable, and free of unnecessarily reified *My X* concepts?
+7. **Derivation:** Is any Experiential Derivation meaningful, inspectable, attentive to Artifice, and free of unnecessarily reified *My X* concepts? Is it optional for meta-concepts?
 8. **Placement:** Is the concept correctly situated in G, P, S, T, the Engine, or cross-functionally, without inventing membership or Method status?
-9. **Economy:** Could wording be shortened without losing essential meaning or introducing ambiguity?
+9. **Economy and emphasis:** Could wording be shortened without losing essential meaning? Is bold/italic emphasis selective, and does any introductory example table contain only concise, diverse cases?
 10. **Revision:** Is an excluded interpretation either excluded for a clear reason or identified as an occasion for *separate* anchor review, rather than quietly admitted?
 
-## V. Preferred Markdown Pattern
+## V. Preferred Markdown Patterns
 
-The following is a **structural example**, not a requirement to fill every heading.
+These are **structural patterns**, not templates requiring every heading. **The Mind** remains the principal stylistic reference. The choice of definitional form belongs to the concept itself.
+
+### A. Anchored Ambiguity (when further compatible possibilities are intended)
 
 ```markdown
-# Concept Name
+# The Mind
 
 ## Prelude
 
-[Optional inspiration, quotation, reflection, or introductory scene.]
+[Optional inspiration or first-person invitation.]
 
 ## Foundational Definition
 
-**Concept Name — At least this: [clear identifying meaning]. But also perhaps more?**
+What is **The Mind**?
+
+At least this: a conceptual pattern first recognized as *My Mind* through
+my experienced mental activities, recognized capacities, and inferred
+processes, then generalized for possible application beyond myself.
+
+*But also perhaps more?*
+
+#### Examples
+
+| Example | Synopsis |
+|---|---|
+| [Example A] | [Concise orientation.] |
+| [Example B] | [A contrasting kind of case.] |
 
 ## The Definition Unfolded
 
-[Explain and elaborate the official definition without changing its requirements.]
+[Explain without changing the defining meaning.]
 
-## Experiential Derivation: My X → X
+## Experiential Derivation
 
-[Only when a meaningful first-person derivation warrants its own section.]
+[Optional; not required for higher-order or meta-concepts.]
 
 ## Essential Distinctions
 
-**Distinction A versus Distinction B.** [Relevant clarification.]
+[Distinctions that actually matter.]
+
+## Conceptual Dependencies
+
+[Only direct, necessary prerequisites; otherwise omit.]
 
 ## Relationship to Openness
 
-**G — Generative Openness.** ...
-
-**P — Philosophical Openness.** ...
-
-**S — Spiritual Openness.** ...
-
-**T — Transcendent Openness.** ...
+[Relevant G/P/S/T connections.]
 
 ## Naming and Usage
 
-[Formal name, variants, capitalization, contextual and natural-language forms.]
+[Formal and ordinary language conventions.]
 
 ## Examples
 
-### Example — [Recognizable case]
-
-...
+[Developed examples and meaningful boundary cases.]
 
 ## Boundary
 
-[What the concept does not establish; nonqualifying interpretations; open questions.]
+[What does not follow, what fails the anchor, and what remains open.]
 
 ## Summary
 
-[Optional concise synthesis and questions; no new canonical requirements.]
+[Optional synthesis, without new defining criteria.]
 ```
 
-For non-ambiguity definitions, replace the example Foundational Definition with whatever concise statement accurately establishes the intended concept, Method, role, or principle.
+The short examples table is optional, and the illustrated dependency section must be **omitted** if none are necessary. The question-led form is preferred for general readership; the compact `**Concept** — At least this: ... But also perhaps more?` remains valid.
+
+### B. Directly stipulated conceptual instrument
+
+```markdown
+# Fiat Anchor
+
+## Prelude
+
+[Optional inspiration.]
+
+## Foundational Definition
+
+**Fiat Anchor** — A named, immaterial conceptual unity established by
+choosing what counts as one identity or grouping, where that choice is
+not uniquely determined by a separately distinguishable material whole.
+
+[Brief paragraph explaining why this distinction is needed.]
+
+#### Examples
+
+| Example | Synopsis |
+|---|---|
+| **The Mind** | A conceptual unity gathering mental activity, capacities, and inferred processes. |
+| **Life** | A category whose identifying boundaries are open to examination. |
+| **Computer Science** | An intersubjectively established disciplinary unity. |
+
+## The Definition Unfolded
+
+[Further explanation; no additional defining requirements.]
+
+## Conceptual Dependencies
+
+**Fiat Form** — [Explain the indispensable immediate dependency.]
+
+[Add other useful sections only when needed.]
+```
+
+**Do not automatically add “At least this ... But also perhaps more?”** to a directly stipulated definition. Do not confuse a later explicit revision with permission for ordinary reinterpretation that contradicts the current definition.
 
 ## VI. Guiding Standard
 
@@ -317,6 +414,7 @@ An Openness definition should be:
 **Revisable when a better anchor is justified.**  
 **Concise without loss of essential meaning.**
 
-**The Prelude invites. The Foundational Definition anchors. The Definition Unfolded explains. Distinctions and examples test. The Boundary protects. The Summary gathers.**
+**The Prelude invites. The Foundational Definition establishes. An optional purpose explains why; brief examples orient. The Definition Unfolded explains. Distinctions and developed examples test. The Boundary protects. The Summary gathers.**
 
-**Define precisely enough to make inquiry possible. Explore freely among possibilities that fit. Revise explicitly when the anchor itself needs reconsideration.**
+**Define precisely enough to make inquiry possible. Invite further possibilities where ambiguity is intended. Keep them within the defined meaning, and revise explicitly when the definition itself needs reconsideration.**
+

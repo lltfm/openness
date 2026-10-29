@@ -17,7 +17,17 @@ Status: accepted
 
 ## Foundational Definition
 
-**Fiat Form — At least this: the deliberate creation, adoption, or reformation of a recognizable form through choosing, together with recognition that what has been chosen need not be inevitable or final. But also perhaps more?**
+**Fiat Form** — The deliberate creation, adoption, or reformation of a recognizable form through choosing, together with recognition that what has been chosen need not be inevitable or final.
+
+**Fiat Form** makes the chosen character and revisability of forms recognizable, especially when inherited arrangements have come to seem natural or unquestionable. It invites their examination without presuming that they should be changed.
+
+#### Examples
+
+| Example | Synopsis |
+|---|---|
+| Designing a chair | Choosing a material arrangement within physical constraints. |
+| Naming a recurring pattern | Bringing a recognizable conceptual form into language. |
+| Revising meeting procedures | Re-forming an inherited institutional arrangement. |
 
 ## The Definition Unfolded
 

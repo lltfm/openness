@@ -21,13 +21,17 @@ Status: accepted
 
 ## Foundational Definition
 
-**Fiat Anchor — At least this: a named, immaterial conceptual unity established by choosing what counts as one identity or grouping, where that choice is not uniquely determined by a separately distinguishable material whole. But also perhaps more?**
+**Fiat Anchor** — A named, immaterial conceptual unity established by choosing what counts as one identity or grouping, where that choice is not uniquely determined by a separately distinguishable material whole.
 
-| Examples | Brief explanation |
+**Fiat Anchor** makes recognizable the often-overlooked choice involved in identifying a category, collective, or totality as one conceptual unity. It invites examination of that chosen delineation without confusing the concept with whatever reality it may represent.
+
+#### Examples
+
+| Example | Synopsis |
 |---|---|
-| The Mind | A conceptual unity gathering experienced mental activities, recognized capacities, and inferred processes. |
-| Life | A category gathering living phenomena whose precise identifying boundaries remain open to inquiry.|
-| Computer Science | An intersubjectively established discipline whose scope and boundaries reflect shared human practices and choices. |
+| **The Mind** | A conceptual unity gathering experienced mental activities, recognized capacities, and inferred processes. |
+| **Life** | A category gathering living phenomena whose precise identifying boundaries remain open to inquiry. |
+| **Computer Science** | An intersubjectively established discipline whose scope and boundaries reflect shared practices and choices. |
 
 ## The Definition Unfolded
 

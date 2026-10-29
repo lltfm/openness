@@ -9,19 +9,23 @@ Status: accepted
 
 ## Prelude
 
-**Fiat Form**: *"Let there be a form called **The Mind**..."*
+**Fiat Form**: *“Let there be a form called **The Mind**...”*
 
-**Fiat Anchor**: *"...which none can see and so we must imagine..."*
+**Fiat Anchor**: *“...which gathers mental life into a unity I cannot point to as one material object...”*
 
-**Experiential Generalization**: *"...like the form I experience and imagine in myself which I call **My Mind**..."*
+**Experiential Generalization**: *“...beginning with the pattern I recognize through experiences I call **My Mind**...”*
 
-**Anchored Ambiguity**: *"...which is **at least this** — but also perhaps more?"*
+**Anchored Ambiguity**: *“...which is **at least this**—but also perhaps more?”*
 
-**Analogical Projection**: *"...which I can imagine others also possess..."*
+**Analogical Projection**: *“...which I can imagine might apply beyond myself...”*
 
 ## Foundational Definition
 
-**The Mind — At least this: a conceptual pattern first recognized as My Mind through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself. But also perhaps more?**
+What is **The Mind**?
+
+At least this: a conceptual pattern first recognized as *My Mind* through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself.
+
+But also perhaps more?
 
 ## The Definition Unfolded
 
