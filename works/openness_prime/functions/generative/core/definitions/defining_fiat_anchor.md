@@ -11,17 +11,23 @@ Status: accepted
 
 *Let there be a recognizable unity.*
 
-*Like a ship seeking safe harbor, let us choose where to anchor meaning*
+*Like a ship seeking safe harbor, let us choose where to anchor this meaning.*
 
-*Let us carefully consider where to drop anchor, lest we collide or confuse our meaning.*
+*Let us carefully consider where to drop anchor, lest we collide or confuse meanings.*
 
-*Let us pay out the anchor's chain so that we may drift with the seas without losing anchor.*
+*Let us carefully pay out the anchor's chain so that we may not drift too far from our anchor.*
 
-*And let us always remember: Who chose the seas?*
+*And let us always remember: We did not choose the sea.*
 
 ## Foundational Definition
 
 **Fiat Anchor — At least this: a named, immaterial conceptual unity established by choosing what counts as one identity or grouping, where that choice is not uniquely determined by a separately distinguishable material whole. But also perhaps more?**
+
+| Examples | Brief explanation |
+|---|---|
+| The Mind | A conceptual unity gathering experienced mental activities, recognized capacities, and inferred processes. |
+| Life | A category gathering living phenomena whose precise identifying boundaries remain open to inquiry.|
+| Computer Science | An intersubjectively established discipline whose scope and boundaries reflect shared human practices and choices. |
 
 ## The Definition Unfolded
 
