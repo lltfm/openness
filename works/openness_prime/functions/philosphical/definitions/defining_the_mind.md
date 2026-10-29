@@ -11,9 +11,9 @@ Status: accepted
 
 **Fiat Form**: *“Let there be a form called **The Mind**...”*
 
-**Fiat Anchor**: *“...which gathers mental life into a unity I cannot point to as one material object...”*
+**Fiat Anchor**: *“...which gathers mental life into a unity which none can see—so we must imagine...”*
 
-**Experiential Generalization**: *“...beginning with the pattern I recognize through experiences I call **My Mind**...”*
+**Experiential Generalization**: *“...like my experiences of mental life which I call **My Mind**...”*
 
 **Anchored Ambiguity**: *“...which is **at least this**—but also perhaps more?”*
 
@@ -29,13 +29,13 @@ But also perhaps more?
 
 ## The Definition Unfolded
 
-The Mind is a **Fiat Form**, established through a **Fiat Anchor** that preserves **Anchored Ambiguity**. Its meaning is developed through **Experiential Derivation** and **Experiential Generalization** of which mental activities, capacities, processes, their possible organization, and their relationships become recognizable and available for inquiry—including perception, thought, feeling, memory, imagination, learning, desire, and the coordination of activity.
+**The Mind** is a **Fiat Anchor** that gathers mental activities, capacities, inferred processes, their possible organization, and their relationships into a recognizable conceptual unity for inquiry—including perception, thought, feeling, memory, imagination, learning, desire, and the coordination of activity. Its **Anchored Ambiguity** preserves further interpretations that fit its **Foundational Definition**, without settling the ultimate nature of the unity it names.
 
 Its **Experiential Derivation** begins with what I provisionally call **My Mind**: thoughts arising, feelings changing, images forming, memories being recalled, desires becoming recognizable, attention shifting, decisions being considered, and other activities encountered within **My Awareness** in relation to **My Self**. I may also recognize capacities through their exercise, such as remembering or imagining, and infer further processes from their effects, even when those processes are not themselves encountered as identifiable experiences.
 
 *My Mind* is a contextual first-person expression for this recognizable yet not fully understood mental life. The thoughts and feelings are experienced; the unity named *My Mind* is already a conceptual way of gathering them. Neither experiencing a thought nor inferring an unseen process establishes that a separate object or agent called *a mind* exists. Neither recognition excludes that possibility. Its nature remains available for investigation.
 
-Through **Experiential Generalization**, I develop from *My Mind* the broader Fiat Form **The Mind**, no longer restricted to my particular experiences, body, or present account of mental activity. **Experiential Derivation** makes the relationships among the encountered activities, recognized capacities, inferred processes, and generalized meaning open to examination.
+Through **Experiential Generalization**, I develop **The Mind** as a broader conceptual unity from *My Mind*, no longer restricted to my particular experiences, body, or present account of mental activity. **Experiential Derivation** makes the relationships among the encountered activities, recognized capacities, inferred processes, and generalized meaning open to examination.
 
 When I apply **The Mind** to a particular person, animal, system, or imagined being, I form an **imaginal projection**: a representation through which I consider whether the referent has something corresponding to the concept. The projection is a mental representation; it is not direct access to the referent's inner life or the referent itself. Like any conceptual representation, it may portray something actual, hypothetical, misidentified, or deliberately fictional. Its imaginal character does not make its referent imaginary.
 
@@ -55,13 +55,13 @@ The following passages adopt the reader's possible **first-person standpoint**, 
 
 **3. Experiential Generalization: The Mind.** I develop from *My Mind* a broader conceptual pattern, **The Mind**, for mental activities, capacities, processes, and their possible relationships. The pattern is no longer limited to this first-person standpoint. It can help me investigate my own mental life and consider how other cases may resemble or differ from it. Its features remain revisable.
 
-**4. Analogical Projection and Analogical Discernment.** I imaginatively project The Mind onto a possible referent—another person, an animal, a machine, a collective, or a fictional character. I can recognize that **the projection is my representation**, not the thing represented. I then examine what supports the attribution: testimony, behavior, shared capacities, bodily or neural evidence, functional organization, or other relevant reasons. Some applications may deserve strong confidence; others may be tentative, limited, or explicitly imaginary.
+**4. Analogical Projection and Analogical Discernment.** I imaginatively project **The Mind** onto a possible referent—another person, an animal, a machine, a collective, or a fictional character. I can recognize that **the projection is my representation**, not the thing represented. I then examine what supports the attribution: testimony, behavior, shared capacities, bodily or neural evidence, functional organization, or other relevant reasons. Some applications may deserve strong confidence; others may be tentative, limited, or explicitly imaginary.
 
 These movements may overlap, recur, or emerge in a different order. They are an examinable **conceptual genealogy**, not a claim that I originally learned the word *mind* in this sequence or that every mind must share one underlying nature. Ordinary language supplied the word to me long before I examined this experiential derivation.
 
 ## Essential Distinctions
 
-**My Mind versus The Mind.** *My Mind* is the contextual first-person expression through which I provisionally organize mental life in relation to **My Awareness** and **My Self**. **The Mind** is the generalized **Fiat Form** through which that organization may be investigated beyond my particular standpoint. These are not two separately reified concepts.
+**My Mind versus The Mind.** *My Mind* is the contextual first-person expression through which I provisionally organize mental life in relation to **My Awareness** and **My Self**. **The Mind** is the generalized conceptual unity, established as a **Fiat Anchor**, through which that organization may be investigated beyond my particular standpoint. These are not two separately reified concepts.
 
 **The Mind versus My Awareness and Awareness.** **My Awareness** names the first-person condition in which experience becomes present; **Awareness** is the generalized concept derived from it. **The Mind** concerns activities, capacities, inferred processes, and possible organization. Some mental phenomena are experienced; others are inferred. This distinction does not settle whether Mind and Awareness can exist separately or how they ultimately relate.
 
@@ -71,7 +71,7 @@ These movements may overlap, recur, or emerge in a different order. They are an 
 
 **Capacity versus activity.** The capacity to remember differs from a particular recollection, just as the ability to reason differs from a present episode of reasoning. A capacity may be evidenced even when it is not being exercised.
 
-**Fiat Form versus referent.** **The Mind** provides a conceptual unity; this does not establish that reality contains a separately bounded object matching it exactly. Neither does a conceptual beginning rule out a real unity, agent, substance, or other organization that future inquiry might identify.
+**Fiat Anchor versus referent.** **The Mind** establishes a chosen conceptual unity; this does not establish that reality contains a separately bounded object matching it exactly. Neither does a conceptual beginning rule out a real unity, agent, substance, or other organization that future inquiry might identify.
 
 **Imaginal projection versus imaginary referent.** An imaginal projection is a representation through which I apply a conceptual form. I may take its referent to be real, uncertain, hypothetical, or imaginary. A strongly justified attribution of another person's mind remains a representation, but is not therefore a fantasy. A child's deliberately pretend attribution of a mind to a puppet is also a representation, this time knowingly treated as imaginary. The projection's status and the referent's possible reality are distinct.
 
@@ -79,27 +79,27 @@ These movements may overlap, recur, or emerge in a different order. They are an 
 
 **The Mind versus brain and body.** Mental phenomena have meaningful relationships with bodily and neural activity. Investigating them does not require assuming either that physical explanation exhausts mind or that mind must be a substance independent of the body. Naturalistic, supernatural, and other explanations may be considered on the reasons available for each.
 
-**The Mind versus consciousness.** The Mind is not a scientific, medical, psychological, neurological, or philosophical definition or checklist of consciousness. Mental capacities do not, by themselves, prove or disprove first-person Awareness. Research in these fields may inform inquiry without replacing Openness's experiential anchor.
+**The Mind versus consciousness.** **The Mind** is not a scientific, medical, psychological, neurological, or philosophical definition or checklist of consciousness. Mental capacities do not, by themselves, prove or disprove first-person Awareness. Research in these fields may inform inquiry without replacing Openness's experiential anchor.
 
-**The Mind versus Mental Models.** **Mental Models** concern particular patterns of interpretation, expectation, representation, and response. The Mind concerns mental activities and capacities more broadly and need not consist solely of **Mental Models**.
+**The Mind versus Mental Models.** **Mental Models** concern particular patterns of interpretation, expectation, representation, and response. **The Mind** concerns mental activities and capacities more broadly and need not consist solely of **Mental Models**.
 
 **Chosen versus Unchosen activity.** Some mental activities may be deliberate; others arise habitually, automatically, or beyond present **Awareness**. Experiencing a decision does not show that every contributing process was chosen.
 
 **Conceptual unity versus inner agent.** Grouping mental activities under **The Mind** does not establish one separate controller. It does not rule out further discoveries about integration, agency, or forms of unity not yet understood.
 
-**Experiential Generalization versus Analogical Projection.** **Experiential Generalization** develops **The Mind** beyond the particularity of *My Mind*. **Analogical Projection** considers applying that form to another referent. Generalization does not automatically justify any particular attribution.
+**Experiential Generalization versus Analogical Projection.** **Experiential Generalization** develops **The Mind** beyond the particularity of *My Mind*. **Analogical Projection** considers applying that conceptual unity to another referent. Generalization does not automatically justify any particular attribution.
 
 **Analogical Projection versus Analogical Discernment.** Projection imagines a possible correspondence; **Analogical Discernment** investigates whether it fits and why. Correspondence in one function does not establish identical organization, Awareness, or selfhood.
 
 **Default versus explicit Analogical Discernment.** In ordinary encounters with other humans, attributing minds is generally well supported and need not be rebuilt from first principles. Unfamiliar or contested applications call for closer examination. Familiarity alone is not evidence, but not every well-supported belief must be endlessly reopened.
 
-**Correspondence versus identity.** Biological, computational, collective, functional, or speculative applications may illuminate different aspects of The Mind without establishing a shared underlying mechanism, identical capacities, or equal confidence in every attribution.
+**Correspondence versus identity.** Biological, computational, collective, functional, or speculative applications may illuminate different aspects of **The Mind** without establishing a shared underlying mechanism, identical capacities, or equal confidence in every attribution.
 
 ## Relationship to Openness
 
-**G — Generative Openness.** The Mind illustrates **Experiential Derivation** from **The Seed of Openness** without making *My Mind* an additional Seed constituent or separately reified **Fiat Anchor**. Experiences and inferences involving **My Awareness** and **My Self** make a first-person beginning recognizable. **Experiential Generalization** develops The Mind; **Analogical Projection** and **Analogical Discernment** examine possible applications. The entire conceptual development remains revisable.
+**G — Generative Openness.** **The Mind** illustrates **Experiential Derivation** from **The Seed of Openness** without making *My Mind* an additional Seed constituent or separately reified **Fiat Anchor**. Experiences and inferences involving **My Awareness** and **My Self** make a first-person beginning recognizable. **Experiential Generalization** develops **The Mind**; **Analogical Projection** and **Analogical Discernment** examine possible applications. The entire conceptual development remains revisable.
 
-**P — Philosophical Openness.** The Mind belongs primarily to P as a subject of inquiry into perception, reasoning, memory, imagination, desire, choosing, knowing, **Certainty**, **Mental Models**, **The Unchosen**, and **The Unseen**. It also asks how the very mental capacities through which inquiry occurs may themselves remain incompletely understood.
+**P — Philosophical Openness.** **The Mind** belongs primarily to P as a subject of inquiry into perception, reasoning, memory, imagination, desire, choosing, knowing, **Certainty**, **Mental Models**, **The Unchosen**, and **The Unseen**. It also asks how the very mental capacities through which inquiry occurs may themselves remain incompletely understood.
 
 **S — Spiritual Openness.** **The Mind** supports contemplation of lived thought, feeling, attention, intention, self-understanding, and embodied becoming. Spiritual or metaphysical interpretations may be explored with **Epistemic Hospitality**, without requiring or excluding them in advance. More specific inquiries into soul and spirit may begin from **My Self** and **My Awareness** as well as from their relationships with mental life.
 
@@ -107,7 +107,7 @@ These movements may overlap, recur, or emerge in a different order. They are an 
 
 ## Naming and Usage
 
-**The Mind** — canonical capitalized concept and the only independently defined **Mind** **Fiat Anchor** in this architecture. Use for the generalized conceptual unity: “The Mind may be investigated through experience, inference, and analogy.”
+**The Mind** — canonical capitalized concept and the only independently defined **Mind** **Fiat Anchor** in this architecture. Use for the generalized conceptual unity: “**The Mind** may be investigated through experience, inference, and analogy.”
 
 **My Mind** — contextual first-person expression *within this definition*, used when examining the experiential beginning: “A recollection comes unexpectedly, and I recognize it as part of what I call My Mind.” It is not another reified concept.
 
@@ -117,7 +117,7 @@ These movements may overlap, recur, or emerge in a different order. They are an 
 
 **Imaginal projection** — a name for the conceptual representation used in applying **The Mind** to a referent; not a required adjective in every sentence. Use to emphasize the deeper epistemic intersubjective-reality and imply or explore the source that imagines the projection.  
 
-In writing about others, distinguish what “I” encounter—speech, actions, expressions, testimony, effects—from the mental life “I” represent or infer. The inability to experience another person's standpoint directly does not prevent strong justified confidence that the person has a mind.
+In writing about others, distinguish what I encounter—speech, actions, expressions, testimony, effects—from the mental life I represent or infer. The inability to experience another person's standpoint directly does not prevent strong justified confidence that the person has a mind.
 
 ## Examples
 
@@ -135,7 +135,7 @@ I see a friend recognize a cup, remember where it was placed, respond to speech,
 
 I represent my friend as having a mind. That representation is **imaginal**, because their first-person mental life is not mine to experience directly. Yet their actions, testimony, and shared human capacities give me strong reasons to regard the attribution as accurate.
 
-The representation is not an imaginary friend or a guess supported by no evidence. It is a well-supported application of The Mind.
+The representation is not an imaginary friend or a guess supported by no evidence. It is a well-supported application of **The Mind**.
 
 ### Example — A Raven (biological extension)
 
@@ -165,7 +165,7 @@ The child projects **The Mind** onto Mira while knowingly treating Mira's mental
 
 A toy plays a prerecorded crying sound when pressed.
 
-The sound resembles an expression of distress, but by itself gives little reason for an adult to attribute the wider mental life or felt suffering of a distressed person. But a younger child might take the toy to have a mind; an older child might knowingly pretend that it does. These different attitudes toward the same projected form should not be confused with evidence that the toy experiences distress, or that the imaginal projection itself is imaginary, or that the projection exists outside the mind that imagines it.
+The sound resembles an expression of distress, but by itself gives little reason for an adult to attribute the wider mental life or felt suffering of a distressed person. A younger child might take the toy to have a mind; an older child might knowingly pretend that it does. These different attitudes toward the same projected form should not be confused with evidence that the toy experiences distress, or that the imaginal projection itself is imaginary, or that the projection exists outside the mind that imagines it.
 
 ## Boundary
 
@@ -179,7 +179,7 @@ An application of **The Mind** to another referent takes the form of an imaginal
 
 ## Summary
 
-***The Mind** begins as a conceptual pattern recognized in my own mental life and generalized for possible application beyond myself. This recognizable beginning allows me to explore and reconsider further interpretations that fit this pattern, without assuming any one interpretation exhausts what mind may ultimately be.*
+**The Mind** begins as a conceptual pattern recognized in my own mental life and generalized for possible application beyond myself. This recognizable beginning allows me to explore and reconsider further interpretations that fit this pattern, without assuming any one interpretation exhausts what mind may ultimately be.
 
 **The Mind** enables inquiry into questions such as: 
   - What unifies mental activities? 
