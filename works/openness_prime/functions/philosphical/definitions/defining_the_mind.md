@@ -30,9 +30,7 @@ But also perhaps more?
 ### Example Speculations
 
 - Perhaps **The Mind** is not confined to processes within the brain, but also includes relationships with the body and environment that help constitute its organization?
-
 - Or perhaps **The Mind** reflects a fundamental aspect of reality that cannot be fully explained as a product of physical processes alone?
-
 - Or perhaps **The Mind** includes a spiritual dimension, sometimes understood as a soul, that may exist independently of the body or continue beyond bodily life?
 
 ## The Definition Unfolded
