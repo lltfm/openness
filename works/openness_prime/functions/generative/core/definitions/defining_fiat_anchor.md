@@ -129,7 +129,7 @@ The fact that a unity is chosen does not grant its originator universal authorit
 
 ## Examples
 
-### Example — A tree, trees, and protected trees (ordinary and intersubjective categories)
+### Example — A tree, trees, and protected trees (first-person, ordinary and intersubjective categories)
 
 I encounter a living tree. The organism is materially real, independently of what I call it.
 
