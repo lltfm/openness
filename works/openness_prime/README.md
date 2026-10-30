@@ -88,20 +88,20 @@ Openness is not agreement with every claim, unlimited receptivity, compulsory do
 
 **Closedness** is the refusal or inability, within some relevant part of our thinking or living, to listen during an encounter, to a question, or to a feeling. A person can be open in one respect and closed in another; closedness need not define the whole person. At times we must justifiably limit attention, end a relationship, or act decisively. Though such necessary boundaries can become closedness when we remain unwilling to return to listening.
 
-**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded; without noticing our unawareness itself. **Blind Certainty** is remediated simply by becoming aware—a purely mental act. **Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Its opposite is not perpetual self-doubt, but the demonstration of our recognition of the limits of our present understanding to ourselves and others through our listening.
+**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded; without noticing our unawareness itself. **Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. **Blind Certainty** is remediated simply by becoming aware of closedness—a purely mental act. 
+
+We demonstrate Openness by our recognition of the limits of our present understanding to others and ourselves by choosing to listen. Listening is the embodied demonstration of the **Self-Confession**, "For I Know I Do Not Know."
 
 ## The Tree of Openness
 
-The **Tree of Openness** expresses the four functions symbolically. It is neither a biological explanation nor a ladder of superior and inferior stages.
+We imagine the **Tree of Openness** as expressions the four functions symbolically.
 
 | Function | Symbol in the Tree | Principal concern |
 |---|---|---|
 | **G — Generative Openness** | Roots, growing from the Seed | Bringing forms and possibilities into recognizable being |
 | **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts |
-| **S — Spiritual Openness** | Branches and crown | Exploring finite embodied life, contemplation, wisdom, and becoming |
+| **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming |
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise |
-
-Each function has **Core Concepts** whose meanings and relationships are structurally consequential. Their importance calls for care when revising them; it does not make them infallible. The functions remain mutually dependent and may challenge as well as enrich one another. T does not supersede G, P, or S.
 
 ### Generative Openness (G)
 
