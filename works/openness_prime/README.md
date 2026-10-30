@@ -18,15 +18,19 @@ Openness has four distinguishable, mutually informing functions: **Generative (G
 
 ## The Posture of Openness
 
-### The Epitome of Openness
-
-This posture starts with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown. 
+This posture begins with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown. 
 
 > These are distinguishable experiential beginnings, not an assertion that three separate metaphysical entities have been established. Nor does the confession require its precise words to be spoken: it invites a genuine recognition that may become possible within one's own experience. This beginning is shared as an invitation to others without requiring that they adopt this way of being.
 
 The posture is symbolized by the **open circle**: an imprecisely drawn encircling line that does not close the circle. It gives form without claiming to contain everything within it. Its opening allows what lies beyond it to enter as a possibility, while its boundary retains the capacity to discern what may enter. The circle symbolizes an embrace that listens to what it cannot fully know, within and without.
 
 ![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
+
+## The Epitome of Openness
+
+The posture's transformative cycle is described by the epitome of Openness:
+
+    Being open to what is. Listening. Admitting when we don't know. Questioning certainty. Noticing preferred stories. Imagining what might be true. Suspending judgment. Sitting in the discomfort of uncertainty. Holding yet not clinging, allowing space for the flow of The Mystery to unfold. Deciding & acting when we must, but ever returning to Openness.
 
 ### Being open to what is
 
