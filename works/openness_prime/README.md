@@ -48,7 +48,7 @@ We attend outwardly to another person's words and actions, natural processes, si
 
 ### Admitting when we don't know
 
-The Self-Confession—**For I Know I Do Not Know**—invites an honest accounting of what we have encountered, what we understand, what we infer, and what remains unresolved. This acknowledgment can include the incompleteness of our understanding of our own inward experience as well as the outward world. It does not make ignorance superior to knowledge or require doubting a conclusion merely because more might be imaginable. We can know something meaningfully without knowing everything.
+**My Self-Confession of Not-Knowing**—*For I Know I Do Not Know*—invites an honest accounting of what we have encountered, what we understand, what we infer, and what remains unresolved. This acknowledgment can include the incompleteness of our understanding of our own inward experience as well as the outward world. It does not make ignorance superior to knowledge or require doubting a conclusion merely because more might be imaginable. We can know something meaningfully without knowing everything.
 
 ### Questioning certainty
 
@@ -56,7 +56,7 @@ We examine how our confidence arose, which reasons or experiences support it, wh
 
 ### Noticing preferred stories
 
-We recognize the interpretations and narratives we favor, including those that shape how we understand ourselves and others. A Preferred Story may be meaningful, beautiful, fruitful, and perhaps true. Its preference alone neither proves nor disproves it. Self-Honesty asks us to notice what we have encountered and what our story adds, and to remain receptive to what the story may obscure.
+We recognize the interpretations and narratives we favor, including those that shape how we understand ourselves and others. A **Preferred Story** may be meaningful, beautiful, fruitful, and perhaps true. Its preference alone neither proves nor disproves it. **Self-Honesty** asks us to notice what we have encountered and what our story adds, and to remain receptive to what the story may obscure.
 
 ### Imagining what might be true
 
@@ -64,7 +64,7 @@ We explore possibilities that our present explanations do not fully contain. Ima
 
 ### Suspending judgment
 
-Where circumstances permit, we allow an interpretation or decision to remain unsettled while we listen and examine what is available. We may defer a conclusion, hold a provisional position, or decide only what is presently justified. Suspension is not indecision as an end in itself: some matters require timely action, and some conclusions are sufficiently supported to retain without continually reopening them.
+Where circumstances permit, we allow an interpretation or decision to remain unsettled while we listen and examine what is available. We may defer a conclusion, hold a provisional position, or decide only what is presently justified. Suspension is not indecision when circumstances require timely action, and some conclusions are sufficiently supported to decide without continually reopening them.
 
 ### Sitting in the discomfort
 
@@ -72,13 +72,15 @@ Where circumstances permit, we allow an interpretation or decision to remain uns
 
 ### Holding yet not clinging
 
-**Holding yet not clinging, allowing space for the flow of The Mystery to unfold.** We may embrace a person, an idea, a conviction, or an experience without claiming to possess its entirety or dictate its future. Holding allows attention, care, commitment, and discernment; not clinging leaves room for change, correction, difference, or departure. This is not a requirement to abandon what is justified or precious. The Mystery names what remains unknown or incompletely understood, not a guarantee that every encounter conceals a higher truth or will yield a welcome transformation.
+**Holding yet not clinging, allowing space for the flow of The Mystery to unfold.** We may embrace a person, an idea, a conviction, or an experience without claiming to possess its entirety or dictate its future. Holding allows attention, care, commitment, and discernment; not clinging leaves room for change, correction, difference, or departure. This is not a requirement to abandon what is justified or precious. **The Mystery** names what remains unknown or incompletely understood, not a guarantee that every encounter conceals a higher truth or will yield a beneficial transformation.
 
 ### Deciding & acting
 
-**Deciding & acting when we must, but ever returning to Openness.** Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best Self-Honest understanding when action is warranted; waiting for ultimate certainty can itself have consequences. Openness does not require permanent hesitation or diluted conviction.
+**Deciding & acting when we must** Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction. 
 
-To **return to Openness** is to listen again—to the consequences of action, to others, and to our own inward responses. Return may confirm a decision, refine it, correct an error, repair harm, or reveal another question. It does not erase responsibility, guarantee reversibility, or require abandoning a sound conclusion. Sometimes we listen while acting; sometimes action itself discloses what we could not otherwise have encountered.
+### Returning to Openness
+
+**..but ever returning to Openness.** is to return to listening again—to the consequences of action, to others, and to our own inward responses. Listening may confirm a decision, refine it, correct an error, repair harm, or reveal another question. It does not erase responsibility, guarantee reversibility, or require abandoning a sound conclusion.
 
 ## What is not Openness?
 
@@ -103,9 +105,9 @@ Each function has **Core Concepts** whose meanings and relationships are structu
 
 ### Generative Openness (G)
 
-**G concerns the creation of recognizable forms and further possibilities.** It develops concepts, imaginative practices, inquiries, and works through Poiesis. Its Generative Engine organizes resources for written Transformative Art and related creation, but the Engine is not the whole of G. Creation need not establish that an imagined form is independently real, nor does deliberate invention establish that it is false. Its primary imaginative role-play is The Artist.
+**G concerns the creation of recognizable forms and further possibilities.** It develops concepts, imaginative practices, inquiries, and works through Poiesis. Its **Generative Engine** organizes resources for written **Transformative Art** and related creation, but the **Engine** is not the whole of G. Creation need not establish that an imagined form is independently real, nor does deliberate invention establish that it is false. Its primary imaginative role-play is **The Artist Role**.
 
-Within **G's Core** is **The Seed of Openness**: the proposed minimum first-person beginning described in the posture—My Self, My Awareness, and My Self-Confession of Not-Knowing. The Seed expresses both a beginning for the Tree and the possibility of another person independently recognizing such a beginning. What grows from it need not reproduce the present functions or concepts exactly.
+Within **G's Core** is **The Seed of Openness**: the proposed minimum first-person beginning described in the posture—**My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. The Seed expresses both a beginning for the Tree and the possibility of another person independently recognizing such a beginning. What grows from it need not reproduce the present functions or concepts exactly.
 
 ### Philosophical Openness (P)
 
