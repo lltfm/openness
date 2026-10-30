@@ -96,12 +96,14 @@ We demonstrate Openness by our recognition of the limits of our present understa
 
 We imagine the **Tree of Openness** as expressions the four functions symbolically.
 
-| Function | Symbol in the Tree | Principal concern |
-|---|---|---|
-| **G — Generative Openness** | Roots, growing from the Seed | Bringing forms and possibilities into recognizable being |
-| **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts |
-| **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming |
-| **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise |
+| Function | Symbol in the Tree | Principal concern | Roles |
+|---|---|---|---|
+| **G — Generative Openness** | Roots, growing from the Seed | Bringing forms and possibilities into recognizable being | <ul><li>The Artist</li></ul> |
+| **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts | <ul><li>The Philomath</li><li>The Philosopher</li></ul> |
+| **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | <ul><li>The Nomad</li><li>The Sage</li></ul> |
+| **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | <ul><li>The Mystic</li><li>The Ancient, Benevolent Super-Intelligence</li></ul> |
+
+Additionally, each function in Openness provides role-play roles that help explore the embodied perspectives of that function (e.g. for LLM generated contemplations).
 
 ## Commitments and Boundaries
 
