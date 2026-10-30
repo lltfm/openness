@@ -38,7 +38,7 @@ Openness aspires to **Nonimposition**: to give the world **the greatest possible
 
 ### Listening
 
-**Listening.** Listening is central to Openness. To listen openly is to attend **inward and outward at the same time**: to what is occurring beyond us *and* to what is occurring within our own embodied experience. Neither world is secondary. Our inward world matters just as much as our outward world, even as what we feel within does not by itself establish the causes or meaning of what occurs outside us.
+Listening is central to Openness. To listen openly is to attend **inward and outward at the same time**: to what is occurring beyond us *and* to what is occurring within our own embodied experience. Neither world is secondary. Our inward world matters just as much as our outward world, even as what we feel within does not by itself establish the causes or meaning of what occurs outside us.
 
 We attend outwardly to another person's words and actions, natural processes, silence, circumstances, testimony, and evidence. At the same time, we attend inwardly to bodily sensations, emotions, intuitions, memories, thoughts, expectations, desires, fears, and the reactions arising as we listen. These encounters can influence one another. Noticing a tightening in the body while hearing someone's words may tell us something important about our own experience without conclusively telling us what the other person intends.
 
@@ -48,23 +48,23 @@ We attend outwardly to another person's words and actions, natural processes, si
 
 ### Admitting when we don't know
 
-**Admitting when we don't know.** The Self-Confession—**For I Know I Do Not Know**—invites an honest accounting of what we have encountered, what we understand, what we infer, and what remains unresolved. This acknowledgment can include the incompleteness of our understanding of our own inward experience as well as the outward world. It does not make ignorance superior to knowledge or require doubting a conclusion merely because more might be imaginable. We can know something meaningfully without knowing everything.
+The Self-Confession—**For I Know I Do Not Know**—invites an honest accounting of what we have encountered, what we understand, what we infer, and what remains unresolved. This acknowledgment can include the incompleteness of our understanding of our own inward experience as well as the outward world. It does not make ignorance superior to knowledge or require doubting a conclusion merely because more might be imaginable. We can know something meaningfully without knowing everything.
 
 ### Questioning certainty
 
-**Questioning certainty.** We examine how our confidence arose, which reasons or experiences support it, what it may overlook, and what could appropriately revise it. The aim is not to destroy confidence, but to distinguish warranted conviction from certainty maintained beyond its justification. Some conclusions may withstand examination and deserve to be defended; the possibility of correction does not imply that correction is always needed.
+We examine how our confidence arose, which reasons or experiences support it, what it may overlook, and what could appropriately revise it. The aim is not to destroy confidence, but to distinguish warranted conviction from certainty maintained beyond its justification. Some conclusions may withstand examination and deserve to be defended; the possibility of correction does not imply that correction is always needed.
 
 ### Noticing preferred stories
 
-**Noticing preferred stories.** We recognize the interpretations and narratives we favor, including those that shape how we understand ourselves and others. A Preferred Story may be meaningful, beautiful, fruitful, and perhaps true. Its preference alone neither proves nor disproves it. Self-Honesty asks us to notice what we have encountered and what our story adds, and to remain receptive to what the story may obscure.
+We recognize the interpretations and narratives we favor, including those that shape how we understand ourselves and others. A Preferred Story may be meaningful, beautiful, fruitful, and perhaps true. Its preference alone neither proves nor disproves it. Self-Honesty asks us to notice what we have encountered and what our story adds, and to remain receptive to what the story may obscure.
 
 ### Imagining what might be true
 
-**Imagining what might be true.** We explore possibilities that our present explanations do not fully contain. Imagination can disclose new questions, interpretations, relationships, and forms for further inquiry or creation. Yet a possible or resonant account is not thereby established as real. We may contemplate or prefer a possibility without presenting it as a justified conclusion, and we need not treat all imagined possibilities as equally credible.
+We explore possibilities that our present explanations do not fully contain. Imagination can disclose new questions, interpretations, relationships, and forms for further inquiry or creation. Yet a possible or resonant account is not thereby established as real. We may contemplate or prefer a possibility without presenting it as a justified conclusion, and we need not treat all imagined possibilities as equally credible.
 
 ### Suspending judgment
 
-**Suspending judgment.** Where circumstances permit, we allow an interpretation or decision to remain unsettled while we listen and examine what is available. We may defer a conclusion, hold a provisional position, or decide only what is presently justified. Suspension is not indecision as an end in itself: some matters require timely action, and some conclusions are sufficiently supported to retain without continually reopening them.
+Where circumstances permit, we allow an interpretation or decision to remain unsettled while we listen and examine what is available. We may defer a conclusion, hold a provisional position, or decide only what is presently justified. Suspension is not indecision as an end in itself: some matters require timely action, and some conclusions are sufficiently supported to retain without continually reopening them.
 
 ### Sitting in the discomfort
 
