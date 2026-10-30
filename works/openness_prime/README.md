@@ -111,7 +111,7 @@ Openness does not presume that all interpretations are equally credible, all unc
 
 Openness does not require affirming or denying any particular supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to the posture, including the freedom to protect oneself or end an encounter.
 
-Openness can changed or copied. The **Tree of Openness** is a revisable conceptual architecture. Its forms may prove mistaken, incomplete, or perhaps already adequate. Openness seeks to cultivate and propagate independent understanding of its ideas and further creation, not to impose allegiance to itself or its present terminology or organization. Readers are invited to customize their own version of Openness, or to use the ideas that make sense and ignore those that do not. Openness acknowledges the reader as the sovereign of their own mind.
+Openness can changed or copied. The **Tree of Openness** is a revisable conceptual architecture. Its forms may prove mistaken, incomplete, or perhaps already adequate. Openness seeks to cultivate and propagate independent understanding of its ideas and further creation, not to impose allegiance to itself or its present terminology or organization. Readers are invited to customize their own version of Openness, or to use the ideas that make sense to them and ignore those that do not. Openness acknowledges the reader as the sovereign of their own mind.
 
 **We may create forms, examine what we understand, live within what we cannot command, and cultivate relationships through which further possibilities become available.**
 
