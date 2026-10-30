@@ -76,7 +76,7 @@ Where circumstances permit, we allow an interpretation or decision to remain uns
 
 ### Deciding & acting
 
-**Deciding & acting when we must** Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction. 
+**Deciding & acting when we must.** Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction. 
 
 ### Returning to Openness
 
@@ -88,7 +88,7 @@ Openness is not agreement with every claim, unlimited receptivity, compulsory do
 
 **Closedness** is the refusal or inability, within some relevant part of our thinking or living, to listen during an encounter, to a question, or to a feeling. A person can be open in one respect and closed in another; closedness need not define the whole person. At times we must justifiably limit attention, end a relationship, or act decisively. Though such necessary boundaries can become closedness when we remain unwilling to return to listening.
 
-**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or in Openness itself. Its opposite is not perpetual self-doubt, but the demonstration of our recognition of the limits of our present understanding through listening.
+**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded; without noticing our unawareness itself. **Blind Certainty** is remediated simply by becoming aware—a purely mental act. **Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Its opposite is not perpetual self-doubt, but the demonstration of our recognition of the limits of our present understanding to ourselves and others through our listening.
 
 ## The Tree of Openness
 
