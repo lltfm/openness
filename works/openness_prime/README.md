@@ -42,7 +42,7 @@ Listening is central to Openness. To listen openly is to attend **inward and out
 
 We attend outwardly to another person's words and actions, natural processes, silence, circumstances, testimony, and evidence. At the same time, we attend inwardly to bodily sensations, emotions, intuitions, memories, thoughts, expectations, desires, fears, and the reactions arising as we listen. These encounters can influence one another. Noticing a tightening in the body while hearing someone's words may tell us something important about our own experience without conclusively telling us what the other person intends.
 
-**Listening is neither assent nor surrender.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** Listening does not require endless exposure, emotional overwhelm, or attention to every possible claim. Discernment includes knowing when to disengage.
+**Listening is neither assent nor surrender.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** Listening does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
 
 > **Openness seeks to listen to what is without closing the heart to what may become.**
 
@@ -103,37 +103,13 @@ We imagine the **Tree of Openness** as expressions the four functions symbolical
 | **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming |
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise |
 
-### Generative Openness (G)
-
-**G concerns the creation of recognizable forms and further possibilities.** It develops concepts, imaginative practices, inquiries, and works through Poiesis. Its **Generative Engine** organizes resources for written **Transformative Art** and related creation, but the **Engine** is not the whole of G. Creation need not establish that an imagined form is independently real, nor does deliberate invention establish that it is false. Its primary imaginative role-play is **The Artist Role**.
-
-Within **G's Core** is **The Seed of Openness**: the proposed minimum first-person beginning described in the posture—**My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. The Seed expresses both a beginning for the Tree and the possibility of another person independently recognizing such a beginning. What grows from it need not reproduce the present functions or concepts exactly.
-
-### Philosophical Openness (P)
-
-**P concerns the pursuit and examination of understanding.** It investigates what we encounter, what our concepts mean, which claims are justified, and how confidence should relate to evidence and reasoning. It considers the possibilities and limitations of knowing without equating every unanswered question with ignorance or treating uncertainty as a virtue in itself. Its primary imaginative role-play is The Philosopher.
-
-P distinguishes what resonates, what bears fruit, and what is true; none by itself guarantees the others. It may refine, defend, revise, or reject conceptual forms, including those created within G. A form can be intentionally established and nonetheless accurately name something real. Philosophical inquiry remains answerable to experience, argument, and possible correction.
-
-### Spiritual Openness (S)
-
-**S concerns the lived significance of Openness within finite embodied life.** It explores how faith, journey and possibility are experienced through attention, feeling, relationship, contemplation, care, suffering, responsibility, and becoming. Its questions concern not only what can be believed, but how one may live amid conditions that are partly unknown, unchosen and finite. Its primary imaginative role-play is The Nomad.
-
-S may explore ordinary and extraordinary experiences, spiritual interpretations, and questions of meaning without requiring adherence to a particular metaphysics. Transformation may change how an individual encounters difficulty or understands their life, but does not automatically signify healing or improvement. Its aspiration is a developing capacity to live with wisdom, compassion, honesty, and openness to further experience.
-
-### Transcendent Openness (T)
-
-**T concerns cultivating relationships with what exceeds our present capacities to encounter, understand, imagine, or anticipate.** It draws upon the reciprocal functioning of G's creation, P's inquiry, and S's finite lived becoming. Through their interplay, further relationships and possibilities may emerge beyond what any one function could have produced or understood alone. Its primary imaginative role-play is The Ancient, Benevolent Super-Intelligence.
-
-The **flower** symbolizes beauty and invitation into encounter; the **fruit** symbolizes what may follow; and the **propagated seed** symbolizes the possibility of independent new beginnings. **Transcendence** is the possible exceeding of an existing limitation, often within understanding or becoming. T cultivates conditions for such encounters but cannot choose, predict, or guarantee the transformation that may arrive.
-
 ## Commitments and Boundaries
 
 Openness does not presume that all interpretations are equally credible, all uncertainty valuable, or every transformation beneficial. It seeks to recognize what can be known, distinguish what remains unresolved, and act responsibly with both. Neither a felt experience nor a compelling interpretation alone establishes its ultimate explanation.
 
-Openness does not require affirming or denying any particular supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. Nonimposition, Self-Honesty, and discernment remain essential to the posture, including the freedom to protect oneself or end an encounter.
+Openness does not require affirming or denying any particular supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to the posture, including the freedom to protect oneself or end an encounter.
 
-The Tree is a revisable conceptual architecture. Its forms may prove mistaken, incomplete, or already adequate. Openness seeks to cultivate independent understanding and further creation, not to impose allegiance to its present terminology or organization.
+Openness can changed or copied. The **Tree of Openness** is a revisable conceptual architecture. Its forms may prove mistaken, incomplete, or perhaps already adequate. Openness seeks to cultivate and propagate independent understanding of its ideas and further creation, not to impose allegiance to itself or its present terminology or organization. Readers are invited to customize their own version of Openness, or to use the ideas that make sense and ignore those that do not. Openness acknowledges the reader as the sovereign of their own mind.
 
 **We may create forms, examine what we understand, live within what we cannot command, and cultivate relationships through which further possibilities become available.**
 
