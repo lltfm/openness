@@ -19,7 +19,7 @@ Status: accepted
 
 **Fiat Form** — The deliberate creation, adoption, or reformation of a recognizable form through choosing, together with recognition that what has been chosen need not be inevitable or final.
 
-**Fiat Form** makes the chosen character and revisability of forms recognizable, especially when inherited arrangements have come to seem natural or unquestionable. It invites their examination without presuming that they should be changed.
+**Fiat Form** makes the chosen character and revisability of forms recognizable, especially when inherited arrangements have come to seem natural or unquestionable.
 
 #### Examples
 

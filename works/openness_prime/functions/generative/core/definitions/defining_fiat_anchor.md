@@ -23,7 +23,7 @@ Status: accepted
 
 **Fiat Anchor** — A named, immaterial conceptual unity established by choosing what counts as one identity or grouping, where that choice is not uniquely determined by a separately distinguishable material whole.
 
-**Fiat Anchor** makes recognizable the often-overlooked choice involved in identifying a category, collective, or totality as one conceptual unity. It invites examination of that chosen delineation without confusing the concept with whatever reality it may represent.
+**Fiat Anchor** invites inquiry into the often-unnoticed processes and choices involved in creating a category, a group, or a conceptual unity (e.g. The Mind) and its delineations, especially when inherited words have come to seem natural or unquestionable. It avoids confusing the name with whatever reality it may represent. 
 
 #### Examples
 

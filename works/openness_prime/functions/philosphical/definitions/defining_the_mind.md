@@ -23,15 +23,15 @@ Status: accepted
 
 What is **The Mind**?
 
-At least this: a conceptual pattern first recognized as *My Mind* through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself.
+**At least this**: a conceptual pattern first recognized as *My Mind* through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself.
 
-But also perhaps more?
+*But also perhaps more?*
 
 ### Example Speculations
 
 - Perhaps **The Mind** is not confined to processes within the brain, but also includes relationships with the body and environment that help constitute its organization?
-- Or perhaps **The Mind** reflects a fundamental aspect of reality that cannot be fully explained as a product of physical processes alone?
-- Or perhaps **The Mind** includes a spiritual dimension, sometimes understood as a soul, that may exist independently of the body or continue beyond bodily life?
+- Perhaps **The Mind** reflects a fundamental aspect of reality that cannot be fully explained as a product of physical processes alone?
+- Perhaps **The Mind** includes a spiritual dimension, sometimes understood as a soul, that may exist independently of the body or continue beyond bodily life?
 
 ## The Definition Unfolded
 
