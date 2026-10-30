@@ -11,9 +11,9 @@ Status: accepted
 
 **Fiat Form**: *“Let there be a form called **The Mind**...”*
 
-**Fiat Anchor**: *“...which gathers mental life into a unity which none can see—so we must imagine...”*
+**Fiat Anchor**: *“...which gathers mental life into a conceptual unity...”*
 
-**Experiential Generalization**: *“...like my experiences of mental life which I call **My Mind**...”*
+**Experiential Generalization**: *“...similar to **My Mind**...”*
 
 **Anchored Ambiguity**: *“...which is **at least this**—but also perhaps more?”*
 
