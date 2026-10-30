@@ -1,4 +1,4 @@
-# Openness
+# Openness Prime
 
 ## What is Openness?
 
@@ -12,7 +12,7 @@ This does not deny knowledge or justified confidence. It acknowledges that our u
 
 **The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
 
-Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**. It does not aim to settle every question, prescribe one way of living, or make uncertainty preferable to knowledge. It aspires to remain receptive to what reality and experience may disclose, while understanding and acting as responsibly as we can.
+Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**. It does not aim to settle every question, prescribe one way of living, or make uncertainty preferable to knowledge. It aspires to remain receptive to what reality and experience may disclose, while understanding and acting as responsibly as possible.
 
 Openness has four distinguishable, mutually informing functions: **Generative (G), Philosophical (P), Spiritual (S), and Transcendent (T)**. They are neither a hierarchy nor a compulsory sequence. Each has a particular emphasis, and their relationships may enlarge, challenge, or transform the possibilities available to the whole.
 
@@ -20,11 +20,9 @@ Openness has four distinguishable, mutually informing functions: **Generative (G
 
 ### The Epitome of Openness
 
-The posture begins with the epitome of **Openness**:
+This posture starts with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown. 
 
-> Being open to what is. Listening. Admitting when we don't know. Questioning certainty. Noticing preferred stories. Imagining what might be true. Suspending judgment. Sitting in the discomfort of uncertainty. Holding yet not clinging, allowing space for the flow of The Mystery to unfold. Deciding & acting when we must, but ever returning to Openness.
-
-This posture has a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, the acknowledgment that my understanding does not exhaust what remains unknown. These are distinguishable experiential beginnings, not an assertion that three separate metaphysical entities have been established. Nor does the confession require its precise words to be spoken: it invites a genuine recognition that may become possible within one's own experience. This beginning may be shared as an invitation to others without requiring that they adopt an existing philosophy or reproduce its forms.
+> These are distinguishable experiential beginnings, not an assertion that three separate metaphysical entities have been established. Nor does the confession require its precise words to be spoken: it invites a genuine recognition that may become possible within one's own experience. This beginning is shared as an invitation to others without requiring that they adopt this way of being.
 
 The posture is symbolized by the **open circle**: an imprecisely drawn encircling line that does not close the circle. It gives form without claiming to contain everything within it. Its opening allows what lies beyond it to enter as a possibility, while its boundary retains the capacity to discern what may enter. The circle symbolizes an embrace that listens to what it cannot fully know, within and without.
 
@@ -32,7 +30,7 @@ The posture is symbolized by the **open circle**: an imprecisely drawn encirclin
 
 ### Being open to what is
 
-**Being open to what is.** This means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing them to be as they are, so that they may *breathe*. Within the embrace, we listen to sense when it should end, so that we may let go without clinging. Openness begins by allowing what is encountered to matter, whether we welcome it, resist it, or cannot yet understand it.
+**Being open to what is.** This means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing them to be as they are, so that they may *breathe*. Within the embrace, we listen to sense when it should end, so that we may let go without clinging. Openness begins by allowing what is encountered to be fully experienced, whether we welcome it, resist it, or cannot yet understand it.
 
 Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**, compatible with responsibility and justified boundaries. This does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to walk away.
 
@@ -104,6 +102,25 @@ We imagine the **Tree of Openness** as expressions the four functions symbolical
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | <ul><li>The Mystic</li><li>The Ancient, Benevolent Super-Intelligence</li></ul> |
 
 Additionally, each function in Openness provides role-play roles that help explore the embodied perspectives of that function (e.g. for LLM generated contemplations).
+
+## Sample works
+
+Openness Prime is still under construction. Below are some works mature enough for early review:
+- Generative
+  - Core
+    - The Seed of Openness
+      - [My Awareness](functions/generative/core/the_seed/definitions/defining_my_awareness.md) 
+      - [My Self](functions/generative/core/the_seed/definitions/defining_my_self.txt)
+      - [My Self-Confession of Not-Knowing](functions/generative/core/the_seed/definitions/defining_my_self_confession_of_not_knowing.txt)
+    - [Anchored Ambiguity](functions/generative/core/definitions/defining_anchored_ambiguity.txt) 
+    - [Analogical Projection](functions/generative/core/definitions/defining_analogical_projection.txt)
+    - [Epistemic Groundedness](functions/generative/core/definitions/defining_epistemic_groundedness.md)
+    - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md)
+- Philosophical
+  - [The Mind](functions/philosphical/definitions/defining_the_mind.md) (recommended exemplar)
+- Spiritual
+- Transcendent
+    - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) 
 
 ## Commitments and Boundaries
 
