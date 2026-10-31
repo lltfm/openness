@@ -111,13 +111,14 @@ Additionally, each function in Openness provides roles that help explore the emb
 
 Openness Prime is still under construction and in early development. Below are some works mature enough for early review:
 - Generative
-    - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md)
-    - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md)
+  - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md)
+  - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md)
 - Philosophical
   - [The Mind](functions/philosphical/definitions/defining_the_mind.md) (recommended exemplar)
 - Spiritual
+  - [Love](functions/spiritual/definitions/defining_love.md)
 - Transcendent
-    - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) 
+  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) 
 
 ## Commitments and Boundaries
 
