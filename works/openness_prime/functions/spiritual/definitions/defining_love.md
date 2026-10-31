@@ -9,7 +9,7 @@ Status: needs review
 
 ## Prelude
 
-*Hold a steady gaze at what compels you to0 look away.*
+*Hold a steady gaze at what compels you to look away.*
 
 *Step back from all that compels you to become it.*
 
