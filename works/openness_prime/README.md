@@ -4,17 +4,15 @@
 
 **Openness is the path of becoming ever more open to what is.**
 
-Its foundational confession is:
+Its foundational confession is: **For I Know I Do Not Know.**
 
-> **For I Know I Do Not Know.**
-
-This does not deny knowledge or justified confidence. It acknowledges that our understanding may be incomplete, that further encounters may change what we understand, and that even our ideas of *knowing* and *not knowing* remain open to examination.
+> This does not deny knowledge or justified confidence. It acknowledges that our understanding may be incomplete, that further encounters may change what we understand, and that even our ideas of *knowing* and *not knowing* remain open to examination.
 
 **The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
 
-Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**. It does not aim to settle every question, prescribe one way of living, or make uncertainty preferable to knowledge. It aspires to remain receptive to what reality and experience may disclose, while understanding and acting as responsibly as possible.
+Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**. It does not aim to settle every question, prescribe one way of living, or raise uncertainty above knowledge. It aspires to remain receptive to what reality and experience may bring, while still deciding and acting as needed.
 
-Openness has four distinguishable, mutually informing functions: **Generative (G), Philosophical (P), Spiritual (S), and Transcendent (T)**. They are neither a hierarchy nor a compulsory sequence. Each has a particular emphasis, and their relationships may enlarge, challenge, or transform the possibilities available to the whole.
+Openness has four functions: **Generative (G), Philosophical (P), Spiritual (S), and Transcendent (T)**. They are neither a hierarchy nor a compulsory sequence. Each has a particular emphasis, and their relationships may enlarge, challenge, or transform the possibilities available to the whole.
 
 ## The Posture of Openness
 
@@ -109,16 +107,9 @@ Additionally, each function in Openness provides role-play roles that help explo
 
 ## Sample works
 
-Openness Prime is still under construction. Below are some works mature enough for early review:
+Openness Prime is still under construction and in early development. Below are some works mature enough for early review:
 - Generative
-  - Core
-    - The Seed of Openness
-      - [My Awareness](functions/generative/core/the_seed/definitions/defining_my_awareness.md) 
-      - [My Self](functions/generative/core/the_seed/definitions/defining_my_self.txt)
-      - [My Self-Confession of Not-Knowing](functions/generative/core/the_seed/definitions/defining_my_self_confession_of_not_knowing.txt)
-    - [Anchored Ambiguity](functions/generative/core/definitions/defining_anchored_ambiguity.txt) 
-    - [Analogical Projection](functions/generative/core/definitions/defining_analogical_projection.txt)
-    - [Epistemic Groundedness](functions/generative/core/definitions/defining_epistemic_groundedness.md)
+    - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md)
     - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md)
 - Philosophical
   - [The Mind](functions/philosphical/definitions/defining_the_mind.md) (recommended exemplar)
