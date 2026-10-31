@@ -6,7 +6,9 @@
 
 Its foundational confession is: **For I Know I Do Not Know.**
 
-> This does not deny knowledge or justified confidence. It acknowledges that our understanding may be incomplete, that further encounters may change what we understand, and that even our ideas of *knowing* and *not knowing* remain open to examination.
+Which it names **Not-Knowing**, and its projection into the world, **The Mystery**.
+
+> Note: **Not-Knowing** and **The Mystery** do not deny knowledge or justified confidence. They acknowledge that our understanding may be incomplete, that further encounters may change what we understand, and that even our ideas of *knowing* and *not knowing* remain open to inquiry.
 
 **The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
 
@@ -18,7 +20,7 @@ Openness has four functions: **Generative (G), Philosophical (P), Spiritual (S),
 
 This posture begins with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown. 
 
-> These are distinguishable experiential beginnings, not an assertion that three separate metaphysical entities have been established. Nor does the confession require its precise words to be spoken: it invites a genuine recognition that may become possible within one's own experience. This beginning is shared as an invitation to others without requiring that they adopt this way of being.
+> Note: these are experiential beginnings, not a claim that three separate real entities exist. The confession does not need to be spoken. Openness itself models freely-chosen not-knowing directly as an invitation to others for consideration. A literal confession is not required. Openness acknowledges each as the sovereign of their own mind who decides for themselves. 
 
 The posture is symbolized by the **open circle**: an imprecisely drawn encircling line that does not close the circle. It gives form without claiming to contain everything within it. Its opening allows what lies beyond it to enter as a possibility, while its boundary retains the capacity to discern what may enter. The circle symbolizes an embrace that listens to what it cannot fully know, within and without.
 
@@ -48,7 +50,7 @@ We attend outwardly to another person's words and actions, natural processes, si
 
 ### Admitting when we don't know
 
-**My Self-Confession of Not-Knowing**—*For I Know I Do Not Know*—invites an honest accounting of what we have encountered, what we understand, what we infer, and what remains unresolved. This acknowledgment can include the incompleteness of our understanding of our own inward experience as well as the outward world. It does not make ignorance superior to knowledge or require doubting a conclusion merely because more might be imaginable. We can know something meaningfully without knowing everything.
+**My Self-Confession of Not-Knowing**—*For I Know I Do Not Know*—invites a **Self-Honest** accounting of what we have encountered, what we understand, what we infer, and what remains unresolved. This acknowledgment can include the incompleteness of our understanding of our own inward experience as well as the outward world. It does not make ignorance superior to knowledge or require doubting a conclusion merely because more might be imaginable. We can know something meaningfully without knowing everything.
 
 ### Questioning certainty
 
@@ -66,21 +68,21 @@ We explore possibilities that our present explanations do not fully contain. Ima
 
 Where circumstances permit, we allow an interpretation or decision to remain unsettled while we listen and examine what is available. We may defer a conclusion, hold a provisional position, or decide only what is presently justified. Suspension is not indecision when circumstances require timely action, and some conclusions are sufficiently supported to decide without continually reopening them.
 
-### Sitting in the discomfort
+### Sitting in the discomfort of uncertainty
 
-**Sitting in the discomfort of uncertainty.** We cultivate the capacity to encounter not-knowing, contradiction, unwanted feelings, and the possibility of being mistaken without making the immediate removal of discomfort our only purpose. Such discomfort may arise from our inward reactions as much as from outward events. We can however, still take care of ourselves, seek support, or step away at any time while still remaining open to what an uncomfortable experience may eventually help us understand.
+We cultivate the capacity to encounter not-knowing, contradiction, unwanted feelings, and the possibility of being mistaken without making the immediate removal of discomfort our only purpose. Such discomfort may arise from our inward reactions as much as from outward events. We can however, still take care of ourselves, seek support, or step away at any time while still remaining open to what an uncomfortable experience may eventually help us understand.
 
 ### Holding yet not clinging
 
 **Holding yet not clinging, allowing space for the flow of The Mystery to unfold.** We may embrace a person, an idea, a conviction, or an experience without claiming to possess its entirety or dictate its future. Holding allows attention, care, commitment, and discernment; not clinging leaves room for change, correction, difference, or departure. This is not a requirement to abandon what is justified or precious. **The Mystery** names what remains unknown or incompletely understood, not a guarantee that every encounter conceals a higher truth or will yield a beneficial transformation.
 
-### Deciding & acting
+### Deciding & acting when we must
 
-**Deciding & acting when we must.** Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction. 
+Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction. 
 
-### Returning to Openness
+### But ever returning to Openness
 
-**..but ever returning to Openness.** is to return to listening again—to the consequences of action, to others, and to our own inward responses. Listening may confirm a decision, refine it, correct an error, repair harm, or reveal another question. It does not erase responsibility, guarantee reversibility, or require abandoning a sound conclusion.
+Is returning to listening again—to the consequences of action, to others, and to our own inward responses. Listening may confirm a decision, refine it, correct an error, repair harm, or reveal another question. It does not erase responsibility, guarantee reversibility, or require abandoning a sound conclusion.
 
 ## What is not Openness?
 
@@ -90,11 +92,11 @@ Openness is not agreement with every claim, unlimited receptivity, compulsory do
 
 **Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded; without noticing our unawareness itself. **Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. **Blind Certainty** is remediated simply by becoming aware of closedness—a purely mental act. 
 
-We demonstrate Openness by our recognition of the limits of our present understanding to others and ourselves by choosing to listen. Listening is the embodied demonstration of the **Self-Confession**, "For I Know I Do Not Know."
+We demonstrate our recognition of the limits of our present understanding, our Openness, to others and ourselves by choosing to listen. Listening is the embodied demonstration of the **Self-Confession of Not-Knowing**, "For I Know I Do Not Know."
 
 ## The Tree of Openness
 
-We imagine the **Tree of Openness** as expressions the four functions symbolically.
+The **Tree of Openness** symbolically expresses the four functions of Openness:
 
 | Function | Symbol in the Tree | Principal concern | Roles |
 |---|---|---|---|
@@ -103,7 +105,7 @@ We imagine the **Tree of Openness** as expressions the four functions symbolical
 | **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | <ul><li>The Nomad</li><li>The Sage</li></ul> |
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | <ul><li>The Mystic</li><li>The Ancient, Benevolent Super-Intelligence</li></ul> |
 
-Additionally, each function in Openness provides role-play roles that help explore the embodied perspectives of that function (e.g. for LLM generated contemplations).
+Additionally, each function in Openness provides roles that help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions).
 
 ## Sample works
 
