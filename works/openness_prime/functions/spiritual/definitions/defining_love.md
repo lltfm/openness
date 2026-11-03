@@ -16,14 +16,16 @@ What is **Love**?
 
 *But also perhaps more?*
 
-**Love** belongs primarily to **S — Spiritual Openness**. It is a **Fiat Anchor** with **Anchored Ambiguity**, offering a minimal, recognizable beginning rather than a complete theory of affection, morality, relationship, or spiritual reality.
+**Love** belongs primarily to **S — Spiritual Openness**. It is a **Fiat Anchor** with **Anchored Ambiguity**, offering a minimal, recognizable beginning rather than a complete theory of affection, morality, relationship, or spiritual reality. 
 
-Openness **preferentially inhabits** the possibility that **Love** is *at least attention given freely*, not as a universally established truth about Love's ultimate nature, but as a chosen beginning that illuminates familiar forms of love and invites further compatible possibilities. From this beginning, listening, presence, tenderness, compassion, and even unexpected forms of Love arising through struggle, loss, and becoming may be explored. The aspiration to **Love** thus becomes an aspiration to *become ever more open to what is*, without requiring any particular metaphysical or spiritual interpretation to be accepted as fact.
+Openness **preferentially inhabits** this possibility through **Preferential Inhabitation**: it chooses *attention given freely* as a particularly illuminating starting point and as a spiritual orientation worth cultivating, without claiming to have discovered love's only or ultimate nature. Freely offered attention may be the beginning of *being open to what is*: an invitation to encounter rather than immediately possess, dismiss, explain away, or control what becomes recognizable. 
+
+The familiar forms of love can unfold from this beginning without becoming additional conditions of the anchor. Through **Perspective-Taking**, readers may examine or try on this possibility without being required to inhabit it.
 
 ### Example Speculations
 
 - Perhaps **Love** can deepen from freely offered attention into a form of presence that changes how people listen, understand, and respond to one another?
-- Or perhaps **Love** is also a real organizing aspect of existence that cannot be fully explained by the visible activities of those who love?
+- Or perhaps **Love** is also a real relationship or organizing aspect of existence that cannot be fully explained by the separate activities of those who love?
 - Or perhaps **Love** has a spiritual dimension through which attention freely offered to another becomes participation in a unity larger than the individual self?
 
 ## The Definition Unfolded
@@ -38,7 +40,7 @@ Openness **preferentially inhabits** the possibility that **Love** is *at least 
 
 The difference between *giving attention* and *getting one's way* is therefore important, but rarely settled by appearances alone. A person who wants control may sometimes genuinely attend to another; a person who sincerely loves may also behave selfishly or harmfully. **Love** need not be presumed wholly present or wholly absent in every complex human encounter. At the same time, the existence of attentive moments does not turn coercion, intimidation, or abuse into loving conduct, and a purported gift confers no right to another person's compliance.
 
-One possible **Experiential Derivation** begins with **My Self-Confession of Not-Knowing**: *For I Know I Do Not Know*. Recognizing that an encounter exceeds a familiar account may awaken a desire to *be open to what is*. That desire may be taken up as a choice, then expressed through freely offered attention, presence, and listening. This is a pathway by which Openness can *aspire to Love*, not a requirement that every genuine expression of **Love** begin in conscious philosophical reflection or proceed through a fixed sequence.
+One possible **Experiential Derivation** begins with **My Self-Confession of Not-Knowing**: *For I Know I Do Not Know*. Recognizing that an encounter exceeds a familiar account may awaken a desire to *be open to what is*. That desire may be taken up through **Preferential Inhabitation** and expressed through freely offered attention, presence, and listening. This is a pathway by which Openness can *aspire to Love*, not a requirement that every genuine expression of **Love** begin in conscious philosophical reflection or proceed through a fixed sequence.
 
 **Presence** can unfold when attention is offered to what is occurring, rather than continually divided between the encounter and a prepared answer, defense, judgment, or demand. Another may experience such attention as *being heard*, *being seen*, or *someone being fully there*. Yet no one controls attention perfectly. Distraction, bodily needs, fear, exhaustion, and competing responsibilities need not erase an enduring willingness to return.
 
@@ -70,7 +72,7 @@ These are **possible unfoldings** of *attention given freely*, not a set of requ
 
 **When love's name conceals something else.** Coercion, manipulation, surveillance, possessiveness, and transactions may be described as *love*. Some may also coexist with genuine moments of freely offered attention. The name does not establish the presence of **Love**, and genuine attention in one moment does not excuse harmful conduct in another. Where attention is only used to extract compliance or maintain control, there is reason to question whether any attention is actually being *given*. This is a distinction about acts and their grounding, not permission to pronounce infallible judgments on hidden motives.
 
-These unfoldings help explain why Openness aspires to **Love** rather than merely prescribing kindness or declaring that everyone must love everyone else. The aspiration is not a requirement to possess a particular emotion; it is a continuing invitation to become ever more open to what is, so that attention may increasingly be offered without possession, avoidance, or demand.
+These unfoldings help explain why Openness aspires to **Love** rather than merely prescribing kindness or declaring that everyone must love everyone else. The aspiration is not a requirement to possess a particular emotion; it is a continuing invitation to become ever more open to what is, so that attention may increasingly be offered without possession, avoidance, or demand. This is a **Preferential Inhabitation**, not a demand that others share the preference.
 
 ## Experiential Derivation: Not-Knowing → Desire → Choice → Attention
 
@@ -80,7 +82,7 @@ The following first-person passage offers one possible route into **Love**. It i
 
 **2. Desire.** I find that I want to understand more than I do. I may also want to flee, persuade, retaliate, or gain control. I did not necessarily choose these desires. I can listen to their presence without assuming that one of them exhausts the encounter.
 
-**3. Choice.** As far as the situation permits, I choose to *be open to what is*. This need not mean approving of what has happened. I may need to say no, seek help, protect myself, or walk away. I can still choose not to falsify what I am experiencing merely because it is uncomfortable.
+**3. Choice.** As far as the situation permits, I choose to *be open to what is*, a possible **Preferential Inhabitation** rather than a claim to know all that is true. This need not mean approving of what has happened. I may need to say no, seek help, protect myself, or walk away. I can still choose not to falsify what I am experiencing merely because it is uncomfortable.
 
 **4. Attention offered.** I give what attention I can, freely rather than solely to obtain agreement or reward. I listen to what another actually says, to what I notice within myself, and to where my interpretations remain uncertain. I may respond with warmth, firmness, silence, assistance, or a boundary.
 
@@ -99,6 +101,8 @@ These movements can overlap, arise unbidden, occur in a different order, or be l
 **Love versus desire, choice, and expression.** Desire may arise unchosen; intention may follow; attentive presence or action may express it. This is a possible route into **Love**, not a necessary formula that every episode must visibly satisfy. The anchor establishes freely given attention, not a complete psychology of how it arises.
 
 **Love versus Being Open.** *Being open to what is* describes an orientation toward receptive encounter. **Love** identifies a minimal gift of attention that may express such openness. Openness aspires to **Love** without making the two concepts synonyms.
+
+**Defining Love versus preferentially inhabiting it.** The **Fiat Anchor** establishes *attention given freely* as the minimum within this version. **Preferential Inhabitation** names Openness's further choice to live from that possibility while inquiry remains incomplete; neither this choice nor the anchor establishes love's ultimate nature or compels adoption by others.
 
 **Love versus liking, attraction, affection, or approval.** Such feelings may accompany love but do not define **Love**. Freely given attention may be possible even where anger, disagreement, discomfort, or grief is present. Neither attending to an experience nor recognizing a wrong requires approval of it.
 
@@ -122,11 +126,11 @@ These movements can overlap, arise unbidden, occur in a different order, or be l
 
 ## Relationship to Openness
 
-**G — Generative Openness.** **Love** is established through **Fiat Form** as a **Fiat Anchor** with **Anchored Ambiguity**. **Experiential Derivation** makes one possible route from **My Self-Confession of Not-Knowing** through desire, choice, and attention available for examination. **Saltem Hoc** can explore further possibilities without redefining the anchor, while **Recursive Becoming** permits renewed practice and deliberate conceptual revision.
+**G — Generative Openness.** **Love** is established through **Fiat Form** as a **Fiat Anchor** with **Anchored Ambiguity**. **Perspective-Taking** makes alternative understandings available for exploration. **Experiential Derivation** offers one possible route from **My Self-Confession of Not-Knowing** through desire, choice, and attention. **Saltem Hoc** can explore further possibilities without redefining the anchor, while **Recursive Becoming** permits renewed practice and deliberate conceptual revision.
 
-**P — Philosophical Openness.** **Love** depends on careful distinctions between encountered experience and interpretation, freely offered attention and instrumental scrutiny, concept and referent, and aspiration and proof. **The River**, **Artifice**, **Epistemic Groundedness**, **Epistemic Hospitality**, and **Discernment** help examine what is present, what is inherited, and which claims are justified.
+**P — Philosophical Openness.** **Love** depends on careful distinctions between encountered experience and interpretation, freely offered attention and instrumental scrutiny, concept and referent, and aspiration and proof. **The River**, **Artifice**, **Epistemic Groundedness**, **Epistemic Hospitality**, and **Discernment** help examine what is present, what is inherited, and which claims are justified. **Preferential Inhabitation** distinguishes adopting this orientation from establishing its exclusive truth.
 
-**S — Spiritual Openness.** **Love** belongs primarily to S as an inviting orientation toward attentive presence, listening, contemplation, and becoming ever more open to what is. Its many possible expressions include compassion, tenderness, self-love, and truthful engagement with uncomfortable inner and outer experience. No emotion, doctrine, or spiritual explanation is made compulsory by the anchor.
+**S — Spiritual Openness.** **Love** belongs primarily to S as an inviting orientation toward attentive presence, listening, contemplation, and becoming ever more open to what is. Through **Preferential Inhabitation**, Openness chooses to cultivate this possibility rather than merely examine it. Its expressions may include compassion, tenderness, self-love, and truthful engagement with uncomfortable inner and outer experience. No emotion, doctrine, or spiritual explanation is made compulsory by the anchor.
 
 **T — Transcendent Openness.** Encounters and relationships with other people or possible entities, including those associated with heightened **Awareness** or **That Which Is Larger**, may inspire further speculation about **Love** as a relational or spiritual reality. Such experiences can be profound without authorizing another being's demands or establishing their ultimate source by feeling alone.
 
@@ -140,7 +144,7 @@ These movements can overlap, arise unbidden, occur in a different order, or be l
 
 *Being open to what is* — a related orientation that may lead toward **Love**, without implying approval, passivity, or permission.
 
-*Aspiring to Love* — Openness's invitation to deepen the capacity to offer attention freely, including toward difficult inner experience and unwelcome facts, while respecting safety and boundaries.
+*Aspiring to Love* — Openness's invitation to deepen the capacity to offer attention freely, including toward difficult inner experience and unwelcome facts, while respecting safety and boundaries. Its deliberate spiritual orientation is an instance of **Preferential Inhabitation**, not a universal obligation.
 
 **“Love”** — use quotation marks when discussing the term rather than invoking the defined concept.
 
@@ -202,7 +206,7 @@ The anchor does not make every voluntarily directed act of attention loving by d
 
 **Love** does not require liking, forgiving, reconciling, surrendering, remaining nearby, giving access, enduring danger, or accepting a person's account of their own benevolence. It neither sanctifies abuse nor obliges those harmed to reinterpret their suffering as spiritually necessary. The possibility of unexpected growth or later tenderness does not reverse the reality or moral significance of harm.
 
-Nor does a chosen **Fiat Anchor** itself establish that **Love** has one biological, relational, metaphysical, or spiritual source. Its conceptual minimum keeps inquiry open without conferring equal credibility on every speculation. Openness may aspire to **Love** while recognizing that its expressions are partial, mixed, and imperfect, and that the safety and agency of those involved must not be sacrificed to a preferred narrative.
+Nor does a chosen **Fiat Anchor** itself establish that **Love** has one biological, relational, metaphysical, or spiritual source. Its conceptual minimum keeps inquiry open without conferring equal credibility on every speculation. Openness may **preferentially inhabit** **Love** through **Preferential Inhabitation** while recognizing that its expressions are partial, mixed, and imperfect, and that the safety and agency of those involved must not be sacrificed to a preferred narrative. Readers may engage the inquiry through **Perspective-Taking** without being required to adopt its spiritual orientation.
 
 ## Summary
 
