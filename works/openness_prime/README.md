@@ -147,7 +147,7 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 
 Openness does not presume that all interpretations are equally credible, all uncertainty valuable, or every transformation beneficial. It seeks to recognize what can be known, distinguish what remains unresolved, and act responsibly with both. Neither a felt experience nor a compelling interpretation alone establishes its ultimate explanation.
 
-Openness does not require affirming or denying any particular supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to the posture, including the freedom to protect oneself or end an encounter.
+Openness does not require affirming or denying any particular scientific or supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to the posture, including the freedom to protect oneself or end an encounter.
 
 **We may create forms, examine what we understand, live within what we cannot command, and cultivate relationships through which further possibilities become available.**
 
