@@ -80,7 +80,11 @@ We cultivate the capacity to encounter not-knowing, contradiction, unwanted feel
 
 ### Holding yet not clinging
 
-**Holding yet not clinging, allowing space for the flow of The Mystery to unfold.** We may embrace a person, an idea, a conviction, or an experience without claiming to possess its entirety or dictate its future. Holding allows attention, care, commitment, and discernment; not clinging leaves room for change, correction, difference, or departure. This is not a requirement to abandon what is justified or precious. **The Mystery** names what remains unknown or incompletely understood, not a guarantee that every encounter conceals a higher truth or will yield a beneficial transformation.
+We may embrace a person, an idea, a conviction, or an experience without claiming to possess its entirety or dictate its future. **Holding** allows attention, care, commitment, and discernment; **not clinging** preserves the freedom to recognize change, reconsider what we understand, and allow difference or departure. This does not require abandoning what is justified or precious, but remaining open to what it may yet become.
+
+### Allowing space for the flow of The Mystery to unfold
+
+We allow space for **The Mystery** to unfold by remaining receptive to what may emerge beyond our present understanding, without demanding that reality conform to our expectations or preferred stories. What unfolds may surprise, challenge, disappoint, or transform us, revealing possibilities we had not imagined or understood. **The Mystery** does not promise a higher truth, beneficial transformation, or eventual resolution; allowing space means remaining open to what is, including what may remain unknown.
 
 ### Deciding & acting when we must
 
