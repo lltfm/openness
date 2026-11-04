@@ -16,9 +16,9 @@ What is **Love**?
 
 *But also perhaps more?*
 
-**Love** belongs primarily to **S — Spiritual Openness**. It is a **Fiat Anchor** with **Anchored Ambiguity**, offering a minimal, recognizable beginning rather than a complete theory of affection, morality, relationship, or spiritual reality. 
+**Love** belongs primarily to **S — Spiritual Openness**. It is a **Fiat Anchor** with **Anchored Ambiguity**, offering a minimal, recognizable beginning rather than a complete theory of affection, morality, relationship, or spiritual reality.
 
-Openness **preferentially inhabits** this possibility through **Preferential Inhabitation**: it chooses *attention given freely* as a particularly illuminating starting point and as a spiritual orientation worth cultivating, without claiming to have discovered love's only or ultimate nature. Freely offered attention may be the beginning of *being open to what is*: an invitation to encounter rather than immediately possess, dismiss, explain away, or control what becomes recognizable. 
+Openness **preferentially inhabits** this possibility through **Preferential Inhabitation**: it chooses *attention given freely* as a particularly illuminating starting point and as a spiritual orientation worth cultivating, without claiming to have discovered love's only or ultimate nature. Freely offered attention may be the beginning of *being open to what is*: an invitation to encounter rather than immediately possess, dismiss, explain away, or control what becomes recognizable.
 
 The familiar forms of love can unfold from this beginning without becoming additional conditions of the anchor. Through **Perspective-Taking**, readers may examine or try on this possibility without being required to inhabit it.
 
@@ -126,7 +126,7 @@ These movements can overlap, arise unbidden, occur in a different order, or be l
 
 ## Relationship to Openness
 
-**G — Generative Openness.** **Love** is established through **Fiat Form** as a **Fiat Anchor** with **Anchored Ambiguity**. **Perspective-Taking** makes alternative understandings available for exploration. **Experiential Derivation** offers one possible route from **My Self-Confession of Not-Knowing** through desire, choice, and attention. **Saltem Hoc** can explore further possibilities without redefining the anchor, while **Recursive Becoming** permits renewed practice and deliberate conceptual revision.
+**G — Generative Openness.** **Love** is established through **Fiat Form** as a **Fiat Anchor** with **Anchored Ambiguity**. **The Lens of Openness** and **Perspective-Taking** make alternative understandings available for exploration. **Experiential Derivation** offers one possible route from **My Self-Confession of Not-Knowing** through desire, choice, and attention. **Saltem Hoc** can explore further possibilities without redefining the anchor. **The Fruit of a Possibility** and **The Fruit of Further Possibility** make the consequences of such inquiry and their effects on subsequent possibilities examinable without treating fruit as proof; **Recursive Becoming** permits renewed practice and deliberate conceptual revision.
 
 **P — Philosophical Openness.** **Love** depends on careful distinctions between encountered experience and interpretation, freely offered attention and instrumental scrutiny, concept and referent, and aspiration and proof. **The River**, **Artifice**, **Epistemic Groundedness**, **Epistemic Hospitality**, and **Discernment** help examine what is present, what is inherited, and which claims are justified. **Preferential Inhabitation** distinguishes adopting this orientation from establishing its exclusive truth.
 

@@ -6,7 +6,7 @@
 
 Its foundational confession is: **For I Know I Do Not Know.**
 
-Which it names **Not-Knowing**, and its projection into the world, **The Mystery**.
+Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and its projection into the world, **The Mystery**.
 
 > Note: **Not-Knowing** and **The Mystery** do not deny knowledge or justified confidence. They acknowledge that our understanding may be incomplete, that further encounters may change what we understand, and that even our ideas of *knowing* and *not knowing* remain open to inquiry.
 
@@ -18,9 +18,9 @@ Openness has four functions: **Generative (G), Philosophical (P), Spiritual (S),
 
 ## The Posture of Openness
 
-This posture begins with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown. 
+This posture begins with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown.
 
-> Note: these are experiential beginnings, not a claim that three separate real entities exist. The confession does not need to be spoken. Openness itself models freely-chosen not-knowing directly as an invitation to others for consideration. A literal confession is not required. Openness acknowledges each as the sovereign of their own mind who decides for themselves. 
+> Note: These are experiential beginnings, not a claim that three separate real entities exist. The confession does not need to be spoken. Openness itself models freely chosen not-knowing directly as an invitation to others for consideration. A literal confession is not required. Openness acknowledges each person as sovereign of their own mind, deciding for themselves.
 
 The posture is symbolized by the **open circle**: an imprecisely drawn encircling line that does not close the circle. It gives form without claiming to contain everything within it. Its opening allows what lies beyond it to enter as a possibility, while its boundary retains the capacity to discern what may enter. The circle symbolizes an embrace that listens to what it cannot fully know, within and without.
 
@@ -37,6 +37,8 @@ The posture's transformative cycle is described by the epitome of Openness:
 **Being open to what is.** This means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing them to be as they are, so that they may *breathe*. Within the embrace, we listen to sense when it should end, so that we may let go without clinging. Openness begins by allowing what is encountered to be fully experienced, whether we welcome it, resist it, or cannot yet understand it.
 
 Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**, compatible with responsibility and justified boundaries. This does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to walk away.
+
+Openness **preferentially inhabits** the possibility of **Love** as *attention given freely*. This is a chosen spiritual orientation, not a claim to have discovered love's exclusive or ultimate meaning, and not a requirement for readers to adopt it. Freely offered attention may unfold into listening, care, compassion, and other recognizable forms of love without implying approval of harm or surrender of boundaries.
 
 ### Listening
 
@@ -60,9 +62,13 @@ We examine how our confidence arose, which reasons or experiences support it, wh
 
 We recognize the interpretations and narratives we favor, including those that shape how we understand ourselves and others. A **Preferred Story** may be meaningful, beautiful, fruitful, and perhaps true. Its preference alone neither proves nor disproves it. **Self-Honesty** asks us to notice what we have encountered and what our story adds, and to remain receptive to what the story may obscure.
 
+**Perspective-Taking** makes it possible to observe a perspective, try it on from within, inhabit or identify with it, and step back to reconsider it. Through **Preferential Inhabitation**, a perspective may be consciously chosen as a provisional orientation while inquiry remains incomplete. Such a preference need not become an unquestionable identity, and a preferred story need not become an established truth.
+
 ### Imagining what might be true
 
 We explore possibilities that our present explanations do not fully contain. Imagination can disclose new questions, interpretations, relationships, and forms for further inquiry or creation. Yet a possible or resonant account is not thereby established as real. We may contemplate or prefer a possibility without presenting it as a justified conclusion, and we need not treat all imagined possibilities as equally credible.
+
+**The Lens of Openness** makes otherwise overlooked assumptions and possibilities recognizable through deliberate interpretive inquiry. **The Fruit of a Possibility** concerns what follows from engaging with a possibility; **The Fruit of Further Possibility** concerns how that engagement changes what can become possible next. Fruit may be beneficial, harmful, mixed, or uncertain, and does not by itself establish the truth of the possibility that generated it.
 
 ### Suspending judgment
 
@@ -70,7 +76,7 @@ Where circumstances permit, we allow an interpretation or decision to remain uns
 
 ### Sitting in the discomfort of uncertainty
 
-We cultivate the capacity to encounter not-knowing, contradiction, unwanted feelings, and the possibility of being mistaken without making the immediate removal of discomfort our only purpose. Such discomfort may arise from our inward reactions as much as from outward events. We can however, still take care of ourselves, seek support, or step away at any time while still remaining open to what an uncomfortable experience may eventually help us understand.
+We cultivate the capacity to encounter not-knowing, contradiction, unwanted feelings, and the possibility of being mistaken without making the immediate removal of discomfort our only purpose. Such discomfort may arise from our inward reactions as much as from outward events. We can, however, still take care of ourselves, seek support, or step away at any time while remaining open to what an uncomfortable experience may eventually help us understand.
 
 ### Holding yet not clinging
 
@@ -78,7 +84,9 @@ We cultivate the capacity to encounter not-knowing, contradiction, unwanted feel
 
 ### Deciding & acting when we must
 
-Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction. 
+Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction.
+
+**Preferential Inhabitation** makes explicit how a consciously chosen perspective can guide action without being mistaken for final understanding. Openness seeks to minimize unnecessary preferences in understanding, not to eliminate the commitments needed for responsible living and continuing inquiry.
 
 ### But ever returning to Openness
 
@@ -88,13 +96,13 @@ Is returning to listening again—to the consequences of action, to others, and 
 
 Openness is not agreement with every claim, unlimited receptivity, compulsory doubt, indifference to truth, or a refusal to choose. It does not demand that we surrender boundaries or treat harmful conduct as acceptable. It does not require entertaining every imaginable explanation indefinitely, nor does it claim that novelty, uncertainty, or transformation is automatically good.
 
-**Closedness** is the refusal or inability, within some relevant part of our thinking or living, to listen during an encounter, to a question, or to a feeling. A person can be open in one respect and closed in another; closedness need not define the whole person. At times we must justifiably limit attention, end a relationship, or act decisively. Though such necessary boundaries can become closedness when we remain unwilling to return to listening.
+**Closedness** is the refusal or inability, within some relevant part of our thinking or living, to listen during an encounter, to a question, or to a feeling. A person can be open in one respect and closed in another; closedness need not define the whole person. At times we must justifiably limit attention, end a relationship, or act decisively. Though such necessary boundaries can become closedness when we remain unwilling to reconsider relevant evidence or understanding even when it is safe and appropriate to do so.
 
-**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded; without noticing our unawareness itself. **Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. **Blind Certainty** is remediated simply by becoming aware of closedness—a purely mental act. 
+**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded; without noticing our unawareness itself. **Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Becoming aware of closedness interrupts this blindness—a purely mental act—a recognition that does not, by itself, guarantee that the closedness has been overcome.
 
 We demonstrate our recognition of the limits of our present understanding, our Openness, to others and ourselves by choosing to listen. Listening is the embodied demonstration of the **Self-Confession of Not-Knowing**, "For I Know I Do Not Know."
 
-## The Tree of Openness
+## The Symbolic Tree of Openness
 
 The **Tree of Openness** symbolically expresses the four functions of Openness:
 
@@ -110,6 +118,7 @@ Additionally, each function in Openness provides roles that help explore the emb
 ## Sample works
 
 Openness Prime is still under construction and in early development. Below are some works mature enough for early review:
+
 - Generative
   - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md)
   - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md)
@@ -118,15 +127,23 @@ Openness Prime is still under construction and in early development. Below are s
 - Spiritual
   - [Love](functions/spiritual/definitions/defining_love.md)
 - Transcendent
-  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) 
+  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
+
+## Revisability, Recursive Becoming and Open Stewardship
+
+Openness is committed to remaining revisable. Through **Recursive Becoming**, what emerges from experience, inquiry, creation, and relationship may change the conditions for what can be understood, created, or lived next. This includes Openness itself: its concepts, definitions, practices, and even the architecture of the **Tree of Openness** may be reconsidered as further possibilities become recognizable. Revision is possible, not obligatory; a form may also prove adequate as it stands.
+
+**Openness Prime** is one recognizable, currently stewarded version of this developing work—**a beginning, not a throne**. The authors of Openness Prime may maintain its definitions and make deliberate, traceable revisions, while protecting the meaning of the version maintained. A private reinterpretation or independent revision does not silently change Openness Prime or a concept maintained by another person or community.
+
+Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a whole, or freely choose individual concepts, practices, and works that are useful to them (see CC0 1.0 [License](../../LICENSE.txt) . They may maintain their own versions, develop different interpretations, or leave parts behind. Clear attribution of sources and identification of revisions help different versions remain recognizable and comparable; no such choice gives Openness Prime authority over another person's or community's understanding.
+
+**Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
 
 ## Commitments and Boundaries
 
 Openness does not presume that all interpretations are equally credible, all uncertainty valuable, or every transformation beneficial. It seeks to recognize what can be known, distinguish what remains unresolved, and act responsibly with both. Neither a felt experience nor a compelling interpretation alone establishes its ultimate explanation.
 
 Openness does not require affirming or denying any particular supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to the posture, including the freedom to protect oneself or end an encounter.
-
-Openness can changed or copied. The **Tree of Openness** is a revisable conceptual architecture. Its forms may prove mistaken, incomplete, or perhaps already adequate. Openness seeks to cultivate and propagate independent understanding of its ideas and further creation, not to impose allegiance to itself or its present terminology or organization. Readers are invited to customize their own version of Openness, or to use the ideas that make sense to them and ignore those that do not. Openness acknowledges the reader as the sovereign of their own mind.
 
 **We may create forms, examine what we understand, live within what we cannot command, and cultivate relationships through which further possibilities become available.**
 
