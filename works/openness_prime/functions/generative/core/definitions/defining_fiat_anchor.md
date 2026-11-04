@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6, gdl
-When: 2026-10-29T00:00:00Z
+When: 2026-11-04T00:00:00Z
 Status: accepted
 ---
 
@@ -11,11 +11,11 @@ Status: accepted
 
 *Let there be a recognizable unity.*
 
-*Like a ship seeking safe harbor, let us choose where to anchor this meaning.*
+*Like a ship seeking safe harbor, let us choose where to anchor the meaning of this unity.*
 
 *Let us carefully consider where to drop anchor, lest we collide or confuse meanings.*
 
-*Let us carefully pay out the anchor's chain so that we may not drift too far from our anchor.*
+*Let us carefully pay out the anchor's chain so that we may not drift too far from our meaning.*
 
 *And let us always remember: We did not choose the sea.*
 
