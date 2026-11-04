@@ -34,7 +34,7 @@ The posture's transformative cycle is described by the epitome of Openness:
 
 ### Being open to what is
 
-**Being open to what is.** This means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing them to be as they are, so that they may *breathe*. Within the embrace, we listen to sense when it should end, so that we may let go without clinging. Openness begins by allowing what is encountered to be fully experienced, whether we welcome it, resist it, or cannot yet understand it.
+This means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing them to be as they are, so that they may *breathe*. Within the embrace, we listen to sense when it should end, so that we may let go without clinging. Openness begins by allowing what is encountered to be fully experienced, whether we welcome it, resist it, or cannot yet understand it.
 
 Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**, compatible with responsibility and justified boundaries. This does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to walk away.
 
