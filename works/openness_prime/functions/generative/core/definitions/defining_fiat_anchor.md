@@ -11,7 +11,7 @@ Status: accepted
 
 *Let there be a recognizable unity.*
 
-*Like a ship seeking safe harbor, let us choose where to anchor the meaning of this unity.*
+*Like a ship seeking safe harbor, let us carefully choose where to anchor the meaning of this unity.*
 
 *Let us carefully consider where to drop anchor, lest we collide or confuse meanings.*
 
