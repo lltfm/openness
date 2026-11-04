@@ -1,6 +1,6 @@
 ---
 Originator: gdl
-Contributors: ChatGPT-6, Lance
+Contributors: ChatGPT-6, gdl
 When: 2026-10-30T00:00:00Z
 Status: accepted
 ---
