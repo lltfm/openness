@@ -136,7 +136,7 @@ Openness Prime is in early development. These works are ready for preliminary re
 
 - **Philosophical**
   - [The Mind](functions/philosphical/definitions/defining_the_mind.md) — “Let the mind be a conceptual unity of mental processes…”
-    - Recommended exemplar definition, modeling:
+    - Recommended exemplar definition which models:
       - **Epistemic Remembering** which allows tracing a common concept's creation
       - **Fiat Anchor** which makes creation of an immaterial conceptual unity explicit
       - **Experiential Derivation** which can be validated from first-person experience
@@ -144,7 +144,7 @@ Openness Prime is in early development. These works are ready for preliminary re
 
 - **Spiritual**
   - [Love](functions/spiritual/definitions/defining_love.md) — “At least this: attention given freely. But also perhaps more?”
-    - Recommended exemplar definition, modeling:
+    - Recommended exemplar definition which models:
       - **Fiat Form** which makes creation explicit
       - **Anchored Ambiguity** which unfolds into familiar forms of love
       - **Preferential Inhabitation** of a Possibility which is the Openness alternative to belief
