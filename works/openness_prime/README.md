@@ -128,28 +128,29 @@ Additionally, each function in Openness provides roles that help explore the emb
 
 ## Sample works
 
-Openness Prime is still under construction and in early development. Below are some works mature enough for early review:
+Openness Prime is in early development. These works are ready for preliminary review:
 
-- Generative
-  - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md) — "Let there be form..."
-  - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md) — "Let there be a conceptual unity..."
-- Philosophical
-  - [The Mind](functions/philosphical/definitions/defining_the_mind.md) — "Let the mind be a conceptual unity of mental processes..."
-    * Recommended exemplar
-    * Models **Epistemic Remembering** (can we remember the creation of this idea?)
-    * Models **Fiat Form** (discloses its act of creation explicitly)
-    * Models **Fiat Anchor** (creating immaterial conceptual unity explicitly)
-    * Models **Experiential Derivation** from first-person **Not-Knowing** (inviting reader to self-validate)
-    * Models **Analogical Projection** of **The Mind** into the world
-- Spiritual
-  - [Love](functions/spiritual/definitions/defining_love.md) — "Let love be defined as at least this: attention given freely; but also perhaps more?"
-    * Recommended exemplar
-    * Models **Fiat Form** (discloses its act of creation explicitly)
-    * Models **Preferential Inhabitation** (optional alternative to belief)
-    * Models unfolding an **Anchored Ambiguity** into common language concepts (e.g. empathy, kindness, romantic love, etc.)
-    * Models **Experiential Derivation** from first-person **Not-Knowing** (inviting reader to self-validate)
-    * Models inviting readers to **Perspective-Taking** (possibly different than Openness itself)
-- Transcendent
+- **Generative**
+  - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md) — “Let there be form…”
+  - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md) — “Let there be a conceptual unity…”
+
+- **Philosophical**
+  - [The Mind](functions/philosphical/definitions/defining_the_mind.md) — “Let the mind be a conceptual unity of mental processes…”
+    - Recommended exemplar definition, modeling:
+      - **Epistemic Remembering** which allows tracing a common concept's creation
+      - **Fiat Anchor** which makes creation of an immaterial conceptual unity explicit
+      - **Experiential Derivation** which can be validated from first-person experience
+      - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
+
+- **Spiritual**
+  - [Love](functions/spiritual/definitions/defining_love.md) — “At least this: attention given freely. But also perhaps more?”
+    - Recommended exemplar definition, modeling:
+      - **Fiat Form** which makes creation explicit
+      - **Anchored Ambiguity** which unfolds into familiar forms of love
+      - **Preferential Inhabitation** of a Possibility which is the Openness alternative to belief
+      - **Perspective-Taking** which invites readers to adopt whatever perspective they prefer, perhaps different from Openness's own preferential inhabitation of Love
+
+- **Transcendent**
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
 
 ## Revisability, Recursive Becoming and Open Stewardship
