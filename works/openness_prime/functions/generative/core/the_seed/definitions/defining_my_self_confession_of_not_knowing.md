@@ -67,7 +67,7 @@ These movements identify possible relationships between encountering, recognizin
 
 **Recognized uncertainty versus compulsory indecision.** Appropriate action and high confidence may coexist with acknowledged limits.
 
-**My Self-Confession versus The Imaginal Self.** The word *Self* in the name does not imply the act is performed by the generalized **Self** as a distinct immaterial being.
+**My Self-Confession versus The Self.** The word *Self* in the confession’s name does not imply that **The Self** is a separate immaterial being that performs the acknowledgment.
 
 **Canonical formula versus unchangeable explanation.** The exact phrase may remain canonical while its implications and applications are openly discussed and its broader conceptual relationships revisited.
 
@@ -83,7 +83,7 @@ These movements identify possible relationships between encountering, recognizin
 
 ## Naming and Usage
 
-**My Self-Confession of Not-Knowing** is the primary first-person Seed name. **The Self-Confession of Not-Knowing** is the formal third-person alternate; **The Self-Confession** is an accepted shortening when clear. Preserve *For I Know I Do Not Know* exactly when invoking the canonical statement. Natural expressions (*I don't know*, *perhaps I am mistaken*, *I should look again*) are appropriate in art and conversation; their use does not require formal terminology. In ordinary philosophical prose, **Self** alone refers to **The Imaginal Self**, not this Seed constituent.
+**My Self-Confession of Not-Knowing** is the primary first-person Seed name. **The Self-Confession of Not-Knowing** is the formal third-person alternate; **The Self-Confession** is an accepted shortening when clear. Preserve *For I Know I Do Not Know* exactly when invoking the canonical statement. Natural expressions (*I don't know*, *perhaps I am mistaken*, *I should look again*) are appropriate in art and conversation; their use does not require formal terminology. In ordinary philosophical prose, **The Self** alone refers to **The Self**, not this Seed constituent.
 
 ## Examples
 
@@ -118,4 +118,3 @@ Its canonical words are a freely available expression of a first-person recognit
 ## Summary
 
 **My Self-Confession of Not-Knowing** names a beginning in acknowledged incompleteness without treating that acknowledgment as the completion of understanding: *For I Know I Do Not Know.*
-

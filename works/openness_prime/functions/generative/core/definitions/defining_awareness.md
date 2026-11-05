@@ -57,7 +57,7 @@ The movements distinguish experience, conceptual organization, generalization, a
 
 **Experience versus separate experiencer.** **Awareness** does not require a metaphysically independent observer or soul, nor does its definition disprove compatible interpretations proposing one.
 
-**Awareness versus Self.** **Self** provides an imaginal form for selfhood, identity, or a possible particular self. **Awareness** concerns experiencing. They need not be identical, exclusively coupled, or demonstrably separate.
+**Awareness versus The Self.** **The Self** provides an imaginal form for selfhood, identity, or a possible particular self. **Awareness** concerns experiencing. They need not be identical, exclusively coupled, or demonstrably separate.
 
 **Awareness versus The Mind.** **The Mind** gathers experienced mental activities, recognized capacities, and inferred processes. **Awareness** concerns the presence of experience; not all processes gathered under **The Mind** are established to be experienced.
 

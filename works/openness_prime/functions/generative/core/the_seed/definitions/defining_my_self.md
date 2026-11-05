@@ -29,9 +29,9 @@ The body appears to continue through intervals not directly recalled. Waking in 
 
 The term *My* invites recognition of the standpoint without establishing literal ownership of a life, body, or **Awareness**. **My Self** and **My Awareness** are distinguishable Seed beginnings, not necessarily separate realities. Felt inhabitation, identification, and bodily familiarity are not explanations of why experience is associated with this life rather than another.
 
-The broader **Self** (**The Imaginal Self**) is developed through **Experiential Generalization** and **Fiat Form** as a conceptual form for investigating selfhood beyond the immediate first-person beginning. **Analogical Projection** may represent another person's life, a possible future self, or a fictional individual. The imaginal representation does not make a real individual imaginary or establish a fictional referent as independently real.
+**The Self** is the broader concept developed through **Experiential Generalization** and **Fiat Form** as a conceptual form for investigating selfhood beyond the immediate first-person beginning. **Analogical Projection** may represent another person's life, a possible future self, or a fictional individual. The imaginal representation does not make a real individual imaginary or establish a fictional referent as independently real.
 
-## Experiential Derivation: My Self → Self
+## Experiential Derivation: My Self → The Self
 
 The following first-person passage invites reconstruction of a possible recognizable standpoint, not testimony by the AI author or a required history of concept acquisition.
 
@@ -41,7 +41,7 @@ The following first-person passage invites reconstruction of a possible recogniz
 
 **3. Incomplete explanation.** I can acknowledge **My Self-Confession of Not-Knowing**: I do not fully know how embodied continuity, identity, and experiencing are related.
 
-**4. Generalization and projection.** Through **Experiential Generalization**, I can develop **Self** for thinking about selfhood beyond this particular life. **Analogical Projection** helps me represent another person's possible Self or a fictional character, while **Analogical Discernment** examines what is justified.
+**4. Generalization and projection.** Through **Experiential Generalization**, I can develop **The Self** for thinking about selfhood beyond this particular life. **Analogical Projection** helps me represent another person's possible Self or a fictional character, while **Analogical Discernment** examines what is justified.
 
 The sequence is conceptual and examinable. It need not reproduce the historical order in which language, bodily familiarity, and self-understanding developed.
 
@@ -57,15 +57,15 @@ The sequence is conceptual and examinable. It need not reproduce the historical 
 
 **First-person recognition versus biography.** Familiar embodiment may be recognizable without a fully formed autobiographical account, stable memory, or explicit verbal *I*.
 
-**My Self versus Self.** **Self** is the generalized imaginal conceptual form for selfhood and possible particular selves; **My Self** is the first-person embodied beginning. Their concepts are immaterial as representations while their possible referents have different statuses.
+**My Self versus The Self.** **The Self** is the generalized imaginal conceptual form for selfhood and possible particular selves; **My Self** is the first-person embodied beginning. Their concepts are immaterial as representations while their possible referents have different statuses.
 
 **My Self versus identification.** **Perspective-Taking** and **Preferential Inhabitation** concern relationships to perspectives. Identifying with a self-story is not synonymous with the experienced bodily beginning of **My Self**.
 
-**Real person versus imagined representation.** An imaginal conception of another person's Self is not their actual life or direct first-person experiencing, even if based on strong evidence.
+**Real person versus imagined representation.** An imaginal conception of another person's *Self* is not their actual life or direct first-person experiencing, even if based on strong evidence.
 
 **Bodily change versus loss of selfhood.** Injury, aging, changing memory, and evolving roles do not automatically erase the recognizable embodied starting point; particular questions of identity require further inquiry.
 
-**The Subjective Self versus The Imaginal Self.** These formal names preserve their distinct conceptual roles and must not be interchanged merely because both contain the word *Self*.
+**The Subjective Self versus The Self.** These formal names preserve their distinct conceptual roles and must not be interchanged merely because both contain the word *Self*.
 
 **Familiarity versus final metaphysical knowledge.** The first-person beginning may reflect something fundamental about reality or remain an incomplete conceptual approach; the anchor decides neither.
 
@@ -73,7 +73,7 @@ The sequence is conceptual and examinable. It need not reproduce the historical 
 
 **G:** **My Self** is a constituent of **The Experiential Triad** within **The Seed of Openness**, not an additional **Generative Engine** concept. It provides a beginning for **Experiential Derivation**, **Experiential Generalization**, **Fiat Form**, and **Analogical Projection**.
 
-**P:** **Self** and **The Mind** support further inquiry into identity, memory, embodiment, mental life, and justified attributions to others. **Discernment** tests inferences without demanding a completed explanation of selfhood.
+**P:** **The Self** and **The Mind** support further inquiry into identity, memory, embodiment, mental life, and justified attributions to others. **Discernment** tests inferences without demanding a completed explanation of selfhood.
 
 **S:** **My Self** offers a beginning for contemplation of embodied finite life, inward and outward **Listening**, vulnerability, changing self-understanding, and **Love**.
 
@@ -81,7 +81,7 @@ The sequence is conceptual and examinable. It need not reproduce the historical 
 
 ## Naming and Usage
 
-**My Self** is the primary first-person Seed name; **The Subjective Self** is the stable formal or third-person alternate. **Self** refers to the generalized **Imaginal Self** and should not be used as an automatic shortening for **My Self**. In art, diaries, and natural speech, prefer *myself*, *my own life*, or *this body* unless technical vocabulary serves the work. Quotation marks indicate discussion of the expression itself, not its application.
+**My Self** is the primary first-person Seed name; **The Subjective Self** is its stable formal or third-person alternate. **The Self** is the distinct generalized concept, not an automatic shortening of **My Self**. In art, diaries, and natural speech, *Self* may appear as a contextual expression, while *myself*, *my own life*, or *this body* often reads more naturally than technical vocabulary. Quotation marks indicate discussion of an expression itself, not its application.
 
 ## Examples
 
@@ -101,7 +101,7 @@ A dream appears to place the dreamer in an unfamiliar body. The dream's occurren
 
 ### Example — Another Painter
 
-Observing another person's body and actions can support an **imaginal projection** of their **Self**, but does not make that life the observer's own embodied first-person beginning.
+Observing another person's body and actions can support an **imaginal projection** of their *Self*, but does not make that life the observer's own embodied first-person beginning.
 
 ### Example — A Changing Body
 

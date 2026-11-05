@@ -96,4 +96,3 @@ Openness names **Love** minimally as *attention given freely* and deliberately *
 **Anchored Ambiguity** does not require uncertainty where evidence warrants a conclusion; treat all interpretations as equally credible; authorize unlimited reinterpretation of an established concept; or demand that a meaningful beginning eventually be surpassed. It permits asking what has been responsibly established, what remains open, whether further interpretations fit, and what reasons might justify retaining or revising the anchor.
 
 The beginning is held clearly enough to inquire—and openly enough not to dictate in advance everything the inquiry may reveal.
-
