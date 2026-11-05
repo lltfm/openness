@@ -1,8 +1,8 @@
 ---
 Originator: gdl
-Contributors: ChatGPT-6, gdl
-When: 2026-10-22T00:00:00Z
-Status: tentatively accepted; needs review
+Contributors: ChatGPT-6
+When: 2026-11-05T00:00:00Z
+Status: needs review
 ---
 
 # Epistemic Groundedness
@@ -15,7 +15,11 @@ Each understanding has a beginning, but the beginnings are not the same. What ha
 
 ## Foundational Definition
 
-**Epistemic Groundedness — At least this: the examinable relationships through which a concept or claim becomes recognizable in experience, evidence, Artifice, inference, imagination, or shared practices, and through which its meaning, justification, and possible referent may be reconsidered. But also perhaps more?**
+What is **Epistemic Groundedness**?
+
+**At least this**: the examinable relationships through which a concept or claim becomes recognizable in experience, evidence, **Artifice**, inference, imagination, or shared practices, and through which its meaning, justification, and possible referent may be reconsidered.
+
+*But also perhaps more?*
 
 ## The Definition Unfolded
 
@@ -23,9 +27,9 @@ Each understanding has a beginning, but the beginnings are not the same. What ha
 
 Groundedness is not automatically **good justification**. A claim may originate in a mistaken observation, unreliable testimony, a misleading classification, or an explicitly fictional premise. Examining its grounding may reveal strong support, weak support, a defective inference, or no evidential support for its literal truth. Even a concept with a clear **Fiat Anchor** may refer to something nonexistent or remain uncertain in its application.
 
-**River-Truth** names the reality of what is directly encountered within **Awareness**. Direct experience itself is not **Artifice**. The drawing, word, memory-description, model, or argument through which I represent or interpret that encounter is **Artifice**: necessarily selective, sometimes illuminating, sometimes mistaken, and sometimes deliberately misleading. **Artifice** cannot export the entirety of the encounter. Yet reliable **Artifice** can make realities available to people who have never encountered them directly. Its mediation does not make those realities imaginary.
+**River-Truth** names the reality of what is directly encountered within **Awareness**. Direct experience itself is not **Artifice**. The drawing, word, memory-description, model, or argument through which that encounter is represented or interpreted is **Artifice**: necessarily selective, sometimes illuminating, sometimes mistaken, and sometimes deliberately misleading. **Artifice** cannot export the entirety of the encounter. Yet reliable **Artifice** can make realities available to people who have never encountered them directly. Its mediation does not make those realities imaginary.
 
-**Epistemic Groundedness** distinguishes **the experience of encountering**, **the conceptual form by which an encounter is understood**, and **the referent that the form may represent**. My experience of seeing an animal is directly encountered; identifying it as a platypus involves a learned classification and a claim about an animal. A concept's immateriality, or the imaginal character of a projection, neither establishes nor denies the referent's independent existence or its ultimate nature.
+**Epistemic Groundedness** distinguishes **the experience of encountering**, **the conceptual form by which an encounter is understood**, and **the referent that the form may represent**. An experience of seeing an animal is directly encountered; identifying it as a platypus involves a learned classification and a claim about an animal. A concept's immateriality, or the imaginal character of a projection, neither establishes nor denies the referent's independent existence or its ultimate nature.
 
 The intersubjective dimension is inherently **situated and potentially plural**. Different communities may develop overlapping, conflicting, or unrelated meanings for the same expression. Agreement may be partial, contested, or maintained through recognized practices rather than unanimity. A person may participate in several communities and must sometimes distinguish whose meaning they are using. No one community thereby gains authority over every other community or over all the realities its words attempt to describe.
 
@@ -82,7 +86,7 @@ The modes describe **access and grounds**, not an exhaustive inventory of kinds 
 
 **First-Person Groundedness versus Direct-Encounter Groundedness.** Both arise within first-person experience. The former emphasizes experiences recognizable in one's own mental or embodied life; the latter emphasizes encountering an apparent referent in the world. Neither is independent of subsequent interpretation.
 
-**Conceptual form versus referent.** A **Fiat Form** is a conceptual creation or adoption. A **Fiat Anchor** establishes its identifying meaning. The referent may be material, immaterial, socially constituted, hypothetical, fictional, or otherwise understood. The form's existence does not prove the referent's existence.
+**Conceptual form versus referent.** **Fiat Form** is the deliberate act of creating, adopting, or reforming recognizable form; **Fiat Anchor** establishes a named immaterial conceptual unity through chosen identifying meaning, without requiring an independently distinguishable referent. The possible referent may be material, immaterial, socially constituted, hypothetical, fictional, or otherwise understood. The form's existence does not prove the referent's existence.
 
 **Imaginal representation versus imaginary referent.** An **Analogical Projection** is a representation, even when its referent is strongly supported as real. A knowingly imaginary puppet's mind and a strongly justified attribution of another person's mind are both represented imaginally, but they have different referential and evidential standing.
 
@@ -106,7 +110,7 @@ The modes describe **access and grounds**, not an exhaustive inventory of kinds 
 
 ## Relationship to Openness
 
-**G — Generative Openness.** **Epistemic Groundedness** belongs provisionally to **G Core**, outside the established 24-concept **Generative Engine**. It complements **Experiential Derivation**, **Experiential Generalization**, **Fiat Form**, **Fiat Anchor**, **Anchored Ambiguity**, **Analogical Projection**, and **Analogical Discernment**. It helps make the normally implicit relationship between **River-Truth** and **Artifice** available for examination, rather than generating a separate compounded **Fiat Anchor** type for each grounding mode.
+**G — Generative Openness.** **Epistemic Groundedness** belongs provisionally to **G Core**, outside **The Generative Engine**. It complements **Experiential Derivation**, **Experiential Generalization**, **Fiat Form**, **Fiat Anchor**, **Anchored Ambiguity**, **Analogical Projection**, and **Analogical Discernment**. It helps make the normally implicit relationship between **River-Truth** and **Artifice** available for examination, rather than generating a separate compounded **Fiat Anchor** type for each grounding mode.
 
 **P — Philosophical Openness.** **Epistemic Groundedness** supports the inquiry of **The Philomath** into knowing, testimony, evidence, **The Intersubjective**, **Artifice**, **Preferred Stories**, and **Interpretive Sovereignty**. It distinguishes what is experienced, what is inherited, what is justified, and whose meaning is being used. **Epistemic Hospitality** welcomes qualifying possibilities without granting them equal confidence; **Self-Honesty** examines whether claims have been represented faithfully.
 
@@ -182,7 +186,7 @@ The researcher may use each convention in its context, compare their claims, arg
 | **Scope of Authority** | The researcher may adopt or advocate changes, but cannot unilaterally revise either community's convention |
 | **Principal Reencounter** | Compare definitions, membership practices, empirical evidence, and the animals under investigation |
 
-### Example — Computer Science (socially developed field)
+### Example — Computer Science (first-person illustration of a socially developed field)
 
 I learn programming and encounter algorithms, courses, research papers, and people who call their shared field **Computer Science**. The discipline is not one object I can inspect in a glance; its recognizable identity depends partly on histories of shared inquiry, education, institutions, and practice.
 

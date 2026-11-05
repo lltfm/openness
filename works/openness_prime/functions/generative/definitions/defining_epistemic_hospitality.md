@@ -1,8 +1,8 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-10-27T00:00:00Z
-Status: tentatively accepted; needs review
+When: 2026-11-05T00:00:00Z
+Status: needs review
 ---
 
 # Epistemic Hospitality
@@ -23,7 +23,7 @@ Its purpose is to make understanding receptive to what experience and reality ma
 - **Fairness is not equivalence.** Possibilities may deserve different degrees of attention and confidence according to relevant reasons and evidence. Being open to a claim does not place it on equal evidential footing with a well-supported conclusion.
 - **Unestablished is not disproven.** The absence of sufficient evidence to affirm a possibility does not, by itself, establish its impossibility. Equally, the inability to disprove a possibility does not provide evidence that it is true.
 - **Naturalistic is not automatically privileged; supernatural is not automatically disqualified.** Neither classification settles a claim's merits in advance. Each proposed explanation can be examined according to what it asserts and the reasons available for or against it. Different claims may permit different kinds or degrees of investigation.
-- **Conceptual caution is not ontological exclusion.** Saying that an experiential concept such as Self or Awareness *does not require or establish* a soul, a separate witness, or a materialist explanation preserves questions about what may be true. Saying it *cannot be* one of these things would require additional justification. Wording should not covertly close possibilities that the inquiry has not resolved.
+- **Conceptual caution is not ontological exclusion.** Saying that an experiential concept such as **The Self** or **Awareness** *does not require or establish* a soul, a separate witness, or a materialist explanation preserves questions about what may be true. Saying it *cannot be* one of these things would require additional justification. Wording should not covertly close possibilities that the inquiry has not resolved.
 - **Hospitality is not unlimited accommodation.** Irrelevant, unsupported, incoherent, or substantially discredited claims need not receive indefinite attention. Their treatment should reflect the actual grounds for concern rather than mere unfamiliarity or disapproval.
 - **Openness is not indecision.** Self may reach, favor, and act upon a well-supported conclusion while remaining receptive to meaningful correction or new evidence.
 - **The conceivable is not exhaustive.** Fair consideration of known alternatives does not establish that all relevant possibilities have already been imagined; some possibilities may not yet be recognizable as questions.
@@ -39,15 +39,15 @@ It works with **Epistemic Humility** to acknowledge incomplete understanding, wi
 
 A useful editorial practice is to prefer **“does not require or establish X”** over **“must not be mistaken for X”** when X remains a live interpretive possibility. When especially relevant, the definition may explicitly name X as available for further investigation. This is a guide to accurate boundaries, not a rule against clearly rejecting claims when rejection is justified.
 
-## Example
+## Examples
 
 Self encounters an unfamiliar feeling within Awareness. Possible explanations include bodily processes, present circumstances, memory, an unrecognized desire, a spiritual encounter, or some other presently unknown cause.
 
 Self need not interpret the experience as supernatural, nor dismiss that interpretation simply because it is supernatural. Self can distinguish **the experience as encountered** from **claims about its source**, consider what evidence or further inquiry might bear upon each explanation, and provisionally favor the explanation best supported by available reasons.
 
-Likewise, contemplation of **Self** and **Awareness** may include the possibility that they correspond in some way to what a tradition calls **a soul**. Their experiential anchors do not establish that possibility, but neither do they exclude it. Such inquiry may examine naturalistic, supernatural, and other accounts without granting any automatic epistemic victory.
+Likewise, contemplation of **The Self** and **Awareness** may include the possibility that they correspond in some way to what a tradition calls a soul. Their experiential anchors do not establish that possibility, but neither do they exclude it. Such inquiry may examine naturalistic, supernatural, and other accounts without granting any automatic epistemic victory.
 
-## Boundary Case
+## Boundary
 
 Self rejects an unfamiliar interpretation solely because it challenges a preferred understanding, carries a supernatural label, or falls outside a favored academic framework, without examining reasons relevant to its claims. This may violate Epistemic Hospitality.
 
