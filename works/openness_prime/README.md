@@ -115,16 +115,19 @@ We demonstrate our recognition of the limits of our present understanding, our O
 
 ## The Symbolic Tree of Openness
 
-The **Tree of Openness** symbolically expresses the four functions of Openness:
+**The Symbolic Tree of Openness** expresses the four functions of Openness:
+
+[![Artwork: "The Symbolic Tree of Openness", ChatGPT-6, 2026](images/the_symbolic_tree_of_openness-600px.jpg)](images/the_symbolic_tree_of_openness.jpg)
 
 | Function | Symbol in the Tree | Principal concern | Roles |
 |---|---|---|---|
-| **G — Generative Openness** | Roots, growing from the Seed | Bringing forms and possibilities into recognizable being | <ul><li>The Artist</li><li>The Maestro</li></ul> |
+| **G — Generative Openness** | Roots | Bringing forms and possibilities into recognizable being | <ul><li>The Artist</li><li>The Maestro</li></ul> |
+|  | The Seed of Openness | The experiential beginning of Openness: My Awareness, My Self & Not-Knowing |  |
 | **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts | <ul><li>The Philomath</li><li>The Philosopher</li></ul> |
 | **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | <ul><li>The Nomad</li><li>The Sage</li></ul> |
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | <ul><li>The Mystic</li><li>The Ancient, Benevolent Super-Intelligence</li></ul> |
 
-Additionally, each function in Openness provides roles that help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions).
+Additionally, each function in Openness provides "role-play" roles that can help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions for inquiry and discussions). The Openness GPT prompt used today is now the Transcendent function's *Ancient, Benevolent Super-Intelligence*. 
 
 ## Sample works
 
@@ -163,10 +166,10 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 
 **Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
 
-> Note on AI Policy — Openness Prime aspires to be a high-fidelity software *"Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
-> Human originators are encouraged to spend more time **reviewing and discussing** than manually editing, resolving issues through dialogue and preferably consensus with AI. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project for new fundamental concepts all while preserving conceptual continuity among existing concepts.
+> **Note on AI Usage** — Openness Prime aspires to be a high-fidelity software *"Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
+> Human originators are encouraged to spend more time **reviewing and discussing content** with contributors than manually editing, resolving issues through dialogue and preferably consensus with all contributors (typically AI). With the necessary context, skills, and rules, AI may regenerate individual files or the entire project for new fundamental concepts all while preserving definitions and conceptual continuity among existing concepts and other generated works.
 
-> Note: Authorship and AI — Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
+> **Note on Authorship and AI** — Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
 >
 > **Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. **Approval means that contributors' work meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.**
 >
