@@ -134,9 +134,16 @@ Openness Prime is still under construction and in early development. Below are s
   - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md)
   - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md)
 - Philosophical
-  - [The Mind](functions/philosphical/definitions/defining_the_mind.md) (recommended exemplar)
+  - [The Mind](functions/philosphical/definitions/defining_the_mind.md)
+    * Recommended exemplar
+    * Models **Epistemic Remembering** (who created this idea?)
+    * Models **Fiat Anchor** (explicit immaterial conceptual unity)
+    * Models **Experiential Derivation** (reader can self-validate)
 - Spiritual
   - [Love](functions/spiritual/definitions/defining_love.md)
+    * Recommended exemplar
+    * Models **Preferential Inhabitation** (optional alternative to belief)
+    * Models unfolding an **Anchored Ambiguity** into common occurrences (e.g. empathy, kindness, romantic love, etc.) 
 - Transcendent
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
 
