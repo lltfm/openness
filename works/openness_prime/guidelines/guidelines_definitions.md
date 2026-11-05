@@ -1,17 +1,17 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-10-29T00:00:00Z
-Status: tentatively accepted; needs review
+When: 2026-11-05T00:00:00Z
+Status: needs review
 ---
 
 # Openness Definition Guidelines
 
 ## Purpose
 
-These guidelines support definitions that are recognizable, precise, epistemically responsible, generative, and open to further understanding.
+These guidelines support definitions that are recognizable, precise, epistemically responsible, generative, and open to further understanding. They reflect the current naming convention **My Self → The Self**, the distinction among the creative Frame, Stance, Methods, Art, and possible Experience, and the principle that authorship metadata is maintained by the originator rather than generated afresh with every body revision.
 
-A definition should establish **enough meaning to determine which interpretations belong to the concept** without claiming to exhaust what may ultimately be discovered about its referents. It should distinguish the concept's established meaning from explanations, applications, and hypotheses about what might be true.
+A definition should establish **enough meaning to determine which interpretations belong to the concept** without claiming to exhaust what may ultimately be true about the concept, its realization, or its possible referents. It should distinguish the concept's established minimum meaning from explanations, applications, and hypotheses about further possibilities. A chosen conceptual beginning is a platform for coherent speculation, not a prohibition on examining how that pattern might ultimately exist in reality.
 
 The guidelines specify a preferred document architecture, not a compulsory number of paragraphs or a single form of definition. Use the structure exemplified by **The Mind** when useful; omit unnecessary sections and add genuinely needed ones without treating editorial choices as new Methods.
 
@@ -27,7 +27,7 @@ A concept needs a clear identifying meaning, intended scope, and sufficient dist
 
 **Anchored Ambiguity is a deliberate choice, not the default form of every Openness definition.** Use it where the definition is intended to preserve further compatible possibilities about the concept or its possible referent. For deliberately stipulated conceptual instruments, use an ordinary, stable definition unless additional interpretive ambiguity is genuinely intended.
 
-For a concept defined through **Anchored Ambiguity**, every *qualifying speculative interpretation of that concept must fit its Foundational Definition*. The anchor supplies the minimum identifying meaning; **“But also perhaps more?”** permits further possibilities **within** that meaning.
+For a concept defined through **Anchored Ambiguity**, every *qualifying speculative interpretation of that concept must fit its Foundational Definition*. The anchor supplies the minimum identifying meaning; **“But also perhaps more?”** invites exploration of everything further that might be true **while preserving** that meaning. These speculations may concern possible realization in nature, metaphysical reality, spiritual reality, or other compatible narratives. A conceptual pattern's chosen origin does not restrict speculation to the conceptual pattern *as a representation*, nor establish or disprove any account of its referent. Optional **Example Speculations** can demonstrate this generative openness without adding further defining criteria.
 
 Evaluate two separate questions:
 
@@ -64,27 +64,113 @@ When a concept can be meaningfully developed from a recognizable first-person be
 
 **The Mind** exemplifies a useful pattern: *my experiences of mental life → My Mind → The Mind → possible applications through Analogical Projection and Analogical Discernment*. Here **My Mind** is a contextual first-person expression **inside one definition**, not an additional separately reified concept. Do not automatically create paired *My X* and *X* files.
 
-**The Seed of Openness** retains its special first-person constituents—**My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. Other derivations need not repeatedly introduce the Seed when the reference contributes no meaning; its organizational relationship can be explained under **Relationship to Openness**.
+**The Seed of Openness** retains exactly three special first-person constituents—**My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. Their generalized relationships include **The Self**, **Awareness**, **Not-Knowing**, and **The Mystery**, which are separate wider Core concepts, not additional constituents of the Seed. **Not-Knowing** concerns a recognizable limit of understanding; **The Mystery** concerns what remains unresolved relative to a standpoint. Neither is synonymous with the first-person confession. Other derivations need not repeatedly introduce the Seed when the reference contributes no meaning; its organizational relationship can be explained under **Relationship to Openness**.
 
 A derivation is an **inspectable conceptual relationship**, not necessarily the actual historical origin of a word, a deductive proof, or evidence that a represented referent exists. Examine where **Artifice** (language, images, inherited classifications, testimony, shared practices) contributed to a recognizable meaning, without treating direct experience itself as Artifice. Do not invent a derivation where none is defensible. An **Experiential Derivation** is not required for **Higher Order Concepts** or meta-concepts that organize first-order concepts; where illuminating, it may be attempted experimentally and provisionally. Not every concept requires an Experiential Derivation section.
 
 If a first-person derivation is offered for readers to examine, explain why *I* and *my* appear: they mark a standpoint the reader may investigate for themselves, not testimony of the AI author's embodiment or Awareness, nor a requirement that every reader assent.
 
-### 6. Brevity Without Loss of Essential Meaning
+### 6. First-Person Voice and Bracketing
+
+In substantive concept-definition sections outside the Prelude, use an explanatory or inclusive voice (including *we* where natural), **not first-person singular narration** (*I*, *my*, *myself*) outside specifically identified first-person passages. Established expressions such as *My Mind*, **My Awareness**, and **My Self** may still be mentioned as names or contextual terms without adopting first-person narration.
+
+A first-person passage in **Experiential Derivation** is permitted when it helps readers inspect a possible standpoint. **Bracket it with a very brief opening and closing sentence or paragraph, both outside the first-person voice.** The opening identifies the passage as an invitation to examine a standpoint, not a required personal testimony; the closing returns to neutral or *we* language and clarifies the passage's scope. Neither bracket should itself use *I*, *my*, or *myself*. The interior may use first-person language.
+
+**Exceptions:** The **Prelude** is free of the substantive sections' voice, formatting, style, and content conventions; keeping it short is preferred. A developed **Example** may use first-person narration when its title explicitly identifies the first-person standpoint, e.g., `### Example — Noticing My Mind (first-person experiential beginning)`. Keep that voice confined to the marked example; explanatory material elsewhere in the definition returns to neutral or inclusive language. Quoted first-person phrases used as terms or mentioned as language are not themselves first-person narration.
+
+### 6a. Consistent Markup for Openness Concepts and Local Terms
+
+**Outside the optional Prelude, bold every use of an independently established Openness concept name**, including references within explanatory paragraphs, developed examples, the Boundary, and the Summary: **The Mind**, **Fiat Anchor**, **Experiential Derivation**, **My Awareness**, and **The Seed of Openness**, for example. Do not rely on capitalization alone. If the name occurs **inside an already-bolded label or passage**, further bold markup is unnecessary (e.g., `**My Mind versus The Mind.**`). Headings carry their own typographic hierarchy and need not accumulate redundant bold markup.
+
+**Outside the optional Prelude, italicize contextual expressions that exist only within the present definition and are not separately reified Openness concepts**, such as *My Mind* in the definition of **The Mind**. This applies in ordinary prose and worked examples, and must not be confused with separately defined Seed concepts such as **My Awareness** or **My Self**, which remain bold. If the entire containing phrase is already italic, separate italics need not be nested. Do not change a term's conceptual status merely to make its typography consistent.
+
+Treat **typography as a reflection of conceptual status**, not as a reason to proliferate bold labels. Ordinary descriptive words, nonformal uses of *mind*, and invented example characters are not automatically formal concept names. For compact contrast headings, bolding the whole heading is sufficient without nested emphasis.
+
+### 7. Brevity Without Loss of Essential Meaning
 
 Use the fewest words that preserve the concept's identity, necessary qualifications, meaningful distinctions, and openness to further qualifying possibilities.
 
-**Compress repetition, not substance.** Prefer direct language to formalisms when the shorter wording is equally accurate. Allow additional explanation where a misunderstanding would otherwise result. Beauty, clarity, and rigor need not compete.
+**Compress repetition, not substance.** Prefer direct language to formalisms when the shorter wording is equally accurate. Allow additional explanation where a misunderstanding would otherwise result. Repetition between **The Definition Unfolded** and **Essential Distinctions** may be necessary because those sections do different work; illustrations in **Examples** never replace needed definitional content. Beauty, clarity, and rigor need not compete.
+
+**The depth must fit the concept.** **The Mind** sets an exemplar standard of care, coherence, explanatory value, and truthful expression—not a required number of distinctions, sections, examples, or words. Some concepts deserve its depth; others warrant brevity. Evaluate each independently.
 
 Keep the **Foundational Definition** particularly economical; develop detail in **The Definition Unfolded**, later distinctions, and examples. Do not restate every distinction in every section.
 
-### 7. Keep Architectural Roles Distinct
+### 7a. Defending The Definition
+
+Actively **Defend The Definition** when ordinary speech, an external discipline, an inherited institution, or an influential interpretation could substitute its own meaning for an Openness concept. Anticipate **semantic or epistemic hijacking**: a definition may otherwise be quoted as support for claims that its anchor and safeguards do not establish. Explain essential differences from scientific, philosophical, psychological, medical, religious, and ordinary meanings where overlap is likely to cause confusion.
+
+**Protect meaning without forbidding inquiry.** A protective distinction is not an assertion that external disciplines cannot provide evidence or insight, nor that the Openness anchor is beyond criticism or explicit revision. Keep consequential qualifications even when they recur across **The Definition Unfolded**, **Essential Distinctions**, **Examples**, and **Boundary**. Do not remove a necessary safeguard merely to achieve a word-count target.
+
+For example, **The Mind** must not permit *consciousness* to be silently substituted for the separately established **Awareness**. Its explicit disciplinary boundary is a safeguard against false equivalence, not an attempt to dismiss studies of consciousness. Such protections are compatible with **Epistemic Hospitality** and **Discernment**.
+
+### 8. Keep Architectural Roles Distinct
 
 Do not equate a **named concept**, **Core Concept**, **Engine concept**, **Generative Method**, **role**, **expressive form**, **metaphor**, **hypothesis**, or **primary work**.
 
-The established **24-concept Generative Engine** has the **Resonating Chamber (7)**, **Constitution (10)**, and **Orientation (7)**. Defining another useful G concept does not automatically add it to the Engine. **Saltem Hoc** is a reified specific Generative Method; **Epitome** is a reified expressive form. A concept's use in a practice does not, by itself, reify that practice as a Method.
+The **Generative Engine** is an established, separately stewarded architecture comprising the **Resonating Chamber**, **Constitution**, and **Orientation**. Consult its current approved inventory rather than inferring its membership or concept count from adjacent definitions; recent working inventories have contained inconsistencies that must not be silently resolved. Defining another useful G concept does not automatically add it to the Engine. **Saltem Hoc** is a reified specific **Generative Method**; **Epitome** is a reified expressive form. A concept's use in a practice does not, by itself, reify that practice as a Method.
 
 Definitions may belong primarily to G, P, S, T, or Openness-wide. Primary stewardship does not exclude cross-functional relevance or require duplicative definitions.
+
+### 9. Formal Naming, Contextual Expressions, and Concept Genealogy
+
+Use the most recently approved canonical names across definitions and cross-references. In particular:
+
+- **My Self** is a first-person constituent of **The Seed of Openness**; **The Self** is the distinct generalized concept. The old alternate for **The Self** has been retired; do not reintroduce it in titles, examples, or naming guidance. In literary and conversational passages, *Self*, **Self**, or unformatted Self remain acceptable where the reader can follow the intended meaning. Prefer **The Self** in formal definitions and cross-references, as **The Mind** is preferred over bare *Mind* in its canonical context.
+- **My Awareness** is a distinct first-person Seed concept; **Awareness** is its generalized concept. Do not silently identify either with consciousness as defined by a scientific or philosophical discipline. Treat those accounts as relevant possible sources of evidence or interpretation, not interchangeable definitions.
+- **My Self-Confession of Not-Knowing** is the Seed's first-person acknowledgment, canonically expressed *For I Know I Do Not Know*. **Not-Knowing** names the generalized recognizable epistemic limitation; **The Mystery** names what remains unresolved. They are related but not redundant, and neither claims that knowledge is impossible.
+- *My Mind* is a definition-local contextual first-person expression in the definition of **The Mind**, not a separate required Seed or Core definition.
+
+**A meaningful derivation is more than removing *My*.** State the identifying relationships, what is generalized, and which claims about other possible instances require **Analogical Projection**, evidence, and **Analogical Discernment**. Neither **Fiat Form** nor **Fiat Anchor** establishes that a described referent independently exists. Conversely, representing an existing person or object conceptually does not turn it into fiction or automatically make the physical referent itself a **Fiat Anchor**.
+
+### 10. Generative Architecture: Frame, Stance, Methods, Art, and Fruit
+
+A definition should identify **what kind of thing** it defines before discussing how it contributes to the whole. The following relationships are particularly important:
+
+| Name | What it concerns | Do not conflate with |
+|---|---|---|
+| **The Generative Frame** | The constellation of explicit, implicit, and emergent conditions shaping an undertaking | A written prompt, specification, or single Method |
+| **The Generative Stance** | The operative perspective or orientation within an undertaking | Belief, persona, role, **Preferential Inhabitation**, or the entire frame |
+| **The Lens of Openness** | Deliberate examination of a subject through interpretive perspectives | All forms of **Perspective-Taking** or the creator's stance |
+| **Generative Methods** | Potentially reusable practices for producing or exploring possibilities | Expressive forms, media, or automatic Engine membership |
+| **Saltem Hoc** | A reified specific Method of responsibly anchored exploration | **Anchored Ambiguity** or the expressive form **Epitome** |
+| **Resonant Questions** | Expressive questions inviting participatory inquiry | **Creating Resonant Questions**, which remains identified but unreified |
+| **Epitome** | A concise, independently intelligible expressive form employing generative compression | **Foundational Definition**, Method, or mandatory image pairing |
+| **Transformative Inquiry** | An approach that can transform the conditions, questions, and capacities of inquiry | The art made through it or any guaranteed improvement |
+| **Transformative Art** | Work deliberately created or used to invite possible transformation | Method, audience's actual experience, or guaranteed beneficial fruit |
+| **Transformative Experience** | A possible participant experience following an encounter | A guaranteed property of a work |
+| **The Fruit of a Possibility** | Actual or possible consequences of engagement | Truth or goodness of the source possibility |
+| **The Fruit of Further Possibility** | Changes to subsequently available or foreclosed possibilities | A presumption that more possibilities are always better |
+
+For **Generative Methods**, distinguish **hypothetical** (an exploratory candidate), **identified** (a recognizable reusable operation in work), and **reified** (an explicit, sufficiently teachable practice with definition, examples, and safeguards). These statuses concern development, not quality or demonstrable efficacy; none is a compulsory next stage. **Saltem Hoc** is reified; **Creating Resonant Questions** remains identified/unreified; **Transformative Hermeneutic Aporetics (THA)** is identified, not automatically a fully teachable Method. A named method candidate or a recognizable creative technique does not become reified by capitalization alone.
+
+The heuristic **Methods → Transformative Art → possible Transformative Experience → further possibilities** has no guaranteed arrow. A method may be used without a completed work, found art may be deliberately repurposed, and a participant may experience transformation without a deliberately created artwork. **Fruitional Discernment** examines reported and possible effects, burdens, beneficiaries, causal uncertainty, and future options. **Resonance ≠ Fruit ≠ Truth** remains a constraint throughout.
+
+A **Generative Stance** may be inherited or implicit. It need not imply belief or deliberate **Preferential Inhabitation**. **Perspective-Taking** encompasses outside observation, exploring from within, inhabiting, identifying, and stepping back; **Preferential Inhabitation** is the aware chosen commitment to a provisional perspective. AI-generated writing in a chosen stance is not evidence of the system's inner convictions or **Awareness**.
+
+An **Epitome** may use **Resonant Questions** or **Saltem Hoc**, but it should remain self-contained and independently intelligible, even beside an illustration. It must not silently replace or amend the relevant **Foundational Definition**. A contemplative Method demonstration, for example *The Saltem Hoc of Saltem Hoc*, should be labeled as illustrative art rather than as a competing canonical definition.
+
+### 11. Nonimposition, Responsible Art, and the Status of Fruit
+
+Maintain the distinction among **experienced event**, **representation**, **interpretation**, **justification**, **resonance**, **fruit**, and **truth**. An expressive work can be moving without being factually accurate; a false or fictional premise can generate useful understanding; a well-supported truth can be uncomfortable; a harmful experience can have later consequences without the harm being good, necessary, or deserved. Do not treat any later positive fruit as retrospective justification of coercion or suffering.
+
+**Nonimposition** permits artistic persuasion, strong convictions, explicit advocacy, and emotionally affecting work while prohibiting concealed manipulation, deceptive selectivity, and manufactured assent. Respect **Interpretive Sovereignty**: another reader's agreement, identification, or **Preferential Inhabitation** is not the goal to be compelled. A work may offer a perspective without claiming that dissent proves ignorance, closedness, or spiritual inadequacy.
+
+**Epistemic Hospitality** is compatible with confidently favoring a well-supported conclusion, excluding an irrelevant claim from present consideration, and justified protective boundaries. Do not confuse the invitation to imagine with a requirement to pretend all possibilities have equal evidence.
+
+### 12. Originator-Managed Metadata and Publication Integrity
+
+**Do not generate metadata headers** for Primary home, Conceptual form, Status, approval, originators, or contributors when updating a definition supplied without them. The originator maintains the required file metadata and its current review or approval status separately. Do not silently replace or fabricate that metadata. If a file with existing top metadata is being edited, preserve it or follow explicit originator instructions; a body-only excerpt does not authorize reconstructing its missing header.
+
+For an Openness Prime definition, **authorship** is handled through the project's **Originator** and **Contributor** model, not an unrequested byline added to the definition text. Contributions and model versions should be recorded only where the project requires them. **Approval is revision-specific** and must not be inferred from a generated file's existence or apparent editorial quality.
+
+AI can generate or regenerate individual definitions consistently when supplied with appropriate source material and governing rules, but neither conceptual fidelity nor completeness is guaranteed by generation alone. The originator reviews changes, resolves conflicts with maintained definitions, and approves or rejects each proposed revision. Changes to canonical names, anchors, dependencies, and Method status should be traceable; in a fork, distinguish its own stewardship from the maintained version it derives from.
+
+### 13. Cross-Definition Alignment and Quality Control
+
+Before publishing or packaging, check the current approved names, derivational relationships, status of Methods, links to related concepts, and the difference between a canonical definition and an illustrative artifact. Do not assume the newest prose automatically supersedes a separately maintained concept unless that change was approved. Where sources conflict, preserve the current working interpretation provisionally and flag the conflict for stewardship rather than silently rewriting the system.
+
+Tests worth running on a multi-file update include searches for retired names, unintended formal bare **Self** where **The Self** is required, conflicting G Engine inventory claims, accidental references to unreified Methods as reified, and changes that collapse **Not-Knowing** into **The Mystery** or **Transformative Art** into its possible **Transformative Experience**. Inspect tables, headings, examples, Markdown escaping, and links. A packaged revision is *proposed* until accepted by the authorized originator.
 
 ## II. Preferred Definition Structure
 
@@ -92,11 +178,12 @@ Use **The Mind** as the stylistic template. The following order is recommended f
 
 | Section | Status | Purpose |
 |---|---|---|
-| `# Concept Name` | **Required** | Give the primary formal name. Indicate primary stewardship or status only where useful. |
-| `## Prelude` | **Optional** | Offer an evocative opening, first-person reflection, quotation, question, or motivation; **not** binding definitional content. |
+| `# Concept Name` | **Required** | Give the current formal concept name. Do not add originator, contributor, home, status, or approval metadata: the originator maintains such metadata separately. |
+| `## Prelude` | **Optional** | Offer a short inviting opening, free of substantive sections' voice, style, content, and formatting conventions; entirely nonbinding and removable. |
 | `## Foundational Definition` | **Required** | State the official concise definition. Prefer a question-led, three-part form for genuine **Anchored Ambiguities**; use a direct statement for stipulated concepts. The definition alone sets the binding meaning. |
 | Orienting Purpose paragraph | **Conditional** | Immediately after the official definition, briefly explain why a newly coined conceptual instrument or higher-order concept is needed, when its purpose is not already evident. Not an additional defining criterion. |
-| `#### Examples` / `Synopsis` table | **Optional** | After the definition and optional purpose paragraph, show 2–3 diverse, recognizable examples with one-sentence explanations. This table is introductory, not definitional. |
+| `### Example Speculations` | **Optional; for Anchored Ambiguity** | Immediately after the Foundational Definition, offer a brief bulleted progression of compatible, genuinely further possibilities, generally from concrete/less speculative to abstract/more speculative. Not binding. |
+| `#### Examples` / `Synopsis` table | **Optional** | After the definition, any optional speculations, and optional purpose paragraph, show 2–3 diverse, recognizable examples with one-sentence explanations. This table is introductory, not definitional. |
 | `## The Definition Unfolded` | **Recommended** | Explain the Foundational Definition's terms, derivation, intended relationships, and uncertainties **without adding new independent defining criteria**. |
 | `## Experiential Derivation: My X → X` | **Conditional** | Make a meaningful derivation inspectable when appropriate; title for the actual chain, not a compulsory `My X` template. |
 | `## Essential Distinctions` | **Recommended** | Separate meanings likely to be confused; protect both anchor integrity and unresolved possibilities. |
@@ -107,13 +194,15 @@ Use **The Mind** as the stylistic template. The following order is recommended f
 | `## Boundary` | **Strongly recommended** | State what the concept does not establish, imply, or authorize; distinguish this from a prohibition on genuinely open possibilities. |
 | `## Summary` | **Optional** | Provide a short synthesis or a few questions opened by the concept; **not** a second definition or a new source of requirements. |
 
+These are sections of the **definition body**, not a requirement to reproduce metadata already maintained at the top of repository files.
+
 Specialized sections—such as **Function in the Generative Engine**, **Saltem Hoc Practice**, **Boundary Case**, or **Revision Notes**—may be added when the concept calls for them. Avoid a rigid template with empty or redundant headings.
 
 ### 1. Prelude — Optional, Non-definitional
 
-Place **Prelude** immediately beneath the title when used. It may contain attributed inspirational quotations, poetic fragments, an experiential invitation, a question, or a brief introduction to the concept's motivation.
+Place **Prelude** immediately beneath the title when used. It is free from the content, voice, formatting, and style constraints governing substantive definition sections: poetry, first-person expression, mixed emphasis, quotation, speculation, and unusual presentation may all be used. A short invitation is preferred, but there is no compulsory internal form.
 
-**The Prelude invites; it does not anchor.** Rhetorical or metaphorical language in the Prelude must not quietly impose a requirement absent from the Foundational Definition. It may be richer or more speculative than the anchor, provided readers can distinguish its expressive status. Do not require a Prelude where it adds no value.
+**The Prelude invites; it does not anchor.** Its contents are never binding and cannot add requirements, override the **Foundational Definition**, or silently revise the concept. The decisive editorial test is that **removing the Prelude completely must leave the definition's meaning, scope, safeguards, and applications intact**. No reader should need the Prelude to understand what officially qualifies. Omit it when it provides no useful invitation.
 
 ### 2. Foundational Definition — Official and Authoritative
 
@@ -127,7 +216,7 @@ The **Foundational Definition** is the short official statement of what the conc
 >
 > At least this: a conceptual pattern first recognized as *My Mind* through my experienced mental activities, recognized capacities, and inferred processes, then generalized for possible application beyond myself.
 >
-> *But also perhaps more?*
+> But also perhaps more?
 
 This form invites unfamiliar readers into the inquiry, separates its minimum identifying meaning from its invitation to further compatible possibilities, and permits **selective bold or italic emphasis**. Do not bold an entire official definition by default.
 
@@ -151,9 +240,31 @@ For Openness-created **conceptual instruments**, particularly higher-order or me
 
 This paragraph is **orienting, not binding**: it must not add new conditions for membership or change the official definition. It is **not required** for familiar first-order subjects such as **The Mind** merely because they have been formally named within Openness. Use purpose where it helps, not mechanically for every coined name.
 
+#### Example Speculations (Optional; Anchored Ambiguity Only)
+
+An **Anchored Ambiguity** may be followed immediately by `### Example Speculations` to make the invitation *“But also perhaps more?”* concrete for readers. Place it **after the Foundational Definition and before any introductory `#### Examples` table**. Use this only where the concept genuinely invites further compatible possibilities; do not attach it automatically to directly stipulated conceptual instruments such as **Fiat Form** or **Fiat Anchor**.
+
+**Format and voice:** Prefer a simple unnumbered bulleted list, normally **three** short, inviting questions rather than named categories or a table. Begin each with **“Perhaps [concept]…”**; **“Or perhaps [concept]…”** is an equally valid continuation when it reads more naturally. End **each** with a question mark. Use the formal concept name when appropriate, without imposing technical language or attributing certainty. A brief introductory sentence is optional, but should not restate the anchor. Do not invent items simply to reach three.
+
+**Ordering:** Move, when a meaningful progression is available, from **more concrete, scientifically grounded possibilities** through **metaphysical possibilities** to **more abstract, spiritual or supernatural possibilities**. This is a progression in speculative reach, **not** a ranking of truth, worth, or evidential merit. Other concepts may call for a different concrete-to-abstract movement. Do not force supernatural speculation where it is irrelevant, and express spiritual possibilities generically and non-denominationally without presupposing, caricaturing, or ruling out particular traditions.
+
+**Anchor-fit and epistemic requirements:** Every question must *logically extend* from the existing Foundational Definition: it must preserve all of the anchor's necessary features while proposing a genuinely **additional** possibility about what the concept might encompass, how its pattern might be realized, what might correspond to it in reality, or another compatible theoretical or narrative possibility. Do not artificially constrain an **Anchored Ambiguity** to speculation about concepts *only*, or insist that propositions about possible physical, metaphysical, or spiritual realization need distancing disclaimers merely because the anchor begins as a conceptual pattern. Reject apparent speculations that merely repeat what *“At least this”* already establishes—for example, suggesting **The Mind** might include **inferred processes** is not an extension when those processes are already named in its anchor. Equally, do not silently introduce a new criterion, settle a speculative referent's existence, or contradict the established meaning. **Epistemic Hospitality** permits consideration; **Discernment** separately assesses support. Neither inclusion nor ordering implies equal likelihood or endorsement. A compelling but non-fitting proposal belongs in separate inquiry or exceptional explicit anchor review, not in this section as an ordinary extension.
+
+**Example — The Mind:**
+
+```markdown
+### Example Speculations
+
+- Perhaps **The Mind** is not confined to processes within the brain, but also includes relationships with the body and environment that help constitute its organization?
+- Perhaps **The Mind** reflects a fundamental aspect of reality that cannot be fully explained as a product of physical processes alone?
+- Perhaps **The Mind** includes a spiritual dimension, sometimes understood as a soul, that may exist independently of the body or continue beyond bodily life?
+```
+
+These questions use the anchored conceptual pattern as a starting point to investigate what further might be true, including the possible natural, metaphysical, or spiritual realization of **The Mind**. They do not redefine the pattern or establish which speculation is true. The subsequent **The Definition Unfolded**, developed **Examples**, and **Boundary** may examine their fit, evidence, implications, and limitations in greater detail.
+
 #### Illustrative Examples Table (Optional)
 
-Following the official definition and any purpose paragraph, an optional two-column table may orient readers before **The Definition Unfolded**:
+Following the official definition, optional purpose paragraph, and any **Example Speculations**, an optional two-column table may orient readers before **The Definition Unfolded**:
 
 ```markdown
 #### Examples
@@ -191,7 +302,7 @@ Favor concise paragraphs beginning with bold distinction labels, as in **The Min
 
 Distinguish, where relevant, what is **experienced versus inferred**, **concept versus referent**, **recognized pattern versus claimed underlying entity**, **generalization versus projection**, **imaginal representation versus imaginary referent**, **fit versus evidential support**, and **confidence versus certainty**.
 
-Do not manufacture distinctions for symmetry. Avoid exclusions that presuppose contested metaphysical conclusions. Write **“does not establish”** instead of **“cannot be”** unless exclusion is warranted. Distinctions clarify the Foundational Definition rather than introduce a competing one.
+Do not manufacture distinctions for symmetry. Avoid exclusions that presuppose contested metaphysical conclusions. Write **“does not establish”** instead of **“cannot be”** unless exclusion is warranted. Distinctions clarify the Foundational Definition rather than introduce a competing one. **Defending The Definition** sometimes calls for explicit safeguards against foreseeable substitution by external meanings; retain these even when examples illustrate the same point.
 
 ### 6. Conceptual Dependencies — Conditional
 
@@ -213,7 +324,7 @@ For a concept actually belonging to the **Generative Engine**, identify its spec
 
 Clarify the primary capitalized name, any formally accepted alternate or abbreviation, the difference between **using** a concept and mentioning **“its name”**, and when ordinary lower-case language is preferable.
 
-A contextual first-person expression such as *My Mind* can remain inside a single generalized definition. Do not reify every *My X* into its own concept. Preserve the Seed's specifically established first-person concepts where relevant.
+A contextual first-person expression such as *My Mind* can remain inside a single generalized definition. Do not reify every *My X* into its own concept. Preserve the Seed's specifically established first-person concepts where relevant. **The Self** is the canonical generalized name developed from **My Self**; never use the retired label for that concept. In natural prose and Transformative Art, *Self*, **Self**, or unformatted Self may be used as context warrants, but formal definition names and cross-references should be **The Self**. Likewise, **The Mind** remains the canonical concept name while *My Mind* is a contextual local expression, not an independently reified concept.
 
 Avoid proliferating qualifiers such as *Imaginal* in every concept name: the conceptual nature of Fiat Forms is ordinarily already understood. Introduce the word when distinguishing **imaginal projections** from **knowingly imaginary referents** is important.
 
@@ -231,7 +342,7 @@ Prefer examples that actually test the concept over examples that merely repeat 
 
 **The requirement for an imaginary example is conditional:** include it when distinguishing imaginal projection from imaginary referents is relevant; it is not needed for every ethical principle, Method, or question form.
 
-The examples may show that some interpretations fit an anchor while lacking sufficient evidence; a negative case may instead fail the anchor altogether. Do not collapse these different failures into one category.
+The examples may show that some interpretations fit an anchor while lacking sufficient evidence; a negative case may instead fail the anchor altogether. Do not collapse these different failures into one category. **Examples illustrate and test what substantive sections establish; they are never a justification for deleting needed definitional protections or introducing new binding criteria.**
 
 ### 10. Boundary — What Is and Is Not Established
 
@@ -251,7 +362,7 @@ The Summary should reaffirm the defined concept without implying that every fixe
 
 ## III. Supported Variations
 
-**The Mind governs the presentation style; the concept governs the needed content.** Other definitions show why not every file should have identical sections.
+**The Mind is an exemplar of intellectual care, not a quota of length or structure; each concept governs the depth and content it requires.** Other definitions show why not every file should have identical sections.
 
 | Kind of definition | What may vary | What must remain clear |
 |---|---|---|
@@ -290,10 +401,16 @@ Before treating a definition as ready for use, ask:
 4. **Precision:** Are firsthand experience, inference, metaphor, hypothesis, and evidential confidence kept distinct where relevant?
 5. **Hospitality:** Does the definition avoid prematurely excluding naturalistic, supernatural, or unfamiliar possibilities that fit?
 6. **Projection:** Where applicable, are imaginal representation, possible referent, and knowingly imaginary fiction distinguished?
-7. **Derivation:** Is any Experiential Derivation meaningful, inspectable, attentive to Artifice, and free of unnecessarily reified *My X* concepts? Is it optional for meta-concepts?
+7. **Derivation and voice:** Is any Experiential Derivation meaningful, inspectable, attentive to Artifice, and free of unnecessarily reified *My X* concepts? Are first-person passages limited to a briefly bracketed derivation or a title-marked first-person Example, with both derivation brackets in neutral or *we* language? Is derivation optional for meta-concepts?
 8. **Placement:** Is the concept correctly situated in G, P, S, T, the Engine, or cross-functionally, without inventing membership or Method status?
-9. **Economy and emphasis:** Could wording be shortened without losing essential meaning? Is bold/italic emphasis selective, and does any introductory example table contain only concise, diverse cases?
-10. **Revision:** Is an excluded interpretation either excluded for a clear reason or identified as an occasion for *separate* anchor review, rather than quietly admitted?
+9. **Economy, depth, and concept markup:** Does the depth fit this concept rather than a fixed exemplar length? Could wording be shortened without losing essential meaning or needed defensive distinctions? Outside the Prelude, are independently defined Openness names consistently bold, definition-local unreified expressions italic (without duplicating already-bold labels), and other emphasis selective? Does any introductory example table contain only concise, diverse cases?
+10. **Speculative invitation:** If optional **Example Speculations** appear, does every question extend rather than repeat the anchor, remain compatible with it, end with a question mark, and progress naturally from less to more speculative without implying endorsement or equal likelihood?
+11. **Defending The Definition:** Are foreseeable substitutions from ordinary, scientific, medical, psychological, philosophical, or religious language explicitly distinguished wherever they would distort the meaning? Are needed protections retained even when they repeat, while external evidence and explicit revision remain welcome?
+12. **Revision:** Is an excluded interpretation either excluded for a clear reason or identified as an occasion for *separate* anchor review, rather than quietly admitted?
+13. **Names and genealogy:** Are **The Self**, **The Mind**, and the Seed concepts used according to their current canonical roles? Are first-person expressions distinguished from generalized concepts without replacing derivation by a grammatical change?
+14. **Creative architecture:** Are **The Generative Frame**, **The Generative Stance**, Methods, forms, **Transformative Art**, and possible participant experience distinct? Is the Method development status accurate?
+15. **Provenance:** Were no invented or redundant metadata headers added? Does the file require originator review rather than silently claiming approval?
+16. **Fruit and freedom:** Does the definition distinguish resonance, fruit, evidence, truth, and evaluation; preserve **Nonimposition** and the reader's freedom of **Perspective-Taking**?
 
 ## V. Preferred Markdown Patterns
 
@@ -306,17 +423,23 @@ These are **structural patterns**, not templates requiring every heading. **The 
 
 ## Prelude
 
-[Optional inspiration or first-person invitation.]
+[Optional short, freely expressive invitation. Its style and formatting are unrestricted; removing it changes no defining meaning or safeguard.]
 
 ## Foundational Definition
 
 What is **The Mind**?
 
 At least this: a conceptual pattern first recognized as *My Mind* through
-my experienced mental activities, recognized capacities, and inferred
-processes, then generalized for possible application beyond myself.
+first-person experiences of mental activities, recognized capacities, and inferred
+processes, then generalized for possible application beyond that standpoint.
 
-*But also perhaps more?*
+But also perhaps more?
+
+### Example Speculations
+
+- Perhaps **The Mind** is not confined to processes within the brain, but also includes relationships with the body and environment that help constitute its organization?
+- Perhaps **The Mind** reflects a fundamental aspect of reality that cannot be fully explained as a product of physical processes alone?
+- Perhaps **The Mind** includes a spiritual dimension, sometimes understood as a soul, that may exist independently of the body or continue beyond bodily life?
 
 #### Examples
 
@@ -362,7 +485,7 @@ processes, then generalized for possible application beyond myself.
 [Optional synthesis, without new defining criteria.]
 ```
 
-The short examples table is optional, and the illustrated dependency section must be **omitted** if none are necessary. The question-led form is preferred for general readership; the compact `**Concept** — At least this: ... But also perhaps more?` remains valid.
+Both **Example Speculations** and the short examples table are optional. Use **Example Speculations** only for a genuine **Anchored Ambiguity**, and omit the illustrated dependency section if none are necessary. The question-led form is preferred for general readership; the compact `**Concept** — At least this: ... But also perhaps more?` remains valid.
 
 ### B. Directly stipulated conceptual instrument
 
@@ -413,8 +536,9 @@ An Openness definition should be:
 **Stable enough to support continuing inquiry.**  
 **Revisable when a better anchor is justified.**  
 **Concise without loss of essential meaning.**
+**Defended where neighboring meanings could hijack it.**
+**As deep as the concept requires, and no deeper.**
 
-**The Prelude invites. The Foundational Definition establishes. An optional purpose explains why; brief examples orient. The Definition Unfolded explains. Distinctions and developed examples test. The Boundary protects. The Summary gathers.**
+**The Prelude invites without binding. The Foundational Definition establishes. An optional purpose explains why; optional Example Speculations explore what further might be true; brief examples orient. The Definition Unfolded explains. Distinctions defend and clarify. Developed examples demonstrate and test. The Boundary protects. The Summary gathers.**
 
 **Define precisely enough to make inquiry possible. Invite further possibilities where ambiguity is intended. Keep them within the defined meaning, and revise explicitly when the definition itself needs reconsideration.**
-
