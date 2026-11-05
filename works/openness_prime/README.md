@@ -139,7 +139,7 @@ Openness Prime is still under construction and in early development. Below are s
     * Models **Epistemic Remembering** (can we remember the creation of this idea?)
     * Models **Fiat Form** (discloses its act of creation explicitly)
     * Models **Fiat Anchor** (creating immaterial conceptual unity explicitly)
-    * Models **Experiential Derivation** from **Not-Knowing** (reader can self-validate)
+    * Models **Experiential Derivation** from first-person **Not-Knowing** (inviting reader to self-validate)
     * Models **Analogical Projection** of **The Mind** into the world
 - Spiritual
   - [Love](functions/spiritual/definitions/defining_love.md) — "Let love be defined as at least this: attention given freely; but also perhaps more?"
@@ -147,7 +147,7 @@ Openness Prime is still under construction and in early development. Below are s
     * Models **Fiat Form** (discloses its act of creation explicitly)
     * Models **Preferential Inhabitation** (optional alternative to belief)
     * Models unfolding an **Anchored Ambiguity** into common language concepts (e.g. empathy, kindness, romantic love, etc.)
-    * Models **Experiential Derivation** from **Not-Knowing** (reader can self-validate)
+    * Models **Experiential Derivation** from first-person **Not-Knowing** (inviting reader to self-validate)
     * Models inviting readers to **Perspective-Taking** (possibly different than Openness itself)
 - Transcendent
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
