@@ -5,7 +5,6 @@ When: 2026-11-05T00:00:00Z
 Status: needs review
 ---
 
-
 # Epitome
 
 ## Foundational Definition

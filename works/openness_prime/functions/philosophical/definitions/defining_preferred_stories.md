@@ -1,13 +1,13 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-10-20T00:00:00Z
-Status: needs review; tentatively accepted
+When: 2026-11-05T00:00:00Z
+Status: needs review
 ---
 
-Preferred Stories
+# Preferred Stories
 
-Foundational Definition:
+## Foundational Definition
 
 A Preferred Story is a Mental Model favored as an account of what is, what has happened, what something means, or what may be possible.
 
@@ -19,21 +19,21 @@ Being preferred neither establishes nor undermines a Story's truth or justificat
 
 A Preferred Story can be painful or unwelcome. Preferred means favored as an account, not necessarily desired as an outcome.
 
-Essential Distinctions:
+## Essential Distinctions
 
-Preferred Story versus Mental Model. A Preferred Story is a Mental Model occupying a favored interpretive position. Not every Mental Model is preferred. Preference describes how a model is regarded or employed, rather than requiring a distinct kind of representational structure.
+**Preferred Story versus Mental Model.** A Preferred Story is a Mental Model occupying a favored interpretive position. Not every Mental Model is preferred. Preference describes how a model is regarded or employed, rather than requiring a distinct kind of representational structure.
 
-Preference versus Truth. A Story may be true, false, partially accurate, or unresolved independently of whether it is preferred. Preference does not determine factual truth.
+**Preference versus Truth.** A Story may be true, false, partially accurate, or unresolved independently of whether it is preferred. Preference does not determine factual truth.
 
-Preference versus Justification. A Story may be favored because substantial evidence supports it, because it is comforting or familiar, or for other reasons. Its preference and its justification require separate examination.
+**Preference versus Justification.** A Story may be favored because substantial evidence supports it, because it is comforting or familiar, or for other reasons. Its preference and its justification require separate examination.
 
-Preference versus Belief. A Preferred Story may be believed, tentatively accepted, or imaginatively inhabited as a meaningful possibility without being regarded as established truth. The degree and nature of commitment should not be assumed from preference alone.
+**Preference versus Belief.** A Preferred Story may be believed, tentatively accepted, or imaginatively inhabited as a meaningful possibility without being regarded as established truth. The degree and nature of commitment should not be assumed from preference alone.
 
-Preference versus Choice. A Story may become preferred without deliberate selection. The ability to examine, question, or revise a preference does not establish that belief itself can always be chosen at will.
+**Preference versus Choice.** A Story may become preferred without deliberate selection. The ability to examine, question, or revise a preference does not establish that belief itself can always be chosen at will.
 
-Preferred Story versus Blind Certainty. Favoring an interpretation does not necessarily entail resistance to alternatives or correction. Blind Certainty arises when certainty is maintained through resistance to relevant inquiry, not merely because an interpretation is preferred.
+**Preferred Story versus Blind Certainty.** Favoring an interpretation does not necessarily entail resistance to alternatives or correction. Blind Certainty arises when certainty is maintained through unrecognized resistance to relevant inquiry, not merely because an interpretation is preferred.
 
-Relationship to Openness:
+## Relationship to Openness
 
 Preferred Stories inform Openness's inquiry into Mental Models, Certainty, interpretation, Epistemic Humility, and Self-Honesty.
 
@@ -43,9 +43,9 @@ Noticing a Preferred Story does not require abandoning it. A well-supported inte
 
 Spiritual Openness may cultivate elective Preferred Stories as meaningful possibilities or ways of living without requiring universal belief.
 
-Examples:
+## Examples
 
-Example - Self:
+### Example — Self
 
 Self sends a message to a friend who often works long hours and receives no reply.
 
@@ -53,7 +53,7 @@ Knowing the friend's circumstances, Self favors the interpretation that the frie
 
 This is a Preferred Story: an interpretation favored for recognizable reasons. It may be reassuring, but reassurance does not establish its truth. Further evidence may support or change the interpretation.
 
-Example - Competing Preferred Stories
+### Example — Competing Preferred Stories
 
 In David Foster Wallace's blizzard parable, an atheist survives after calling upon God for help and encountering people who guide him to safety.
 
@@ -63,15 +63,15 @@ The rescue is common ground; its proposed explanation differs.
 
 Both interpretations can be examined as Preferred Stories. Their preference alone establishes neither explanation, nor does their coexistence make them equally justified.
 
-Example - Undesirable Preferred Story
+### Example — Undesirable Preferred Story
 
-Self's has been ignored repeatedly by a friend over months
+Self has been ignored repeatedly by a friend over months.
 
-They don't desire to end their friendship with this friend.
+Self does not desire the friendship to end.
 
-But Self reluctantly favors the interpretation that the relationship is ending because the evidence supports it, not because they desire it to be true.
+But Self reluctantly favors the interpretation that the relationship is ending because the evidence supports it, not because Self desires it to be true.
 
-Boundary:
+## Boundary
 
 A Preferred Story is not necessarily fictional, mistaken, comforting, consciously chosen, or unjustified.
 

@@ -1,0 +1,102 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-11-05T00:00:00Z
+Status: needs review
+---
+
+# Certainty
+
+## Foundational Definition
+
+Certainty is the condition of regarding something as settled, whether through conviction, justification, or acceptance of a conclusion as sufficient for a particular purpose.
+
+The experience of being certain, the justification for that certainty, and the truth of what is held certain are distinguishable and may diverge.
+
+Certainty may concern a claim, interpretation, expectation, or directly encountered experience. Its scope and grounds may be explicit, implicit, or unexamined.
+
+Certainty may be justified, mistaken, revisable, or appropriately maintained. The possibility of further understanding does not, by itself, establish that an existing certainty is false or unjustified.
+
+## Essential Distinctions
+
+**Certainty versus Truth.** Certainty concerns how something is regarded or justified; Truth concerns whether a claim is true. Certainty does not make a claim true, and a true claim need not be recognized as certain.
+
+**Certainty versus Knowing.** Certainty may accompany or contribute to Knowing without independently establishing it. Whether every form of Knowing requires certainty remains a philosophical question.
+
+**Certainty versus Confidence.** Confidence may admit degrees of strength. Certainty commonly indicates that a conclusion is treated as settled, although what qualifies as sufficient settlement may vary by context. Strong confidence need not exclude all conceivable doubt.
+
+**Certainty versus Finality.** A matter may be considered settled within a defined scope without establishing that no further understanding is possible. Conversely, the possibility of ultimate or final certainty is not excluded merely because many certainties are revisable.
+
+**Certainty versus Commitment.** Choosing or acting upon available understanding does not necessarily entail believing that uncertainty has disappeared. Responsible action may require commitment without certainty.
+
+## Possible Dimensionalizations
+
+**Felt Certainty.** The subjective experience of being certain, including an apparent absence of doubt. Felt Certainty may accompany accurate understanding, mistaken interpretation, or insufficiently examined assumptions. Its intensity does not establish its justification.
+
+**Justified Confidence.** Confidence supported by evidence, reasoning, experience, or other relevant grounds, proportionate to their strength and limitations. It may support certainty within a particular scope or remain strong without becoming absolute. Justified Confidence is therefore closely related to, but not always a subtype of, Certainty.
+
+**Situated Certainty.** A conclusion treated as sufficiently established within identifiable conditions, purposes, evidence, or standards. Its situatedness does not make it false or merely subjective, nor does it automatically establish unrestricted finality.
+
+**Formal or Conditional Certainty.** A conclusion established through valid reasoning from specified premises, definitions, or rules. The conclusion may follow necessarily within that system without independently establishing the truth of every premise or the system's applicability beyond its stated scope.
+
+**Practical Certainty.** A degree of settlement sufficient for a decision or action under particular circumstances. It may be supported by substantial justification without requiring complete knowledge or eliminating every possible alternative.
+
+**Unwarranted Certainty.** Conviction stronger than its available justification supports. It may arise through error, incomplete evidence, mistaken inference, or unexamined assumptions without necessarily involving deliberate resistance to correction.
+
+**Blind Certainty.** Certainty maintained through unrecognized resistance to relevant inquiry or correction, rather than merely through insufficient evidence. For more details about its distinctive mechanisms and implications, see the definition of Blind Certainty.
+
+**Individual versus Collective Certainty.** Certainty may be attributed to an individual judgment or to a collectively maintained conclusion, policy, or institutional position. Collective certainty does not require unified Awareness, and institutional endorsement does not independently establish factual truth or certainty of all members.
+
+## Relationship to Openness
+
+Certainty belongs primarily to Philosophical Openness, supporting inquiry into Knowing, Mental Models, Epistemic Humility, judgment, and the distinction between Truth and belief.
+
+Openness does not require the abandonment of certainty. It encourages examination of what is regarded as settled, why it is regarded as settled, and whether its grounds remain adequate.
+
+The foundational confession—
+
+*For I Know I Do Not Know.*
+
+—does not require doubting everything or denying the possibility of ultimate knowledge. It allows justified certainty while recognizing that confidence in an understanding does not, by itself, establish the completeness or finality of everything upon which that understanding depends.
+
+Certainty becomes especially generative when its grounds, scope, or limitations become available for examination. A justified conclusion may support further inquiry just as an unjustified certainty may obstruct it.
+
+## Examples
+
+### Example — Formal Certainty
+
+Within ordinary arithmetic, 2 + 2 = 4.
+
+The conclusion follows from established mathematical definitions and rules. There is no need to withhold confidence merely because broader philosophical questions about mathematics remain open.
+
+This is an example of justified certainty within a clearly understood framework.
+
+### Example — Felt Certainty Without Adequate Justification
+
+Self sends a message to a close friend and receives no reply.
+
+Self feels certain the friend is angry. The conviction may be emotionally compelling, especially if earlier experiences have made rejection seem likely.
+
+Yet the friend's silence does not establish anger. The feeling of certainty exceeds the available evidence.
+
+Later, Self learns that the friend's phone stopped working.
+
+The new information gives reason to revise the earlier belief. The original Felt Certainty was genuine as an experience without making its interpretation true.
+
+### Example — Situated Certainty and Practical Judgment
+
+A town receives extensive evidence that a bridge is structurally unsafe. Engineers agree that the observed damage warrants immediate closure.
+
+Officials may be justified in treating the bridge's present unsuitability for public traffic as settled and acting accordingly.
+
+They need not know every cause of the damage, every possible repair, or the bridge's eventual future.
+
+The decision can be responsible even while some relevant questions remain unresolved.
+
+## Boundary
+
+Certainty's frequent vulnerability to error should not be taken as proof that all certainty is unjustified, that knowledge must remain permanently uncertain, or that ultimate certainty is impossible.
+
+A certainty may be legitimate within its scope while remaining open to examination of that scope.
+
+The purpose of distinguishing forms and grounds of Certainty is not to make uncertainty compulsory, but to make discernment possible between what is felt, what is justified, what is settled, and what remains open.
