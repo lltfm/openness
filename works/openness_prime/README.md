@@ -140,6 +140,7 @@ Openness Prime is still under construction and in early development. Below are s
     * Models **Fiat Form** (discloses its act of creation explicitly)
     * Models **Fiat Anchor** (creating immaterial conceptual unity explicitly)
     * Models **Experiential Derivation** from **Not-Knowing** (reader can self-validate)
+    * Models **Analogical Projection** of **The Mind** into the world
 - Spiritual
   - [Love](functions/spiritual/definitions/defining_love.md) — "Let love be defined as at least this: attention given freely; but also perhaps more?"
     * Recommended exemplar
