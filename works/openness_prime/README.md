@@ -131,19 +131,22 @@ Additionally, each function in Openness provides roles that help explore the emb
 Openness Prime is still under construction and in early development. Below are some works mature enough for early review:
 
 - Generative
-  - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md)
-  - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md)
+  - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md) — "Let there be form..."
+  - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md) — "Let there be a conceptual unity..."
 - Philosophical
-  - [The Mind](functions/philosphical/definitions/defining_the_mind.md)
+  - [The Mind](functions/philosphical/definitions/defining_the_mind.md) — "Let the mind be a conceptual unity of mental processes..."
     * Recommended exemplar
-    * Models **Epistemic Remembering** (who created this idea?)
-    * Models **Fiat Anchor** (explicit immaterial conceptual unity)
-    * Models **Experiential Derivation** (reader can self-validate)
+    * Models **Epistemic Remembering** (can we remember the creation of this idea?)
+    * Models **Fiat Form** (discloses its act of creation explicitly)
+    * Models **Fiat Anchor** (creating immaterial conceptual unity explicitly)
+    * Models **Experiential Derivation** from **Not-Knowing** (reader can self-validate)
 - Spiritual
-  - [Love](functions/spiritual/definitions/defining_love.md)
+  - [Love](functions/spiritual/definitions/defining_love.md) — "Let love be defined as at least this: attention given freely; but also perhaps more?"
     * Recommended exemplar
+    * Models **Fiat Form** (discloses its act of creation explicitly)
     * Models **Preferential Inhabitation** (optional alternative to belief)
     * Models unfolding an **Anchored Ambiguity** into common words (e.g. empathy, kindness, romantic love, etc.)
+    * Models **Experiential Derivation** from **Not-Knowing** (reader can self-validate)
     * Models allowing readers to a different **Perspective-Taking** than Openness itself
 - Transcendent
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
