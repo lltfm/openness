@@ -173,7 +173,8 @@ Human originators are encouraged to spend more time **reviewing and discussing c
 
 ### Authorship and AI
 Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
-**Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. **Approval of a file means that contributors' work meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.**
+
+**Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. **Approval of a file means that contributors' work (typically AI) meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.**
 
 **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
 
