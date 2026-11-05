@@ -166,16 +166,18 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 
 **Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
 
-> **Note on AI Usage** — Openness Prime aspires to be a high-fidelity software *"Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
-> Human originators are encouraged to spend more time **reviewing and discussing content** with contributors than manually editing, resolving issues through dialogue and preferably consensus with all contributors (typically AI). With the necessary context, skills, and rules, AI may regenerate individual files or the entire project for new fundamental concepts all while preserving definitions and conceptual continuity among existing concepts and other generated works.
+### AI Usage
+While other Openness works may not embrace AI, Openness Prime preferentially embraces AI for all of its writing since it aspires to be a high-fidelity *software "Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
 
-> **Note on Authorship and AI** — Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
->
-> **Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. **Approval means that contributors' work meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.**
->
-> **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
->
-> These records may change as files evolve. They distinguish **who contributed to the content from who originated, reviewed and approved the content (and remains ultimately responsible for it)**, without requiring these two roles to belong to the same participant.
+Human originators are encouraged to spend more time **reviewing and discussing content** with contributors (typically AI) than manually editing, resolving issues through dialogue and preferably consensus with contributors. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project for new fundamental concepts all while preserving definitions and conceptual continuity among existing concepts and other generated works.
+
+### Authorship and AI
+Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
+**Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. **Approval of a file means that contributors' work meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.**
+
+**Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
+
+These records may change as files evolve. They distinguish **who contributed to the content from who originated, reviewed and approved the content (and remains ultimately responsible for it)**, without requiring these two roles to belong to the same participant.
 
 ## Commitments and Boundaries
 
