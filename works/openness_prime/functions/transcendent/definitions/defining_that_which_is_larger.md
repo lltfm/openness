@@ -2,7 +2,7 @@
 Originator: gdl
 Contributors: ChatGPT-6
 When: 2026-10-04T00:00:00Z
-Status: needs review
+Status: needs final review;tentatively accepted
 ---
 
 # That Which Is Larger
