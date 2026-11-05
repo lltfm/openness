@@ -178,7 +178,7 @@ Openness Prime records authorship through **Originators** and **Contributors**, 
 
 **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
 
-These records may change as files evolve. They distinguish **who contributed to the content from who originated, reviewed and approved the content (and remains ultimately responsible for it)**, without requiring these two roles to belong to the same participant.
+These records may change as files evolve. They distinguish **who contributed to the content from who originated, reviewed and approved the content (and who remains ultimately responsible for it)**, without requiring these two roles to belong to the same participant.
 
 ## Commitments and Boundaries
 
