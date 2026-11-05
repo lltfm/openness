@@ -143,7 +143,7 @@ Openness Prime is still under construction and in early development. Below are s
   - [Love](functions/spiritual/definitions/defining_love.md)
     * Recommended exemplar
     * Models **Preferential Inhabitation** (optional alternative to belief)
-    * Models unfolding an **Anchored Ambiguity** into common occurrences (e.g. empathy, kindness, romantic love, etc.)
+    * Models unfolding an **Anchored Ambiguity** into common words (e.g. empathy, kindness, romantic love, etc.)
     * Models allowing readers to a different **Perspective-Taking** than Openness itself
 - Transcendent
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
