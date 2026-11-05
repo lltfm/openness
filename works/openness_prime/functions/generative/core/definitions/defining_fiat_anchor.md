@@ -2,7 +2,7 @@
 Originator: gdl
 Contributors: ChatGPT-6, gdl
 When: 2026-11-04T00:00:00Z
-Status: accepted
+Status: approved
 ---
 
 # Fiat Anchor
