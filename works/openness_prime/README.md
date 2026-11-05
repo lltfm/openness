@@ -167,7 +167,7 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 **Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
 
 ### AI Usage
-While other Openness works may not embrace AI, Openness Prime preferentially embraces AI for all of its writing since it aspires to be a high-fidelity *software "Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
+While other Openness works are human authored or AI-assisted, Openness Prime preferentially embraces AI for all of its writing since it aspires to be a high-fidelity *software "Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
 
 Human originators are encouraged to spend more time **reviewing and discussing content** with contributors (typically AI) than manually editing, resolving issues through dialogue and preferably consensus with contributors. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project for new fundamental concepts all while preserving definitions and conceptual continuity among existing concepts and other generated works.
 
