@@ -150,7 +150,7 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 
 **Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
 
-> Note on AI Policy — Openness Prime aspires to be a high-fidelity software *"Bible"* for Openness. Its files should ideally be **AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
+> Note on AI Policy — Openness Prime aspires to be a high-fidelity software *"Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
 > Human originators are encouraged to spend more time **reviewing and discussing** than manually editing, resolving issues through dialogue and preferably consensus with AI. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project while preserving conceptual continuity.
 
 > Note: Authorship and AI — Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
