@@ -167,7 +167,7 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 
 > Note: Authorship and AI — Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
 >
-> **Originators:** The humans who requested a file's generation, listed by frequency of origination (most to least). Originators are responsible for review, approval, and metadata management, including the file's current status if not approved. **If a file is approved by the originator, it indicates to readers that the quality of the work by contributors meets or exceeds the originator's standards.**
+> **Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. Approval means that contributors' work meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.
 >
 > **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
 >
