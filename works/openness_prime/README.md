@@ -117,7 +117,7 @@ We demonstrate our recognition of the limits of our present understanding, our O
 
 **The Symbolic Tree of Openness** expresses the four functions of Openness:
 
-[![Artwork: "The Symbolic Tree of Openness", ChatGPT-6, 2026](images/the_symbolic_tree_of_openness-600px.jpg)](images/the_symbolic_tree_of_openness.jpg)
+[![Artwork: "The Symbolic Tree of Openness", ChatGPT-6, 2026](../../images/the_symbolic_tree_of_openness-600px.jpg)](../../images/the_symbolic_tree_of_openness.jpg)
 
 | Function | Symbol in the Tree | Principal concern | Roles |
 |---|---|---|---|
