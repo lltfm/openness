@@ -167,6 +167,8 @@ Openness does not presume that all interpretations are equally credible, all unc
 
 Openness does not require affirming or denying any particular scientific or supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to the posture, including the freedom to protect oneself or end an encounter.
 
+## Coda
+
 **We may create forms, examine what we understand, live within what we cannot command, and cultivate relationships through which further possibilities become available.**
 
 > **Memento Amaris. On towards death, Self**
