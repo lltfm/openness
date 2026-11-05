@@ -145,9 +145,9 @@ Openness Prime is still under construction and in early development. Below are s
     * Recommended exemplar
     * Models **Fiat Form** (discloses its act of creation explicitly)
     * Models **Preferential Inhabitation** (optional alternative to belief)
-    * Models unfolding an **Anchored Ambiguity** into common words (e.g. empathy, kindness, romantic love, etc.)
+    * Models unfolding an **Anchored Ambiguity** into common language concepts (e.g. empathy, kindness, romantic love, etc.)
     * Models **Experiential Derivation** from **Not-Knowing** (reader can self-validate)
-    * Models allowing readers to a different **Perspective-Taking** than Openness itself
+    * Models inviting readers to **Perspective-Taking** (possibly different than Openness itself)
 - Transcendent
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
 
