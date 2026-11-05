@@ -150,6 +150,17 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 
 **Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
 
+> Note on AI Policy — Openness Prime aspires to be a high-fidelity software *Bible* for Openness. Its files should ideally be **AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
+> Human originators are encouraged to spend more time **reviewing and discussing** than manually editing, resolving issues through dialogue and preferably consensus with AI. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project while preserving conceptual continuity.
+
+> Note: Authorship and AI — Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
+>
+> **Originators:** The humans who requested a file's generation, listed by frequency of origination (most to least). Originators are responsible for review, approval, and metadata management, including the file's current status if not approved.
+>
+> **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
+>
+> These records may change as files evolve. They distinguish **who originated the work, who produced it, and who reviewed and approved it**, without requiring those roles to belong to the same participant.
+
 ## Commitments and Boundaries
 
 Openness does not presume that all interpretations are equally credible, all uncertainty valuable, or every transformation beneficial. It seeks to recognize what can be known, distinguish what remains unresolved, and act responsibly with both. Neither a felt experience nor a compelling interpretation alone establishes its ultimate explanation.
@@ -159,16 +170,3 @@ Openness does not require affirming or denying any particular scientific or supe
 **We may create forms, examine what we understand, live within what we cannot command, and cultivate relationships through which further possibilities become available.**
 
 > **Memento Amaris. On towards death, Self**
-
----
-
-> Note on AI Policy — Openness Prime aspires to be a high-fidelity software *Bible* for Openness. Its files should ideally be **AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
-> Human originators are encouraged to spend more time **reviewing and discussing** than manually editing, resolving issues through dialogue and preferably consensus with AI. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project while preserving conceptual continuity.
-
-> Note: Authorship and AI — Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
-> 
-> **Originators:** The humans who requested a file's generation, listed by frequency of origination (most to least). Originators are responsible for review, approval, and metadata management, including the file's current status if not approved.
-> 
-> **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
-> 
-> These records may change as files evolve. They distinguish **who originated the work, who produced it, and who reviewed and approved it**, without requiring those roles to belong to the same participant.
