@@ -159,7 +159,7 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 >
 > **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
 >
-> These records may change as files evolve. They distinguish **who originated the work, who produced it, and who reviewed and approved it**, without requiring those roles to belong to the same participant.
+> These records may change as files evolve. They distinguish **who originated the work, who contributed to its content, and who reviewed and approved it**, without requiring those roles to belong to the same participant.
 
 ## Commitments and Boundaries
 
