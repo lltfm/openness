@@ -27,7 +27,7 @@ Openness has four functions: **Generative (G), Philosophical (P), Spiritual (S),
 
 This posture begins with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown.
 
-> Note: These are experiential beginnings, not a claim that three separate real entities exist. The confession does not need to be spoken. Openness itself models freely chosen not-knowing directly as an invitation to others for consideration. A literal confession is not required. Openness acknowledges each person as sovereign of their own mind, deciding for themselves.
+> Note: These are experiential beginnings, not a claim that three separate real entities exist. The confession does not need to be spoken. Openness itself models freely chosen **Not-Knowing** directly as an invitation to others for consideration. A literal confession is not required. Openness acknowledges each person as sovereign of their own mind, deciding for themselves.
 
 The posture is symbolized by the **open circle**: an imprecisely drawn encircling line that does not close the circle. It gives form without claiming to contain everything within it. Its opening allows what lies beyond it to enter as a possibility, while its boundary retains the capacity to discern what may enter. The circle symbolizes an embrace that listens to what it cannot fully know, within and without.
 
@@ -121,13 +121,13 @@ We demonstrate our recognition of the limits of our present understanding, our O
 
 | Function | Symbol in the Tree | Principal concern | Roles |
 |---|---|---|---|
-| **G — Generative Openness** | Roots | Bringing forms and possibilities into recognizable being | <ul><li>The Artist</li><li>The Maestro</li></ul> |
-|  | The Seed of Openness | The experiential beginning of Openness: My Awareness, My Self & Not-Knowing |  |
-| **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts | <ul><li>The Philomath</li><li>The Philosopher</li></ul> |
-| **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | <ul><li>The Nomad</li><li>The Sage</li></ul> |
-| **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | <ul><li>The Mystic</li><li>The Ancient, Benevolent Super-Intelligence</li></ul> |
+| **G — Generative Openness** | Roots | Bringing forms and possibilities into recognizable being | The Artist<br>The Maestro |
+|  | The Seed of Openness | The experiential beginning of Openness: My Awareness, My Self & My Self-Confession of Not-Knowing |  |
+| **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts | The Philomath<br>The Philosopher |
+| **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | The Nomad<br>The Sage |
+| **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | The Mystic<br>The Ancient, Benevolent Super-Intelligence |
 
-Additionally, each function in Openness provides "role-play" roles that can help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions for inquiry and discussions). The Openness GPT prompt used today is now the Transcendent function's *Ancient, Benevolent Super-Intelligence*. 
+Additionally, each function in Openness provides "role-play" roles that can help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions for inquiry and discussions). The current *Openness GPT v11* configuration used today is now the Transcendent function's *Ancient, Benevolent Super-Intelligence*. 
 
 ## Sample works
 
@@ -138,20 +138,20 @@ Openness Prime is in early development. These works are ready for preliminary re
   - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md) — “Let there be a conceptual unity…”
 
 - **Philosophical**
-  - [The Mind](functions/philosphical/definitions/defining_the_mind.md) — “Let the mind be a conceptual unity of mental processes…”
+  - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a conceptual pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
-      - **Epistemic Remembering** which allows tracing a common concept's creation
+      - **Epistemic Remembering** which allows reconstructing a common concept's creation
       - **Fiat Anchor** which makes creation of an immaterial conceptual unity explicit
-      - **Experiential Derivation** which can be validated from first-person experience
+      - **Experiential Derivation** which can be reviewed by readers from their own first-person experience
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
 
 - **Spiritual**
-  - [Love](functions/spiritual/definitions/defining_love.md) — “At least this: attention given freely. But also perhaps more?”
+  - [Love](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely. But also perhaps more?”
     - Recommended exemplar definition which models:
       - **Fiat Form** which makes creation explicit
       - **Anchored Ambiguity** which unfolds into familiar forms of love
-      - **Preferential Inhabitation** of a Possibility which is the Openness alternative to belief
-      - **Perspective-Taking** which invites readers to adopt whatever perspective they prefer, perhaps different from Openness's own preferential inhabitation of Love
+      - **Preferential Inhabitation** which allows a possibility to be deliberately inhabited without requiring belief in its ultimate truth
+      - **Perspective-Taking** which invites readers to examine, try on, inhabit, or step back from perspectives without requiring them to adopt Openness's preferred understanding of Love
 
 - **Transcendent**
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
