@@ -13,7 +13,7 @@ Status: approved
 
 Its foundational confession is: **"For I Know I Do Not Know."**
 
-Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and what remains unknown or incompletely understood, both within and beyond our familiar experience, **The Mystery**.
+Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and what remains unknown or incompletely understood **The Mystery**.
 
 **The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
 
