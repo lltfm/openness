@@ -29,11 +29,11 @@ The fundamental **posture of Openness** is *Being open to what is*. It is both t
 
 *Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
-This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy edges of the encircling line represent the embrace of **My Awareness** while the bold, thick line represents **My Self**, this familiar embodied life and the world beyond it.
-
-Its opening acknowledges **Not-Knowing** and makes room for **The Mystery**—what remains unknown or incompletely understood, both within and beyond the familiar boundaries of experience. The circle gives form to an embrace that listens without claiming to contain or fully understand what it encounters.
+This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy edges of the encircling line represent the embrace of **My Awareness** while the bold, thick line represents **My Self**, the familiar embodied life.
 
 ![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
+
+Its opening is my acknowledged **Not-Knowing** which makes room for **The Mystery**—what remains unknown or incompletely understood, both within and beyond the familiar boundaries of experience. The circle gives form to an embrace that listens without claiming to contain or fully understand what it encounters.
 
 Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**, compatible with responsibility and justified boundaries. This does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to walk away.
 
