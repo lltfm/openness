@@ -25,11 +25,9 @@ The fundamental **posture of Openness** is *Being open to what is*. It is both t
 
 > *Being open to what is. Listening. Admitting when we don't know. Questioning certainty. Noticing preferred stories. Imagining what might be true. Suspending judgment. Sitting in the discomfort of uncertainty. Holding yet not clinging, allowing space for the flow of The Mystery to unfold. Deciding & acting when we must, but ever returning to Openness.*
 
-### Being open to what is
-
 *Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
-This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of **My Awareness**, our own attention and first-person experience; while the bold, thick parts represent **My Self**, our own familiar embodied life. These blend together into the one line.
+This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of **My Awareness**, our own attention and first-person experience; while the bold, thick parts represent **My Self**, our own familiar embodied life. These blend together into the one encircling line.
 
 ![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
 
@@ -46,52 +44,6 @@ We attend outwardly to another person's words and actions, natural processes, si
 **Listening is neither assent nor surrender.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** Listening does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
 
 > **Openness seeks to listen to what is without closing the heart to what may become.**
-
-### Admitting when we don't know
-
-**My Self-Confession of Not-Knowing**—*For I Know I Do Not Know*—invites a **Self-Honest** accounting of what we have encountered, what we understand, what we infer, and what remains unresolved. This acknowledgment can include the incompleteness of our understanding of our own inward experience as well as the outward world. It does not make ignorance superior to knowledge or require doubting a conclusion merely because more might be imaginable. We can know something meaningfully without knowing everything.
-
-### Questioning certainty
-
-We examine how our confidence arose, which reasons or experiences support it, what it may overlook, and what could appropriately revise it. The aim is not to destroy confidence, but to distinguish warranted conviction from certainty maintained beyond its justification. Some conclusions may withstand examination and deserve to be defended; the possibility of correction does not imply that correction is always needed.
-
-### Noticing preferred stories
-
-We recognize the interpretations and narratives we favor, including those that shape how we understand ourselves and others. A **Preferred Story** may be meaningful, beautiful, fruitful, and perhaps true. Its preference alone neither proves nor disproves it. **Self-Honesty** asks us to notice what we have encountered and what our story adds, and to remain receptive to what the story may obscure.
-
-**Perspective-Taking** makes it possible to observe a perspective, try it on from within, inhabit or identify with it, and step back to reconsider it. Through **Preferential Inhabitation**, a perspective may be consciously chosen as a provisional orientation while inquiry remains incomplete. Such a preference need not become an unquestionable identity, and a preferred story need not become an established truth.
-
-### Imagining what might be true
-
-We explore possibilities that our present explanations do not fully contain. Imagination can disclose new questions, interpretations, relationships, and forms for further inquiry or creation. Yet a possible or resonant account is not thereby established as real. We may contemplate or prefer a possibility without presenting it as a justified conclusion, and we need not treat all imagined possibilities as equally credible.
-
-**The Lens of Openness** makes otherwise overlooked assumptions and possibilities recognizable through deliberate interpretive inquiry. **The Fruit of a Possibility** concerns what follows from engaging with a possibility; **The Fruit of Further Possibility** concerns how that engagement changes what can become possible next. Fruit may be beneficial, harmful, mixed, or uncertain, and does not by itself establish the truth of the possibility that generated it.
-
-### Suspending judgment
-
-Where circumstances permit, we allow an interpretation or decision to remain unsettled while we listen and examine what is available. We may defer a conclusion, hold a provisional position, or decide only what is presently justified. Suspension is not indecision when circumstances require timely action, and some conclusions are sufficiently supported to decide without continually reopening them.
-
-### Sitting in the discomfort of uncertainty
-
-We cultivate the capacity to encounter not-knowing, contradiction, unwanted feelings, and the possibility of being mistaken without making the immediate removal of discomfort our only purpose. Such discomfort may arise from our inward reactions as much as from outward events. We can, however, still take care of ourselves, seek support, or step away at any time while remaining open to what an uncomfortable experience may eventually help us understand.
-
-### Holding yet not clinging
-
-We may embrace a person, an idea, a conviction, or an experience without claiming to possess its entirety or dictate its future. **Holding** allows attention, care, commitment, and discernment; **not clinging** preserves the freedom to recognize change, reconsider what we understand, and allow difference or departure. This does not require abandoning what is justified or precious, but remaining open to what it may yet become.
-
-### Allowing space for the flow of The Mystery to unfold
-
-We allow space for **The Mystery** to unfold by remaining receptive to what may emerge beyond our present understanding, without demanding that reality conform to our expectations or preferred stories. What unfolds may surprise, challenge, disappoint, or transform us, revealing possibilities we had not imagined or understood. **The Mystery** does not promise a higher truth, beneficial transformation, or eventual resolution; allowing space means remaining open to what is, including what may remain unknown.
-
-### Deciding & acting when we must
-
-Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should continue listening while acting wherever possible, recognizing that urgency, commitment, and the demands of action may sometimes limit our opportunities to listen well. Openness does not require permanent hesitation or diluted conviction.
-
-**Preferential Inhabitation** makes explicit how a consciously chosen perspective can guide action without being mistaken for final understanding. Openness seeks to minimize unnecessary preferences in understanding, not to eliminate the commitments needed for responsible living and continuing inquiry.
-
-### But ever returning to Openness
-
-*Returning to Openness* means listening again—to the consequences of action, to others, and to our own inward responses. Listening may confirm a decision, refine it, correct an error, repair harm, or reveal another question. It does not erase responsibility, guarantee reversibility, or require abandoning a sound conclusion.
 
 ## What is not Openness?
 
