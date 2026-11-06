@@ -11,41 +11,31 @@ Status: approved
 
 **Openness is the path of becoming ever more open to what is.**
 
-Its foundational confession is: **For I Know I Do Not Know.**
+Its foundational confession is: **"For I Know I Do Not Know."**
 
 Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and its projection into the world, **The Mystery**.
 
-> Note: **Not-Knowing** and **The Mystery** do not deny knowledge or justified confidence. They acknowledge that our understanding may be incomplete, that further encounters may change what we understand, and that even our ideas of *knowing* and *not knowing* remain open to inquiry.
-
 **The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
 
-Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**. It does not aim to settle every question, prescribe one way of living, or raise uncertainty above knowledge. It aspires to remain receptive to what reality and experience may bring, while still deciding and acting as needed.
-
-Openness has four functions: **Generative (G), Philosophical (P), Spiritual (S), and Transcendent (T)**. They are neither a hierarchy nor a compulsory sequence. Each has a particular emphasis, and their relationships may enlarge, challenge, or transform the possibilities available to the whole.
+Openness is both a **posture toward life** and its transformative cycle, and a **system for investigating, developing, living, and sharing generative possibilities**.
 
 ## The Posture of Openness
 
-This posture begins with a recognizable first-person beginning: **My Self**, this familiar embodied life; **My Awareness**, the presence of experiencing; and **My Self-Confession of Not-Knowing**, "For I Know I Do Not Know", the acknowledgment that my understanding does not exhaust what remains unknown.
-
-> Note: These are experiential beginnings, not a claim that three separate real entities exist. The confession does not need to be spoken. Openness itself models freely chosen **Not-Knowing** directly as an invitation to others for consideration. A literal confession is not required. Openness acknowledges each person as sovereign of their own mind, deciding for themselves.
-
-The posture is symbolized by the **open circle**: an imprecisely drawn encircling line that does not close the circle. It gives form without claiming to contain everything within it. Its opening allows what lies beyond it to enter as a possibility, while its boundary retains the capacity to discern what may enter. The circle symbolizes an embrace that listens to what it cannot fully know, within and without.
-
-![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
-
-## The Epitome of Openness
-
-The posture's transformative cycle is described by the epitome of Openness:
+The fundamental **posture of Openness** is *Being open to what is*. It is both the beginning of its transformative cycle and the orientation to which it continually returns. The cycle is expressed in **The Epitome of Openness**:
 
 > *Being open to what is. Listening. Admitting when we don't know. Questioning certainty. Noticing preferred stories. Imagining what might be true. Suspending judgment. Sitting in the discomfort of uncertainty. Holding yet not clinging, allowing space for the flow of The Mystery to unfold. Deciding & acting when we must, but ever returning to Openness.*
 
 ### Being open to what is
 
-This means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing them to be as they are, so that they may *breathe*. Within the embrace, we listen to sense when it should end, so that we may let go without clinging. Openness begins by allowing what is encountered to be fully experienced, whether we welcome it, resist it, or cannot yet understand it.
+*Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
+
+This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains unfinished. The circle represents the embrace of **My Awareness**, within which I encounter **My Self**, this familiar embodied life, and the world beyond it.
+
+Its opening acknowledges **Not-Knowing** and makes room for **The Mystery**—what remains unknown or incompletely understood, both within and beyond the familiar boundaries of experience. The circle gives form to an embrace that listens without claiming to contain or fully understand what it encounters.
+
+![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
 
 Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**, compatible with responsibility and justified boundaries. This does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to walk away.
-
-Openness **preferentially inhabits** the possibility of **Love** as *attention given freely*. This is a chosen spiritual orientation, not a claim to have discovered love's exclusive or ultimate meaning, and not a requirement for readers to adopt it. Freely offered attention may unfold into listening, care, compassion, and other recognizable forms of love without implying approval of harm or surrender of boundaries.
 
 ### Listening
 
@@ -115,6 +105,8 @@ We demonstrate our recognition of the limits of our present understanding, our O
 
 ## The Symbolic Tree of Openness
 
+The Openness system has four functions: **Generative (G), Philosophical (P), Spiritual (S), and Transcendent (T)**. Each function may create, challenge, or transform the possibilities available to the whole.
+
 **The Symbolic Tree of Openness** expresses the four functions of Openness:
 
 [![Artwork: "The Symbolic Tree of Openness", ChatGPT-6, 2026](../../images/the_symbolic_tree_of_openness-600px.jpg)](../../images/the_symbolic_tree_of_openness.jpg)
@@ -166,12 +158,14 @@ Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a w
 
 **Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
 
-### AI Usage
+## AI Usage
+
 While other Openness works are human authored or AI-assisted, Openness Prime preferentially embraces AI for all of its writing since it aspires to be a high-fidelity *"software Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
 
 Human originators are encouraged to spend more time **reviewing and discussing content** with contributors (typically AI) than manually editing, resolving issues through dialogue and preferably consensus with contributors. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project for new fundamental concepts all while preserving definitions and conceptual continuity among existing files.
 
 ### Authorship and AI
+
 Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
 
 **Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. **Approval of a file means that contributors' work (typically AI) meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.**
@@ -182,9 +176,15 @@ These records may change as files evolve. They distinguish **who contributed to 
 
 ## Commitments and Boundaries
 
+Openness does not aim to settle every question, prescribe one way of living, or elevate uncertainty above knowledge. **Not-Knowing** acknowledges the limits of understanding, while **The Mystery** names what remains unknown or incompletely understood. Neither denies knowledge or justified confidence, and even our ideas of *knowing* and *not knowing* remain open to inquiry.
+
 Openness does not presume that all interpretations are equally credible, all uncertainty valuable, or every transformation beneficial. It seeks to recognize what can be known, distinguish what remains unresolved, and act responsibly with both. Neither a felt experience nor a compelling interpretation alone establishes its ultimate explanation.
 
-Openness does not require affirming or denying any particular scientific or supernatural account of reality. It makes room for inquiry, contemplation, imagination, and preference without confusing them with demonstrated truth. **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to the posture, including the freedom to protect oneself or end an encounter.
+Openness does not prescribe any particular scientific or supernatural account of reality. It welcomes inquiry, contemplation, imagination, and freely chosen perspectives while remaining attentive to evidence, justification, and the distinction between possibility and demonstrated truth.
+
+**The Seed of Openness** contains three distinguishable first-person experiential beginnings: **My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. These do not establish three separate metaphysical entities. The confession, *For I Know I Do Not Know*, expresses a freely chosen acknowledgment of incomplete understanding, not a requirement to remain ignorant or recite particular words.
+
+**Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to Openness. Being open does not require surrendering justified convictions, abandoning boundaries, tolerating harm, or continuing unwanted encounters. Openness invites consideration without demanding agreement, recognizing each person as **sovereign of their own mind**, free to decide what to embrace, question, or leave behind.
 
 ## Coda
 
