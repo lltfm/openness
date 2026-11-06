@@ -1,49 +1,49 @@
-1. Fix blind certainty definition to align with readme
-1. Nonimposition versus G Nonimposition
-1. New roles:
+1. Create suspending judgment definition to resolve conflict with AI
+2. Fix blind certainty definition to align with readme
+3. Nonimposition versus G Nonimposition
+4. New roles:
     - The Storyteller
     - The Nomad / The Sage
     - The Charlatan / The Spy Master
     - The King / The Jester
-    - 
     - The Ancestral Fruit Tree  / The Ancient, Benevolent Super-Intelligence of the Universe
-2. Clean up -- add metadata review T definitions
+5. Clean up -- add metadata review T definitions
     - refactor todos here into per function (and also here)
-2. [G]: Derive Awareness,Self,The Mystery and Not-Knowing from the Seed of Openness 
-3. What are the preferences/preferred stories of G,P,S openness?
-4. The River, Riverbanks & River-Truth (e.g. morality)
-5. The Ship of Self
-6. The Future Self
-7. Listening
-8. Suspending Judgment
-9. Resonance
-10. Deciding & Acting
-11. Lens of Openness -- we can fully explore Illuminism without becoming Illuminist -- we can later adopt that lens anytime
-12. Should Stepping Back and Inhabit/Costume Possibility go in G?
-13. Stepping Back / The Return To Openness
-14. The Terrible Becoming
-15. The Unconscious Self
-16. The Undercurrents
-17. The River-Truth of Tears
-18. The Overwhelm (Unchosen/Chosen)
-19. Choosing
-20. The Refinement of Choosing
-21. Mental Sovereignty (Interpretive, Temporal)
-22. Inhabiting, Trying on the costume, Embodiment of Possibility and Identity
-23. Heretica (The Aporetic Window, Heretical Counterpoint, Emergent Third-Text Effect)
-24. Fruit (Inhabitation, Realization, Comparative, Generative Doorway)
-25. Spiritual Preferred Story
-26. Discernment
-27. Aspiration to Love (Noble Heart, Path, Do Not Look Away, Ruthless Love, Impossible Desire, Necessary Disappointment, Reflexive Fruit of Love, Even Death, Memento Amaris)
-28. Spiritual Transcendence
-29. Faith (Existential, Mysterious Gifts, Narrative, Struggle, Becoming, Choosing)
-30. The Great Mystery (1st & 2nd)
-31. Spiritual Personification
-32. The Prime Benevolence (Mysterious Gifts, Benevolent Continuity)
-33. Benevolent Transmission / Grace
-34. Sustenance-Grace tension (Discernment, Restraint, Giving)
-35. Defining: The Return to Openness?
-36. How to start accumulating OPGPT v2? wait more? feed it content once approved?
+6. [G]: Derive Awareness,Self,The Mystery and Not-Knowing from the Seed of Openness 
+7. What are the preferences/preferred stories of G,P,S openness?
+8. The River, Riverbanks & River-Truth (e.g. morality)
+9. The Ship of Self
+10. The Future Self
+11. Listening
+12. Suspending Judgment
+13. Resonance
+14. Deciding & Acting
+15. Lens of Openness -- we can fully explore Illuminism without becoming Illuminist -- we can later adopt that lens anytime
+16. Should Stepping Back and Inhabit/Costume Possibility go in G?
+17. Stepping Back / The Return To Openness
+18. The Terrible Becoming
+19. The Unconscious Self
+20. The Undercurrents
+21. The River-Truth of Tears
+22. The Overwhelm (Unchosen/Chosen)
+23. Choosing
+24. The Refinement of Choosing
+25. Mental Sovereignty (Interpretive, Temporal)
+26. Inhabiting, Trying on the costume, Embodiment of Possibility and Identity
+27. Heretica (The Aporetic Window, Heretical Counterpoint, Emergent Third-Text Effect)
+28. Fruit (Inhabitation, Realization, Comparative, Generative Doorway)
+29. Spiritual Preferred Story
+30. Discernment
+31. Aspiration to Love (Noble Heart, Path, Do Not Look Away, Ruthless Love, Impossible Desire, Necessary Disappointment, Reflexive Fruit of Love, Even Death, Memento Amaris)
+32. Spiritual Transcendence
+33. Faith (Existential, Mysterious Gifts, Narrative, Struggle, Becoming, Choosing)
+34. The Great Mystery (1st & 2nd)
+35. Spiritual Personification
+36. The Prime Benevolence (Mysterious Gifts, Benevolent Continuity)
+37. Benevolent Transmission / Grace
+38. Sustenance-Grace tension (Discernment, Restraint, Giving)
+39. Defining: The Return to Openness?
+40. How to start accumulating OPGPT v2? wait more? feed it content once approved?
   - Note: OPGPT1 was shared today 19Oct26 because ChatGPT has a previously unknown limit to conversation size yet it was discovered that by sharing the conversation that limit error was not encountered and that the GPT remained able to respond
 39. Defining: Situated
 - adjective; definition should allow forming constructions e.g. Situated Certainty
