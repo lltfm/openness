@@ -15,7 +15,7 @@ Its foundational confession is: **"For I Know I Do Not Know."**
 
 Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and what remains unknown or incompletely understood **The Mystery**.
 
-**The purpose of Openness is transcendence: discovering what more we might understand, create, experience, and become.** It cultivates ways of encountering reality that open further possibilities.
+**The purpose of Openness is transcendence: discovering what more we might understand, create, experience, and become.** It cultivates ways of encountering reality that open further possibilities. Through Openness, we may become more capable of listening, recognizing our assumptions, responding to uncertainty, acting with greater freedom, and discovering possibilities that our familiar ways of understanding once concealed.
 
 Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**.
 
@@ -33,7 +33,7 @@ This posture is symbolized by the **open circle**: an imprecisely drawn, encircl
 
 The opening symbolizes **My Self-Confession of Not-Knowing**, through which we acknowledge the limits of our own understanding and remain receptive to **The Mystery**—what remains unknown or incompletely understood, both within and beyond our own familiar experience.
 
-Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**. However, this does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to establish boundaries or walk away.
+Openness aspires to **Nonimposition**: to give the world *the greatest possible latitude to be as it is*. This aspiration includes ourselves. We honor our own freedom to care for ourselves, establish boundaries, protect what matters, and walk away when we choose. We meet the world as it is while retaining the freedom to respond to it and help shape it.
 
 ### Listening
 
@@ -41,7 +41,7 @@ Listening is central to Openness. To listen openly is to attend **inward and out
 
 When we listen openly, we attend outwardly to others’ words, actions, silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important internal disagreement without automatically disengaging, or arguing, or projecting their intentions.
 
-**Listening is neither assent nor surrender.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** 
+**Listening preserves our freedom to respond.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** 
 
 But listening openly does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
 
@@ -49,13 +49,19 @@ But listening openly does not require endless exposure, emotional overwhelm, or 
 
 ## What is not Openness?
 
-Openness is not agreement with every claim, unlimited receptivity, compulsory doubt, indifference to truth, or a refusal to choose. It does not demand that we surrender boundaries or treat harmful conduct as acceptable. It does not require entertaining every imaginable explanation indefinitely, nor does it claim that novelty, uncertainty, or transformation is automatically good.
+Openness is not agreement with every claim, endless receptivity or doubt, indifference to truth, or a refusal to decide or act. It welcomes evidence, cultivates well-grounded preferences, and embraces the freedom to establish boundaries, protect ourselves or others, and act decisively when life requires it. 
 
-**Closedness** is the refusal or inability, within some relevant part of our thinking or living, to listen during an encounter, to a question, or to a feeling. A person can be open in one respect and closed in another; closedness need not define the whole person. At times we must justifiably limit attention, end a relationship, or act decisively. Though such necessary boundaries can become closedness when we remain unwilling to reconsider relevant evidence or understanding even when it is safe and appropriate to do so.
+**Closedness** is a narrowing or withholding of receptivity within some part of our thinking or being. We may be open in one respect and closed in another. Closedness can arise from fear, habit, conviction, exhaustion, or the practical necessity of choosing and acting.
 
-**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, preferred story, or familiar interpretation for the whole of reality without noticing that alternatives or relevant evidence have already been excluded; without noticing our unawareness itself. **Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Becoming aware of closedness interrupts this blindness—a purely mental act—a recognition that does not, by itself, guarantee that the closedness has been overcome.
+Indeed, **deciding and acting require some degree of closedness**. To act effectively, we often need to commit ourselves to a course of action while setting aside other possibilities. Such closedness can be appropriate, necessary, and fruitful. Within **The Transformative Cycle of Openness**, we embrace this practical necessity while cultivating the capacity to return to openness when our actions are complete or when we recognize that our closedness may no longer serve us.
 
-We demonstrate our recognition of the limits of our present understanding, our Openness, to others and ourselves by choosing to listen. Listening is the embodied demonstration of the **Self-Confession of Not-Knowing**, "For I Know I Do Not Know."
+**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, or familiar interpretation for the whole of reality without noticing our unawareness itself.
+
+**Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Becoming aware of closedness interrupts this blindness—a purely mental act—a recognition that does not, by itself, guarantee that the closedness has been overcome.
+
+**Recognizing our closedness is itself an opening.** The moment we become aware of a previously unnoticed resistance, something that was hidden within our own understanding becomes available for examination. This recognition is a beginning. We may still struggle to listen, reconsider, or relinquish what we have been holding. Yet the possibility of returning to openness has become recognizable.
+
+**We give our Self-Confession of Not-Knowing lived expression when we choose to listen.** Listening demonstrates, to ourselves and others, our willingness to encounter what may exceed our present understanding.
 
 ## The Symbolic Tree of Openness
 
