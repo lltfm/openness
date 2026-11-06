@@ -13,11 +13,11 @@ Status: approved
 
 Its foundational confession is: **"For I Know I Do Not Know."**
 
-Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and its projection into the world, **The Mystery**.
+Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and its projection both within and without, **The Mystery**.
 
 **The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
 
-Openness is both a **posture toward life** and its transformative cycle, and a **system for investigating, developing, living, and sharing generative possibilities**.
+Openness is both a **posture toward life** which transforms and repeats, and a **system for investigating, developing, living, and sharing generative possibilities**.
 
 ## The Posture of Openness
 
@@ -29,7 +29,7 @@ The fundamental **posture of Openness** is *Being open to what is*. It is both t
 
 *Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
-This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains unfinished. The circle represents the embrace of **My Awareness**, within which I encounter **My Self**, this familiar embodied life, and the world beyond it.
+This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains unfinished. The circle represents the embrace of **My Awareness**, within which I may encounter **My Self**, this familiar embodied life and the world beyond it.
 
 Its opening acknowledges **Not-Knowing** and makes room for **The Mystery**—what remains unknown or incompletely understood, both within and beyond the familiar boundaries of experience. The circle gives form to an embrace that listens without claiming to contain or fully understand what it encounters.
 
