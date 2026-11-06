@@ -1,3 +1,10 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-11-06T00:00:00Z
+Status: needs review
+---
+
 # Preferential Inhabitation
 
 ## Prelude
@@ -6,13 +13,13 @@
 
 *Still, there is a path to walk.*
 
-*Choose where to stand without declaring that the ground beneath that choice is all the ground there is.*
+*Prefer a place from which to look without deciding that it is all the ground there is.*
 
 ## Foundational Definition
 
-**Preferential Inhabitation** — The aware, deliberate adoption or reaffirmation of a perspective as a preferred orientation for living or inquiry while recognizing that understanding remains incomplete and the perspective may be examined, compared with alternatives, revised, or relinquished.
+**Preferential Inhabitation** — The aware, deliberate inhabitation or reaffirmation of a perspective as a preferred orientation for living or inquiry **while Suspending Judgment**, recognizing that understanding remains incomplete and that the perspective may be examined, compared with alternatives, revised, or relinquished without a permanent epistemic decision.
 
-**Preferential Inhabitation** makes recognizable the practical choice to live from within a perspective before inquiry can be completed. It offers a preferred *way of proceeding*, not a certificate that the chosen perspective is uniquely true. Within Openness, it is a particularly valuable possible outcome of **Perspective-Taking** when suspension of judgment or action cannot continue indefinitely.
+**Preferential Inhabitation** makes recognizable how a person can inhabit a preferred perspective **while Suspending Judgment continues**. It offers a preferred *way of proceeding*, not a certificate that the perspective is uniquely true or a decision that its inquiry must end. Within Openness, it is a possible movement of **Perspective-Taking** under the standing default of suspension—not an alternative adopted only when suspension can no longer continue. Necessary practical decisions may follow, but are distinguishable from the preference itself.
 
 #### Examples
 
@@ -28,31 +35,31 @@
 
 **Preferential** identifies what is selected, not what reality is obligated to be. A preference may be reasonable, provisional, deeply valued, poorly supported, or later abandoned. Declaring a perspective *preferred* does not upgrade an inference into evidence, establish its truth, or give its holder authority over anyone else's perspective.
 
-**Inhabitation** makes the difference between merely finding an idea interesting and allowing it to inform attention, interpretation, judgment, or action. A person may choose a perspective yet find it difficult to inhabit consistently. Conversely, a well-established habit may guide conduct before the person recognizes its chosen or inherited character. **Preferential Inhabitation** concerns a deliberate adoption or reaffirmation, not all habitual inhabitation.
+**Inhabitation** makes the difference between merely finding an idea interesting and allowing it to inform attention, interpretation, preference, or action. A person may consciously prefer a perspective yet find it difficult to inhabit consistently. Conversely, a well-established habit may guide conduct before the person recognizes its chosen or inherited character. **Preferential Inhabitation** concerns a deliberate adoption or reaffirmation, not all habitual inhabitation.
 
-The **awareness** required here is awareness that a choice among possible standpoints is being made. It does not require complete knowledge of the perspective, of its consequences, or of all the forces that shaped the choice. A perspective once deliberately adopted may later become unexamined habit; when that occurs, **Epistemic Remembering** and renewed **Perspective-Taking** may recover its chosen character. A previously unchosen standpoint can also become preferentially inhabited through conscious reaffirmation.
+The **awareness** required here is awareness that a preference among possible standpoints is being formed or reaffirmed. It does not require complete knowledge of the perspective, of its consequences, or of all the forces that shaped the choice. A perspective once deliberately adopted may later become unexamined habit; when that occurs, **Epistemic Remembering** and renewed **Perspective-Taking** may recover its chosen character. A previously unchosen standpoint can also become preferentially inhabited through conscious reaffirmation.
 
 The **incompleteness of inquiry** is not necessarily a crisis of evidence. It can coexist with strongly justified knowledge and responsible practical commitments. A scientist can use a well-supported theory, a clinician can make an evidence-informed decision, and a person can remain committed to another without possessing certainty about every consequence. **Preferential Inhabitation** does not demand artificial doubt where evidence is strong.
 
-P seeks to **minimize preferences** in a specific sense: reduce assumptions and allegiances that unnecessarily narrow what can be encountered or assessed. It does not require eliminating every preference, feeling, value, decision, or commitment. Living continues while inquiry remains unfinished. A consciously maintained preference may therefore be more transparent and more open to correction than an unrecognized orientation presented as inevitable truth.
+P seeks to **minimize unnecessary or distorting preferences** in a specific sense: reduce assumptions and allegiances that unnecessarily narrow what can be encountered or assessed. It does not seek to eliminate evidence-informed preferences; P develops and examines them without deciding what reality must be. Necessary practical decisions and commitments belong to living, not to the ordinary endpoint of P inquiry. A consciously maintained preference may therefore be more transparent and more open to correction than an unrecognized orientation presented as inevitable truth.
 
 **Preferential Inhabitation** can be sustained, intermittent, or context-specific. Several preferred perspectives may coexist, provided their tensions remain examinable. When two conflict, **Discernment** may favor one in a particular context without pretending that this settles every possible question.
 
 For **S — Spiritual Openness** and **T — Transcendent Openness**, preferences may be deliberately embraced as contemplative or transformative orientations. Openness may, for instance, preferentially inhabit **Love** as *attention given freely*, exploring further possible expressions and realizations under its **Anchored Ambiguity**. Such inhabitation is an invitation, not a required religious, metaphysical, or moral identity for everyone who engages with Openness.
 
-### A Practical Movement: Choose, Inhabit, Reencounter
+### A Possible Movement: Prefer, Inhabit, Reencounter
 
-A useful possible movement is to recognize available perspectives through **Perspective-Taking**, examine their grounding through **Discernment**, choose one as an operative preference, and revisit it when experience, evidence, or consequences call for renewed inquiry. This is not a fixed Method or a guarantee of wise choice. Sometimes the most responsible preferred orientation is to suspend a conclusion while still choosing a prudent action.
+A useful possible movement is to recognize available perspectives through **Perspective-Taking**, examine their grounding through **Discernment**, **prefer and inhabit** one as an operative orientation, and remain open to further encounter. This is not a fixed Method or a guarantee of wise preference. **Suspending Judgment remains the default throughout.** When practical action requires a decision, one may decide and act, and afterward un-decide unnecessary identification without having to abandon the preferred perspective.
 
-## Experiential Derivation: Incomplete Inquiry and the Need to Proceed
+## Experiential Derivation: Preference Within Suspension
 
-The following first-person passage illustrates a possible recognition of **Preferential Inhabitation**. It is an invitation to examine the relation between uncertainty and choice, not a required history of anyone's decisions.
+The following first-person passage illustrates a possible recognition of **Preferential Inhabitation**. It explores preference within continuous **Suspending Judgment**, not a required history of anyone's decisions.
 
-**1. An unsettled question.** I encounter competing explanations or possible ways of acting. Some are better supported than others, but I cannot know every consequence or settle every question before the next decision arrives.
+**1. An unsettled question.** I encounter competing explanations or possible ways of acting. Some are better supported than others, but I cannot know every consequence. Suspending Judgment continues even where the evidence is strong.
 
 **2. Stepping back.** Through **Perspective-Taking**, I notice assumptions already shaping what I prefer. I can try on alternatives without having to treat them as equally justified or erase what I have learned.
 
-**3. Deliberate preference.** I choose or reaffirm a perspective that seems worth living or inquiring from now. I can name my reasons, uncertainties, and the difference between what I hope is true and what the evidence presently supports.
+**3. Deliberate preference.** I prefer or reaffirm a perspective that seems worth living or inquiring from now, without deciding its ultimate truth. I can name my reasons, uncertainties, and the difference between what I hope is true and what the evidence presently supports.
 
 **4. Inhabitation and reencounter.** I proceed from that standpoint while remaining able to notice its limits. A new experience may invite revision, a temporary change of standpoint, or conscious reaffirmation. I need not treat an earlier preference as a permanent identity.
 
@@ -60,15 +67,17 @@ These movements may overlap or unfold differently. They illustrate how we can pr
 
 ## Essential Distinctions
 
+**Preferential Inhabitation versus Suspending Judgment.** A preferred perspective may be inhabited while judgment remains continuously suspended; preference is not an epistemic decision. If a practical decision is necessary, it is made for the action, not as a final determination of the perspective's truth.
+
 **Preferential Inhabitation versus Perspective-Taking.** **Perspective-Taking** encompasses outside observation, temporary inside observation, unchosen inhabitation, identification, and stepping back. **Preferential Inhabitation** is the deliberate selection or reaffirmation of an operative standpoint while leaving its reconsideration possible.
 
-**Preference versus truth.** Choosing a perspective does not establish that its propositions are accurate or its values universally binding. A preference may be grounded in strong evidence, limited reasons, aspiration, or imagination; these grounds are not interchangeable.
+**Preference versus truth.** Preferring a perspective does not establish that its propositions are accurate or its values universally binding. A preference may be grounded in strong evidence, limited reasons, aspiration, or imagination; these grounds are not interchangeable.
 
 **Preference versus belief.** Someone may inhabit a perspective as a working hypothesis or contemplative possibility without assenting to all its claims as facts. Conversely, a well-supported belief may be held without becoming the person's primary lived orientation.
 
-**Awareness at adoption versus continuing self-awareness.** Deliberate choice involves some recognition of the choice when made. Its later persistence as habit does not prove ongoing recognition. **Epistemic Remembering** may restore attention to earlier choices.
+**Awareness at adoption versus continuing self-awareness.** Deliberate preference involves some recognition of the orientation when formed or reaffirmed. Its later persistence as habit does not prove ongoing recognition. **Epistemic Remembering** may restore attention to earlier choices.
 
-**Minimizing preferences versus abolishing them.** P seeks to reduce unnecessary or distorting preferences, not eliminate the standpoints, decisions, and commitments through which human life and inquiry proceed.
+**Minimizing unnecessary preferences versus refusing to prefer.** P may limit preferences that distort inquiry, while actively developing evidence-informed preferences about what seems true and which finite paths of further speculation are worth unfolding. P itself does not decide interpretations for its readers.
 
 **Working commitment versus dogmatism.** A meaningful commitment may be strong, durable, and deeply felt while remaining open to appropriate examination. Reconsiderability does not require perpetual indecision or superficial loyalty.
 
@@ -78,7 +87,7 @@ These movements may overlap or unfold differently. They illustrate how we can pr
 
 **Single versus multiple preferences.** Different contexts may call for different preferred standpoints. Their coexistence does not guarantee that they agree, nor does conflict automatically require a single global perspective to replace them all.
 
-**Preferred Story versus Preferential Inhabitation.** A **Preferred Story** is a deliberately favored narrative. **Preferential Inhabitation** is broader: a chosen standpoint may be a narrative, framework, hypothesis, practice, or spiritual orientation. Choosing a story is not proof that the story's hoped-for events will occur.
+**Preferred Story versus Preferential Inhabitation.** A **Preferred Story** is an interpretation occupying a favored position, sometimes without deliberate adoption. **Preferential Inhabitation** is the aware practice of proceeding within a preferred standpoint—narrative, framework, hypothesis, practice, or spiritual orientation—without deciding its ultimate truth. Favoring a story is not proof that its hoped-for events will occur.
 
 **Personal preference versus collective authority.** An individual's deliberate adoption does not change another person's definitions, a community's **Intersubjective Context**, or the independently existing referent. **Open Stewardship** preserves the difference between adopting a version and silently rewriting it for others.
 
@@ -118,15 +127,15 @@ An investigator selects the best-supported explanation to guide a new experiment
 
 **Preferential Inhabitation** does not ask the investigator to pretend the alternatives are equally likely. It makes the working commitment recognizable as both justified and revisable.
 
-### Example — Conscious Reaffirmation of a Tradition (chosen inheritance)
+### Example — Conscious Reaffirmation of a Tradition (preferred inheritance)
 
 A person notices that their inherited religion has shaped their attention and values for years. After exploring some alternatives, they deliberately reaffirm it as a way of living.
 
-The commitment need not weaken because its adoption is now recognized as a choice. Nor does the act of reaffirmation establish the truth or falsity of its metaphysical claims.
+The commitment need not weaken because its adoption is now recognized as a deliberate preference. Nor does the act of reaffirmation establish the truth or falsity of its metaphysical claims.
 
 ### Example — Openness and Love (spiritual aspiration)
 
-Openness offers **Love** as *attention given freely* and chooses to practice that possibility through presence, listening, and receptive engagement with what is encountered.
+Openness offers **Love** as *attention given freely* and preferentially inhabits that possibility through presence, listening, and receptive engagement with what is encountered.
 
 This is a **Preferential Inhabitation**, not a claim that every other account of love is false. A reader may study the inquiry through **Perspective-Taking** without adopting the same spiritual orientation.
 
@@ -134,7 +143,7 @@ This is a **Preferential Inhabitation**, not a claim that every other account of
 
 Someone faces a difficult decision with incomplete information. They examine the evidence, ask for relevant counsel, and choose the safest well-supported available course, knowing that more may later be learned.
 
-The choice is neither arbitrary nor proof of certainty. It is a working orientation made under the ordinary limits of inquiry.
+The practical decision is neither arbitrary nor proof of final certainty. The orientation supporting it remains a preference; when the action has been taken, unnecessary epistemic deciding can be released without cancelling what was done.
 
 ### Example — Living in Two Stories (multiple contexts)
 
@@ -146,16 +155,16 @@ These perspectives serve different purposes and need not be collapsed into one g
 
 Someone declares, *“I choose to live as though this account is true; therefore everyone must recognize it as reality.”*
 
-The conclusion does not follow. **Preferential Inhabitation** establishes a chosen orientation, not universal authority, evidence about an independent referent, or a right to impose the preference on others.
+The conclusion does not follow. **Preferential Inhabitation** establishes a preferred orientation, not universal authority, evidence about an independent referent, or a right to impose the preference on others.
 
 ## Boundary
 
-**Preferential Inhabitation** is not an assertion that all preferences are equally defensible, that every perspective deserves inhabitation, or that a deliberately adopted view cannot later become dogmatic. Its validity as a choice does not demonstrate the truth of its claims. Nor does a willingness to reconsider compel constant self-doubt or abandonment of justified commitments.
+**Preferential Inhabitation** is not an assertion that all preferences are equally defensible, that every perspective deserves inhabitation, or that a deliberately adopted view cannot later become dogmatic. Its character as a deliberate preference does not demonstrate the truth of its claims. Nor does a willingness to reconsider compel constant self-doubt or abandonment of justified commitments.
 
 Openness may model **Preferential Inhabitation**, especially when aspiring to **Love**, but other people need not prefer that account to observe, analyze, copy, or develop Openness. No participant's personal preference silently changes the meaning stewarded by another person or community.
 
 ## Summary
 
-**Preferential Inhabitation** makes a provisional but meaningful choice possible: to live or inquire from within a preferred perspective while knowing that inquiry remains incomplete and revisable. It is a preferred possible outcome of **Perspective-Taking** when a standpoint must be inhabited even though no final answer is available.
+**Preferential Inhabitation** makes a deliberate preference livable: to inquire or live from within an operative perspective while **Suspending Judgment** remains the default. It is a possible development of **Perspective-Taking**, not an epistemic decision substituted for suspension.
 
-P seeks to minimize unnecessary preferences without denying the need for considered commitments; S and T may embrace some preferences as meaningful orientations for spiritual and transcendent exploration. To choose a perspective is not to declare it final—and to remain open is not to refuse every choice.
+P seeks to minimize unnecessary or distorting preferences while developing responsible, evidence-informed preferences about what to examine. S and T may embrace some perspectives as meaningful lived orientations. **To prefer is not to decide; to act when necessary is not to make a story final.**

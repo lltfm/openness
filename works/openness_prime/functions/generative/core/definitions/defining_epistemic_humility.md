@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-05T00:00:00Z
+When: 2026-11-06T00:00:00Z
 Status: needs review
 ---
 
@@ -17,7 +17,7 @@ Status: needs review
 
 ### Knowing without claiming completeness
 
-A conclusion can be well supported without being infallible. Recognizing possible limitations is not the same as manufacturing doubt about facts already established by strong evidence. **Epistemic Humility** permits confident judgment, comparison of alternatives, and decisive action; it also preserves sensitivity to reasons that would warrant revision.
+A conclusion can be well supported without being infallible. Recognizing possible limitations is not the same as manufacturing doubt about facts already established by strong evidence. **Epistemic Humility** permits strongly evidence-informed preferences, comparison of alternatives, and decisive action when needed; it also preserves sensitivity to reasons that would warrant revision. The standing posture of **Suspending Judgment** remains intact even where an interpretation is overwhelmingly supported.
 
 The discipline may be inspired by **My Self-Confession of Not-Knowing**—*For I Know I Do Not Know*—but it cannot be reduced to repeating a confession. The confession acknowledges incompleteness; humility is partly demonstrated by how an inquirer listens, evaluates objections, adjusts confidence, and responds to correction. The confession need not be spoken or adopted as a literal formula.
 
@@ -29,17 +29,17 @@ The discipline may be inspired by **My Self-Confession of Not-Knowing**—*For I
 
 ### Humility in a chosen orientation
 
-**Preferential Inhabitation** permits a person to choose or reaffirm a perspective for living or inquiry while understanding remains incomplete. **Epistemic Humility** does not require abandoning that perspective. It asks that the preference not become a concealed substitute for evidence, and that **Perspective-Taking** remain available when stepping back or comparing alternatives is warranted.
+**Preferential Inhabitation** permits a person to prefer and inhabit a perspective for living or inquiry **while Suspending Judgment** and recognizing that understanding remains incomplete. **Epistemic Humility** does not require abandoning that perspective. It asks that the preference not become a concealed substitute for evidence, and that **Perspective-Taking** remain available when stepping back or comparing alternatives is warranted.
 
 ## Essential Distinctions
 
 - **Humility versus universal doubt.** Confidence may be strong when available justification is strong; uncertainty should not be introduced merely as a gesture of modesty.
 - **Fallibility versus error.** The possibility of error does not show that a particular claim is false.
 - **Openness versus equivalence.** Considering another account does not grant it comparable plausibility.
-- **Revisability versus indecision.** A judgment or action may be warranted before inquiry is complete.
+- **Revisability versus failure to act.** Openness suspends epistemic judgment by default; a practical decision may nevertheless be necessary before inquiry is complete.
 - **Acknowledgment versus practice.** Saying “I might be wrong” is not the same as fairly examining relevant counterevidence.
 - **Epistemic Humility versus Self-Honesty.** **Self-Honesty** protects the sincere examination and representation of what is understood; **Epistemic Humility** sustains an appropriately revisable and proportionate stance toward it.
-- **Epistemic Humility versus Discernment.** **Discernment** distinguishes relevant meanings, evidence, and choices; humility concerns the fallible inquirer's way of holding and revising judgments.
+- **Epistemic Humility versus Discernment.** **Discernment** distinguishes relevant meanings, evidence, preferences, and choices; humility concerns the fallible inquirer's continuing responsiveness to what may be learned.
 - **Alternative possibilities versus fabricated uncertainty.** A conceivable alternative may merit exploration without weakening a well-supported conclusion.
 - **Being corrected versus being compelled.** Remaining open to justified correction does not require submitting to intimidation, manipulation, endless demands, or ungrounded assertions.
 - **Individual virtue versus institutional practice.** Humility may inform review, replication, and revision within a community, but a stated institutional commitment does not prove its enactment.
@@ -54,13 +54,13 @@ Within **Recursive Becoming**, the Engine may reconsider earlier forms, includin
 
 **G — Generative Openness** explores possibilities without treating novelty as warrant. **P — Philosophical Openness** examines grounds and qualifications for belief. **S — Spiritual Openness** can contemplate, practice, and **preferentially inhabit** a possibility without concealing its epistemic status. **T — Transcendent Openness** may encounter unfamiliar possibilities without assuming that surprise, intensity, or apparent revelation establishes ultimate truth.
 
-The confession of **Not-Knowing** invites this discipline but does not assert that reality is forever unknowable. **The Mystery** names what remains unknown or incompletely understood; its presence neither cancels justified knowledge nor guarantees further revelation.
+The confession of **Not-Knowing** invites this discipline but does not assert that reality is forever unknowable. **The Mystery** names what remains unknown or incompletely understood. Within Openness, permanent uncertainty accompanies every real-world understanding; this neither cancels justified knowledge nor guarantees further revelation.
 
 ## Examples
 
 ### Example — A strong working conclusion
 
-An inquirer prefers an explanation because converging evidence supports it. They say so clearly and use it to guide action, while remaining responsive to credible new information. This can exemplify **Epistemic Humility** without suspending judgment.
+An inquirer prefers an explanation because converging evidence supports it. They say so clearly and use it to guide action, while remaining responsive to credible new information. This can exemplify **Epistemic Humility** **while continuing to suspend judgment**: strong preference and necessary action do not terminate suspension.
 
 ### Example — A preferred spiritual possibility
 

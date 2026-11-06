@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-05T00:00:00Z
+When: 2026-11-06T00:00:00Z
 Status: needs review
 ---
 
@@ -33,13 +33,17 @@ A Preferred Story can be painful or unwelcome. Preferred means favored as an acc
 
 **Preferred Story versus Blind Certainty.** Favoring an interpretation does not necessarily entail resistance to alternatives or correction. Blind Certainty arises when certainty is maintained through unrecognized resistance to relevant inquiry, not merely because an interpretation is preferred.
 
+**Preferred Story versus necessary decision.** A Preferred Story can guide action without itself becoming a decision that reality is finally settled. The decision concerns what to do; the preferred account remains examinable when the need to act has passed.
+
+**Preferred Story versus manufactured allegiance.** Marketing and political rhetoric may press people to convert a currently preferred explanation into an immediate decision, purchase, or identity. **Suspending Judgment** allows preference without accepting another party's demanded closure or timetable.
+
 ## Relationship to Openness
 
-Preferred Stories inform Openness's inquiry into Mental Models, Certainty, interpretation, Epistemic Humility, and Self-Honesty.
+Preferred Stories inform Openness's inquiry into **Mental Models**, **Certainty**, interpretation, **Epistemic Humility**, **Self-Honesty**, and **Suspending Judgment**. The story is what is preferred; Suspending Judgment is Openness's standing refusal to make that preference an unnecessary epistemic decision.
 
 Openness invites recognition of which Stories are preferred, why they are favored, what they may reveal or obscure, and whether their grounds remain adequate.
 
-Noticing a Preferred Story does not require abandoning it. A well-supported interpretation may deserve continued confidence, while an inadequate one may invite reconsideration.
+Noticing a Preferred Story does not require abandoning it. A well-supported interpretation may deserve continued, even overwhelming, confidence, while an inadequate one may invite reconsideration. **Evidence can strengthen preference without ending suspension.**
 
 Spiritual Openness may cultivate elective Preferred Stories as meaningful possibilities or ways of living without requiring universal belief.
 

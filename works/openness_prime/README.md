@@ -15,17 +15,17 @@ Its foundational confession is: **"For I Know I Do Not Know."**
 
 Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and what remains unknown or incompletely understood **The Mystery**.
 
-**The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
+**The purpose of Openness is transcendence: discovering what more we might understand, create, experience, and become.** It cultivates ways of encountering reality that open further possibilities.
 
-Openness is both a **posture toward life** which transforms and repeats, and a **system for investigating, developing, living, and sharing generative possibilities**.
+Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**.
 
 ## The Posture of Openness
 
-The fundamental **posture of Openness** is *Being open to what is*. It is both the beginning of its transformative cycle and the orientation to which it continually returns. The cycle is expressed in **The Epitome of Openness**:
+The fundamental **posture of Openness** is *Being open to what is*. It is both the beginning of its transformative cycle and the orientation to which it continually returns. The cycle is expressed by **The Epitome of Openness**:
 
 > *Being open to what is. Listening. Admitting when we don't know. Questioning certainty. Noticing preferred stories. Imagining what might be true. Suspending judgment. Sitting in the discomfort of uncertainty. Holding yet not clinging, allowing space for the flow of The Mystery to unfold. Deciding & acting when we must, but ever returning to Openness.*
 
-*Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
+*Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen intuitively for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
 This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of **My Awareness**, our own attention and first-person experience; while the bold, thick parts represent **My Self**, our own familiar embodied life. These blend together into the one encircling line.
 
@@ -33,15 +33,17 @@ This posture is symbolized by the **open circle**: an imprecisely drawn, encircl
 
 The opening symbolizes **My Self-Confession of Not-Knowing**, through which we acknowledge the limits of our own understanding and remain receptive to **The Mystery**—what remains unknown or incompletely understood, both within and beyond our own familiar experience.
 
-Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**, compatible with responsibility and justified boundaries. This does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to walk away.
+Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**. However, this does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to establish boundaries or walk away.
 
 ### Listening
 
 Listening is central to Openness. To listen openly is to attend **inward and outward at the same time**: to what is occurring beyond us *and* to what is occurring within our own embodied experience. Neither world is secondary. Our inward world matters just as much as our outward world, even as what we feel within does not by itself establish the causes or meaning of what occurs outside us.
 
-We attend outwardly to another person's words and actions, natural processes, silence, circumstances, testimony, and evidence. At the same time, we attend inwardly to bodily sensations, emotions, intuitions, memories, thoughts, expectations, desires, fears, and the reactions arising as we listen. These encounters can influence one another. Noticing a tightening in the body while hearing someone's words may tell us something important about our own experience without conclusively telling us what the other person intends.
+When we listen openly, we attend outwardly to others’ words, actions, silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important internal disagreement without automatically disengaging, or arguing, or projecting their intentions.
 
-**Listening is neither assent nor surrender.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** Listening does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
+**Listening is neither assent nor surrender.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** 
+
+Listening does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
 
 > **Openness seeks to listen to what is without closing the heart to what may become.**
 

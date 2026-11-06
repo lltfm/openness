@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-05T00:00:00Z
+When: 2026-11-06T00:00:00Z
 Status: needs review
 ---
 
@@ -59,17 +59,17 @@ The foundational confession—
 
 —does not require doubting everything or denying the possibility of ultimate knowledge. It allows justified certainty while recognizing that confidence in an understanding does not, by itself, establish the completeness or finality of everything upon which that understanding depends.
 
-Certainty becomes especially generative when its grounds, scope, or limitations become available for examination. A justified conclusion may support further inquiry just as an unjustified certainty may obstruct it.
+Certainty becomes especially generative when its grounds, scope, or limitations become available for examination. A justified conclusion may support further inquiry just as an unjustified certainty may obstruct it. **Within Openness, evidence can make an interpretation overwhelmingly preferable without making it a permanent epistemic decision.** The concept **Certainty** remains available for examining how people and institutions treat things as settled; Openness does not make such settlement its own default posture.
 
 ## Examples
 
-### Example — Formal Certainty
+### Example — Formal Certainty (and its limits in embodied application)
 
 Within ordinary arithmetic, 2 + 2 = 4.
 
 The conclusion follows from established mathematical definitions and rules. There is no need to withhold confidence merely because broader philosophical questions about mathematics remain open.
 
-This is an example of justified certainty within a clearly understood framework.
+This is an example of justified certainty **as conventionally described within a specified framework**. **Openness suspends judgment about whether purely mental models ultimately express soundness or absolute proof.** Neither the formal derivation nor its conventional description removes permanent uncertainty concerning the representation, interpretation, or application of a model in the real, embodied world.
 
 ### Example — Felt Certainty Without Adequate Justification
 
@@ -99,4 +99,4 @@ Certainty's frequent vulnerability to error should not be taken as proof that al
 
 A certainty may be legitimate within its scope while remaining open to examination of that scope.
 
-The purpose of distinguishing forms and grounds of Certainty is not to make uncertainty compulsory, but to make discernment possible between what is felt, what is justified, what is settled, and what remains open.
+The purpose of distinguishing forms and grounds of **Certainty** is to make discernment possible between what is felt, what is justified, what others treat as settled, and what remains open. **Openness itself suspends epistemic judgment by default, regardless of strength of evidence, and decides only where practical action requires it.** Its permanent uncertainty in the embodied world is not a demand to feign weak evidence or equal plausibility.
