@@ -43,7 +43,7 @@ When we listen openly, we attend outwardly to others’ words, actions, silence;
 
 **Listening is neither assent nor surrender.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** 
 
-Listening does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
+But listening openly does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
 
 > **Openness seeks to listen to what is without closing the heart to what may become.**
 
