@@ -29,7 +29,7 @@ The fundamental **posture of Openness** is *Being open to what is*. It is both t
 
 *Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
-This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy edges of the encircling line represent the embrace of **My Awareness** while the bold, thick line represents **My Self**, the familiar embodied life.
+This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of **My Awareness**, my attention and first-person experience; while the bold, thick parts represent **My Self**, my familiar embodied life. They blend together into the one line.
 
 ![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
 
