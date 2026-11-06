@@ -13,7 +13,7 @@ Status: approved
 
 Its foundational confession is: **"For I Know I Do Not Know."**
 
-Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and its projection both within and without, **The Mystery**.
+Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and what remains unknown or incompletely understood, both within and beyond our familiar experience, **The Mystery**.
 
 **The purpose of Openness is to cultivate ways of encountering reality that make further understanding, wisdom, creation, and becoming possible.**
 
@@ -29,11 +29,11 @@ The fundamental **posture of Openness** is *Being open to what is*. It is both t
 
 *Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
-This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of **My Awareness**, my attention and first-person experience; while the bold, thick parts represent **My Self**, my familiar embodied life. They blend together into the one line.
+This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of **My Awareness**, our own attention and first-person experience; while the bold, thick parts represent **My Self**, our own familiar embodied life. These blend together into the one line.
 
 ![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
 
-Its opening is my acknowledged **Not-Knowing** which makes room for **The Mystery**—what remains unknown or incompletely understood, both within and beyond the familiar boundaries of experience. The circle gives form to an embrace that listens without claiming to contain or fully understand what it encounters.
+The opening symbolizes **My Self-Confession of Not-Knowing**, through which we acknowledge the limits of our own understanding and remain receptive to **The Mystery**—what remains unknown or incompletely understood, both within and beyond our own familiar experience.
 
 Openness aspires to **Nonimposition**: to give the world **the greatest possible latitude to be as it is**, compatible with responsibility and justified boundaries. This does not require surrendering ourselves to harm, relinquishing self-defense, denying what we know, or giving up the freedom to walk away.
 
@@ -85,13 +85,13 @@ We allow space for **The Mystery** to unfold by remaining receptive to what may 
 
 ### Deciding & acting when we must
 
-Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should still listen while acting to the greatest extent possible, but often action itself prevents good listening. Openness does not require permanent hesitation or diluted conviction.
+Living involves decisions and actions amid conditions we cannot completely anticipate or control. We may commit fully to our best **Self-Honest** understanding when action is warranted; waiting for ultimate certainty can itself have consequences. We should continue listening while acting wherever possible, recognizing that urgency, commitment, and the demands of action may sometimes limit our opportunities to listen well. Openness does not require permanent hesitation or diluted conviction.
 
 **Preferential Inhabitation** makes explicit how a consciously chosen perspective can guide action without being mistaken for final understanding. Openness seeks to minimize unnecessary preferences in understanding, not to eliminate the commitments needed for responsible living and continuing inquiry.
 
 ### But ever returning to Openness
 
-Is returning to listening again—to the consequences of action, to others, and to our own inward responses. Listening may confirm a decision, refine it, correct an error, repair harm, or reveal another question. It does not erase responsibility, guarantee reversibility, or require abandoning a sound conclusion.
+*Returning to Openness* means listening again—to the consequences of action, to others, and to our own inward responses. Listening may confirm a decision, refine it, correct an error, repair harm, or reveal another question. It does not erase responsibility, guarantee reversibility, or require abandoning a sound conclusion.
 
 ## What is not Openness?
 
@@ -132,7 +132,7 @@ Openness Prime is in early development. These works are ready for preliminary re
 - **Philosophical**
   - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a conceptual pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
-      - **Epistemic Remembering** which allows reconstructing a common concept's creation
+      - **Epistemic Remembering** which allows re-imagining a common concept's creation
       - **Fiat Anchor** which makes creation of an immaterial conceptual unity explicit
       - **Experiential Derivation** which can be reviewed by readers from their own first-person experience
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
@@ -183,6 +183,8 @@ Openness does not presume that all interpretations are equally credible, all unc
 Openness does not prescribe any particular scientific or supernatural account of reality. It welcomes inquiry, contemplation, imagination, and freely chosen perspectives while remaining attentive to evidence, justification, and the distinction between possibility and demonstrated truth.
 
 **The Seed of Openness** contains three distinguishable first-person experiential beginnings: **My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. These do not establish three separate metaphysical entities. The confession, *For I Know I Do Not Know*, expresses a freely chosen acknowledgment of incomplete understanding, not a requirement to remain ignorant or recite particular words.
+
+The functions of Openness are neither a hierarchy nor a compulsory sequence. Each has a distinctive emphasis, and their reciprocal relationships may enlarge, challenge, or transform the possibilities available to the whole.
 
 **Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to Openness. Being open does not require surrendering justified convictions, abandoning boundaries, tolerating harm, or continuing unwanted encounters. Openness invites consideration without demanding agreement, recognizing each person as **sovereign of their own mind**, free to decide what to embrace, question, or leave behind.
 

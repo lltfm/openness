@@ -1,3 +1,5 @@
+1. Fix blind certainty definition to align with readme
+1. Nonimposition versus G Nonimposition
 1. New roles:
     - The Storyteller
     - The Nomad / The Sage
