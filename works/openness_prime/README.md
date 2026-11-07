@@ -49,19 +49,13 @@ But listening openly does not require endless exposure, emotional overwhelm, or 
 
 ## What is not Openness?
 
-Openness is not agreement with every claim, endless receptivity or doubt, indifference to truth, or a refusal to decide or act. It welcomes evidence, cultivates well-grounded preferences, and embraces the freedom to establish boundaries, protect ourselves or others, and act decisively when life requires it. 
+Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not abandoning discernment, self-protection, or necessary boundaries.
 
-**Closedness** is a narrowing or withholding of receptivity within some part of our thinking or being. We may be open in one respect and closed in another. Closedness can arise from fear, habit, conviction, exhaustion, or the practical necessity of choosing and acting.
+**Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. We may be open in one respect and closed in another. Though some degree of closedness is necessary for focused action, safety, and commitment. The concern is unnoticed closedness, or closedness that persists beyond its purpose.
 
-Indeed, **deciding and acting require some degree of closedness**. To act effectively, we often need to commit ourselves to a course of action while setting aside other possibilities. Such closedness can be appropriate, necessary, and fruitful. Within **The Transformative Cycle of Openness**, we embrace this practical necessity while cultivating the capacity to return to openness when our actions are complete or when we recognize that our closedness may no longer serve us.
+**Blind Certainty** arises from **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, or familiar interpretation for the whole of reality without noticing our closedness or our unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
 
-**Blind Certainty** is particularly consequential: **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, or familiar interpretation for the whole of reality without noticing our unawareness itself.
-
-**Blind Certainty** can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Becoming aware of closedness interrupts this blindness—a purely mental act—a recognition that does not, by itself, guarantee that the closedness has been overcome.
-
-**Recognizing our closedness is itself an opening.** The moment we become aware of a previously unnoticed resistance, something that was hidden within our own understanding becomes available for examination. This recognition is a beginning. We may still struggle to listen, reconsider, or relinquish what we have been holding. Yet the possibility of returning to openness has become recognizable.
-
-**We give our Self-Confession of Not-Knowing lived expression when we choose to listen.** Listening demonstrates, to ourselves and others, our willingness to encounter what may exceed our present understanding.
+**Listening is the embodied demonstration of Not-Knowing.** Through our willingness to listen inwardly and outwardly, we demonstrate to ourselves and others: *For I Know I Do Not Know.*
 
 ## The Symbolic Tree of Openness
 
