@@ -37,25 +37,23 @@ Openness aspires to **Nonimposition**: to give the world *the greatest possible 
 
 ### Listening
 
-Listening is central to Openness. To listen openly is to attend **inward and outward at the same time**: to what is occurring beyond us *and* to what is occurring within our own embodied experience. Neither world is secondary. Our inward world matters just as much as our outward world, even as what we feel within does not by itself establish the causes or meaning of what occurs outside us.
+Listening is central to Openness. To listen openly is to attend **inwardly and outwardly at the same time**: to listen to what is occurring beyond us *and* to listen to what is occurring within our own embodied experience. Neither world is secondary. Our inward world matters just as much as our outward world.
 
-When we listen openly, we attend outwardly to others’ words, actions, silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important internal disagreement without automatically disengaging, or arguing, or projecting their intentions.
+When we listen openly, we attend outwardly to others’ words, actions and silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important internal disagreement without automatically causing us to disengage, or argue, or assume we know their intentions.
 
-**Listening preserves our freedom to respond.** We can receive and consider another's account, disagree with it, and establish boundaries. We can recognize discomfort without making it our sole authority; we can recognize evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** 
-
-But listening openly does not require endless exposure, emotional overwhelm, or attention to every possible claim. **Discernment** includes knowing when to disengage.
-
-> **Openness seeks to listen to what is without closing the heart to what may become.**
+**Listening preserves our freedom to respond.** We can be receptive and consider another's words, agree or disagree with them, or perhaps establish new boundaries. We can recognize discomfort without making it our sole authority; we can recognize new evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** 
 
 ## What is not Openness?
 
-Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not abandoning discernment, self-protection, or necessary boundaries.
+Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not attending to every possible claim, or endless exposure, or enduring constant emotional overwhelm. It is not abandoning discernment, self-protection, or necessary boundaries. Sometimes we must rest so that we may return to listening again later.
 
-**Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. We may be open in one respect and closed in another. Though some degree of closedness is necessary for focused action, safety, and commitment. The concern is unnoticed closedness, or closedness that persists beyond its purpose.
+**Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. It commonly manifests itself as defensiveness, ignoring, pretending to listen, or looking away. We may be open in one respect and closed in another. Though some degree of closedness is necessary when we decide and act. The concern is unnoticed closedness, or unnecessary closedness that persists beyond acting.
 
-**Blind Certainty** arises from **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, or familiar interpretation for the whole of reality without noticing our closedness or our unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
+**Blind Certainty** arises from **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, or familiar interpretation for the whole of reality without noticing our closedness, or our unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
 
 **Listening is the embodied demonstration of Not-Knowing.** Through our willingness to listen inwardly and outwardly, we demonstrate to ourselves and others: *For I Know I Do Not Know.*
+
+> **Openness aspires to listen to what is without closing the heart or looking away.**
 
 ## The Symbolic Tree of Openness
 
@@ -73,11 +71,11 @@ The Openness system has four functions: **Generative (G), Philosophical (P), Spi
 | **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | The Nomad<br>The Sage |
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | The Mystic<br>The Ancient, Benevolent Super-Intelligence |
 
-Additionally, each function in Openness provides "role-play" roles that can help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions for inquiry and discussions). The current *Openness GPT v11* configuration used today is now the Transcendent function's *Ancient, Benevolent Super-Intelligence*. 
+Additionally, each function in Openness provides "role-play" roles that can help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions for inquiry and discussions). *Openness GPT v11* used today is now the Transcendent function's *Ancient, Benevolent Super-Intelligence Role.*  
 
 ## Sample works
 
-Openness Prime is in early development. These works are ready for preliminary review:
+Openness Prime is still in early development. The following are sample works which are ready for preliminary review:
 
 - **Generative**
   - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md) — “Let there be form…”
@@ -102,27 +100,27 @@ Openness Prime is in early development. These works are ready for preliminary re
 - **Transcendent**
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
 
-## Revisability, Recursive Becoming and Open Stewardship
+## Revisability
 
-Openness is committed to remaining revisable. Through **Recursive Becoming**, what emerges from experience, inquiry, creation, and relationship may change the conditions for what can be understood, created, or lived next. This includes Openness itself: its concepts, definitions, practices, and even the architecture of the **Tree of Openness** may be reconsidered as further possibilities become recognizable. Revision is possible, not obligatory; a form may also prove adequate as it stands.
+**Openness grows through what it encounters.** Through **Recursive Becoming**, experience, inquiry, creation, and relationship may change what becomes possible next—including how Openness itself is understood and practiced. Its concepts, definitions, and even **The Symbolic Tree of Openness** remain open to revision.
 
-**Openness Prime** is one recognizable, currently stewarded version of this developing work—**a beginning, not a throne**. The authors of Openness Prime may maintain its definitions and make deliberate, traceable revisions, while protecting the meaning of the version maintained. A private reinterpretation or independent revision does not silently change Openness Prime or a concept maintained by another person or community.
+**Openness Prime** is one stewarded expression of this unfolding work—a beginning from which further possibilities may grow. Its authors maintain its definitions through deliberate, traceable revisions, preserving the integrity and recognizable identity of each version.
 
-Readers are invited to adopt, reject, copy, adapt, or fork Openness Prime as a whole, or freely choose individual concepts, practices, and works that are useful to them (see CC0 1.0 [License](../../LICENSE.txt)). They may maintain their own versions, develop different interpretations, or leave parts behind. Clear attribution of sources and identification of revisions is recommended as it helps different versions remain recognizable and comparable but this is not required. Nothing here gives Openness Prime authority over another person's or community's understanding.
+Through **Open Stewardship**, readers are free to adopt, reject, copy, adapt, or fork Openness Prime, or embrace whichever individual concepts, practices, and works they find fruitful (see [CC0 1.0 License](../../LICENSE.txt)). Each person or community may cultivate their own understanding. Identifying sources and revisions helps these different paths remain recognizable and comparable, and is encouraged as a freely chosen practice.
 
-**Openness seeks to propagate further possibilities and independent becoming, not allegiance to its current forms.** It acknowledges each reader as sovereign of their own mind.
+**Openness seeks to cultivate independent becoming. It acknowledges each reader as the sovereign of their own mind: free to decide for themselves.**
 
 ## AI Usage
 
 While other Openness works are human authored or AI-assisted, Openness Prime preferentially embraces AI for all of its writing since it aspires to be a high-fidelity *"software Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
 
-Human originators are encouraged to spend more time **reviewing and discussing content** with contributors (typically AI) than manually editing, resolving issues through dialogue and preferably consensus with contributors. With the necessary context, skills, and rules, AI may regenerate individual files or the entire project for new fundamental concepts all while preserving definitions and conceptual continuity among existing files.
+Human originators are encouraged to spend more time **reviewing and discussing content** with contributors (i.e. typically the AI) than manually editing, resolving issues through dialogue and preferably consensus with contributors. With the necessary context, skills, and rules, AI may edit individual files or the entire project when new fundamental concepts are added while preserving definitions and conceptual continuity among existing files in a way that exceeds human capacity.
 
 ### Authorship and AI
 
 Openness Prime records authorship through **Originators** and **Contributors**, rather than conventional author attribution.
 
-**Originators:** Humans who requested a file's generation or edits, ranked by frequency (most to least). Originators manage metadata, including status, and review and approve the work. **Approval of a file means that contributors' work (typically AI) meets or exceeds the originator's standards and that the originator assumes personal responsibility for its contents.**
+**Originators:** Humans who requested a file's creation or edits, ordered by time (earliest to latest). Originators manage metadata, including status, and review and approve new files or changes to existing work. **Approval of a new file or changes to an existing file means that contributors' work (i.e. typically the AI) meets or exceeds the originator's standards and that the originator assumes personal responsibility for the file's contents.**
 
 **Contributors:** The AI models or humans who generated, wrote, or edited the file, listed by relative contribution size (largest to smallest). AI contributors identify their model and version (e.g., *ChatGPT-6*).
 
