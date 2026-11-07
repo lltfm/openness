@@ -21,11 +21,11 @@ Openness is both a **posture toward life** and a **system for investigating, dev
 
 ## The Posture of Openness
 
-The fundamental **posture of Openness** is *Being open to what is*. It is both the beginning of its transformative cycle and the orientation to which it continually returns. The cycle is expressed by **The Epitome of Openness**:
+The fundamental **posture of Openness** is *being open to what is*. It is both the beginning of its transformative cycle and the orientation to which it continually returns. The cycle is expressed by **The Epitome of Openness**:
 
 > *Being open to what is. Listening. Admitting when we don't know. Questioning certainty. Noticing preferred stories. Imagining what might be true. Suspending judgment. Sitting in the discomfort of uncertainty. Holding yet not clinging, allowing space for the flow of The Mystery to unfold. Deciding & acting when we must, but ever returning to Openness.*
 
-*Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen intuitively for when it may be time to let go without clinging. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
+*Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen intuitively for when it is time to let go, to avoid clinging beyond the end of the embrace. Openness begins with a willingness to experience what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
 This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of **My Awareness**, our own attention and first-person experience; while the bold, thick parts represent **My Self**, our own familiar embodied life. These blend together into the one encircling line.
 
@@ -39,19 +39,19 @@ Openness aspires to **Nonimposition**: to give the world *the greatest possible 
 
 Listening is central to Openness. To listen openly is to attend **inwardly and outwardly at the same time**: to listen to what is occurring beyond us *and* to listen to what is occurring within our own embodied experience. Neither world is secondary. Our inward world matters just as much as our outward world.
 
-When we listen openly, we attend outwardly to others’ words, actions and silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important internal disagreement without automatically causing us to disengage, or argue, or assume we know their intentions.
+When we listen openly, we attend outwardly to others’ words, actions and silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important disagreement we can examine closer without automatically causing us to disengage, argue, or assume we know others' intentions.
 
-**Listening preserves our freedom to respond.** We can be receptive and consider another's words, agree or disagree with them, or perhaps establish new boundaries. We can recognize discomfort without making it our sole authority; we can recognize new evidence without silencing our felt experience. **The ability to be surprised is part of what listening preserves.** 
+**Listening preserves our freedom to respond.** We can be receptive and consider another's words, agree or disagree with them, or perhaps establish new boundaries. We can also be receptive to the information our internal experiences offer. We can recognize discomfort without making it our sole authority. We can recognize new evidence without silencing our internal experiences. **The ability to be surprised is part of what listening preserves.** 
+
+**Listening is the embodied demonstration of Not-Knowing.** Through our willingness to listen inwardly and outwardly, we demonstrate to ourselves and others: *For I Know I Do Not Know.*
 
 ## What is not Openness?
 
-Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not attending to every possible claim, or endless exposure, or enduring constant emotional overwhelm. It is not abandoning **Discernment**, self-protection, or necessary boundaries. Sometimes we must rest so that we may return to listening again later.
+Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not attending to every possible claim, endless exposure, or enduring constant emotional overwhelm. It is not abandoning **Discernment**, self-protection, or necessary boundaries. Sometimes we must rest so that we may return to listening again later.
 
-**Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. It commonly manifests itself as defensiveness, ignoring, pretending to listen, or looking away. We may be open in one respect and closed in another. Though some degree of closedness is necessary when we decide and act. The concern is unnoticed closedness, or unnecessary closedness that persists beyond acting.
+**Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. It commonly manifests as defensiveness, pretending to listen, or looking away. We may be open in some respects and closed in others, but some degree of temporary closedness is always necessary when we decide and act. The concern is unnoticed closedness, or unnecessary closedness that persists beyond acting.
 
 **Blind Certainty** arises from **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, or familiar interpretation for the whole of reality without noticing our closedness, or our unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
-
-**Listening is the embodied demonstration of Not-Knowing.** Through our willingness to listen inwardly and outwardly, we demonstrate to ourselves and others: *For I Know I Do Not Know.*
 
 > **Openness aspires to listen to what is without closing the heart or looking away.**
 
