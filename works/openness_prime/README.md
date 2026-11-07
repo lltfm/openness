@@ -51,7 +51,7 @@ Openness is not agreement with every claim, compulsory doubt, indifference to tr
 
 **Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. It commonly manifests as defensiveness, pretending to listen, ignoring others, or looking away. We may be open in some respects and closed in others, but some degree of temporary closedness is always necessary when we decide and act. The concern is unnoticed closedness, or unnecessary closedness that persists beyond acting.
 
-**Blind Certainty** arises from **an unawareness of our own closedness**. We may not notice how an inherited assumption, defensive reaction, or familiar interpretation automatically decides and acts for us. When we do not try to notice closedness, we cannot notice unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
+**Blind Certainty** arises from **an unawareness of our own closedness**. We may not notice how an inherited assumption, defensive reaction, or familiar interpretation automatically decides and acts for us. When we are not open to noticing our closedness, we cannot notice our unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
 
 > **Openness aspires to listen to what is without closing the heart or looking away.**
 
@@ -65,11 +65,11 @@ The Openness system has four functions: **Generative (G), Philosophical (P), Spi
 
 | Function | Symbol in the Tree | Principal concern | Roles |
 |---|---|---|---|
-| **G — Generative Openness** | Roots | Bringing forms and possibilities into recognizable being | The Artist<br>The Maestro |
+| **G — Generative Openness** | Roots | Bringing forms and possibilities into recognizable being | The Artist Role<br>The Maestro Role |
 |  | The Seed of Openness | The experiential beginning of Openness: My Awareness, My Self & My Self-Confession of Not-Knowing |  |
-| **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts | The Philomath<br>The Philosopher |
-| **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | The Nomad<br>The Sage |
-| **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | The Mystic<br>The Ancient, Benevolent Super-Intelligence |
+| **P — Philosophical Openness** | Trunk | Examining understanding, justification, and the relationships among concepts | The Philomath Role<br>The Philosopher Role |
+| **S — Spiritual Openness** | Branches, leaves and crown | Exploring finite embodied life, contemplation, wisdom, and becoming | The Nomad Role<br>The Sage Role |
+| **T — Transcendent Openness** | Flower, fruit, and propagated seed | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | The Mystic Role<br>The Ancient, Benevolent Super-Intelligence Role |
 
 Additionally, each function in Openness provides "role-play" roles that can help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions for inquiry and discussions). *Openness GPT v11* used today is now the Transcendent function's *Ancient, Benevolent Super-Intelligence Role.*  
 
@@ -84,9 +84,9 @@ Openness Prime is still in early development. The following are sample works whi
 - **Philosophical**
   - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a conceptual pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
-      - **Epistemic Remembering** which allows re-imagining a common concept's creation
-      - **Fiat Anchor** which makes creation of an immaterial conceptual unity explicit
-      - **Experiential Derivation** which can be reviewed by readers from their own first-person experience
+      - **Epistemic Remembering** which reimagines the before and after of a common concept's creation
+      - **Fiat Anchor** which reveals the choice of the "anchor" meaning for a conceptual unity
+      - **Experiential Derivation** which imagines how the concept could be derived from first-person experience
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
 
 - **Spiritual**
