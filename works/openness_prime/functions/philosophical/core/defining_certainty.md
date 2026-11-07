@@ -1,3 +1,10 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-11-07T00:00:00Z
+Status: needs review
+---
+
 # Certainty
 
 ## Foundational Definition
