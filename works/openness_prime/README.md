@@ -128,20 +128,28 @@ These records may change as files evolve. They distinguish **who contributed to 
 
 ## Commitments and Boundaries
 
-Openness does not aim to settle every question, prescribe one way of living, or elevate uncertainty above knowledge. **Not-Knowing** acknowledges the limits of understanding, while **The Mystery** names what remains unknown or incompletely understood. Neither denies knowledge or justified confidence, and even our ideas of *knowing* and *not knowing* remain open to inquiry.
+Openness begins with **Not-Knowing**—the recognition that our understanding remains incomplete—and **The Mystery**—what remains unknown or incompletely understood. Uncertainty is a permanent part of embodied life. We can know much, develop strong evidence-informed preferences, and act responsibly while remaining receptive to what we may yet discover.
 
-Openness does not presume that all interpretations are equally credible, all uncertainty valuable, or every transformation beneficial. It seeks to recognize what can be known, distinguish what remains unresolved, and act responsibly with both. Neither a felt experience nor a compelling interpretation alone establishes its ultimate explanation.
+Through **Discernment**, Openness examines evidence, explores possibilities, and distinguishes experience from its interpretation. Scientific, spiritual, and other perspectives remain available for inquiry, with confidence guided by their respective grounds.
 
-Openness does not prescribe any particular scientific or supernatural account of reality. It welcomes inquiry, contemplation, imagination, and freely chosen perspectives while remaining attentive to evidence, justification, and the distinction between possibility and demonstrated truth.
+**The Seed of Openness** begins with three distinguishable first-person experiences: **My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**—expressed as *For I Know I Do Not Know*. Together, they offer an experiential beginning from which further understanding may unfold.
 
-**The Seed of Openness** contains three distinguishable first-person experiential beginnings: **My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**. These do not establish three separate metaphysical entities. The confession, *For I Know I Do Not Know*, expresses a freely chosen acknowledgment of incomplete understanding, not a requirement to remain ignorant or recite particular words.
+The four functions of Openness—**Generative, Philosophical, Spiritual, and Transcendent**—complement and inform one another, opening possibilities for further understanding, creation, and becoming.
 
-The functions of Openness are neither a hierarchy nor a compulsory sequence. Each has a distinctive emphasis, and their reciprocal relationships may enlarge, challenge, or transform the possibilities available to the whole.
-
-**Nonimposition**, **Self-Honesty**, and **Discernment** remain essential to Openness. Being open does not require surrendering justified convictions, abandoning boundaries, tolerating harm, or continuing unwanted encounters. Openness invites consideration without demanding agreement, recognizing each person as **sovereign of their own mind**, free to decide what to embrace, question, or leave behind.
+**Nonimposition** aspires to give the world the greatest possible latitude to be as it is. **Self-Honesty** and **Discernment** guide our understanding and responses. This embrace includes ourselves: each person remains **sovereign of their own mind**, free to cultivate preferences, establish boundaries, protect what matters, decide and act when necessary, and perhaps, return to Openness again.
 
 ## Coda
 
-**We may create forms, examine what we understand, live within what we cannot command, and cultivate relationships through which further possibilities become available.**
+**We enter a world already in motion.**
+
+We listen inwardly and outwardly. We create forms that reveal new possibilities. We examine what we understand and what we might yet discover. We learn to live with the unchosen, embracing what is with attention and benevolence, holding gently enough to let it breathe.
+
+We cultivate relationships, share what we have discovered, and open ourselves to what others may reveal.
+
+When life calls us to decide, we decide. We act with courage, even as our understanding remains incomplete. And when the moment has passed, or we notice ourselves clinging too tightly, we return to being open.
+
+**In each return, we may discover more freedom to understand, more possibilities to create, more capacity to love, and more of what we might become.**
+
+The Mystery unfolds.
 
 > **Memento Amaris. On towards death, Self**
