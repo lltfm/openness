@@ -17,7 +17,7 @@ Openness names this acknowledgment of incomplete understanding **Not-Knowing**, 
 
 Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**.
 
-**The fruit of Openness is transcendence**: being open to moments of discovering what more we might understand, create, experience or become, by cultivating ways of encountering and experiencing which reveal possibilities concealed by familiar ways of understanding.
+**The fruit of Openness is transcendence**: discovering what more we might understand, create, experience, or become by cultivating ways of *being open to what is* which reveal possibilities concealed by familiar ways of understanding.
 
 ## The Posture of Openness
 
