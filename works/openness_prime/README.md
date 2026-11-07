@@ -47,11 +47,11 @@ When we listen openly, we attend outwardly to others’ words, actions and silen
 
 ## What is not Openness?
 
-Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not attending to every possible claim, endless exposure, or enduring constant emotional overwhelm. It is not abandoning **Discernment**, self-protection, or necessary boundaries. Sometimes we must rest so that we may return to listening again later.
+Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide or act. It is not attending to every possible claim, endless exposure, or enduring constant emotional overwhelm. It is not abandoning **Discernment**, self-protection, or necessary boundaries. Sometimes we must rest so that we may return to listening again later.
 
-**Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. It commonly manifests as defensiveness, pretending to listen, or looking away. We may be open in some respects and closed in others, but some degree of temporary closedness is always necessary when we decide and act. The concern is unnoticed closedness, or unnecessary closedness that persists beyond acting.
+**Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. It commonly manifests as defensiveness, pretending to listen, ignoring others, or looking away. We may be open in some respects and closed in others, but some degree of temporary closedness is always necessary when we decide and act. The concern is unnoticed closedness, or unnecessary closedness that persists beyond acting.
 
-**Blind Certainty** arises from **an unawareness of our own closedness**. We may mistake an inherited assumption, defensive reaction, or familiar interpretation for the whole of reality without noticing our closedness, or our unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
+**Blind Certainty** arises from **an unawareness of our own closedness**. We may not notice how an inherited assumption, defensive reaction, or familiar interpretation automatically decides and acts for us. When we do not try to notice closedness, we cannot notice unawareness of it. Blind Certainty can appear in philosophy, science, spirituality, personal relationships, or even in Openness itself. Simply becoming aware of closedness heals this blindness—a purely mental act.
 
 > **Openness aspires to listen to what is without closing the heart or looking away.**
 
