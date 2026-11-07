@@ -15,9 +15,9 @@ Its foundational confession is: **"For I Know I Do Not Know."**
 
 Openness names this acknowledgment of incomplete understanding **Not-Knowing**, and what remains unknown or incompletely understood **The Mystery**.
 
-**The purpose of Openness is transcendence: discovering what more we might understand, create, experience, and become.** It cultivates ways of encountering reality that open further possibilities. Through Openness, we may become more capable of listening, recognizing our assumptions, responding to uncertainty, acting with greater freedom, and discovering possibilities that our familiar ways of understanding once concealed.
-
 Openness is both a **posture toward life** and a **system for investigating, developing, living, and sharing generative possibilities**.
+
+**The fruit of Openness is transcendence**: being open to moments of discovering what more we might understand, create, experience or become, by cultivating ways of encountering and experiencing which reveal possibilities concealed by familiar ways of understanding.
 
 ## The Posture of Openness
 
