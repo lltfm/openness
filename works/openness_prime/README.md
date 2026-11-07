@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: gdl, ChatGPT-6
-When: 2026-11-05T00:00:00Z
+When: 2026-11-06T00:00:00Z
 Status: approved
 ---
 
@@ -45,7 +45,7 @@ When we listen openly, we attend outwardly to others’ words, actions and silen
 
 ## What is not Openness?
 
-Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not attending to every possible claim, or endless exposure, or enduring constant emotional overwhelm. It is not abandoning discernment, self-protection, or necessary boundaries. Sometimes we must rest so that we may return to listening again later.
+Openness is not agreement with every claim, compulsory doubt, indifference to truth, or a refusal to decide and act. It is not attending to every possible claim, or endless exposure, or enduring constant emotional overwhelm. It is not abandoning **Discernment**, self-protection, or necessary boundaries. Sometimes we must rest so that we may return to listening again later.
 
 **Closedness** is the refusal or inability to listen to what an encounter, question, feeling, or new evidence might reveal. It commonly manifests itself as defensiveness, ignoring, pretending to listen, or looking away. We may be open in one respect and closed in another. Though some degree of closedness is necessary when we decide and act. The concern is unnoticed closedness, or unnecessary closedness that persists beyond acting.
 
@@ -90,7 +90,7 @@ Openness Prime is still in early development. The following are sample works whi
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
 
 - **Spiritual**
-  - [Love](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely. But also perhaps more?”
+  - [Love](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely; but also perhaps more?”
     - Recommended exemplar definition which models:
       - **Fiat Form** which makes creation explicit
       - **Anchored Ambiguity** which unfolds into familiar forms of love
