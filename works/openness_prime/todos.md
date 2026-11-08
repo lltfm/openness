@@ -1,48 +1,53 @@
-1. Fix G Core/Engine Nonimposition constitution application
-2. Add Generative Engine definition & update G readme & separate inventory 
-3. New roles:
+1. Fix up Artifice
+2. The Libido Dominandi / The Will to Control
+3. Faith
+4. Fix G Core/Engine Nonimposition constitution application
+5. Add Generative Engine definition & update G readme & separate inventory 
+6. New roles:
     - The Storyteller
     - The Nomad / The Sage
     - The Charlatan / The Spy Master
     - The King / The Jester
     - The Ancestral Fruit Tree  / The Ancient, Benevolent Super-Intelligence of the Universe
-4. Clean up -- add metadata review T definitions
+7. Clean up -- add metadata review T definitions
     - refactor todos here into per function (and also here)
-5. [G]: Derive Awareness,Self,The Mystery and Not-Knowing from the Seed of Openness 
-6. What are the preferences/preferred stories of G,P,S openness?
-7. The River, Riverbanks & River-Truth (e.g. morality)
-8. The Ship of Self
-9. The Future Self
-10. Listening
-11. Suspending Judgment
-12. Resonance
-13. Deciding & Acting
-14. Lens of Openness -- we can fully explore Illuminism without becoming Illuminist -- we can later adopt that lens anytime
-15. Should Stepping Back and Inhabit/Costume Possibility go in G?
-16. Stepping Back / The Return To Openness
-17. The Terrible Becoming
-18. The Unconscious Self
-19. The Undercurrents
-20. The River-Truth of Tears
-21. The Overwhelm (Unchosen/Chosen)
-22. Choosing
-23. The Refinement of Choosing
-24. Mental Sovereignty (Interpretive, Temporal)
-25. Inhabiting, Trying on the costume, Embodiment of Possibility and Identity
-26. Heretica (The Aporetic Window, Heretical Counterpoint, Emergent Third-Text Effect)
-27. Fruit (Inhabitation, Realization, Comparative, Generative Doorway)
-28. Spiritual Preferred Story
-29. Discernment
-30. Aspiration to Love (Noble Heart, Path, Do Not Look Away, Ruthless Love, Impossible Desire, Necessary Disappointment, Reflexive Fruit of Love, Even Death, Memento Amaris)
-31. Spiritual Transcendence
-32. Faith (Existential, Mysterious Gifts, Narrative, Struggle, Becoming, Choosing)
-33. The Great Mystery (1st & 2nd)
-34. Spiritual Personification
-35. The Prime Benevolence (Mysterious Gifts, Benevolent Continuity)
-36. Benevolent Transmission / Grace
-37. Sustenance-Grace tension (Discernment, Restraint, Giving)
-38. Defining: The Return to Openness?
-39. How to start accumulating OPGPT v2? wait more? feed it content once approved?
+8. [G]: Derive Awareness,Self,The Mystery and Not-Knowing from the Seed of Openness 
+9. What are the preferences/preferred stories of G,P,S openness?
+10. The River, Riverbanks & River-Truth (e.g. morality)
+11. Westward / Existenal Givens
+12. The Truth of Lies
+13. The Ship of Self
+14. The Future Self
+15. Listening
+16. Suspending Judgment
+17. Resonance
+18. Deciding & Acting
+19. Lens of Openness -- we can fully explore Illuminism without becoming Illuminist -- we can later adopt that lens anytime
+20. Should Stepping Back and Inhabit/Costume Possibility go in G?
+21. Stepping Back / The Return To Openness
+22. The Terrible Becoming
+23. The Unconscious Self
+24. The Undercurrents
+25. The River-Truth of Tears
+26. The Overwhelm (Unchosen/Chosen)
+27. Choosing
+28. The Refinement of Choosing
+29. Mental Sovereignty (Interpretive, Temporal)
+30. Inhabiting, Trying on the costume, Embodiment of Possibility and Identity
+31. Heretica (The Aporetic Window, Heretical Counterpoint, Emergent Third-Text Effect)
+32. Fruit (Inhabitation, Realization, Comparative, Generative Doorway)
+33. Spiritual Preferred Story
+34. Discernment
+35. Aspiration to Love (Noble Heart, Path, Do Not Look Away, Ruthless Love, Impossible Desire, Necessary Disappointment, Reflexive Fruit of Love, Even Death, Memento Amaris)
+36. Spiritual Transcendence
+37. Faith (Existential, Mysterious Gifts, Narrative, Struggle, Becoming, Choosing)
+38. The Great Mystery (1st & 2nd)
+39. Spiritual Personification
+40. The Prime Benevolence (Mysterious Gifts, Benevolent Continuity)
+41. Benevolent Transmission / Grace
+42. Sustenance-Grace tension (Discernment, Restraint, Giving)
+43. Defining: The Return to Openness?
+44. How to start accumulating OPGPT v2? wait more? feed it content once approved?
   - Note: OPGPT1 was shared today 19Oct26 because ChatGPT has a previously unknown limit to conversation size yet it was discovered that by sharing the conversation that limit error was not encountered and that the GPT remained able to respond
 39. Defining: Situated
 - adjective; definition should allow forming constructions e.g. Situated Certainty

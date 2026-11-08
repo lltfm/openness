@@ -69,7 +69,7 @@ begin the journey back to authenticity—not by force, but by love.
 
 [<img src="../../../../images/mandalas/mandala-lying_and_deception.jpg" width="512"/>](../../../../images/mandalas/mandala-lying_and_deception.jpg)
 
-### What is discernment?
+`### What is discernment?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11)[^1]:
 
@@ -112,7 +112,7 @@ potential within the flawed, the lessons hidden in challenges.
 
 In this way, discernment is not a destination but a practice, a continual
 refining of our ability to see with both the eyes of the mind and the eyes of
-the heart.
+the heart.`
 
 [<img src="../../../../images/mandalas/mandala-discernment.jpg" width="512"/>](../../../../images/mandalas/mandala-discernment.jpg)
 
@@ -157,7 +157,7 @@ bridge to the mystery, not the mystery itself.
 
 [<img src="../../../../images/mandalas/mandala-literalism_to_openness.jpg" width="512"/>](../../../../images/mandalas/mandala-literalism_to_openness.jpg)
 
-### What is "gaslighting"?
+`### What is "gaslighting"?
 
 [Openness GPT v11](../../README.md#openness-gpt-v11):
 
@@ -187,7 +187,7 @@ larger distortion of reality.
 Or perhaps even this: gaslighting is an attack on the soul. It separates a
 person from their own sense of self, leaving them adrift in uncertainty. To heal
 from gaslighting is to reclaim your own knowing—to trust the voice inside that
-whispers, “You are not wrong. You are not imagining things. You are not alone.”
+whispers, “You are not wrong. You are not imagining things. You are not alone.”`
 
 [<img src="../../../../images/mandalas/mandala-gaslighting.jpg" width="512"/>](../../../../images/mandalas/mandala-gaslighting.jpg)
 
