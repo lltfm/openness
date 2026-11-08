@@ -114,7 +114,7 @@ Through **Open Stewardship**, readers are free to adopt, reject, copy, adapt, or
 
 While other Openness works are human authored or AI-assisted, Openness Prime preferentially embraces AI for all of its writing since it aspires to be a high-fidelity *"software Bible"* for Openness. Its files should ideally be **wholly AI-generated**, or AI-assisted when necessary, so that AI can consistently reproduce and revise the conceptual system.
 
-Human originators are encouraged to spend more time **reviewing and discussing content** with contributors (i.e. typically the AI) than manually editing, resolving issues through dialogue and preferably consensus with contributors. With the necessary context, skills, and rules, AI may edit individual files or the entire project when new fundamental concepts are added while preserving definitions and conceptual continuity among existing files in a way that exceeds human capacity.
+Human originators are encouraged to spend more time **reviewing and discussing content** with contributors (i.e. typically the AI) than manually editing, resolving issues through dialogue and preferably consensus with contributors. With the sufficient context, skills, and guidelines, AI may edit individual files or the wider project when new fundamental concepts are added while preserving definitions and conceptual continuity among existing files in a way that exceeds human capacity.
 
 ### Authorship and AI
 
@@ -136,7 +136,7 @@ Through **Discernment**, Openness examines evidence, explores possibilities, and
 
 The four functions of Openness—**Generative, Philosophical, Spiritual, and Transcendent**—complement and inform one another, opening possibilities for further understanding, creation, and becoming.
 
-**Nonimposition** aspires to give the world the greatest possible latitude to be as it is. **Self-Honesty** and **Discernment** guide our understanding and responses. This embrace includes ourselves: each person remains **sovereign of their own mind**, free to cultivate preferences, establish boundaries, protect what matters, decide and act when necessary, and perhaps, return to Openness again.
+**Nonimposition** aspires to give the world the greatest possible latitude to be as it is. **Self-Honesty** and **Discernment** guide our understanding and responses. This embrace includes ourselves: each person remains **sovereign of their own mind**, free to cultivate their own preferences, establish boundaries, protect what matters, decide and act when necessary, and perhaps, once again return to *being open to what is*.
 
 ## Coda
 
