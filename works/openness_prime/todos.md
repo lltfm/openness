@@ -1,5 +1,5 @@
 1. Fix G Core/Engine Nonimposition constitution application
-2. Fix blind certainty definition to align with readme
+2. Add Generative Engine definition & update G readme & separate inventory 
 3. New roles:
     - The Storyteller
     - The Nomad / The Sage

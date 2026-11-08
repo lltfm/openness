@@ -1,3 +1,10 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-11-08T00:00:00Z
+Status: needs review
+---
+
 # The Playspace
 
 ## Fiat Anchored Ambiguity

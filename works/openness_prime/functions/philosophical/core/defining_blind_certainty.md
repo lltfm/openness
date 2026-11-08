@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-07T00:00:00Z
+When: 2026-11-08T00:00:00Z
 Status: needs review
 ---
 
@@ -21,27 +21,29 @@ What is **Blind Certainty**?
 
 *But also perhaps more?*
 
-**Blind Certainty** remains the default name because its familiar meaning still illuminates the concept: we may encounter someone who is overconfident, smug, arrogant, haughty, or obnoxiously self-assured, who insists they are right and **refuses to listen**. That recognizable encounter remains a central example **when the person does not recognize their own refusal**. 
-
-But the refined anchor is **wider and more precise** than confidence or demeanor: it identifies the **closedness of refusing to listen** together with an **unawareness of that closedness**. An overconfident person who genuinely listens does not exhibit **Blind Certainty** on account of their confidence; an outwardly modest person who unknowingly refuses to listen may exhibit it. This behavioral focus makes the concept more available to **Self-Honesty** and **Discernment**, while preserving the ordinary meaning that makes its established name valuable.
-
-**Blind Closedness** is an **official, fully synonymous alternative** for this same concept. It may be used when greater technical precision helps a particular audience. **Blind Certainty** remains the normal term in Openness writing, including throughout this definition; the synonym creates no second concept or separate anchor.
-
 ### Example Speculations
 
 - Perhaps **Blind Certainty** is sustained by learned habits of attention, bodily threat responses, or social rewards that narrow what becomes recognizable before the narrowing itself is noticed?
 - Or perhaps **Blind Certainty** can develop when a **Preferred Story** becomes so closely identified with **The Self** that questioning the story is experienced as a threat to one's very identity?
 - Or perhaps **Blind Certainty** may sometimes be understood as a form of spiritual captivity, in which a soul becomes so attached to a cherished account of reality that it no longer notices what might lie beyond that account?
 
+### Blind Certainty versus Blind Closedness
+
+**Blind Certainty** is the default name for the Openness concept. Its familiar meaning illuminates the common example of it: we may encounter someone who is overconfident, smug, arrogant, haughty, or obnoxiously self-assured, who insists they are right and **refuses to listen**. That recognizable encounter remains a central example **when the person does not recognize their own refusal**. 
+
+But the anchor is **wider and more precise** than confidence or demeanor: it identifies the **closedness of refusing to listen** together with an **unawareness of that closedness**. An overconfident person who genuinely listens does not exhibit Blind Certainty on account of their confidence; an outwardly modest person who unknowingly refuses to listen may exhibit it. This behavioral focus makes the concept more available to **Self-Honesty** and **Discernment**, while preserving the ordinary meaning that makes its established name valuable.
+
+**Blind Closedness** is the **official, fully synonymous alternative** for this same concept. It may be used when greater technical precision helps a particular audience. **Blind Certainty** remains the normal term in Openness writing, including throughout this definition; the synonym creates no second concept or separate anchor.
+
 ## The Definition Unfolded
 
-**Blind Certainty** is a **Fiat Anchor** with **Anchored Ambiguity**. Its minimal identifying meaning is **an unawareness of closedness**. **Closedness**, in the relevant sense, is a **refusal to listen** to something an encounter, question, feeling, or evidence might reveal. This refusal can be an automatic or habituated shutting-out of attention, without a consciously chosen or declared decision to refuse. The blindness arises when this closedness itself goes unrecognized. Neither an explicit declaration of certainty nor a fully articulated belief is required.
+**Blind Certainty** is a **Fiat Anchor** with **Anchored Ambiguity**. Its minimal identifying meaning is **an unawareness of closedness**. **Closedness** is now independently anchored in **P Core** as **the refusal to listen**, whether inwardly, outwardly, or through communal practices that foreclose opportunities for listening. In personal experience, this may be a refusal to receive what an encounter, question, feeling, or evidence might reveal. This refusal can be an automatic or habituated shutting-out of attention, without a consciously chosen or declared decision to refuse. The blindness arises when this closedness itself goes unrecognized. Neither an explicit declaration of certainty nor a fully articulated belief is required.
 
 Some limitations of listening arise from fatigue, disability, unavailable information, or other constraints on capacity rather than refusal. They deserve attention in their own terms. Similarly, ordinary practical concentration can narrow responsiveness without establishing this concept. The anchor concerns an **unnoticed refusal of listening in a relevant respect**, not the impossible expectation of limitless attention.
 
 An inherited assumption may direct what seems worth considering. A defensive response may divert attention from words before their meaning is heard. A familiar interpretation may dispose someone to discount contrary evidence without noticing that the interpretation is already governing what counts as evidence. A person may feel open-minded while remaining unaware of the particular respect in which listening has ceased. These are possible forms of **Blind Certainty** when the operative closedness remains unrecognized.
 
-The familiar name preserves the insight that certainty can become blind, while the broader **Foundational Definition** reaches further. **Certainty** concerns treating something as settled. **Blind Certainty** concerns the unawareness of an actual refusal of listening. A person may be conspicuously overconfident and still listen, or display neither confidence nor arrogance while unknowingly refusing to listen. The anchor therefore does not define the concept as a defective degree or subtype of **Certainty**, nor as a lack of the personality virtue of humility. **Epistemic Humility** remains a related practice; it is not a demeanor test built into the anchor.
+The familiar name preserves the insight that ordinary certainty can become blind, while the broader **Foundational Definition** reaches further. *Certainty*, in ordinary language, concerns treating something as settled; Openness no longer requires a separately maintained P Core definition for that common term. **Blind Certainty** concerns unawareness of an actual refusal of listening. A person may be conspicuously overconfident and still listen, or display neither confidence nor arrogance while unknowingly refusing to listen. The anchor therefore does not define the concept as a defective degree or subtype of ordinary certainty, nor as a lack of the personality virtue of humility. **Epistemic Humility** remains a related practice; it is not a demeanor test built into the anchor.
 
 The closedness may concern outward encounters—another person's words, contrary testimony, relevant evidence, changing circumstances—or inward encounters—fear, anger, pain, desire, intuition, memory, or an unwanted feeling. A person can listen attentively in one respect while remaining closed in another. **Blind Certainty** is correspondingly situated: noticing one closedness does not establish complete awareness of every other closedness.
 
@@ -54,6 +56,12 @@ The anchor does not turn every limit of attention into a refusal to listen. Fini
 **Suspending Judgment** is Openness's standing posture, even when available evidence strongly favors a particular account. **Preferential Inhabitation** allows a perspective to guide understanding and living without converting that perspective into permanent epistemic identification. **Blind Certainty** can nevertheless occur within someone sincerely practicing Openness: an unnoticed closure can coexist with an explicit commitment to suspension, humility, or listening. The posture offers a way to notice and reconsider such closedness, not immunity from it.
 
 The significance may be especially consequential when unrecognized closedness joins a desire to control. Words may be used to secure allegiance, dismiss dissent, or justify coercion while the speaker remains unaware of what has been excluded. Yet **Blind Certainty** does not by itself establish malicious intention, deception, or the cause of every harmful act. It may appear in a single person, in recurring social practices, or in institutional methods of receiving and dismissing criticism. Collective application concerns observable patterns of exclusion and correction, not proof of a single collective **Awareness**.
+
+## Ethical Questions and the Separate Ethics
+
+**Blind Certainty** identifies **unawareness of a refusal to listen**, rather than a person's moral worth, duty to agree, or required response after recognition. Discovering a blind spot can make a new choice possible; the definition does not command apology, renewed participation, a particular degree of openness, or the immediate abandonment of a protective boundary.
+
+Unnoticed refusal may accompany coercive speech, the suppression of others' inquiry, or a claimed commitment to openness itself. **[The Ethics of Closedness](../ethics/the_ethics_of_closedness.md)** separately sets out Openness's preferred commitments concerning freedom of speech, consent, social suppression, possible harm, and solidarity. Those commitments can be examined or rejected without changing what **Blind Certainty** means.
 
 ## Experiential Derivation
 
@@ -69,15 +77,15 @@ These movements illustrate a possible encounter with **Blind Certainty** and its
 
 ## Essential Distinctions
 
-**Blind Certainty versus Closedness.** **Closedness** here concerns a refusal to listen in a relevant respect, including a habitual or automatic refusal. **Blind Certainty** concerns **unawareness of that refusal**. Closedness may be recognized, justified, regretted, or deliberately temporary without therefore being blind.
+**Blind Certainty versus Closedness.** **Closedness** is independently anchored as *the refusal to listen*, including habitual, automatic, deliberate, and socially organized forms. **Blind Certainty** concerns **unawareness of that refusal**. Closedness may be recognized, justified, regretted, or deliberately temporary without therefore being blind.
 
-**Blind Certainty versus Certainty.** **Certainty** concerns what is treated as settled; **Blind Certainty** concerns an unnoticed refusal to listen. Strongly held conclusions and strikingly confident people need not be blind, and blindness may occur without a consciously held conclusion or an overconfident demeanor.
+**Blind Certainty versus ordinary certainty.** In ordinary language, *certainty* concerns what is treated as settled; **Blind Certainty** concerns an unnoticed refusal to listen. Strongly held conclusions and strikingly confident people need not be blind, and blindness may occur without a consciously held conclusion or an overconfident demeanor. The ordinary word needs no separate canonical definition for this distinction.
 
 **Closed listening versus overconfident demeanor.** An outwardly arrogant person may genuinely listen. An outwardly modest person may refuse to listen without noticing it. Smugness, haughtiness, conspicuous confidence, or an appearance of humility is neither necessary nor sufficient for Blind Certainty. The relevant questions concern **actual refusal of listening** and **awareness of that refusal**.
 
 **Observable refusal versus inferred unawareness.** Whether someone engages the substance of a question or dismisses it can often be examined through speech and conduct. Whether they recognize that closure is a further, less directly accessible question. **Self-Honesty** may reveal one's own refusal; attributing another person's blindness requires caution and **Analogical Discernment**.
 
-**Blind Certainty versus Unwarranted Certainty.** An inadequately supported conviction may be openly acknowledged as tentative. A well-supported or even accurate conclusion may coexist with **Blind Certainty** if an actual closedness remains unrecognized. Neither factual correctness nor evidential weakness alone establishes blindness.
+**Blind Certainty versus unwarranted certainty.** An inadequately supported conviction may be openly acknowledged as tentative. A well-supported or even accurate conclusion may coexist with **Blind Certainty** if an actual closedness remains unrecognized. Neither factual correctness nor evidential weakness alone establishes blindness.
 
 **Unawareness versus conscious refusal.** Deliberately refusing a question, declining to engage, or maintaining a boundary can be forms of recognized closedness. A **refusal to listen** can also occur automatically, before it is explicitly chosen or noticed. The distinctive blindness concerns the failure to recognize that refusal, not merely the behavioral fact of stopping listening.
 
@@ -103,7 +111,7 @@ These movements illustrate a possible encounter with **Blind Certainty** and its
 
 **G — Generative Openness.** **Blind Certainty** can interrupt the development of possibilities before they become recognizable. **Perspective-Taking**, **The Lens of Openness**, **Saltem Hoc**, and **Anchored Ambiguity** may expose previously unnoticed exclusions. **Self-Honesty**, **Epistemic Hospitality**, and **Nonimposition** help prevent a creator's preferences from being covertly imposed as the only permissible interpretations. The absence of noticeable alternatives does not establish that an inquiry has exhausted them.
 
-**P — Philosophical Openness.** **Blind Certainty** belongs in P Core alongside **Certainty**. It supports examination of **Closedness**, **Suspending Judgment**, **Preferred Stories**, **Mental Models**, **Artifice**, **Epistemic Groundedness**, and **Discernment**. **The Philomath** may investigate a strongly preferred explanation without deciding its ultimate truth and may also examine whether that inquiry has become closed in a respect not previously noticed.
+**P — Philosophical Openness.** **Blind Certainty** belongs in P Core alongside **Closedness** and **Heretica**. It supports examination of **Suspending Judgment**, **Preferred Stories**, **Mental Models**, **Artifice**, **Epistemic Groundedness**, and **Discernment**. **The Philomath** may investigate a strongly preferred explanation without deciding its ultimate truth and may also examine whether that inquiry has become closed in a respect not previously noticed.
 
 **S — Spiritual Openness.** Inward listening may make defensive reactions, painful attachments, or the unrecognized refusal of an uncomfortable experience available for contemplation. **Love**, preferentially inhabited within Openness as *attention given freely*, may invite such attention without requiring approval of harm, self-abandonment, or involuntary exposure. Spiritual interpretations of the underlying closedness remain possible rather than established by the anchor.
 
@@ -115,9 +123,9 @@ These movements illustrate a possible encounter with **Blind Certainty** and its
 
 **Blind Certainty** — the default canonical name for the anchored concept: *an unawareness of closedness*. Use it in ordinary and technical Openness writing for the condition of an **unnoticed refusal to listen**, rather than as a label for an overconfident personality. Its official synonym and historical lineage are explained in **The Name, Its Lineage, and Its Official Synonym**, immediately before the Summary.
 
-**Closedness** — the related condition of refusal to listen in a relevant respect, including an automatic or unrecognized refusal. Use this separate term when the refusal is recognized, when its recognition is uncertain, or when the focus is on the refusal rather than unawareness of it. Distinguish refusal from ordinary limitations of capacity and finite attention.
+**Closedness** — the distinct P Core concept anchored as *the refusal to listen*. Use it when the refusal is recognized, when its recognition is uncertain, or when the focus is on the refusal itself rather than unawareness. Its definition also develops the personal and social contexts of listening. Distinguish refusal from ordinary limitations of capacity and finite attention.
 
-**Certainty** — a distinct P Core concept for treating something as settled. It may coexist with **Blind Certainty**, but the two are not equivalent and neither is a required subtype of the other.
+*Certainty* — an ordinary-language word for regarding something as settled. It remains useful in prose and in the Epitome *Questioning Certainty*, while no separate P Core definition is maintained. Treating something as settled may coexist with **Blind Certainty**, but it is neither a prerequisite nor sufficient evidence of that condition.
 
 *Noticing a Blind Certainty* and *Questioning Certainty* — names of Epitomes that imaginatively explore blindness, its relationship to preferred stories, domination, and the possibility of renewed attention. Their evocative claims invite examination; they do not silently add further necessary conditions to the **Foundational Definition**.
 
@@ -135,7 +143,7 @@ The moment of recognizing the missed words ends the blindness concerning that in
 
 A person speaks with extreme self-assurance, boasts about their judgment, and displays a manner others experience as smug. Their confidence may exceed the evidence. Yet they listen to a critic's full account, consider relevant contrary evidence, and can identify the limits of their own attention. They may still prefer their conclusion strongly and disagree with the criticism.
 
-Their demeanor, degree of confidence, and possible **Unwarranted Certainty** can be evaluated separately. **There is no Blind Certainty merely because the person appears arrogant or overconfident.** Without an actual, unrecognized refusal of listening, the anchor is not satisfied.
+Their demeanor, degree of confidence, and possible *unwarranted certainty* can be evaluated separately. **There is no Blind Certainty merely because the person appears arrogant or overconfident.** Without an actual, unrecognized refusal of listening, the anchor is not satisfied.
 
 ### Example — The Quiet, Open-Minded Person Who Does Not Listen
 
@@ -211,7 +219,7 @@ The Epitome *Noticing a Blind Certainty* begins with the conspicuous behavioral 
 
 **Blind Certainty** remains the **default** because it is immediately recognizable in plain language for the familiar situation of a person who seems unmistakably right in their own eyes and refuses to listen. Its evocative force also preserves the continuity of the Epitomes, Wallace's inspiration, and the evolving language of Openness. This continuity is useful even though the name's ordinary implications are **narrower in some respects and broader in others** than the concept's adopted minimal meaning.
 
-**Blind Closedness** is the **official, technically clearer alternative name**. It draws attention directly to the two components of the anchor: **closedness** and **unawareness of that closedness**. It is especially useful in philosophical or instructional writing where the word *certainty* might mislead readers into looking for overconfidence, a confident facial expression, social arrogance, or an explicit declaration of belief. It also helps distinguish the concept from **Certainty**, which concerns something being regarded as settled.
+**Blind Closedness** is the **official, technically clearer alternative name**. It draws attention directly to the two components of the anchor: **closedness** and **unawareness of that closedness**. It is especially useful in philosophical or instructional writing where the word *certainty* might mislead readers into looking for overconfidence, a confident facial expression, social arrogance, or an explicit declaration of belief. It also helps distinguish the concept from ordinary *certainty*, which concerns something being regarded as settled.
 
 The two names are **fully synonymous within Openness**: **Blind Closedness** is not a new Core Concept, a second **Fiat Anchor**, a subtype of Blind Certainty, or an additional diagnostic standard. A writer may choose either name according to audience and precision while retaining the **same Foundational Definition, scope, distinctions, and requirements for attribution**. A change of name does not permit changing the anchor.
 
