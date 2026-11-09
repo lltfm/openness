@@ -95,8 +95,8 @@ Openness Prime is still in early development. The following are sample works whi
     - Recommended exemplar definition which models:
       - **Fiat Form** which makes creation explicit
       - **Anchored Ambiguity** which unfolds into familiar forms of love
-      - **Preferential Inhabitation** which allows a possibility to be deliberately inhabited without requiring belief in its ultimate truth
-      - **Perspective-Taking** which invites readers to examine, try on, inhabit, or step back from perspectives without requiring them to adopt Openness's preferred understanding of Love
+      - **Preferential Inhabitation** which allows a possibility to be deliberately "inhabited" without requiring belief in its ultimate truth (and perhaps later reconsidered)
+      - **Perspective-Taking** which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 
 - **Transcendent**
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
