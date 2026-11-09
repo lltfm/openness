@@ -101,6 +101,10 @@ Openness Prime is still in early development. The following are sample works whi
 - **Transcendent**
   - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
 
+Openness is both an invitation to explore its generative, philosophical, spiritual, and transcendent ideas and practices, and a toolkit for developing new ones. Readers are free to examine, question, adopt, adapt, or reject what they encounter, while drawing upon Openness's concepts and methods to create their own understandings, works, and practices. 
+
+**Openness invites readers not only to explore what it has become, but to discover what they themselves might bring into being.**
+
 ## Revisability
 
 **Openness grows through what it encounters.** Through **Recursive Becoming**, experience, inquiry, creation, and relationship may change what becomes possible next—including how Openness itself is understood and practiced. Its concepts, definitions, and even **The Symbolic Tree of Openness** remain open to revision.
