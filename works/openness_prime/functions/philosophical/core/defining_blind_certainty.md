@@ -27,7 +27,7 @@ What is **Blind Certainty**?
 - Or perhaps **Blind Certainty** can develop when a **Preferred Story** becomes so closely identified with **The Self** that questioning the story is experienced as a threat to one's very identity?
 - Or perhaps **Blind Certainty** may sometimes be understood as a form of spiritual captivity, in which a soul becomes so attached to a cherished account of reality that it no longer notices what might lie beyond that account?
 
-### Blind Certainty versus Blind Closedness
+### Blind Certainty or Blind Closedness?
 
 **Blind Certainty** is the default name for the Openness concept. Its familiar meaning illuminates the common example of it: we may encounter someone who is overconfident, smug, arrogant, haughty, or obnoxiously self-assured, who insists they are right and **refuses to listen**. That recognizable encounter remains a central example **when the person does not recognize their own refusal**.
 
