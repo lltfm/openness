@@ -85,7 +85,7 @@ Openness Prime is still in early development. The following are sample works whi
   - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a conceptual pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
       - **Epistemic Remembering** which reimagines the before and after of a common concept's creation
-      - **Anchored Ambiguity** which allows speculating about what the mind is exactly, based on its anchor
+      - **Anchored Ambiguity** which welcomes speculations about what the mind is exactly, based on its anchor
       - **Fiat Anchor** which reveals the choice of the "anchor" meaning for a conceptual unity
       - **Experiential Derivation** which imagines how the concept could be derived from first-person experience
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
