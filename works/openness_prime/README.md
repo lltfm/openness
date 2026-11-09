@@ -39,7 +39,7 @@ Openness aspires to **Nonimposition**: to give the world *the greatest possible 
 
 Listening is central to Openness. To listen openly is to attend **inwardly and outwardly at the same time**: to listen to what is occurring beyond us *and* to listen to what is occurring within our own embodied experience. Neither world is secondary. Our inward world matters just as much as our outward world.
 
-When we listen openly, we attend outwardly to others’ words, actions and silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important disagreement we can examine closer without automatically causing us to disengage, argue, or assume we know others' intentions.
+When we listen openly, we attend outwardly to others’ words, actions and silence; while inwardly we simultaneously attend to our own feelings, memories and thoughts. Each can influence the other. For example, noticing a bodily tension while listening openly to another may reveal an important disagreement we can examine closer without automatically disengaging, arguing, or assuming we know others' intentions.
 
 **Listening preserves our freedom to respond.** We can be receptive and consider another's words, agree or disagree with them, or perhaps establish new boundaries. We can also be receptive to the information our internal experiences offer. We can recognize discomfort without making it our sole authority. We can recognize new evidence without silencing our internal experiences. **The ability to be surprised is part of what listening preserves.** 
 
@@ -85,6 +85,7 @@ Openness Prime is still in early development. The following are sample works whi
   - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a conceptual pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
       - **Epistemic Remembering** which reimagines the before and after of a common concept's creation
+      - **Anchored Ambiguity** which allows speculating about what the mind is exactly, based on its anchor
       - **Fiat Anchor** which reveals the choice of the "anchor" meaning for a conceptual unity
       - **Experiential Derivation** which imagines how the concept could be derived from first-person experience
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world

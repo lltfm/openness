@@ -87,17 +87,19 @@ The relationship also reaches **Libido Dominandi**. A desire to dominate may use
 
 **The Ethics of Closedness** locates Openness's distinct responses here: it rejects punishing people merely for inquiry or expression; values courage and voluntary solidarity; begins with a revisable preference that a credibly persecuted firsthand speaker's truth-bearing testimony is probably true; and protects the individual's decision about how to respond. **Those are normative preferences of the system, not defining features of Heretica.**
 
-### Heretica as a warning and baseline container
+### Heretica as a warning within an Openness Container
 
-The **Heretica label** communicates a risk of discussion, and can serve as the basis for an **ordinary baseline container** in Openness: a suitably private and consensual invitation to listen. The label is not a command that an idea remain secret. A particular exchange may involve confidential personal experiences or sensitive identities, but the topic's status as Heretica never makes its discussion inherently forbidden within Openness.
+The **Heretica label** communicates the social risk of a discussion. It may motivate willing participants to establish a **[Openness Container](defining_openness_container.md)**: a mutually recognized, consent-based arrangement with an agreed scope of listening, expression, privacy, and withdrawal. **The risk designation is not itself the container**; the participants' actual agreement establishes the arrangement. Neither the label nor the agreement makes the idea a secret or requires suppressing its discussion elsewhere.
 
-The proposed practice of signaling the risk before disclosing the subject, seeking informed consent, and allowing withdrawal is set out in **The Ethics of Closedness**, not in the minimal anchor. **Consent to listening is distinct from accepting an idea as true, endorsing it, joining an activity, or agreeing to disclose or act.** Private discussion may be a sensible adaptation to social danger without guaranteeing secrecy or preventing independently chosen public speech.
+The baseline Heretica listening container is **narrow**: participants agree to hear the socially risky topic within its bounds. **They do not thereby agree to accept it as true, endorse it, join an enactment, or receive all potentially harmful speech.** The practice of warning before disclosure, seeking informed consent, and allowing withdrawal belongs to **The Ethics of Closedness**, not the minimal anchor. Privacy can reduce exposure without guaranteeing it, and independent public disclosure remains an available practical choice.
 
 ### Heretica and potentially harmful speech
 
 A topic can be Heretica whether its content is innocuous or deeply disturbing. The possibility that an expression concerns threats, coercion, harassment, intimate disclosure, or imagined violence does not, by itself, determine the **social classification**; what matters for Heretica is the credible penalty attached to discussing it in context.
 
-**The Ethics of Closedness** separately states Openness's commitment to discussing even potentially harmful speech through appropriate consent-based containers. **The Playspace** is a different, more expressive kind of container: participants may portray or imaginatively enact difficult possibilities under **Mutuality**, **Restraint from Harm**, and **Discrepancy**. Heretica and The Playspace may overlap but neither entails the other. Their ethical and protective conditions do not become extra features of the Heretica anchor.
+**A Heretica listening container does not authorize potentially harmful speech by default.** The participants may explicitly agree to a particular, narrowly described kind of disturbing or fictional expression, but agreement to one kind does not become blanket permission for others. For example, an actual declaration of intent to harm someone may exceed a container meant only for discussing a socially risky historical allegation. Such a change can require interruption, protective action, or reporting where circumstances or applicable law impose obligations.
+
+**The Ethics of Closedness** explains Openness's chosen commitment to making even difficult speech available for consensual exploration in suitably scoped **Openness Containers**. **The Playspace** permits a different kind of expressive encounter under **Mutuality**, **Restraint from Harm**, and **Discrepancy**, where fictional threats or portrayals may be recognized as representation rather than literal intention. The fictional frame helps demonstrate what was agreed; it is not automatic immunity for actual threatening conduct or its effects. The Heretica designation and The Playspace can overlap, but neither entails the other.
 
 ### Rumor, testimony, and a penalized question
 
@@ -147,6 +149,10 @@ An idea becomes recognizable as **Heretica** through the social conditions surro
 
 **A warning label versus a secrecy rule.** A Heretica designation identifies an exposure risk. It does not itself require anyone to hide an idea, withhold a report, or disclose private information.
 
+**Heretica versus Openness Container.** Heretica names a socially risky idea; an Openness Container names the particular agreed encounter. A warning does not itself obtain participants' consent.
+
+**Consent to discuss Heretica versus consent to potentially harmful speech.** A listening-only container is not a general license to issue threats, intimidate others, disclose private material, or move into fictional enactment. Changes of kind or scope require distinct consent and may bring outside duties into play.
+
 **A social penalty versus a judgment about the act being penalized.** An actual penalty may be described without deciding whether a specific speech act, represented threat, privacy exposure, or other conduct had harmful effects. The ethics of potentially harmful speech belongs to **The Ethics of Closedness**, with **The Playspace** defining one possible kind of contained enactment.
 
 **Informed consent versus agreement.** A person may freely consent to hearing a topic without believing it, endorsing it, accepting a further role, or remaining indefinitely.
@@ -161,11 +167,11 @@ An idea becomes recognizable as **Heretica** through the social conditions surro
 
 ## Relationship to Openness
 
-**P — Philosophical Openness.** **Heretica** belongs in **P Core** as a concept for recognizing the social risks that can restrict inquiry. It relates to **Closedness**, **Blind Certainty**, **Preferred Stories**, **The Intersubjective**, **Discernment**, **Self-Honesty**, **Suspending Judgment**, and **Nonimposition**. Openness's specific normative responses are collected in **The Ethics of Closedness**, leaving the anchor separately examinable.
+**P — Philosophical Openness.** **Heretica** belongs in **P Core** alongside **Openness Container**, the distinct concept of an agreed encounter. **Heretica** is a concept for recognizing the social risks that can restrict inquiry. It relates to **Closedness**, **Blind Certainty**, **Preferred Stories**, **The Intersubjective**, **Discernment**, **Self-Honesty**, **Suspending Judgment**, and **Nonimposition**. Openness's specific normative responses are collected in **The Ethics of Closedness**, leaving the anchor separately examinable.
 
 **G — Generative Openness.** **Saltem Hoc**, **Anchored Ambiguity**, Epitomes, and **Transformative Art** can make a socially risky possibility recognizable without certifying it as true. The ethics of exposing an audience to social risk and G's constitutional **Nonimposition** are addressed separately from Heretica's identifying meaning.
 
-**S — Spiritual Openness.** Heretica may arise in lived encounters with belonging, shame, loyalty, truth-telling, and **The Unchosen**. The spiritual valuation of courageous dissent and the practice of consent belong to the separately stated ethics.
+**S — Spiritual Openness.** Heretica may arise in lived encounters with belonging, shame, loyalty, truth-telling, and **The Unchosen**. Possible spiritual interpretations of dissent can be developed within S in their own right; the P-grounded **Ethics of Closedness** addresses consent, social risk, and solidarity without making a spiritual valuation part of its commitments.
 
 **T — Transcendent Openness.** **The Playspace** may provide a mutually recognized container in which socially punished or potentially harmful ideas are represented without becoming literal harmful transactions. Its conditions are **Mutuality**, **Restraint from Harm**, and **Discrepancy**. A Heretica discussion can occur without a Playspace, and a Playspace can exist without Heretica.
 
@@ -243,13 +249,13 @@ Two scholars disagree vehemently about a speculative model. Each criticizes the 
 
 ### Example — A Controversial Representation Inside a Container
 
-Participants mutually agree to contemplate or imaginatively portray a threatening scenario within a **Playspace**. The subject may also be Heretica if discussion of it carries credible social penalties in their community. The representation's eligibility for discussion, the participants' actual consent, and their restraint from real harm are separate questions; see **The Ethics of Closedness** and **The Playspace**. Heretica alone does not settle them.
+Participants mutually agree to portray a threatening scenario as part of a fictional **Playspace** with an **Openness Container** explicitly allowing this kind of enactment. The subject may also be Heretica if discussion of it carries credible social penalties in their community. Discrepancy makes the threatening words recognizable as fictional portrayal, while the participants remain bound by their agreement and restraint from harm. **A mere Heretica discussion without this additional agreement would not authorize the same enactment.** See **The Ethics of Closedness** for the ethical choices and limits.
 
 ## Boundary
 
 **Heretica** identifies a **socially situated risk of punishment attached to merely contemplating, raising, or discussing an idea**. The anchor does not determine whether the discussed idea is true, whether a particular person's report is reliable, what motivates an authority, or what someone should do about the penalty.
 
-The classification also does not automatically settle whether a given speech act had actual harmful effects, whether its representation could be contained within **The Playspace**, or what consent is necessary. The distinction between content, participant risk, and the real effects of expression calls for further examination.
+The classification also does not automatically settle whether a speech act had actual harmful effects, whether its representation belongs in a specifically agreed **Openness Container** or **The Playspace**, or what consent is necessary. The distinction between content, participant risk, and the real effects of expression calls for further examination.
 
 A Heretica label is a **warning about social reality, not a declaration that a subject must be kept secret**. How Openness chooses to honor free speech, the freedom to decline participation, respect for privacy, courageous testimony, and the exploration of potentially harmful speech is presented in **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)**. Readers may assess the anchor and that ethics independently.
 
@@ -259,6 +265,6 @@ The recurring relationship with **Blind Certainty**, **Libido Dominandi**, colle
 
 **Heretica** begins with **an idea whose mere discussion can carry a credible risk of social punishment within a particular community**. The concept describes a situated social condition across religious, familial, professional, historical, and political settings. Its meaning is independent of whether the idea is true, the speaker courageous, or the punishment legitimate.
 
-Heretica may be used as a warning label to make that risk recognizable, without making an idea inherently secret or requiring any one listener to participate. **The Ethics of Closedness** separately expresses Openness's commitments to unrestricted inquiry, consent-based containers, solidarity, and its revisable preference toward persecuted testimony. **The Playspace** names another possible container for shared imaginative expression under **Mutuality**, **Restraint from Harm**, and **Discrepancy**.
+Heretica may be used as a warning label to make the risk recognizable, without making an idea inherently secret or requiring any one listener to participate. **Openness Container** directly defines the consensual arrangements that people can create to hear or explore such material. **The Ethics of Closedness** separately expresses Openness's commitments to unrestricted inquiry, consensual participation, solidarity, and its revisable preference toward persecuted testimony. **The Playspace** is a more expressive kind of shared encounter under **Mutuality**, **Restraint from Harm**, and **Discrepancy**.
 
 *The question may be spoken softly. The cost of speaking it deserves to be heard clearly.*

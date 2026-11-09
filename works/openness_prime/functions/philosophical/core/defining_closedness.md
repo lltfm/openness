@@ -95,13 +95,13 @@ This must be distinguished from a community **punishing or coercively preventing
 
 This is a refusal to listen **in a social or operative sense**: structures of permission, authority, fear, shame, incentive, and punishment close the **space for listening**, even where some individuals would willingly listen privately. Some participants may recognize the suppression and deliberately maintain it. Others may have so internalized the norm that the exclusion is scarcely noticeable to them. No unified collective **Awareness** is required for a social practice to exhibit Closedness.
 
-**Heretica** gives Openness a way to name ideas whose *mere discussion* may attract social punishment. Heretica is the **risk-bearing idea in its social context**; Social Closedness is the **refusal of listening or its social possibility** that punishment may enforce. The same idea may be Heretica in one community and ordinary conversation in another. Social Closedness can also occur without a specific Heretica designation—for example, when a committee's selection rules exclude relevant reports without any explicit taboo.
+**Heretica** gives Openness a way to name ideas whose *mere discussion* may attract social punishment. The distinct **Openness Container** concept names a particular consent-based arrangement through which willing people might elect to discuss them. Heretica is the **risk-bearing idea in its social context**; Social Closedness is the **refusal of listening or its social possibility** that punishment may enforce. The same idea may be Heretica in one community and ordinary conversation in another. Social Closedness can also occur without a specific Heretica designation—for example, when a committee's selection rules exclude relevant reports without any explicit taboo.
 
 ### Ethical questions arising from social closedness
 
 The concept of **Closedness** describes the refusal to listen; it does not, by itself, determine the ethics of that refusal. A personal protective boundary, a temporary concentration on an action, and an institutional punishment for asking a question can all narrow listening while differing profoundly in purpose, agency, power, and consequence.
 
-**Openness's chosen ethical response**—including its rejection of social punishment for mere expression, the freedom to decline a conversation, and consent-based containers for Heretica and potentially harmful speech—is developed in **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)**. These positions are offered for separate examination and voluntary adoption; they are not extra premises of the minimal anchor.
+**Openness's chosen ethical response**—including its rejection of social punishment for mere expression, the freedom to decline a conversation, and its use of separately defined **[Openness Containers](defining_openness_container.md)** for Heretica and more difficult expression—is developed in **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)**. These positions are offered for separate examination and voluntary adoption; they are not extra premises of the minimal anchor.
 
 ### Listening, evidence, and preferred stories
 
@@ -207,7 +207,7 @@ A responder must take immediate protective action with incomplete information. T
 
 ### Example — The family secret
 
-In a family, raising an allegation about a revered relative leads to ostracism or threatened loss of belonging. The family enforces **social Closedness** by making willing inquiry unsafe. The allegation is **Heretica** in that family because of the credible penalty associated with discussing it. The allegation's truth requires separate examination, within Openness's deliberately asymmetric preference toward persecuted firsthand testimony.
+In a family, raising an allegation about a revered relative leads to ostracism or threatened loss of belonging. The family enforces **social Closedness** by making willing inquiry unsafe. The allegation is **Heretica** in that family because of the credible penalty associated with discussing it. Openness prefers to give a credibly persecuted firsthand witness a receptive hearing and to begin from the possibility that the witness is telling the truth. **The account can be preferred as probably true while its details remain open to further evidence and inquiry**; this affirmative ethical preference is explained in **The Ethics of Closedness**, not stipulated by the definition of Closedness.
 
 ### Example — The committee that excludes reports
 
@@ -215,7 +215,7 @@ An institution's rules automatically reject reports outside its existing categor
 
 ### Example — A listener who declines Heretica
 
-A person invites a friend to privately discuss a socially punished topic. The friend declines because the possible exposure is unacceptable. The friend's refusal to participate does not violate Openness's opposition to social censorship. Their choice protects their own latitude; they have not thereby punished anyone else for speaking or prevented willing people from examining the idea.
+A person invites a friend to establish an **Openness Container** for privately discussing a socially punished topic. The friend declines because the possible exposure is unacceptable. The friend's refusal to participate does not violate Openness's opposition to social censorship. Their choice protects their own latitude; they have not thereby punished anyone else for speaking or prevented willing people from examining the idea.
 
 ### Counterexample — An ordinary limitation of attention
 

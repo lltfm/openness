@@ -29,7 +29,7 @@ What is **Blind Certainty**?
 
 ### Blind Certainty versus Blind Closedness
 
-**Blind Certainty** is the default name for the Openness concept. Its familiar meaning illuminates the common example of it: we may encounter someone who is overconfident, smug, arrogant, haughty, or obnoxiously self-assured, who insists they are right and **refuses to listen**. That recognizable encounter remains a central example **when the person does not recognize their own refusal**. 
+**Blind Certainty** is the default name for the Openness concept. Its familiar meaning illuminates the common example of it: we may encounter someone who is overconfident, smug, arrogant, haughty, or obnoxiously self-assured, who insists they are right and **refuses to listen**. That recognizable encounter remains a central example **when the person does not recognize their own refusal**.
 
 But the anchor is **wider and more precise** than confidence or demeanor: it identifies the **closedness of refusing to listen** together with an **unawareness of that closedness**. An overconfident person who genuinely listens does not exhibit Blind Certainty on account of their confidence; an outwardly modest person who unknowingly refuses to listen may exhibit it. This behavioral focus makes the concept more available to **Self-Honesty** and **Discernment**, while preserving the ordinary meaning that makes its established name valuable.
 
@@ -61,7 +61,7 @@ The significance may be especially consequential when unrecognized closedness jo
 
 **Blind Certainty** identifies **unawareness of a refusal to listen**, rather than a person's moral worth, duty to agree, or required response after recognition. Discovering a blind spot can make a new choice possible; the definition does not command apology, renewed participation, a particular degree of openness, or the immediate abandonment of a protective boundary.
 
-Unnoticed refusal may accompany coercive speech, the suppression of others' inquiry, or a claimed commitment to openness itself. **[The Ethics of Closedness](../ethics/the_ethics_of_closedness.md)** separately sets out Openness's preferred commitments concerning freedom of speech, consent, social suppression, possible harm, and solidarity. Those commitments can be examined or rejected without changing what **Blind Certainty** means.
+Unnoticed refusal may accompany coercive speech, the suppression of others' inquiry, or a claimed commitment to openness itself. An agreed **[Openness Container](defining_openness_container.md)** can offer willing people a recognizable setting for difficult inquiry without assuming that everyone must participate. **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)** separately sets out Openness's preferred commitments concerning freedom of speech, consent, social suppression, possible harm, and solidarity. Those commitments can be examined or rejected without changing what **Blind Certainty** means.
 
 ## Experiential Derivation
 
