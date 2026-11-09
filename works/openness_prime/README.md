@@ -63,7 +63,7 @@ Openness is not agreement with every claim, compulsory doubt, indifference to tr
 
 | Function | Symbol in the Tree | Principal concern | Description | Roles |
 |---|---|---|---|---|
-| | The Seed of Openness | | The experiential beginning of Openness: My Awareness, My Self & My Self-Confession of Not-Knowing | |
+| | The Seed of Openness | Opening | The experiential beginning of Openness: My Awareness, My Self & My Self-Confession of Not-Knowing | |
 | **G — Generative Openness** | Roots | Creating | Bringing forms and possibilities into recognizable being | The Artist Role<br>The Maestro Role |
 | **P — Philosophical Openness** | Trunk | Understanding | Examining understanding, justification, and the relationships among concepts | The Philomath Role<br>The Philosopher Role |
 | **S — Spiritual Openness** | Branches, leaves and crown | Living | Exploring finite embodied life, contemplation, wisdom, and becoming | The Nomad Role<br>The Sage Role |
