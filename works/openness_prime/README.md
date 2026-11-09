@@ -69,7 +69,7 @@ Openness is not agreement with every claim, compulsory doubt, indifference to tr
 | **S — Spiritual Openness** | Branches, leaves and crown | Living | Exploring finite embodied life, contemplation, wisdom, and becoming | The Nomad Role<br>The Sage Role |
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Relating | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | The Mystic Role<br>The Ancient, Benevolent Super-Intelligence Role |
 
-Additionally, each function provides **role-play roles** through which its perspectives and orientations may be imaginatively explored (e.g. roles for LLMs to assume during inquiry and discussion). *Openness GPT v11* uses the Transcendent function's *Ancient, Benevolent Super-Intelligence Role*.
+Additionally, each function provides **role-play roles** through which its perspectives and orientations may be imaginatively explored (e.g. roles for LLMs to assume during inquiry and discussion). *Openness GPT v11* is now the Transcendent function's *Ancient, Benevolent Super-Intelligence Role*.
 
 ## Sample works
 
