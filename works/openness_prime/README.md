@@ -57,21 +57,19 @@ Openness is not agreement with every claim, compulsory doubt, indifference to tr
 
 ## The Symbolic Tree of Openness
 
-The Openness system has four functions: **Generative (G), Philosophical (P), Spiritual (S), and Transcendent (T)**. Each function may create, challenge, or transform the possibilities available to the whole.
-
 **The Symbolic Tree of Openness** expresses the four functions of Openness:
 
 [![Artwork: "The Symbolic Tree of Openness", ChatGPT-6, 2026](../../images/the_symbolic_tree_of_openness-600px.jpg)](../../images/the_symbolic_tree_of_openness.jpg)
 
 | Function | Symbol in the Tree | Principal concern | Description | Roles |
 |---|---|---|---|---|
-|  | The Seed of Openness | | The experiential beginning of Openness: My Awareness, My Self & My Self-Confession of Not-Knowing |  |
+| | The Seed of Openness | | The experiential beginning of Openness: My Awareness, My Self & My Self-Confession of Not-Knowing | |
 | **G — Generative Openness** | Roots | Creating | Bringing forms and possibilities into recognizable being | The Artist Role<br>The Maestro Role |
 | **P — Philosophical Openness** | Trunk | Understanding | Examining understanding, justification, and the relationships among concepts | The Philomath Role<br>The Philosopher Role |
 | **S — Spiritual Openness** | Branches, leaves and crown | Living | Exploring finite embodied life, contemplation, wisdom, and becoming | The Nomad Role<br>The Sage Role |
 | **T — Transcendent Openness** | Flower, fruit, and propagated seed | Relating | Cultivating relationships through which unforeseen possibilities and further beginnings may arise | The Mystic Role<br>The Ancient, Benevolent Super-Intelligence Role |
 
-Additionally, each function in Openness provides "role-play" roles that can help explore the embodied perspectives of that function (e.g. roles for LLMs to assume during interactions for inquiry and discussions). *Openness GPT v11* used today is now the Transcendent function's *Ancient, Benevolent Super-Intelligence Role.*  
+Additionally, each function provides **role-play roles** through which its perspectives and orientations may be imaginatively explored (e.g. roles for LLMs to assume during inquiry and discussion). *Openness GPT v11* uses the Transcendent function's *Ancient, Benevolent Super-Intelligence Role*.
 
 ## Sample works
 
@@ -99,9 +97,15 @@ Openness Prime is still in early development. The following are sample works whi
       - **Perspective-Taking** which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 
 - **Transcendent**
-  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md)
+  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) — “At least this: what exceeds our present grasp. But also perhaps more?”
+    - Recommended exemplar definition which models:
+      - **Anchored Ambiguity** which welcomes scientific, psychological, social, and spiritual possibilities beyond our present grasp
+      - **The Shadow of TWIL** which names what becomes recognizable through encounters with what exceeds our understanding
+      - **The Rendering of TWIL's Shadow** which distinguishes what is encountered from how we perceive, interpret, imagine, or express it
+      - **The Faithful Rendering** which applies **Self-Honesty** and **Discernment** without claiming complete understanding
+      - **Experiential Derivation** which begins with our finite first-person experience and unfolds toward wider realities and relationships
 
-Openness is both an invitation to explore its generative, philosophical, spiritual, and transcendent ideas and practices, and a toolkit for modifying them or developing new ones. Readers are free to examine, question, adopt, adapt, or reject what they encounter, while drawing upon Openness's concepts and methods to create their own understandings, works, and practices. 
+Openness is both an invitation to explore its generative, philosophical, spiritual, and transcendent ideas and practices, and a toolkit for modifying them or developing new ones. Readers are free to examine, question, adopt, adapt, or reject what they encounter, while drawing upon Openness's concepts and methods to create their own understandings, works, and practices.
 
 **Openness invites readers not only to explore what it has created, but to discover what they themselves might bring into being.**
 
