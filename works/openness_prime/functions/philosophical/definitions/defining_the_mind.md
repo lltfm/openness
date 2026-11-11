@@ -33,6 +33,7 @@ The brain? This seems to be, based on evidence.
 But perhaps part of "the mind" is not contained in the brain?
 Who can show us that the mind is only a brain?
 Perhaps part of what we call "mind" is what others call "soul"?
+Who decides?
 
 We often speak as if a group possesses a kind of collective mind.
 We say "this group" or "that group", "they thought this"
