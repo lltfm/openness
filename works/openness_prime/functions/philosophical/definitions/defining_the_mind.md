@@ -9,7 +9,7 @@ Status: approved
 
 ## Prelude
 
-## Questions
+### Questions
 ```
 A curious thing this word, "mind".
 Most speak it as if no doubt remains about what it is.
@@ -26,21 +26,20 @@ Most would agree "thoughts" are part of the mind.
 But are "feelings" not also part of the mind?
 Emotions? Desires?
 Where does the mind end and the body begin exactly?
-Who can show us?
+How could we discern the difference?
 
 Where does "the mind" exist exactly?
-The brain? This seems likely based on evidence.
-But perhaps part of "mind" is not contained in the brain?
+The brain? This seems to be based on evidence.
+But perhaps part of "the mind" is not contained in the brain?
 Who can show us that the mind is *not* more than a brain?
-Perhaps part of what we call "mind" is others call "the soul"?
-Who can show us?
+Perhaps part of what we call "mind" is what others call "soul"?
 
-Most would agree a group possesses a kind of collective mind.
+We often speak as if a group possesses a kind of collective mind.
 We say "this group" or "that group", "they thought this"
 or "they believed such".
 Yet who can show us their mind?
 Do all within a group possess the same mind?
-For a group, who chooses which minds belong to the group's mind?
+Who chooses which minds belong to the group's mind?
 
 When I imagine another's mind, where does that attribution exist?
 ```
