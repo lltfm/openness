@@ -29,9 +29,9 @@ Where does the mind end and the body begin exactly?
 How could we discern the difference?
 
 Where does "the mind" exist exactly?
-The brain? This seems to be based on evidence.
+The brain? This seems to be, based on evidence.
 But perhaps part of "the mind" is not contained in the brain?
-Who can show us that the mind is *not* more than a brain?
+Who can show us that the mind is only a brain?
 Perhaps part of what we call "mind" is what others call "soul"?
 
 We often speak as if a group possesses a kind of collective mind.
@@ -39,9 +39,9 @@ We say "this group" or "that group", "they thought this"
 or "they believed such".
 Yet who can show us their mind?
 Do all within a group possess the same mind?
-Who chooses which minds belong to the group's mind?
+Who chooses which minds belong to a group's mind?
 
-When I imagine another's mind, where does that attribution exist?
+When we imagine another's mind, where does that attribution exist?
 ```
 
 ### Re-imagineering The Mind
