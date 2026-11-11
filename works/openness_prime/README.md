@@ -89,7 +89,7 @@ Openness Prime is still in early development. The following are sample works whi
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
 
 - **Spiritual**
-  - [Love](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely; but also perhaps more?”
+  - [Love](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely. But also perhaps more?”
     - Recommended exemplar definition which models:
       - **Fiat Form** which makes creation explicit
       - **Anchored Ambiguity** which unfolds into familiar forms of love
@@ -107,7 +107,7 @@ Openness Prime is still in early development. The following are sample works whi
 
 Openness is both an invitation to explore its generative, philosophical, spiritual, and transcendent ideas and practices, and a toolkit for modifying them or developing new ones. Readers are free to examine, question, adopt, adapt, or reject what they encounter, while drawing upon Openness's concepts and methods to create their own understandings, works, and practices.
 
-**Openness invites readers not only to explore what it has created, but to discover what they themselves might bring into being.**
+**Openness invites readers not only to explore what has been created, but to discover what they themselves might bring into being.**
 
 ## Revisability
 
