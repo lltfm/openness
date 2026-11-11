@@ -228,7 +228,7 @@ Someone hears gracious words yet feels unease. The words, gestures, and feeling 
 
 ### Example — Glossolalia and a Rendering of Presence
 
-During worship, participants report a powerful sense of presence. Someone speaks unfamiliar sounds; another offers an interpretation understood within the congregation as a translation. The reported experience, audible speech, and subsequent words can be examined as features of an encounter and its **Rendering**.
+During religious worship, participants report a powerful sense of presence. Someone speaks unfamiliar sounds; another offers an interpretation understood within the congregation as a translation. The reported experience, audible speech, and subsequent words can be examined as features of an encounter and its **Rendering**.
 
 The participant's term *translation* does not independently establish a foreign-language message. Religious, psychological, and cultural explanations have different grounds. **Faithful Rendering** preserves what participants experienced and said while distinguishing their interpretation from a verified account of its source.
 
