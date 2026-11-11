@@ -14,23 +14,23 @@ Status: approved
 A curious thing this word, "mind".
 Most speak it as if no doubt remains about what it is.
 
-But who can show us a "mind"?
-Who has seen another's "mind"?
+But who can show us a mind?
+Who has seen another's mind?
 Most would agree humans possess minds, but do animals?
 Some, perhaps, but insects? Plants? Rocks?
 Certainly, we have this curious capacity to imagine they do.
-And we have the capacity to think and reason about whether they do.
+And we have the further capacity to think and reason about whether they do.
 
-Who chooses what "the mind" includes?
+Who chooses what the mind includes?
 Most would agree "thoughts" are part of the mind.
 But are "feelings" not also part of the mind?
 Emotions? Desires?
-Where does the mind end and the body begin exactly?
-How could we discern the difference?
+Where does the mind end and the body begin?
+How can we discern the difference?
 
-Where does "the mind" exist exactly?
+Where does the mind exist exactly?
 The brain? This seems to be, based on evidence.
-But perhaps part of "the mind" is not contained in the brain?
+But perhaps part of the mind is not contained in the brain?
 Who can show us that the mind is only a brain?
 Perhaps part of what we call "mind" is what others call "soul"?
 Who decides?
