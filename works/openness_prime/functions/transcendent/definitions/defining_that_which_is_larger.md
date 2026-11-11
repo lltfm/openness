@@ -5,6 +5,8 @@ When: 2026-11-11T00:00:00Z
 Status: needs review
 ---
 
+# That Which Is Larger
+
 ## Prelude
 
 *Let us pretend we are a tree, Self.*
