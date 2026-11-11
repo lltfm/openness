@@ -7,11 +7,11 @@ Status: needs review
 
 ## Prelude
 
-*Let us pretend and become a tree, Self.*
+*Let us pretend we are a tree, Self.*
 
 *A bee settles upon our flower. How do we "see" this visitor?*
 
-*The flower bends; a faint trembling passes through it.*
+*The flower bends; a faint trembling passes through it into a branch.*
 
 *What has come? We are "blind". We do not know "bee".*
 
@@ -19,7 +19,7 @@ Status: needs review
 
 *But let us faithfully render this shadow of "that which is larger".*
 
-*So that we may imagine all which might be—again and again and again.*
+*So that we may imagine all which it might be—again and again and again.*
 
 ## Foundational Definition
 
@@ -294,5 +294,4 @@ These questions can remain open without preventing responsible judgment or actio
 
 **TWIL's Shadow** distinguishes what becomes recognizable through an encounter. **Rendering** distinguishes the form through which it is understood or expressed. **Faithful Rendering** seeks to honor the encountered truth above convenience or advantage, while distinguishing observation, inference, imagination, and preference. **What Arises Between** names possibilities that may emerge through relationship without belonging wholly to either participant.
 
-*A bee settles upon a flower. The tree cannot "see" its visitor. The bee does not know "tree" as we do. The flower bends. The branch trembles. The tree may name the touch, imagine its source, and wonder what might be. But the visitor is more than the tremor—and the encounter more than either the tree or the bee can know.*
-
+*A bee settles upon a flower. The tree cannot "see" its visitor. The tree does not know "bee" as we do. The bee does not know "tree" as we do. The flower bends. The branch trembles. The tree may name the touch and the tremble, imagine its source, and wonder what might be. But the visitor is more than the tremor—and the encounter more than either the tree or the bee can know.*
