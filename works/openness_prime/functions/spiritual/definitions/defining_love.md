@@ -34,6 +34,7 @@ The familiar forms of love can unfold from this beginning without becoming addit
 - Perhaps **Love** can deepen from freely offered attention into a form of presence that changes how people listen, understand, and respond to one another?
 - Or perhaps **Love** is also a real relationship or organizing aspect of existence that cannot be fully explained by the separate activities of those who love?
 - Or perhaps **Love** has a spiritual dimension through which attention freely offered to another becomes participation in a unity larger than the individual self?
+- *But also perhaps more?*
 
 ## The Definition Unfolded
 
