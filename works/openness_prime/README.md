@@ -80,7 +80,7 @@ Openness Prime is still in early development. The following are sample works whi
   - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md) — “Let there be a conceptual unity…”
 
 - **Philosophical**
-  - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a conceptual pattern recognized through first-person mental experience; but also perhaps more?”
+  - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
       - **Epistemic Remembering** which reimagines the before and after of a common concept's creation
       - **Anchored Ambiguity** which welcomes speculations about what the mind is exactly, based on its anchor
@@ -97,13 +97,13 @@ Openness Prime is still in early development. The following are sample works whi
       - **Perspective-Taking** which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 
 - **Transcendent**
-  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) — “At least this: what exceeds our present grasp. But also perhaps more?”
+  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) — a chosen conceptual pattern for considering what exceeds one's own present grasp
     - Recommended exemplar definition which models:
-      - **Anchored Ambiguity** which welcomes scientific, psychological, social, and spiritual possibilities beyond our present grasp
-      - **The Shadow of TWIL** which names what becomes recognizable through encounters with what exceeds our understanding
-      - **The Rendering of TWIL's Shadow** which distinguishes what is encountered from how we perceive, interpret, imagine, or express it
-      - **The Faithful Rendering** which applies **Self-Honesty** and **Discernment** without claiming complete understanding
-      - **Experiential Derivation** which begins with our finite first-person experience and unfolds toward wider realities and relationships
+      - **Anchored Ambiguity** which welcomes scientific, psychological, social, spiritual or other speculations
+      - **Experiential Derivation** which imagines how the concept could be derived from first-person experience
+      - **The Shadow of TWIL** which names what becomes recognizable through actual encounters, without assuming their ultimate sources
+      - **The Rendering of TWIL's Shadow** which distinguishes what is encountered from how it is perceived, interpreted, imagined, or expressed
+      - **The Faithful Rendering** which applies **Self-Honesty** and **Discernment**, placing truthfulness above personal or group advantage
 
 Openness is both an invitation to explore its generative, philosophical, spiritual, and transcendent ideas and practices, and a toolkit for modifying them or developing new ones. Readers are free to examine, question, adopt, adapt, or reject what they encounter, while drawing upon Openness's concepts and methods to create their own understandings, works, and practices.
 
