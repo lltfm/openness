@@ -1,3 +1,10 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-11-11T00:00:00Z
+Status: needs review
+---
+
 # Semantic Compression
 
 ## Prelude
