@@ -9,6 +9,44 @@ Status: approved
 
 ## Prelude
 
+## Questions
+```
+A curious thing this word, "mind".
+Most speak it as if no doubt remains about what it is.
+
+But who can show us a "mind"?
+Who has seen another's "mind"?
+Most would agree humans possess minds, but do animals?
+Some, perhaps, but insects? Plants? Rocks?
+Certainly, we have this curious capacity to imagine they do.
+And we have the capacity to think and reason about whether they do.
+
+Who chooses what "the mind" includes?
+Most would agree "thoughts" are part of the mind.
+But are "feelings" not also part of the mind?
+Emotions? Desires?
+Where does the mind end and the body begin exactly?
+Who can show us?
+
+Where does "the mind" exist exactly?
+The brain? This seems likely based on evidence.
+But perhaps part of "mind" is not contained in the brain?
+Who can show us that the mind is *not* more than a brain?
+Perhaps part of what we call "mind" is others call "the soul"?
+Who can show us?
+
+Most would agree a group possesses a kind of collective mind.
+We say "this group" or "that group", "they thought this"
+or "they believed such".
+Yet who can show us their mind?
+Do all within a group possess the same mind?
+For a group, who chooses which minds belong to the group's mind?
+
+When I imagine another's mind, where does that attribution exist?
+```
+
+### Re-imagineering The Mind
+
 **Fiat Form**: *“Let there be a form called **The Mind**...”*
 
 **Fiat Anchor**: *“...which gathers mental life into a conceptual unity...”*
