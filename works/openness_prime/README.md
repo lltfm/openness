@@ -83,24 +83,24 @@ Openness Prime is still in early development. The following are sample works whi
   - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
       - **Epistemic Remembering** which reimagines the before and after of a common concept's creation
-      - **Anchored Ambiguity** which welcomes speculations about what the mind is exactly, based on its anchor
       - **Fiat Anchor** which explicitly discloses the choices of where to "anchor" the meaning of the mind
+      - **Anchored Ambiguity** which welcomes speculations about what the mind is exactly, based on its anchor
       - **Experiential Derivation** which imagines how the concept could be derived from first-person experience
       - **Analogical Projection** which applies **The Mind** (with **Analogical Discernment**) into the world
 
 - **Spiritual**
   - [Love](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely. But also perhaps more?”
     - Recommended exemplar definition which models:
-      - **Fiat Form** which makes creation explicit
+      - **Fiat Anchor** which makes the creation ot its chosen anchored meaning explicit
       - **Anchored Ambiguity** which unfolds into familiar forms of love
       - **Preferential Inhabitation** which allows a possibility to be deliberately "inhabited" without requiring belief in its ultimate truth (and perhaps later reconsidered)
       - **Perspective-Taking** which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 
 - **Transcendent**
-  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) — a chosen conceptual pattern for considering what exceeds one's own present grasp
+  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) — a chosen **Mental Model** for considering what exceeds our present grasp
     - Recommended exemplar definition which models:
+      - **Fiat Anchor** which makes the creation ot its chosen anchored meaning explicit
       - **Anchored Ambiguity** which welcomes scientific, psychological, social, spiritual or other speculations
-      - **Experiential Derivation** which imagines how the concept could be derived from first-person experience
       - **The Shadow of TWIL** which names what becomes recognizable through actual encounters, without assuming their ultimate sources
       - **The Rendering of TWIL's Shadow** which distinguishes what is encountered from how it is perceived, interpreted, imagined, or expressed
       - **The Faithful Rendering** which applies **Self-Honesty** and **Discernment**, placing truthfulness above personal or group advantage
