@@ -31,7 +31,7 @@ This is a **Fiat Anchor** expressed through **Anchored Ambiguity**. It stipulate
 
 The name also operates as a **warning label**: recognizing that a topic is Heretica can help participants identify who may face repercussions merely for discussing it. A label need not decide who should speak, whether discussion should be public, which claim is true, or what risks another person should take. The identification of the concept is distinct from the **ethical response to its risks**.
 
-**Openness adopts a specific, freely examinable response** in **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)**: a free-speech-absolutist aspiration, opposition to punishment for mere expression, respect for voluntary participation, consent-based containers for socially risky or potentially harmful speech, admiration for courageous dissent, and an asymmetric but revisable preference toward credibly persecuted truth-bearing testimony. None of these adopted positions is an additional necessary condition of the anchor. A person may recognize Heretica while disagreeing with one or more of Openness's ethical commitments.
+**Openness adopts a specific, freely examinable response** in **[The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)**: a free-speech-absolutist aspiration, opposition to punishment for mere expression, respect for voluntary participation, consent-based containers for socially risky or potentially harmful speech, admiration for courageous dissent, and an asymmetric but revisable preference toward credibly persecuted truth-bearing testimony. None of these adopted positions is an additional necessary condition of the anchor. A person may recognize Heretica while disagreeing with one or more of Openness's ethical commitments.
 
 ### Example Speculations
 
@@ -257,7 +257,7 @@ Participants mutually agree to portray a threatening scenario as part of a ficti
 
 The classification also does not automatically settle whether a speech act had actual harmful effects, whether its representation belongs in a specifically agreed **Openness Container** or **The Playspace**, or what consent is necessary. The distinction between content, participant risk, and the real effects of expression calls for further examination.
 
-A Heretica label is a **warning about social reality, not a declaration that a subject must be kept secret**. How Openness chooses to honor free speech, the freedom to decline participation, respect for privacy, courageous testimony, and the exploration of potentially harmful speech is presented in **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)**. Readers may assess the anchor and that ethics independently.
+A Heretica label is a **warning about social reality, not a declaration that a subject must be kept secret**. How Openness chooses to honor free speech, the freedom to decline participation, respect for privacy, courageous testimony, and the exploration of potentially harmful speech is presented in **[The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)**. Readers may assess the anchor and that ethics independently.
 
 The recurring relationship with **Blind Certainty**, **Libido Dominandi**, collective shame, concealed abuse, a *great person* narrative, or a *greater-good* story remains an important possible unfolding rather than a necessary condition of Heretica.
 

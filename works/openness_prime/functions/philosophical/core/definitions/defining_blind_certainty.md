@@ -61,7 +61,7 @@ The significance may be especially consequential when unrecognized closedness jo
 
 **Blind Certainty** identifies **unawareness of a refusal to listen**, rather than a person's moral worth, duty to agree, or required response after recognition. Discovering a blind spot can make a new choice possible; the definition does not command apology, renewed participation, a particular degree of openness, or the immediate abandonment of a protective boundary.
 
-Unnoticed refusal may accompany coercive speech, the suppression of others' inquiry, or a claimed commitment to openness itself. An agreed **[Openness Container](defining_openness_container.md)** can offer willing people a recognizable setting for difficult inquiry without assuming that everyone must participate. **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)** separately sets out Openness's preferred commitments concerning freedom of speech, consent, social suppression, possible harm, and solidarity. Those commitments can be examined or rejected without changing what **Blind Certainty** means.
+Unnoticed refusal may accompany coercive speech, the suppression of others' inquiry, or a claimed commitment to openness itself. An agreed **[Openness Container](defining_openness_container.md)** can offer willing people a recognizable setting for difficult inquiry without assuming that everyone must participate. **[The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)** separately sets out Openness's preferred commitments concerning freedom of speech, consent, social suppression, possible harm, and solidarity. Those commitments can be examined or rejected without changing what **Blind Certainty** means.
 
 ## Experiential Derivation
 

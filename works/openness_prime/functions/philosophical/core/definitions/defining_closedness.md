@@ -35,7 +35,7 @@ The anchor works at two especially important scales. In **personal closedness**,
 
 **Blind Certainty**, also officially called *Blind Closedness*, adds a separate defining condition: **an unawareness of closedness**. Closedness itself can be plainly acknowledged. Recognizing a refusal ends the blindness *about that refusal* without automatically ending the refusal, changing a belief, or undoing an action. Conversely, neither strong confidence nor smug demeanor is needed for someone to refuse to listen without noticing.
 
-**Heretica** identifies ideas whose mere contemplation or discussion carries credible risk of social punishment in a particular community. It is one especially consequential way **social closedness** becomes observable. The distinction between declining one's own participation and preventing other willing people from listening can be made descriptively; **the ethical position Openness takes toward these cases belongs separately in [The Ethics of Closedness](../ethics/ethics_of_closedness.md)**.
+**Heretica** identifies ideas whose mere contemplation or discussion carries credible risk of social punishment in a particular community. It is one especially consequential way **social closedness** becomes observable. The distinction between declining one's own participation and preventing other willing people from listening can be made descriptively; **the ethical position Openness takes toward these cases belongs separately in [The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)**.
 
 ### Example Speculations
 
@@ -101,7 +101,7 @@ This is a refusal to listen **in a social or operative sense**: structures of pe
 
 The concept of **Closedness** describes the refusal to listen; it does not, by itself, determine the ethics of that refusal. A personal protective boundary, a temporary concentration on an action, and an institutional punishment for asking a question can all narrow listening while differing profoundly in purpose, agency, power, and consequence.
 
-**Openness's chosen ethical response**—including its rejection of social punishment for mere expression, the freedom to decline a conversation, and its use of separately defined **[Openness Containers](defining_openness_container.md)** for Heretica and more difficult expression—is developed in **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)**. These positions are offered for separate examination and voluntary adoption; they are not extra premises of the minimal anchor.
+**Openness's chosen ethical response**—including its rejection of social punishment for mere expression, the freedom to decline a conversation, and its use of separately defined **[Openness Containers](defining_openness_container.md)** for Heretica and more difficult expression—is developed in **[The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)**. These positions are offered for separate examination and voluntary adoption; they are not extra premises of the minimal anchor.
 
 ### Listening, evidence, and preferred stories
 
@@ -237,6 +237,6 @@ A recognition of Closedness may invite a return to listening. Where the refusal 
 
 ## Summary
 
-**Closedness is, at least, the refusal to listen.** It becomes recognizable in an individual who will not receive a question, in the deliberate narrowing that can serve necessary action, and in the social practices through which a community prevents willing people from hearing or discussing an idea. **Blind Certainty** names unawareness of Closedness; **Heretica** marks ideas placed at risk by social punishment. **[The Ethics of Closedness](../ethics/ethics_of_closedness.md)** develops Openness's separate preferred responses to these conditions.
+**Closedness is, at least, the refusal to listen.** It becomes recognizable in an individual who will not receive a question, in the deliberate narrowing that can serve necessary action, and in the social practices through which a community prevents willing people from hearing or discussing an idea. **Blind Certainty** names unawareness of Closedness; **Heretica** marks ideas placed at risk by social punishment. **[The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)** develops Openness's separate preferred responses to these conditions.
 
 *The door may be closed for a reason. What matters, too, is knowing that it is a door—and remembering that it can open.*
