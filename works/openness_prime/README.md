@@ -76,11 +76,11 @@ Additionally, each function provides **role-play roles** through which its persp
 Openness Prime is still in early development. The following are sample works which are ready for preliminary review:
 
 - **Generative**
-  - [Fiat Form](functions/generative/core/definitions/defining_fiat_form.md) — “Let there be form…”
-  - [Fiat Anchor](functions/generative/core/definitions/defining_fiat_anchor.md) — “Let there be a conceptual unity…”
+  - [**Fiat Form**](functions/generative/core/definitions/defining_fiat_form.md) — “Let there be form…”
+  - [**Fiat Anchor**](functions/generative/core/definitions/defining_fiat_anchor.md) — “Let there be a conceptual unity…”
 
 - **Philosophical**
-  - [The Mind](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a pattern recognized through first-person mental experience; but also perhaps more?”
+  - [**The Mind**](functions/philosophical/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
       - [**Epistemic Remembering**](functions/generative/core/definitions/defining_fiat_anchor.md#epistemic-remembering-and-the-disappearance-of-an-anchor) which reimagines the before and after of a common concept's creation
       - [**Fiat Anchor**](functions/generative/core/definitions/defining_fiat_anchor.md) which explicitly discloses the choices of where to "anchor" the meaning of the mind
@@ -89,7 +89,7 @@ Openness Prime is still in early development. The following are sample works whi
       - [**Analogical Projection**](functions/generative/core/definitions/defining_analogical_projection.md) which applies **The Mind** (with **Analogical Discernment**) into the world
 
 - **Spiritual**
-  - [Love](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely. But also perhaps more?”
+  - [**Love**](functions/spiritual/definitions/defining_love.md) — “Let *Love* be at least this: attention given freely. But also perhaps more?”
     - Recommended exemplar definition which models:
       - [**Fiat Anchor**](functions/generative/core/definitions/defining_fiat_anchor.md) which makes the creation ot its chosen anchored meaning explicit
       - [**Anchored Ambiguity**](functions/generative/core/definitions/defining_anchored_ambiguity.md) which unfolds into familiar forms of love
@@ -97,7 +97,7 @@ Openness Prime is still in early development. The following are sample works whi
       - [**Perspective-Taking**](functions/generative/definitions/defining_perspective_taking.md) which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 
 - **Transcendent**
-  - [That Which Is Larger](functions/transcendent/core/defining_that_which_is_larger.md) — a chosen **Mental Model** for considering what exceeds our present grasp
+  - [**That Which Is Larger**](functions/transcendent/core/defining_that_which_is_larger.md) — a chosen **Mental Model** for considering what exceeds our present grasp
     - Recommended exemplar definition which models:
       - [**Fiat Anchor**](functions/generative/core/definitions/defining_fiat_anchor.md) which makes the creation ot its chosen anchored meaning explicit
       - [**Anchored Ambiguity**](functions/generative/core/definitions/defining_anchored_ambiguity.md) which welcomes scientific, psychological, social, spiritual or other speculations
