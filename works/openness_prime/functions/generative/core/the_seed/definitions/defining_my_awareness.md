@@ -64,11 +64,11 @@ These movements make the first-person anchor inspectable; they are not compulsor
 
 **Bodily continuity versus continuity of experiencing.** The body may remain alive through dreamless sleep, anesthesia, or other unremembered intervals. Whether, how, and to what extent experiencing continued is a further question; recollection alone does not settle it.
 
-**Dream perspective versus literal transfer.** An unfamiliar dream body or standpoint can invite contemplation of experiencing beyond familiar embodiment. The dream itself does not establish nor disprove that **My Awareness** literally departed from the body. The possibility is compatible with the foundational anchor and available for inquiry.
+**Dream perspective versus literal transfer.** An unfamiliar dream body or standpoint can invite contemplation of experiencing beyond familiar embodiment. The dream itself neither establishes nor rules out the possibility that **My Awareness** literally departed from the body.
 
 **Experience versus reflexive recognition.** Experience may occur without the thought *I am aware*, or an expressed **My Self-Confession of Not-Knowing**.
 
-**First-person beginning versus another's first-person life.** Another person's behavior and testimony may strongly warrant attribution of their own **My Awareness**, but this does not provide direct access to that person's experiencing. The separate definition **Awareness** generalizes **My Awareness** for possible application beyond the first-person standpoint. 
+**First-person beginning versus another's first-person life.** Another person's behavior and testimony may strongly warrant attribution of their own **Subjective Awareness**, but this does not provide direct access to that person's experiencing. The separate definition **Awareness** generalizes **My Awareness** for possible application beyond the first-person standpoint. 
 
 **My Awareness versus The Mind.** **The Mind** gathers experienced activities, recognized capacities, and inferred processes. **My Awareness** concerns the presence of experiencing. They may be related, but the two anchors are not synonyms.
 
@@ -86,7 +86,7 @@ These movements make the first-person anchor inspectable; they are not compulsor
 
 ## Naming and Usage
 
-**My Awareness** should be used to refer to the primary, separately stewarded first-person Seed concept here. The surrounding language should attempt to accommodate the grammar of *My*, but this is not a requirement as long as My Awareness is capitalized to indicate that it is an Openness term.
+**My Awareness** should be used to refer to the primary, separately stewarded first-person Seed concept here. The surrounding language should attempt to accommodate the grammar of *My*. When this is not possible use the synonym **Subjective Awareness** instead.
 
 **Subjective Awareness** is the 3rd person synonym. Use to refer to:
 - The concept - "Subjective Awareness"
@@ -119,13 +119,13 @@ I sometimes dream I am myself, but inside an unfamiliar body. Sometimes I dream 
 
 ### Example — Watching Another Painter
 
-I observe a painter friend's gestures and listen to them describe their technique. Their testimony and conduct strongly justifies to me that they must also possess their own experience of **My Awareness**, even though my friend's first-person experience is not available for me to experience in **My Awareness**.
+I observe a painter friend's gestures and listen to them describe their technique. Their testimony and conduct give me strong reasons to believe that they must also possess their own **Subjective Awareness**, even though my friend's first-person experience is not available for me to experience in **My Awareness**.
 
 ## Boundary
 
 **My Awareness** begins with the recognizable presence of experience from this familiar embodied standpoint. Its possible nature and relationships may be explored through physical, philosophical, and spiritual accounts—including a soul, an enduring observer, an independent controller, or a universal mind—while neural signatures and behavioral indicators may offer correlates or evidence for investigation. The **Foundational Definition** neither requires nor decides these possibilities; their compatibility and evidential support remain matters for **Epistemic Hospitality** and **Discernment**.
 
-**My Awareness** is a first-person anchored ambiguity which embraces any kind of speculation about its ultimate nature which is compatible with its anchor. Scientific, philosophical, psychological, neurological, and medical definitions of consciousness have their own specific distinctions and boundaries. Findings and concepts from these disciplines may illuminate experiencing in general, but their definitions are not directly interchangeable or necessarily compatible at all with Openness's own anchored ambiguity. This critical distinction is especially important when comparing **My Awareness** with accounts of neurological, psychological or medical correlates of consciousness, "the problem of other minds", spiritual or religious ideas of "soul", or possible machine experiencing.
+**My Awareness** is a first-person **Anchored Ambiguity** which embraces any kind of speculation about its ultimate nature which is compatible with its anchor. Scientific, philosophical, psychological, neurological, and medical definitions of consciousness have their own specific distinctions and boundaries. Findings and concepts from these disciplines may illuminate experiencing in general, but their definitions are not directly interchangeable or necessarily compatible at all with Openness's own anchored ambiguity. This critical distinction is especially important when comparing **My Awareness** with accounts of neurological, psychological or medical correlates of consciousness, "the problem of other minds", spiritual or religious ideas of "soul", or possible machine experiencing.
 
 ## Summary
 
