@@ -97,7 +97,7 @@ Openness Prime is still in early development. The following are sample works whi
       - **Perspective-Taking** which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 
 - **Transcendent**
-  - [That Which Is Larger](functions/transcendent/definitions/defining_that_which_is_larger.md) — a chosen **Mental Model** for considering what exceeds our present grasp
+  - [That Which Is Larger](functions/transcendent/core/defining_that_which_is_larger.md) — a chosen **Mental Model** for considering what exceeds our present grasp
     - Recommended exemplar definition which models:
       - **Fiat Anchor** which makes the creation ot its chosen anchored meaning explicit
       - **Anchored Ambiguity** which welcomes scientific, psychological, social, spiritual or other speculations
