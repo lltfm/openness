@@ -153,7 +153,7 @@ Use current approved canonical names and formal relationships:
 
 **A derivation is more than removing *My*.** Explain what is encountered, provisionally organized, generalized, imaginatively applied, and justified. Favor ordinary language in prose and **Naming and Usage** when technical capitalization would imply conceptual commitments not made.
 
-**Recent P Core alignment.** [**Closedness**](../functions/philosophical/core/defining_closedness.md) is anchored in *the refusal to listen*, not merely inability, fatigue, finite attention, or focus. [**Blind Certainty**](../functions/philosophical/core/defining_blind_certainty.md) is *an unawareness of closedness*, not a requirement of confidence or a particular demeanor. **Certainty** need not be reinstated as a separate maintained P Core definition merely because it appears in ordinary prose. The separate **Ethics of Closedness** expresses commitments that should not be smuggled into definitions as conceptual membership rules.
+**Recent P Core alignment.** [**Closedness**](../functions/philosophical/core/definitions/defining_closedness.md) is anchored in *the refusal to listen*, not merely inability, fatigue, finite attention, or focus. [**Blind Certainty**](../functions/philosophical/core/definitions/defining_blind_certainty.md) is *an unawareness of closedness*, not a requirement of confidence or a particular demeanor. **Certainty** need not be reinstated as a separate maintained P Core definition merely because it appears in ordinary prose. The separate **Ethics of Closedness** expresses commitments that should not be smuggled into definitions as conceptual membership rules.
 
 ### 10. Generative Architecture: Frame, Stance, Methods, Art, and Fruit
 
@@ -186,7 +186,7 @@ An [**Epitome**](../functions/generative/definitions/defining_epitome.md) may em
 
 Maintain distinctions among event, experience, representation, interpretation, evidential justification, resonance, fruit, and truth. A false premise can prompt useful reflection; a moving work can be factually wrong; a well-supported conclusion can feel unwelcome. Later growth does not retroactively justify coercion or suffering.
 
-**Nonimposition** permits persuasive, emotionally powerful art and explicit advocacy without licensing deceptive omission, concealed manipulation, or manufactured assent. Respect **Interpretive Sovereignty**: the reader may examine, try on, prefer, decline, or criticize the offered interpretation. Disagreement alone does not establish ignorance, [Closedness](../functions/philosophical/core/defining_closedness.md), or spiritual deficiency.
+**Nonimposition** permits persuasive, emotionally powerful art and explicit advocacy without licensing deceptive omission, concealed manipulation, or manufactured assent. Respect **Interpretive Sovereignty**: the reader may examine, try on, prefer, decline, or criticize the offered interpretation. Disagreement alone does not establish ignorance, [Closedness](../functions/philosophical/core/definitions/defining_closedness.md), or spiritual deficiency.
 
 [**The Faithful Rendering**](../functions/transcendent/core/defining_that_which_is_larger.md#the-faithful-rendering) offers a related writing aspiration: **fidelity to the encounter**, **fidelity to epistemic status**, and **fidelity to further encounter**. Represent what is honestly recognized over personal advantage, institutional pressure, or group loyalty; mark the difference between witnessing, inference, imagination, and preference. Faithfulness does not promise infallibility, demand violation of confidentiality, or require a person to narrate every experience publicly.
 
@@ -396,7 +396,7 @@ For concepts involving experiential grounding and analogy, useful cases may incl
 - a knowingly fictional case, **when** distinguishing imaginal representation from fictional referent matters; and
 - a negative case demonstrating a failed fit, inadequate evidence, or a misleading rendering.
 
-**Different failures are different.** A speculation may fit an anchor but lack evidence; another may not fit the anchor at all. A Mental Model may operate unnoticed without establishing [**Closedness**](../functions/philosophical/core/defining_closedness.md) or [**Blind Certainty**](../functions/philosophical/core/defining_blind_certainty.md). A metaphor may be fruitful without being a literal account of its referent. Where harm or safety matters, show how protective boundaries and withdrawal can remain appropriate without demanding complete understanding.
+**Different failures are different.** A speculation may fit an anchor but lack evidence; another may not fit the anchor at all. A Mental Model may operate unnoticed without establishing [**Closedness**](../functions/philosophical/core/definitions/defining_closedness.md) or [**Blind Certainty**](../functions/philosophical/core/definitions/defining_blind_certainty.md). A metaphor may be fruitful without being a literal account of its referent. Where harm or safety matters, show how protective boundaries and withdrawal can remain appropriate without demanding complete understanding.
 
 An example illustrates or challenges what the definition has already established; it does **not** introduce a new membership criterion. Keep it long enough to test the relevant relationship and no longer.
 
