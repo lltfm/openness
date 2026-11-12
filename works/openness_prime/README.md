@@ -33,7 +33,7 @@ This posture is symbolized by the **open circle**: an imprecisely drawn, encircl
 
 The opening symbolizes [**My Self-Confession of Not-Knowing**](functions/generative/core/the_seed/definitions/defining_my_self_confession_of_not_knowing.md), through which we acknowledge the limits of our own understanding and remain receptive to [**The Mystery**](functions/generative/core/definitions/defining_the_mystery.md)—what remains unknown or incompletely understood, both within and beyond our own familiar experience.
 
-Openness aspires to [**Nonimposition**](functions/generative/definitions/defining_nonimposition.md): to give the world *the greatest possible latitude to be as it is*. This aspiration includes ourselves. We honor our own freedom to care for ourselves, establish boundaries, protect what matters, and walk away when we choose. We meet the world as it is while retaining the freedom to respond to it and help shape it.
+Openness aspires to [**Nonimposition**](functions/philosophical/core/definitions/defining_nonimposition.md): to give the world *the greatest possible latitude to be as it is*. This aspiration includes ourselves. We honor our own freedom to care for ourselves, establish boundaries, protect what matters, and walk away when we choose. We meet the world as it is while retaining the freedom to respond to it and help shape it.
 
 ### Listening
 
