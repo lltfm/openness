@@ -5,7 +5,7 @@ When: 2026-11-11T00:00:00Z
 Status: approved
 ---
 
-# My Awareness (Subjective Awareness)
+# My Awareness / Subjective Awareness
 
 ## Foundational Definition
 
