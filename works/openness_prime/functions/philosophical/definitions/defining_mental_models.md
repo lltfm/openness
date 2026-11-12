@@ -25,7 +25,7 @@ Status: needs review
 
 What are **Mental Models**?
 
-**At least this**: provisionally distinguishable patterns of expectation, interpretation, and response, first recognized or inferred through experiences within My Awareness as possible organizations of the mind of My Self, then generalized as possible organizations within The Mind, whose applications may extend inwardly or outwardly across situations, referents, and standpoints.
+**At least this**: provisionally distinguishable patterns of expectation, interpretation, and response, first recognized or inferred through experiences within **My Awareness** as possible organizations of the mind of **My Self**, then generalized as possible organizations within **The Mind**, whose applications may extend inwardly or outwardly across situations, referents, and standpoints.
 
 *But also perhaps more?*
 
