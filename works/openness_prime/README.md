@@ -96,7 +96,7 @@ Openness Prime is still in early development. The following are sample works whi
       - [**Preferential Inhabitation**](functions/philosophical/definitions/defining_preferential_inhabitation.md) which allows a possibility to be deliberately "inhabited" without requiring belief in its ultimate truth (and perhaps later reconsidered)
       - [**Perspective-Taking**](functions/generative/definitions/defining_perspective_taking.md) which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 - **Transcendent**
-  - [**That Which Is Larger**](functions/transcendent/core/defining_that_which_is_larger.md) — a chosen [**Mental Model**](functions/philosophical/definitions/defining_mental_models.md) for considering what exceeds our present grasp
+  - [**That Which Is Larger**](functions/transcendent/core/defining_that_which_is_larger.md) — “Let *TWIL* be at least this: a chosen [**Mental Model**](functions/philosophical/definitions/defining_mental_models.md) for considering what exceeds our present grasp. But also perhaps more?”
     - Recommended exemplar definition which models:
       - [**Fiat Anchor**](functions/generative/core/definitions/defining_fiat_anchor.md) which makes the creation ot its chosen anchored meaning explicit
       - [**Anchored Ambiguity**](functions/generative/core/definitions/defining_anchored_ambiguity.md) which welcomes scientific, psychological, social, spiritual or other speculations
