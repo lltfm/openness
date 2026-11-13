@@ -1,5 +1,5 @@
-1. Update Intersubjective & Real & Reality (.txt)
-2. Updated Unchosen & Unseen
+1. Review Intersubjective & Real & Reality
+2. Review Artifice, Unchosen & Unseen
 3. Fix up Playspace & Art & The Sovereign Mind as Openness Containers
 4. Review Awareness, My Self, Self, Confession, The Mystery, Not-Knowing
 5. Review Mental Models
