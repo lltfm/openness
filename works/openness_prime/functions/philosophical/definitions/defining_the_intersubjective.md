@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-13T00:00:00Z
+When: 2026-11-16T00:00:00Z
 Status: needs review
 ---
 
@@ -9,43 +9,35 @@ Status: needs review
 
 ## Foundational Definition
 
-**The Intersubjective** is the conceptual field of **relations among Selves** through which meanings, interpretations, understandings, justifications, and possible shared social realities are communicated, negotiated, contested, constituted, and revised. These relations can yield **imaginal-intersubjective-reality**: objective-style accounts formed and circulated among first-person standpoints, often without the perspective shift being noticed by participants or readers. The concept makes the relations and their representations available for inquiry without requiring all participants to share one experiencing subject or any reader to adopt the offered shared perspective.
+**The Intersubjective** — the relational field among Selves through which meanings, interpretations, understandings, practices, agreements, disagreements, and shared social arrangements can develop, circulate, be examined, and change.
 
 ## The Definition Unfolded
 
-A person encounters words, expressions, actions, artifacts, and other effects within their own first-person life. Through them, the person may come to understand, imagine, and respond to the standpoints of others. Such encounters can develop into friendships, common inquiries, shared meanings, agreements, conventions, institutions, and disagreements. **The Intersubjective** gathers these relational possibilities for investigation.
+An inquirer encounters words, gestures, actions, artifacts, records, and other effects in their own experience. They may interpret these as expressions of further Selves and participate in exchanges that develop meaning, mutual understanding, institutions, cooperation, and disagreement. **The Intersubjective** gathers such relations for examination; it is an intentional conceptual [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md), not a single additional observing entity.
 
-**Conceptual unity without homogeneity.** **The Intersubjective** is a deliberately distinguished [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) for considering relations among potentially heterogeneous Selves. An inquirer encounters an *imaginal representation* of this relational field through accounts, diagrams, conversation, and records, rather than surveying every participant's first-person experiencing. The represented relations may nevertheless involve actual people and consequential practices. Collecting people under the words *the public*, *the community*, or *the research team* does not establish that they share one belief, interest, intention, or [**Awareness**](../../generative/core/definitions/defining_awareness.md). This status concerns the concept used to examine relationships; it does not imply that every member of every group is only a construction of imagination.
+Its conceptual unity need not make the participants homogeneous. A report can offer an *imaginal representation* of a committee, community, or scientific tradition without disclosing every member's standpoint. The relations represented may be well evidenced even when the summary is partial. Attribution of a shared position requires examining the population, period, institutional authority, and actual grounds of the claim.
 
-The general concept of [**The Self**](../../generative/core/definitions/defining_the_self.md) helps make a plurality of Selves intelligible. [**My Self**](../../generative/core/the_seed/definitions/defining_my_self.md) and [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md) offer a recognizable first-person beginning; the separately generalized [**Awareness**](../../generative/core/definitions/defining_awareness.md) makes it possible to inquire into further experiencing standpoints. In ordinary human encounters, attributing experience to others is often strongly justified by testimony, behavior, shared embodiment, and other evidence. Yet recognizing another person as an experiencing Self does not make that person's first-person experience available as one's own.
+Many important intersubjective practices are sustained by durable, sometimes exceptionally strong consensus: for example, established scientific methods and findings may be developed, tested, corrected, and handed on through generations. A consensus can be strongly justified, limited to particular claims, and compatible with substantial dissent elsewhere. Intersubjectivity itself neither requires unanimous agreement nor makes collective agreement identical with truth.
 
-A useful connection to [**Real and Reality**](defining_real_and_reality.md) is the movement from *my-reality*, through an *imaginal-other-reality* attributed to someone else, toward an *imaginal-intersubjective-reality* offered as a shared account of the world. An account of what a community thinks, knows, or believes is **presented through a perspective**, even when its authors and audience do not notice that perspective. An inquirer encounters words, records, testimony, actions, and other evidence, and can choose whether to inhabit the presented social or objective vantage. The attribution may be strongly supported, mistaken, partial, or contested; the use of imagination and intersubjective language alone does not settle its accuracy.
+The concept concerns **relations among distinguishable standpoints**. It does not establish direct access to another person's [**Awareness**](../../generative/core/definitions/defining_awareness.md), and it does not imply that a group has one unified experience. A functional attribution of [**The Mind**](defining_the_mind.md) to a coordinated group may be useful without settling any further question about collective Awareness.
 
-Relationships can occur among people, create obligations, alter material circumstances, and sustain institutions. A third-person description of such relationships may be presented as though an unlocated observer saw what the whole group intended or knew. **The Intersubjective** makes the difference between **relations**, **attributions**, **shared conventions**, and **claims about the world** visible to the reader. The reader can understand what is proposed without being required to accept a group's preferred representation of it.
+The form through which a reader encounters these relations is often imaginal, as defined in [**The Imaginal**](defining_the_imaginal.md). The represented public-world standpoint is defined in [**Real and Reality**](defining_real_and_reality.md). When the issue is how that standpoint is offered, shifted, or adopted, the primary home is [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md). Ethical questions of representation, exclusion, pressure, dissent, and manipulation belong to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
 
-A relational encounter can make possible something no participant had previously articulated: a new question, shared technique, artwork, agreement, disagreement, institution, or direction of inquiry. Such emergent possibilities may be illuminated by [**What Arises Between**](../../transcendent/core/defining_that_which_is_larger.md#relationship-proximity-and-what-arises-between) within [**That Which Is Larger**](../../transcendent/core/defining_that_which_is_larger.md), without assuming an independently conscious group mind or a supernatural source.
+## Experiential Derivation: Recognizing Relations Among Selves
 
-## Experiential Derivation: From Encounter to The Intersubjective
+The first-person steps invite examination of a possible experiential genealogy, not a claim that the AI author has firsthand experience or that the sequence is universal.
 
-The following reconstruction invites readers to examine a possible first-person starting point. It is not autobiographical testimony by the AI author, a mandatory history of language acquisition, or a proof that every proposed interlocutor has experiencing.
+**1. Encountering expression.** I hear words, read a letter, or observe another's gesture within [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md). The expression is part of my encounter; the other person's experience is not directly mine.
 
-**1. Encountering expression.** I hear someone speak. I experience the sounds and recognize words in [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md). Their speech becomes part of what I encounter; their experience of speaking is not thereby mine.
+**2. Considering another.** I inquire into what the expression might mean and receive an answer. The response may correct my original attribution. [**The Self**](../../generative/core/definitions/defining_the_self.md) and [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md) help make another standpoint intelligible, with evidence and limits intact.
 
-**2. Considering another standpoint.** I imagine what the speaker might mean and ask a question. Their answer may confirm, correct, or complicate my interpretation. I can represent *their-reality* while recognizing the difference between **my representation** and **their possible firsthand experiencing**.
+**3. Recognizing relationship.** Our responses affect one another. Through conversation, a shared practice, disagreement, or new understanding may develop beyond what either of us initially expressed.
 
-**3. Recognizing a relationship.** We continue to exchange descriptions and respond to one another. A meaning emerges that neither of us initially expressed in quite the same way. The exchange and its effects are available for inquiry, even where I cannot directly inspect everything that occurred within the other person's experiencing.
+**4. Recognizing constitution and justification.** Several people might establish a society, agree to rules, or compare measurements. I can examine their actions, records, and reasons without assuming every participant understands the activity in the same way.
 
-**4. Recognizing a shared practice.** More people adopt an agreed name for the meaning and establish a practice around it. I can observe their words, conduct, records, and decisions. The agreement may constitute a social fact while leaving their private interpretations distinct.
-
-**5. Noticing the shared objective account.** A group's newsletter later says, “Everyone now knows what the vote means.” I can recognize a shared, objective-style representation being offered through the publication. I can examine its records and ask whose interpretation is being represented. Its publication is an event in *my-reality*; its claim of general agreement invites me toward an *imaginal-intersubjective-reality*. I may adopt, question, or decline that offered viewpoint.
-
-**6. Forming the wider concept.** I gather such relationships under **The Intersubjective**. I can now consider how standpoints influence one another, how shared claims become justified or entrenched, and how a community's supposed unified perspective may differ from the experiences and commitments of its members.
-
-The derivation makes relationships available for examination. It does not require constructing a newly named first-person Seed constituent or deriving [**Awareness**](../../generative/core/definitions/defining_awareness.md) again; the canonical generalization **My Awareness → Awareness** remains in the separate **Awareness** definition.
+**5. Generalizing the field.** I name these communicative, practical, interpretive, and justificatory relations **The Intersubjective**. Describing the field already involves a represented vantage, which [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md) can help make visible.
 
 ## Named Internal Distinctions
-
-These distinctions share the present canonical home. Their headings make them separately locatable without establishing independent [**Fiat Anchors**](../../generative/core/definitions/defining_fiat_anchor.md).
 
 ### Intersubjective Constitution
 
@@ -63,59 +55,47 @@ An interpretation can be represented to another person without the recipient dir
 
 Claims may be examined through testimony, corroboration, disagreement, measurement, criticism, methodological safeguards, and repeated inquiry. Contributions from different standpoints can expose assumptions and errors that remained unnoticed in one participant's account.
 
-Well-conducted shared inquiry can strongly justify claims about matters presented as existing independently of consensus. Intersubjective participation does not, however, make a proposition true merely because everyone agrees with it. **Even a strongly justified collective account is still offered to a reader as a perspective**; it cannot compel the reader's internal assent. Evidence, the domain of the claim, and the consequences of accepting or declining it remain distinct questions.
+Well-conducted shared inquiry can strongly justify claims about matters presented as existing independently of consensus. Intersubjective participation does not, however, make a proposition true merely because everyone agrees with it. Even a strongly justified collective account is a representation encountered by each particular reader; its evidence and the reader's assent remain distinguishable.
 
 ### Intersubjective Negotiation and Contestation
 
 Relations among Selves can develop through refusal, dissent, bargaining, conflict, exclusion, or withdrawal, as well as through cooperation. Participants may dispute an interpretation, a rule's legitimacy, or a group's representation of them without ceasing to take part in the wider relational field.
 
-Power may affect who gets heard and whose account becomes an institution's official story. Examining that influence can be part of [**Discernment**](defining_discernment.md) and **Nonimposition**, not a reason to presume that every contribution has identical evidential weight.
+Power may affect who gets heard and whose account becomes an institution's official story. Examining that influence can be part of [**Discernment**](defining_discernment.md) and questions of responsibility in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md), not a reason to presume that every contribution has identical evidential weight.
 
 ### Imaginal Group Attribution and Heterogeneity
 
 A writer can introduce a collection of people through one noun—*the electorate*, *scientists*, *the neighborhood*, *the church*, *the company*—and then attribute an intention or opinion to it. The noun offers a useful chosen grouping; the claim about what the grouping believes is an *imaginal attribution* that may need distinct evidence. Group membership can be well documented while unanimity is not; an institution can authorize a statement while individual members dissent. The grouping need not be homogeneous, and its status as a [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) does not itself validate any claim about its members.
 
-This is particularly consequential in rhetoric and propaganda. A statement such as “The town demands action” may compress a vote by one committee, testimony from some residents, and silence from many others into a seeming universal will. [**The Imaginal**](defining_the_imaginal.md) names how that collective perspective becomes available *as represented*; **The Intersubjective** asks whose relationships, actions, disagreements, institutional authorizations, and evidential grounds sustain it. Recognizing the difference gives a reader room to examine the offer without denying documented collective action or automatically agreeing with the portrayal.
+A statement such as “The town demands action” may compress a vote by one committee, testimony from some residents, and silence from many others into a seeming universal will. [**The Imaginal**](defining_the_imaginal.md) names how that collective perspective becomes available *as represented*; **The Intersubjective** asks whose relationships, actions, disagreements, institutional authorizations, and evidential grounds sustain it. The distinction separates institutional authorization, the represented population, and evidential grounds.
 
-### Perspective Offers, Unbound Viewpoints, and Imposition
+### Consensus, Dissent, and Scope
 
-Language can offer an account of **what happened**, **what another person felt**, or **what everyone knows** without displaying the steps through which a reader is invited beyond their own first-person experience. [**Real and Reality**](defining_real_and_reality.md#unbound-readerviewer-perspective) names the **Unbound Reader/Viewer Perspective** for an apparently unlocated viewpoint, and [**Imposed Perspective**](defining_real_and_reality.md#imposed-perspective) for an offer that assumes or pressures adoption. Both may be present in propaganda or persuasive rhetoric, but neither by itself proves that a narrator intends to deceive.
+Consensus concerns agreement among **specified participants on specified matters**, at a specified time and under particular practices of reporting or recognition. Its presence may be strongly evidenced and epistemically valuable. It need not extend to every other question, every person associated with the field, or every motive and feeling ascribed to members.
 
-**Perspectival Dimensionalization**—developed within [**Real and Reality**](defining_real_and_reality.md#perspectival-dimensionalization-and-perspective-noticing)—reveals the normally unspoken metadata: who encounters the message, who or what the message portrays, what testimony or inference supplies the account, whose objective-looking perspective is being offered, and whether the recipient chooses to participate. The operation is **ethically neutral as a capability**. It can explain how a truthful scientific account, an openly fictional story, or a manipulative campaign recruits imagination without deciding their ethical status merely from their medium.
-
-**The Openness editorial ethic** distinguishes the capability from its use. In **Openness definitions**, authors explicitly disclose when a passage invites a reader into an attributed or imaginal objective standpoint, so the reader can retain their own subjective standpoint while considering the offer. In **other Openness works**, such disclosure is optional, and is especially recommended where perspective could conceal a consequential inference, manufactured consensus, or persuasive pressure. It is not necessary to repeat the disclosure after every sentence when the whole passage is clearly framed.
-
-**Reader sovereignty includes refusal.** A reader may decline to inhabit or affirm even a persuasive and strongly justified intersubjective account. Other people remain free to disagree; evidence and consequences remain available to examination. The ethical challenges of denial, trust, influence, duty of care, and possible harm can later receive their own fuller treatment. Here the operative commitment is to make the **perspective offer recognizable** rather than to secure the reader's agreement.
+A published institutional voice may be an operative social fact—such as an authorized committee decision—without faithfully reporting every member's private interpretation. Differences between authorized representation, statistical majority, broad tradition, and an attribution of unanimity are different matters for inquiry.
 
 ## Essential Distinctions
 
-**My Awareness versus another's Awareness.** One person's experiencing is recognizable from that person's first-person standpoint. An interlocutor's experiencing may be inferred with strong justification without becoming directly available to the inquirer. The two need not be considered equally uncertain merely because access differs.
+**Individual experiencing versus intersubjective relations.** Experiencing is encountered from a first-person standpoint; relations may be inferred, discussed, constituted, and recorded without direct access to each other's experiencing.
 
-**The Intersubjective versus subjective-reality.** *subjective-reality* concerns what is present for a particular Self; **The Intersubjective** concerns relationships among such standpoints and the meanings or practices developed through them. Its existence as a concept does not place another's experiencing inside the reader's firsthand field.
+**Constitution versus interpretation versus justification.** Practices can constitute an office, participants can interpret its meaning, and evidence can support claims about its holder's conduct. These are distinct relationships.
 
-**The Intersubjective versus their-reality.** *their-reality* identifies an attributed other standpoint; **The Intersubjective** concerns the relations within which such attributions, exchanges, corrections, and shared undertakings occur.
+**Consensus versus evidential truth.** Agreement can support inquiry and sometimes constitute a convention; it does not by itself establish every claim about the physical world. A well-supported finding need not be doubted indiscriminately merely because it is an intersubjective account.
 
-**Relational field versus independent entity.** The conceptual *field* gathers interactions and their possible organization. The word does not posit a separate perceiving substance or guarantee that all interacting people form one naturally bounded agent.
+**The Intersubjective versus imaginal-subjective-reality.** *Imaginal-subjective-reality* is a third-person category for first-person fields; **The Intersubjective** concerns relationships among those standpoints. See [**Real and Reality**](defining_real_and_reality.md).
 
-**Constitution versus interpretation versus justification.** Social practices can constitute an office; people can interpret the office's meaning; evidence can support or challenge claims about what its holder did. These are distinct relationships even when one event involves all three.
+**Relations versus representation of relations.** The social interactions may occur; an author's account of them is an *imaginal representation*, which may be partial or mistaken.
 
-**Consensus versus truth.** Consensus may be informed, mistaken, coercive, provisional, or justified. Some conventions depend on shared recognition; physical events and many other proposed referents are not created simply by collective belief in them.
+**Collective Self versus relational field.** A particular group can be a chosen conceptual identity operating within wider intersubjective relations. Neither group formation nor relational field establishes one collective [**Awareness**](../../generative/core/definitions/defining_awareness.md).
 
-**Collective Self versus The Intersubjective.** A particular **Collective Self** may be modeled as a group identity, organization, or coordinated agent within a wider intersubjective field. A group can have records, decisions, and coordinated capacities without thereby being established as one experiencing [**Awareness**](../../generative/core/definitions/defining_awareness.md).
+**The Mind of a group versus one group Awareness.** A group can exhibit distributed memory, plans, and coordinated response in a useful functional analogy to [**The Mind**](defining_the_mind.md). Whether a group has one experiencing standpoint is a further question, not proved or ruled out by the analogy alone.
 
-**Shared language versus identical meaning.** People may use one word while meaning different things, and may find common purpose while retaining different interpretations. An official collective statement need not report the inner agreement of every member.
-
-**Perspective-taking versus perspective possession.** [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md) allows consideration of another standpoint; **Analogical Discernment** examines the support for the attribution. Successful communication does not literally transfer another person's first-person life into one's own.
-
-**Third-person narration versus direct encounter.** Statements such as “The council understood the danger” can be useful summaries but may mask whose understanding is being claimed, what evidence supports it, and which members disagreed. A reader may follow an [**Unbound Reader/Viewer Perspective**](defining_real_and_reality.md#unbound-readerviewer-perspective) without noticing the shift from experienced language to an attributed collective standpoint.
-
-**Participation versus agreement.** A participant or reader may investigate, question, withhold assent, or refuse an offered group perspective, even where that perspective has strong evidential support. That choice remains their own; whether it constitutes sound judgment or causes harm is a further matter for [**Discernment**](defining_discernment.md), not an automatic declaration of [**Closedness**](../core/defining_closedness.md).
-
-**The Mind of a group versus one group Awareness.** A research team, committee, or community can meaningfully be attributed [**The Mind**](defining_the_mind.md) as a functional or distributed pattern of memory, expectation, interpretation, and coordinated response. That attribution differs from claiming one first-person [**Awareness**](../../generative/core/definitions/defining_awareness.md) for the whole group. The latter remains available as a further speculation requiring its own grounds, not as an inference compelled by the former. A new possibility can also emerge from a relationship without either stronger attribution.
+**Participation versus agreement.** Cooperation, exchange, disagreement, exclusion, and withdrawal can all occur within intersubjective relations. An official statement may be contested by those it purports to represent.
 
 ## Relationship to Openness
 
-**G — Generative Openness.** [**Artifice**](defining_artifice.md), [**Perspective-Taking**](../../generative/definitions/defining_perspective_taking.md), and [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md) help make imagined relationships and shared meanings recognizable. Creative works may invite readers to inhabit a standpoint; naming the invitation can help preserve their freedom to accept, question, or decline it.
+**G — Generative Openness.** [**Artifice**](defining_artifice.md), [**Perspective-Taking**](../../generative/definitions/defining_perspective_taking.md), and [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md) help make imagined relationships and shared meanings recognizable. Creative works may offer representations of relationships that readers examine from their own standpoints.
 
 **P — Philosophical Openness.** The primary home of **The Intersubjective**. [**Discernment**](defining_discernment.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), [**Real and Reality**](defining_real_and_reality.md), and inquiry into institutions can distinguish what an inquirer encounters, what others report, what a group constitutes, and what shared evidence supports.
 
@@ -125,15 +105,13 @@ Language can offer an account of **what happened**, **what another person felt**
 
 ## Naming and Usage
 
-**The Intersubjective** is the canonical name for the generalized relational concept. The ordinary adjective *intersubjective* may be used naturally where it does not imply an independently defined entity. **Intersubjective Constitution**, **Intersubjective Interpretation**, **Intersubjective Justification**, and **Intersubjective Negotiation and Contestation** are named internal distinctions of this definition.
+**The Intersubjective** is the formal P name for the relational field. The lowercase adjective *intersubjective* may describe communicative or shared aspects without invoking a separate entity. The named internal distinctions are **Intersubjective Constitution**, **Intersubjective Interpretation**, **Intersubjective Justification**, **Intersubjective Negotiation and Contestation**, **Imaginal Group Attribution and Heterogeneity**, and **Consensus, Dissent, and Scope**.
 
-Prefer phrasing that makes **the source of a collective claim** recognizable when it matters. For example, “The board voted to approve the proposal” names an observable institutional action; “All board members believed it was right” adds a potentially separate claim about their individual experiences. Neither kind of statement is forbidden, but their grounds differ.
-
-When describing others, distinguish testimony and actions **encountered from a first-person standpoint** from interpretations of others' intentions, inner lives, and group commitments. [**Real and Reality**](defining_real_and_reality.md) supplies the language for this shift: *my-reality*, *imaginal-other-reality*, and *imaginal-intersubjective-reality*. The capability to notice the shift is ethically neutral; **the Openness definition-writing commitment is to make the shift explicit**, so the reader's subjective standpoint is not silently replaced by a narrator's view. In other works the disclosure is optional, and particularly valuable when persuasive rhetoric or propaganda invites assent to an attributed or supposedly unanimous perspective. **Making the invitation visible returns the choice of participation to the reader**, including the choice to accept, question, or reject the offered account and its purported grounds.
+Use the most discriminating form when referring to collective claims. “The committee voted seven to four” reports an institutional act; “the committee unanimously believed” additionally attributes a belief to everyone. A group's authorized spokesperson can make a statement for the institution without demonstrating what each member experiences. Detailed analysis of the perspective shift belongs to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md); how a writer and reader choose to engage with that shift belongs to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
 
 ## Examples
 
-The first-person passages below invite a reader to inspect possible standpoint shifts; they are illustrative reconstructions, not claims of firsthand experience by the AI author.
+These first-person passages illustrate the concepts, not the AI author's firsthand experience.
 
 ### Example — Two Readers and a Poem (first-person encounter)
 
@@ -143,7 +121,7 @@ If I later write, “Both readers understood the poet,” I would be making a st
 
 ### Example — “The Committee Believed” (first-person reader standpoint)
 
-I read a report stating, “The committee believed the proposal was safe.” An [**Unbound Reader/Viewer Perspective**](defining_real_and_reality.md#unbound-readerviewer-perspective) may make the committee's belief seem as immediately visible as the report's text. I can instead inquire whether every member stated the belief, whether a majority voted, whether a spokesperson summarized the conclusion, or whether the author inferred it.
+I read a report stating, “The committee believed the proposal was safe.” An [**Unbound Reader/Viewer Perspective**](defining_perspectival_dimensionalization.md#unbound-readerviewer-perspective) may make the committee's belief seem as immediately visible as the report's text. I can instead inquire whether every member stated the belief, whether a majority voted, whether a spokesperson summarized the conclusion, or whether the author inferred it.
 
 The committee's vote may constitute an institutionally valid decision. It does not necessarily disclose what each member experienced or establish that the proposal was in fact safe. The third-person summary can remain useful once its scope becomes clear.
 
@@ -163,19 +141,13 @@ I may use [**The Mind**](defining_the_mind.md) as a *functional analogy* for the
 
 I read an online community's statement beginning, “We all feel the same urgency.” In the replies I see some members endorse it, others object, and many remain silent. The statement invites me into a single objective-looking group voice, but what I encounter is a post and responses. The official voice may express a recognized organizational position without telling me how each member feels within their own *subjective-reality*.
 
-I can acknowledge the community's shared publication, including its possible institutional authority, while asking who authorized the word *all*. **I need not accept the offered unanimity to understand what the group published.**
+I can acknowledge the community's shared publication, including its possible institutional authority, while asking who authorized the word *all*. The account's institutional status and its claim of unanimous feeling are separately examinable.
 
-### Example — “The Neighborhood Has Spoken” (first-person, collective propaganda)
+### Example — “The Neighborhood Has Spoken” (first-person, collective attribution)
 
 I receive a leaflet declaring, “The neighborhood unanimously supports closing the library.” The leaflet cites a neighborhood association board's 7–4 vote; I find no survey of residents, and two members have published objections. I can recognize the vote as an institutional event while noticing that *the neighborhood* is a much wider, heterogeneous grouping than the eleven board members.
 
 The leaflet offers me an *imaginal* collective viewpoint in which the community's supposedly unified will seems already known. I can inquire who authorized the statement and whose views were represented without claiming the vote did not occur or that all supporters were mistaken. Its wording may mislead whether or not someone intended deception.
-
-### Example — A Film Discussion (first-person viewer standpoint)
-
-I watch a fictional film in which Mara hides a red envelope in a locked office drawer and asks Eli to keep it secret. The next shot shows Eli standing by the office door. The film cuts to a close-up of the drawer hanging open, then to Mara discovering the envelope missing. I immediately think, “Eli stole it.” In conversation after the screening, a friend asks whether the camera ever showed Eli open the drawer; it did not. Another figure passed through the corridor offscreen between the cuts.
-
-I notice how the editing invited me to occupy a seemingly omniscient **Unbound Reader/Viewer Perspective** in which *Eli's guilt* appeared to be a fact rather than my inference. My friend and I can rewatch the scene and disagree about the evidence. Neither of us needs to reject the fiction: we can enjoy the same dramatic uncertainty while noticing what our imaginal objective viewpoints added to the images actually shown.
 
 ### Example — Dissent Within a Group
 
@@ -185,14 +157,11 @@ I can see the association offering an *imaginal-intersubjective-reality* of the 
 
 ## Boundary
 
-**The Intersubjective** makes relationships among differently situated Selves, their shared creations, competing interpretations, and the *imaginal objective accounts* circulating among them available for examination. A community may establish an institution, corroborate a physical claim, or coordinate through [**The Mind**](defining_the_mind.md) in a functional sense; a reader can consider each account from their own first-person standpoint without being silently compelled to join the group's offered perspective.
+**The Intersubjective** neither establishes universal social construction nor denies the possibility of well-justified claims about independently existing referents. Relations can produce conventions, knowledge, misunderstanding, institutions, and contested accounts without becoming one universal group mind. Consensus can be meaningful and strong without being synonymous with truth or unanimity.
 
-Whether a group might also have a unified experiencing [**Awareness**](../../generative/core/definitions/defining_awareness.md) remains a further question, distinct from applying [**The Mind**](defining_the_mind.md) to distributed activities. Agreement may constitute conventions and contribute evidence, while its interpretation, strength, and truth remain examinable. A strongly corroborated shared account can warrant confidence without establishing a universal viewpoint from which all participants—or their readers—must inwardly agree.
-
-The central safeguard is **standpoint visibility**: recognize when a statement reports observed conduct, conveys testimony, represents another person's experiencing, records an institutional act, or imagines a collective perspective. That distinction helps participants remain receptive to others without surrendering their own [**Discernment**](defining_discernment.md).
+The meaning of a group's identity, institutional authority, or reported belief remains examinable. Ethics of collective attribution and readers' freedom to step back from an offered group voice are developed separately in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
 
 ## Summary
 
-**The Intersubjective** names relations among differently situated Selves: shared meaning, justified understanding, disagreement, institutions, and the imaginal objective accounts they exchange. It permits functional applications of [**The Mind**](defining_the_mind.md) to group activities while keeping possible collective experiencing a distinct inquiry.
+**The Intersubjective** names the relationships among Selves through which meanings, practices, social arrangements, agreements, justified inquiry, and disagreement become possible. It can support powerful shared accounts without collapsing the participating standpoints into one experiencing subject.
 
-**Perspectival Dimensionalization** makes the ordinarily hidden move from subjective encounter to attributed or shared objective viewpoint visible. The reader can consider a common account, ask what supports it, and decide whether to inhabit it—without transferring sovereignty over their own standpoint to the speaker or group.

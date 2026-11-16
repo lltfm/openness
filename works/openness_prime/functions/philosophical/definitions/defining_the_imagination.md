@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-14T00:00:00Z
+When: 2026-11-16T00:00:00Z
 Status: needs review
 ---
 
@@ -32,7 +32,7 @@ What is **The Imagination**?
 
 **The Imagination** is a deliberately recognizable [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) with [**Anchored Ambiguity**](../../generative/core/definitions/defining_anchored_ambiguity.md). It gathers an expansive family of capacities and activities: imagining a scene; considering an absent place; following an account of an event never witnessed; reconstructing a conversation; provisionally entering an author's perspective; contemplating another person's possible experience; inventing a story; entertaining a hypothesis; or understanding a possibility through words and relationships without seeing a mental picture. These may overlap or differ in mechanism. The anchor identifies what becomes recognizable for inquiry, rather than claiming that one separate psychological faculty has been scientifically established as the cause of all these activities.
 
-The relevant contrast is **between a first-person encounter and what is made available through representation within or alongside it**, not between reality and fantasy. When someone reads a history, the words are encountered; the event described becomes available through representations informed by the words, memories, and prior understanding. A person reading fiction may engage in closely related ways. The historical claim may be well supported; the fictional event may be invented. **The Imagination** is available to both without converting one into the other.
+The relevant contrast is **between a first-person encounter and what is made available through representation within or alongside it**, not between verified actuality and fantasy. When someone reads a history, the words are encountered; the event described becomes available through representations informed by the words, memories, and prior understanding. A person reading fiction may engage in closely related ways. The historical claim may be well supported; the fictional event may be invented. **The Imagination** is available to both without converting one into the other.
 
 The important conceptual distinction is developed more fully in [**The Imaginal**](defining_the_imaginal.md): *imaginal* describes the representational dimension of a particular encounter or account. **The Imagination** names the broader capacity and activity through which such representations may arise or be used. The former concerns **how something becomes available as represented**; the latter concerns **the capacity and activity of representing, considering, exploring, and transforming**. Neither label determines what the representation refers to or what evidence supports its claims.
 
@@ -52,17 +52,13 @@ The Imagination may make representations of strongly justified physical phenomen
 
 **Generative imagination** develops alternatives, new combinations, invented narratives, conjectures, and possible forms. It need not be detached from evidence; a scientific hypothesis may be imaginative and carefully constrained. Nor is every novel wholly invented: fictional writing may incorporate extensively researched and accurate descriptions.
 
-**Perspectival imagination** makes a standpoint beyond the presently occupied first-person perspective available for consideration. It may concern another person's reported feelings, a character's imagined thoughts, a camera's apparently unlocated viewpoint, or an objective-style account of a system. Its products are **imaginal perspectives**, whether the referents are real, uncertain, or fictional. The act can be automatic and often unnoticed; the reader's subsequent relationship to the offered perspective is still open to examination.
+**Perspectival imagination** makes a standpoint beyond the presently occupied first-person perspective available for consideration. It may concern another person's reported feelings, a character's imagined thoughts, a camera's apparently unlocated viewpoint, or an objective-style account of a system. Its products are **imaginal perspectives**, whether their referents are actual, uncertain, or fictional. The act can be automatic and often unnoticed; the reader's subsequent relationship to the offered perspective is still open to examination.
 
-These are **descriptive uses**, not three separate reified faculties. One encounter may be simultaneously reconstructive, generative, and perspectival. Their distinction assists [**Perspectival Dimensionalization**](defining_real_and_reality.md#perspectival-dimensionalization-and-perspective-noticing) without asserting that the brain contains three independent mechanisms.
+These are **descriptive uses**, not three separate reified faculties. One encounter may be simultaneously reconstructive, generative, and perspectival. Their distinction assists [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md) without asserting that the brain contains three independent mechanisms.
 
-### Imagination, First-Person Presence, and the Reader's Agency
+### First-Person Presence and Application
 
-In [**Real and Reality**](defining_real_and_reality.md), *my-reality* identifies the familiar first-person standpoint from which an account is encountered. An author may offer an *imaginal objective perspective*: a description framed as if witnessed from nowhere in particular. The reader may automatically understand or partially construct what is offered, even without explicitly choosing to do so. **Recognition creates room for choice about assent, continued inhabitation, challenge, or withdrawal; it does not imply that the entire initial mental response was chosen.**
-
-This matters to nonfiction as much as fiction. A sentence such as *“The committee knew the plan would fail”* can invite the reader to treat a collective mental state as directly given. A more explicit account might report votes, correspondence, testimony, or an author's inference. The first sentence may be warranted by available evidence or may be misleading; what the reader has actually encountered is the account, while the attributed mental state is available through representation.
-
-The offered perspective, its evocation in a reader, the reader's decision to inhabit it, and the reader's assent to its claims are distinguishable. **The Imagination** helps account for the middle activities; it does not require the final two. This is one way **Nonimposition** and the reader's interpretive sovereignty can become more than rhetorical ideals.
+In [**Real and Reality**](defining_real_and_reality.md), *my-reality* names the first-person standpoint from which an account is encountered. Imaginative activity may make an offered perspective intelligible without entailing that the account is correct or that its recipient assents. The distinctions among an **offered**, **evoked**, **inhabited**, and **affirmed** perspective belong to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md). Questions of influence, reader agency, and responsible use belong to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
 
 ## Experiential Derivation: Recognizing Imaginative Activity
 
@@ -82,7 +78,7 @@ The derivation makes an examinable capacity and its relation to representation r
 
 **The Imagination versus The Imaginal.** **The Imagination** names a capacity and its activities. **The Imaginal** names the representational dimension of an encounter: what is made available *as represented*. A person can exercise imagination, encounter an imaginal representation, or consider an imaginal perspective. These are not three claims that three independent inner entities exist.
 
-**Imaginal versus imaginary.** Something *imaginal* is presented or considered through representation; something *imaginary* is ordinarily described as invented, fictional, or supposed not to exist in the asserted domain. A report of a real friend's grief can be represented imaginally; the friend's grief is not thereby imaginary. A fictional character can also be represented imaginally. See **The Imaginal** for the complete usage convention.
+**Imaginal versus imaginary.** Something *imaginal* is presented or considered through representation; something *imaginary* is ordinarily described as invented, fictional, or supposed not to exist in the asserted domain. A report of an actual friend's grief can be represented imaginally; the friend's grief is not thereby imaginary. A fictional character can also be represented imaginally. See **The Imaginal** for the complete usage convention.
 
 **Present encounter versus represented content.** I may directly hear a sentence while only indirectly considering the event it describes. I may experience an imagined scene directly *as an experience* while the depicted event is not thereby encountered firsthand as a historical occurrence. The activities can coincide without becoming the same epistemic relation.
 
@@ -130,11 +126,11 @@ The derivation makes an examinable capacity and its relation to representation r
 
 *mental imagery* — the more specific expression for sensory-like imagery; do not treat it as necessary for every instance of **The Imagination**. *Reproductive imagery*, *quasi-perceptual experience*, and *appresentation* may be useful in their specialized contexts, but are not automatic substitutes for the broader anchor.
 
-**The Imaginal Self** — an older expression that should not be used as the formal name for [**The Self**](../../generative/core/definitions/defining_the_self.md). **My Self** and **The Self** have their own canonical relationships. The use of *imaginal* here must not revive retired nomenclature or imply that selfhood is fictional.
+[**My Self**](../../generative/core/the_seed/definitions/defining_my_self.md) and [**The Self**](../../generative/core/definitions/defining_the_self.md) have independently established conceptual identities. Representing another Self is an activity to be examined, not a definition of that Self as fictional.
 
 ## Examples
 
-The following first-person illustrations invite inspection of possible relationships; they are not autobiographical testimony by an AI author.
+The following first-person illustrations invite inspection of a standpoint; they are not autobiographical claims by an AI author.
 
 ### Example — A Reported Forest (first-person, nonfiction)
 
@@ -176,21 +172,9 @@ A familiar smell brings a childhood room to mind. I may recognize the recollecti
 
 A novelist writes a courtroom scene, decides the first version is implausible, and imagines a different testimony. Some aspects are researched; others are invented. The activity is creative without requiring that every detail or emotion was consciously controlled.
 
-### Example — A Third-Person Claim About a Committee (first-person reader)
-
-I read, “The committee knew the plan would fail.” My understanding of the sentence can give me a quasi-witness's vantage on the committee. I can ask whether the author has minutes, admissions, or correspondence supporting that attribution. Comprehending the sentence is distinguishable from agreeing with it.
-
-### Example — A Video That Cuts Away (first-person viewer)
-
-I watch an edited clip that begins with a protester pushing a security guard. The clip invites an account of an unprovoked assault. When a longer recording later shows an earlier confrontation, I recognize how the shorter representation oriented my initial understanding. I need not deny that I saw the push to revise the story I inferred from it.
-
-### Example — A Literary Society's Mind (collective analogy)
-
-A society keeps minutes, remembers past decisions through archives, and coordinates future publications. It may be illuminating to describe its *mind* in a functional or distributed sense. Imagining this organization does not itself prove that the society has one shared experiencing [**Awareness**](../../generative/core/definitions/defining_awareness.md).
-
 ### Example — An Unchosen Response to an Argument (first-person reader)
 
-I read a persuasive paragraph and immediately picture the situation its author describes. My response may arise before I have chosen to follow its framing. On noticing this, I can examine the framing, decide whether to continue inhabiting it, and assess its claims. My initial imagining and my later assent are distinguishable.
+I read a persuasive paragraph and immediately picture the situation its author describes. My response may arise before I have chosen to follow its framing. The automatic representation and any later assent are distinct; [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md) can examine the intervening perspective shift.
 
 ### Example — Another's Spiritual Testimony (first-person listener)
 

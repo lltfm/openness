@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-14T00:00:00Z
+When: 2026-11-16T00:00:00Z
 Status: needs review
 ---
 
@@ -25,52 +25,17 @@ The resemblance is in how I meet the accounts. It is not a verdict on either for
 
 ## The Definition Unfolded
 
-**The Imaginal** is an intentionally distinguished [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) for a widely useful representational relationship. It is defined here **directly**, as a precise conceptual instrument, while [**The Imagination**](defining_the_imagination.md) provides the broader **Anchored Ambiguity** concerning the capacity and activity of imagining. The purpose of this distinction is to let *imaginal* work economically across Openness definitions without asking readers to assume that *imaginal* means fictional, false, freely invented, visualized, spiritual, or merely subjective in the dismissive sense of that word.
+**The Imaginal** is a directly defined [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) for a representational relationship. [**The Imagination**](defining_the_imagination.md) names a broader capacity and activity; *imaginal* identifies a feature of an encounter or account. The term can therefore work across Openness without implying fiction, fabrication, perceptual vividness, or a particular metaphysical theory.
 
-**Epistemic clarification.** Calling a representation or perspective *imaginal* identifies how its content becomes available. Whether its referent exists, whether the account is accurate, and whether the recipient believes or accepts it are separate questions.
+**Epistemic clarification.** Calling a representation or perspective *imaginal* identifies **how content becomes available**. Whether its referent exists, whether the representation is accurate, and whether someone believes or accepts it are separate questions. An imaginal representation may concern a person who exists, a well-documented historical event, a fictional character, a mathematical structure, or a proposed spiritual referent.
 
-The central example is ordinary nonfiction. When a person hears a description of a meeting they did not attend, the person directly encounters the account—as spoken words, written marks, a screen, or a remembered report. The meeting itself becomes available *as represented*. That is the *imaginal dimension* of the encounter. It does not decide whether the meeting occurred. The report may be contemporaneous, strongly corroborated, honestly mistaken, deliberately distorted, or invented. These are additional questions, not alternative definitions of *imaginal*.
+When I read a report about a meeting I did not attend, I directly encounter written words. The reported meeting becomes available **as represented**. In fiction, a meeting can become available through much the same representational relationship, though the author presents its referent differently. The shared feature is the imaginal relationship; the difference concerns what is being claimed and justified.
 
-Similarly, a person may read a third-person sentence, recognize the attributed intentions of another person, consider a photograph's apparent narrative, or follow a scientific account whose objects they have not directly observed. Each can involve an *imaginal representation*. Reading fiction may involve similar representational operations. The distinction between *fictional* and *nonfictional* concerns the work's asserted relation to events, sources, and conventions, not whether a represented perspective is imaginal.
+An imaginal representation need not be a picture. It may arise through words, mathematics, chronology, a relationship, remembered testimony, or an abstract proposition, with or without sensory-like imagery. It may arise spontaneously, partly through learned expectations or [**Mental Models**](defining_mental_models.md), and need not be consciously invented.
 
-**Imaginal does not require an internal picture.** An account may be apprehended as a relation, proposition, argument, chronology, possibility, role, expectation, or structural pattern without vivid sensory imagery. Some experiences are quasi-perceptual, as if seeing or hearing what is absent. Others are abstract or only faintly specified. The adjective *imaginal* identifies their representational role, not their sensory format, vividness, or the cognitive process that produces them.
+An *imaginal perspective* is a represented viewpoint rather than the literal occupation of another person's firsthand experiencing. The fact that another's standpoint becomes available to my consideration does not make another person imaginary or transfer their [**Awareness**](../../generative/core/definitions/defining_awareness.md) into [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md). A narrated objective vantage is likewise representational, even when its claims are strongly supported by evidence.
 
-Nor must the representation be consciously fabricated. Language, memory, learning, narrative conventions, [**Mental Models**](defining_mental_models.md), and a reader's prior expectations can make the content arise with little effort or attention. The representation may be [**Unchosen**](defining_the_unchosen.md) in its initial occurrence. Subsequent noticing may permit the person to distinguish understanding, provisional inhabitation, endorsement, rejection, continued participation, and withdrawal, without assuming control of every automatic response.
-
-A perspective is *imaginal* when the viewpoint made available is itself represented rather than literally occupied as a new first-person standpoint. I can consider what my friend might have experienced, or understand a sentence describing their thoughts. My representing that standpoint does not transfer their [**Awareness**](../../generative/core/definitions/defining_awareness.md) into [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md). The represented friend may be actual and the attribution strongly justified; a character in a novel may be fictional; an unfamiliar possible being may remain uncertain. The standpoint's representation is imaginal in each case.
-
-The same principle applies to apparent objectivity. A narrator may offer a view of a city, laboratory, historical epoch, or society *as if surveyed from nowhere in particular*. The account's objective style is a represented vantage, not a free-floating observer who has escaped every standpoint. In [**Real and Reality**](defining_real_and_reality.md), an *imaginal objective perspective* can be discussed as *imaginal-objective-reality*; the preferred high-precision term in Openness definitions is *imaginal-intersubjective-reality*. These two expressions name the same perspectival category, with the latter foregrounding the relational, shared-account dimension—not requiring consensus or establishing evidential support. Such accounts can be extraordinarily well justified. Their perspective's imaginal character neither establishes nor undermines the existence of the world they aim to describe.
-
-### Offered, Evoked, Inhabited, and Affirmed
-
-A carefully distinguished vocabulary separates four relationships that ordinary prose may compress into one:
-
-**An offered perspective** is a viewpoint presented by a speaker, author, institution, image, scene, or narrative. A sentence can offer a viewpoint even if the audience does not understand it, imagine it vividly, or accept it. The descriptive expression *offered vantage* may be useful where the invitations of an account are under examination.
-
-**An evoked imaginal perspective** is the standpoint that becomes available through the recipient's encounter with the offer. It may be vivid, abstract, partial, spontaneous, or contested. *Account-evoked perspective* is a self-documenting alternative when the means of evocation should be explicit; it does not create another separate conceptual kind.
-
-**An inhabited perspective** is one the recipient provisionally uses or explores from within, sometimes automatically. A reader can follow the logic of a character's fear, a defendant's defense, or a scientist's explanation while reserving judgment. Inhabiting is not identical to affirming.
-
-**An affirmed perspective** is one whose framing or relevant claims the recipient chooses to adopt or accept to some degree. Affirmation may be well supported, cautious, partial, mistaken, or later withdrawn. A person can understand or temporarily inhabit an imaginal perspective without affirming it; conversely, they can affirm a reported claim without vivid imagery or extended imaginative inhabitation.
-
-These are **analytical distinctions**, not compulsory chronological stages or assertions that every act of comprehension passes through one universal mental sequence. The reader may be drawn into a viewpoint before noticing it. Openness's interest is in making these ordinarily hidden movements recognizable so that further participation and assent can become more deliberate.
-
-### First-Person Presence and Perspectival Dimensionalization
-
-*My-reality* names the first-person standpoint from which someone encounters a text, testimony, film, or other account. What they hear, read, feel, and think is present within that encounter. The represented scene or other standpoint is not thereby encountered firsthand as that scene or the other's first-person life. Making the difference visible is part of [**Perspectival Dimensionalization**](defining_real_and_reality.md#perspectival-dimensionalization-and-perspective-noticing).
-
-The developing perspective distinctions in **Real and Reality** are particularly useful here:
-
-- *my-reality* / *my-subjective-reality*: my encounter with the account, including the representation arising for me;
-- *self-reality* / *subjective-reality*: the corresponding first-person field for a specified proposed Self;
-- *their-reality* / *imaginal-other-reality*: the other person's standpoint **as I attribute or represent it**;
-- *imaginal-intersubjective-reality* / *imaginal-objective-reality*: synonymous precise names for the apparently standpoint-independent account of a world considered through the representational and communicative relations examined by [**The Intersubjective**](defining_the_intersubjective.md); *imaginal-intersubjective-reality* is preferred in Openness definitions. After introduction, *intersubjective-reality* or *objective-reality* may serve as shorter contextual forms.
-
-These labels distinguish **perspective and epistemic metadata**; they do not stipulate that a single sentence reveals what exists metaphysically. Unquoted “real” and “reality” remain available in wider Openness works, where they ordinarily denote *imaginal-intersubjective-real/reality* or the synonymous *imaginal-objective-real/reality*. In Openness definitions, the standalone words “real” and “reality” are quoted or given an explicit perspective qualification, apart from Prelude and Coda. This is an ethical and editorial commitment concerning disclosure, not an obligation imposed on the reader to adopt any offered view.
-
-A reader can recognize an imaginal objective standpoint and still find its claims strongly justified. The reader can also decline that standpoint, including one offered through powerful social consensus. **Evidence and perspectival assent are distinct.** A decision to reject or withhold assent may have moral, practical, and evidential consequences, but those consequences do not make the reader's own act of affirmation automatic or owed to an author.
-
-[**Unbound Reader/Viewer Perspective**](defining_real_and_reality.md#unbound-readerviewer-perspective) names an apparently unlocated viewpoint available to the audience; [**Imposed Perspective**](defining_real_and_reality.md#imposed-perspective) concerns a presentation that treats adopting the offer as already achieved, obligatory, or beyond question. *Imaginal* is neither synonymous with unbound nor intrinsically imposed. An imaginal representation may be explicitly situated, offered with genuine freedom, thoughtfully constrained by evidence, or mobilized coercively. Its status as a representation remains the same kind of distinction across these different uses.
+[**Real and Reality**](defining_real_and_reality.md) defines the standpoints an account may represent. [**The Intersubjective**](defining_the_intersubjective.md) concerns relations and shared practices among Selves. [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md) examines how perspectives are offered, evoked, inhabited, affirmed, and sometimes unnoticed. Their ethical uses and the reader's freedom to investigate or decline them belong to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
 
 ### Representation, Artifice, and the Status of the Referent
 
@@ -100,35 +65,29 @@ This reconstruction makes the technical distinction inspectable. It does not est
 
 ## Essential Distinctions
 
-**Imaginal versus imaginary.** *Imaginal* qualifies the representational character of what becomes available. *Imaginary* commonly qualifies content understood as invented, fictional, or without an independently existing referent in the relevant domain. The ordinary word *imaginary* can have other uses, including mathematical ones; it should not be turned into a universal synonym for falsehood. An actual person can be represented imaginally; a fictional person can also be represented imaginally. Their different referential statuses remain visible.
+**Imaginal versus imaginary.** *Imaginal* qualifies **how something becomes available as represented**; *imaginary* ordinarily describes content treated as fictional, invented, or lacking a corresponding independent referent in a given domain. An actual person and a fictional character can each be represented imaginally. Neither representation supplies its own truth verdict.
 
-**Imaginal versus imaginative.** *Imaginative* ordinarily describes an act of imagining, a person's creative inventiveness, or a quality of expression. *Imaginal* identifies a representational dimension, which can be present in uncreative, routine comprehension of a factual report. The expressions overlap in usage but do different conceptual work.
+**Imaginal versus imaginative.** *Imaginative* often describes creative or inventive activity; routine reading of a factual report may have an imaginal dimension without being particularly creative.
 
-**The Imaginal versus The Imagination.** **The Imagination** names a capacity and activity; **The Imaginal** names the representational dimension identified in its use or in an encounter with its products. Distinguishing them does not claim a separate organ, faculty, or metaphysical world.
+**Imaginal versus The Imagination.** [**The Imagination**](defining_the_imagination.md) concerns capacities and activities; **The Imaginal** specifies the representational relationship within an encounter or the representation resulting from it. This is not a claim about separate physical or psychological mechanisms.
 
-**Imaginal versus mental imagery.** Mental imagery concerns sensory-like representation. Imaginal content may be vivid or non-imagistic; an abstract account or mathematical relation may have an imaginal dimension without being pictured. *Quasi-perceptual* is a useful narrower descriptor when the experience markedly resembles perception.
+**Imaginal versus mental imagery.** Imagery may be visual, auditory, or otherwise sensory-like; imaginal content may also be abstract, mathematical, linguistic, or nonvisual. *Quasi-perceptual* is narrower and useful when a representation feels perception-like.
 
-**Imaginal versus hallucination.** *Hallucination* has specialized clinical and other contested meanings involving perception-like experiences and their sources. Ordinary account-mediated understanding should not be called hallucination merely because the recipient did not witness the referent. In technical AI contexts the word can describe an unsupported generated assertion; that meaning, too, is different from *imaginal*.
+**Imaginal versus hallucination.** *Hallucination* has clinical and other specialized uses, and in AI discourse can describe unsupported assertions. Neither use should be inferred from an ordinary imaginal reconstruction of a reported event.
 
-**Imaginal versus fictional.** Fictionality concerns the work or content's presented relationship to actuality. A fictional narrative can describe actual historical cities; a nonfiction account can include hypothetical reconstructions and errors. Being imaginal neither grants nor removes a nonfiction claim's evidential support.
+**Imaginal versus fictional.** Fictional status concerns the represented referent and the conventions of a work; the imaginal relationship may occur in fiction and nonfiction alike.
 
-**Direct encounter versus representation.** I directly hear a friend's testimony and can infer what it describes. My hearing is present experience; the reported event becomes available through representation. Even an event directly perceived may be understood through further representations of its origin, meaning, or unseen relationships. The distinction does not assume perception is free of interpretation.
+**Direct encounter versus account-mediated content.** Hearing someone's voice is a direct feature of my encounter. What their words report about yesterday is made available as represented. This does not require claiming that perception is free of interpretation.
 
-**Imaginal account versus imaginal referent.** It is often more precise to say *imaginal representation of a person* rather than *an imaginal person*, which can sound as though the person's existence is being denied. Let the adjective attach to the representation, account, attribution, or offered perspective whenever possible.
+**Representation versus referent.** The representation is imaginal; its person, event, object, or possible source need not be imaginary. Prefer *imaginal representation of the forest* to *imaginal forest* when the forest's existence is the question.
 
-**Imaginal perspective versus another's actual experience.** A speaker's account of a friend's grief can make the friend's standpoint available for consideration without granting direct access to their feeling. The attribution may be strongly justified; the friend remains independently situated.
+**Objective-style vantage versus evidential objectivity.** A perspective presented as though independent of any particular observer is imaginal. A finding may nevertheless be highly corroborated, repeatable, and justified.
 
-**Imaginal objective perspective versus objectivity of evidence.** The viewpoint framing a report as if no observer were situated is imaginal. The evidence may nevertheless be objective in the ordinary evidential sense of publicly testable, consistent, or independently corroborated. Naming the former does not discredit the latter.
+**Intersubjective relations versus imaginal accounts.** Relations among people may constitute conventions or sustain institutions; their representation through a report is imaginal. Intersubjective does not mean unanimous, and a represented group need not possess one [**Awareness**](../../generative/core/definitions/defining_awareness.md).
 
-**Offered perspective versus evoked perspective.** A description can offer a vantage that a reader does not enter, misunderstands, or actively declines. Conversely, a reader can spontaneously evoke representations not expressly intended by the author. Neither relationship automatically entails assent.
+**Vividness versus fidelity.** A vivid reenactment may be poorly supported; a sparse chronology may be highly reliable. The representational form does not settle its fidelity.
 
-**Perspective inhabitation versus endorsement.** A person may explore a narrative from within while rejecting its moral framing or factual claims. Understanding is not obligatory agreement. Immediate internal images or associations may arise unchosen, while later decisions about attention and endorsement may remain available.
-
-**Imaginal versus intersubjective.** The imaginal describes a representational relation; the intersubjective describes relations among Selves through which accounts may be shared, contested, maintained, or revised. [**The Intersubjective**](defining_the_intersubjective.md) is a chosen [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) for examining those relations, not evidence that the people grouped under a name share one standpoint. An inquirer's account of a heterogeneous community can be *imaginal* even where the underlying relationships are well supported; neither the community's existence nor its unanimity follows merely from that representation.
-
-**Fidelity versus vividness.** A sparse written chronology may be better supported than a vivid dramatization. An accurate representation may be unexciting; an emotionally convincing one may be misleading. Vividness and resonance cannot substitute for justification.
-
-**Metaphysical openness versus importing a theory.** The imaginal may invite contemplation of deeper cognitive, relational, or spiritual realities. Such possibilities remain available, but the direct Openness definition does not require a Corbinian intermediate realm, independent inner observer, or any particular physical realization.
+**Metaphysical interpretation versus minimal definition.** Openness's definition neither establishes nor rules out additional physical, spiritual, or otherwise unfamiliar possibilities concerning imagination and its referents.
 
 ## Relationship to Openness
 
@@ -142,79 +101,30 @@ This reconstruction makes the technical distinction inspectable. It does not est
 
 ## Naming and Usage
 
-### Core Usage Convention
+**The Imaginal** is the formal name of this directly defined concept. Lowercase *imaginal* is its reusable technical modifier. It is normally most precise when attached to an **account, representation, perspective, attribution, reconstruction, or content**—not to the alleged referent itself.
 
-**The Imaginal** — the formal, independently defined conceptual instrument: “**The Imaginal** makes the distinction between an encounter and the account's represented event available for examination.” It denotes a representational dimension, **not a separate world or psychological substance** in its minimal Openness meaning.
-
-*imaginal* — preferred compact technical adjective. Use it when the representational status itself matters, especially in formal definitions: *imaginal representation*, *imaginal perspective*, *imaginal objective perspective*, *imaginal attribution*, *imaginal reconstruction*, *imaginal account*, or *imaginal content*.
-
-**Attach the modifier to what is represented or the representational relation, not casually to the alleged referent.** Prefer “an *imaginal representation* of my friend” to “my *imaginal friend*”; the latter can imply that the friend is imaginary. Prefer “an *imaginal account* of the accident” to “an *imaginal accident*” when the accident's existence is in question.
-
-*imaginally* — adverb when the way content becomes available needs emphasis: “I consider the reported forest *imaginally* while examining evidence that it exists.” Prefer the adjective-plus-noun construction if the adverb feels unnatural or ambiguous.
-
-### Recommended Expressions and Their Jobs
-
-| Expression | Use when the intended precision is... | Compact example |
+| Expression | Exact job | Example of usage |
 |---|---|---|
-| *imaginal representation* | The difference between the representation and its referent | “The represented meeting is available through an imaginal representation.” |
-| *imaginal perspective* | The represented standpoint of an account or another | “The passage offers an imaginal perspective on her decision.” |
-| *imaginal objective perspective* | A viewpoint styled as independent of any situated observer | “The report uses an imaginal objective perspective.” |
-| *imaginal attribution* | A mind, feeling, intention, or status is attributed through representation | “My attribution of his fear is imaginal, though well supported.” |
-| *imaginal reconstruction* | An absent or past event is provisionally represented from memory or evidence | “The historian's imaginal reconstruction is constrained by records.” |
-| *imaginal content* | What an encounter makes available as represented, regardless of format | “The account's imaginal content included a proposed sequence of events.” |
-| *imaginal account* | An account considered with its mediating representation made explicit | “The film provides an imaginal account of the trial.” |
-| *imaginal-other-reality* | Another's standpoint as represented by an observer | “My imaginal-other-reality for her may be incomplete.” |
-| *imaginal-intersubjective-reality* | Preferred high-precision name for an apparently standpoint-independent, intersubjectively framed account | “I consider the archive's claim within imaginal-intersubjective-reality.” |
-| *imaginal-objective-reality* | Synonymous, friendlier form emphasizing the offered objective vantage | “The account presents an imaginal-objective-reality.” |
-| *intersubjective-reality / objective-reality* | Contextual short forms after the relevant precise expression is introduced | “Within this intersubjective-reality, the measurement is disputed.” |
-| *imaginal-intersubjective-real / imaginal-objective-real* | Corresponding adjectives for perspective-qualified existence claims | “The source presents the event as imaginal-intersubjective-real.” |
-| *“real” / “reality”* | Explicitly introduced, quotation-marked alias for one specified perspective within a bounded discussion | “In my-reality (i.e., ‘reality’), I encounter the report.” |
+| *imaginal representation* | Names the account-mediated availability of content | “I form an imaginal representation of a forest I have not visited.” |
+| *imaginal perspective* | Names a standpoint available as represented | “The essay offers an imaginal perspective on the meeting.” |
+| *imaginal attribution* | Makes an attributed thought, feeling, or motive explicit | “The narrator's claim about her fear is an imaginal attribution.” |
+| *imaginal reconstruction* | Names reconstruction of absent events through memory, accounts, or evidence | “The historian offers an evidence-guided imaginal reconstruction.” |
+| *imaginal account* | Emphasizes the mediating narrative or rendering | “The documentary presents an imaginal account of the trial.” |
+| *imaginal content* | Identifies what becomes available as represented | “The argument's imaginal content is conceptual, not pictorial.” |
+| *imaginal-objective perspective* | Describes a narrated, apparently unlocated objective vantage | “The camera offers an imaginal-objective perspective.” |
+| *imaginal-their-reality* | Names another Self's standpoint as attributed by me (also: *imaginal-other-reality*) | “My imaginal-their-reality may misunderstand what my friend actually experiences.” |
 
-The examples in this table are **illustrative linguistic uses, not assertions that all such claims are correct**. The longer expressions carry perspectival metadata; they may be abbreviated once the intended scope is clear. In Openness definitions, an unquoted, unqualified occurrence of “real” or “reality” remains unsuitable outside Prelude or Coda.
+**Real and Reality.** For the public-world standpoint, the preferred high-precision expression is *imaginal-intersubjective-reality* (i.e., [**Reality**](defining_real_and_reality.md)), with *imaginal-objective-reality* as a synonym. Their *-real* forms correspond to **Real**. The exact first-use, bounded-scope, capitalization, re-expansion, and *my-reality*, *imaginal-self-reality*, *imaginal-their-reality*, and *imaginal-subjective-reality* rules are maintained in [**Real and Reality**](defining_real_and_reality.md#naming-and-usage), rather than redefined here.
 
-### Bounded Perspective Aliases for “Real” and “Reality”
+**Ordinary related words.** *Imaginary* commonly concerns an invented or fictional referent; *imaginative* an activity or quality of creation; *mental imagery* a sensory-like representation; *reconstructive* an attempt to organize prior or reported content; *appresentative* a specialized phenomenological relation; *quasi-perceptual* an experience markedly resembling perception. None is an exact replacement for *imaginal*.
 
-In Openness definitions, use *imaginal-intersubjective-reality* as the **preferred high-precision default** for the ordinary shared, apparently objective account. *Imaginal-objective-reality* is synonymous, and may be friendlier for readers encountering [**The Intersubjective**](defining_the_intersubjective.md) for the first time. After the precise form has been introduced, *intersubjective-reality* is the preferred contextual abbreviation; *objective-reality* is also available where the account's unlocated vantage matters most. The corresponding *-real* forms follow the same convention. The choice names a perspective, not a degree of evidential confirmation or a requirement that everyone agrees.
+**Intellectual lineage.** Henry Corbin used *mundus imaginalis* in a philosophical account of a purported intermediate world; Chiara Bottici developed imaginal terminology in political philosophy. Openness adopts a more limited, epistemically neutral conceptual definition. See Corbin's [*Mundus Imaginalis*](https://www.amiscorbin.com/es/bibliographie/mundus-imaginalis-or-the-imaginary-and-the-imaginal/), Bottici's [*Toward a Theory of the Imaginal*](https://academic.oup.com/columbia-scholarship-online/book/18863/chapter-abstract/177171470), and the [Stanford Encyclopedia of Philosophy on imagination](https://plato.stanford.edu/entries/imagination/). These sources provide philosophical context, not Openness's authority to define its own terms.
 
-For further **Semantic Compression**, an author may explicitly introduce a locally bounded, quotation-marked alias: *imaginal-intersubjective-reality* (i.e., “reality”). Within that bounded passage, subsequent “reality” refers to **that announced perspective**, not silently to another meaning. The same pattern is available for *imaginal-objective-reality*, *intersubjective-reality*, *objective-reality*, *my-reality*, *self-reality*, *their-reality*, and their *-real* counterparts, provided the intended referent and scope are clear. A new topic or change of standpoint may require reintroducing the qualification. A quoted “reality” that has not been locally defined may instead express deliberate [**Precise Ambiguity**](../../generative/core/definitions/defining_precise_ambiguity.md) or an ordinary quotation; context must distinguish these uses.
-
-Unquoted standalone “real” and “reality” remain available in **wider Openness works** and ordinary speech, normally invoking the same shared imaginal objective account; writers choose their own degree of disclosure there. **In Openness definitions**, use explicit perspective qualification or an established quoted alias; do not use unquoted, unqualified *real* or *reality* outside Prelude or Coda. This editorial discipline reveals hidden standpoint shifts while leaving the reader free to accept or decline the offered account.
-
-### Contrast with Neighboring Words
-
-- **imaginal** — how a referent, event, relationship, or standpoint is available *as represented*; does not classify it as fictional;
-- **imaginary** — commonly marks an invented, fictional, or not-independently-existing referent *in the relevant domain*; avoid using it as a synonym for representation;
-- **imaginative** — describes imagining, creativity, or an inventive quality; doesn't itself identify a perspective shift;
-- **imagery / mental imagery** — sensory-like aspects of representation; may be absent in abstract understanding;
-- **reconstructive** — describes orientation toward an earlier event or account; not a guarantee of accuracy;
-- **fictional** — describes the convention or asserted status of a story or its content, not a type of cognitive faculty;
-- **quasi-perceptual** — describes a perceptual resemblance of experience; narrower than *imaginal*;
-- **appresentative** — a specialized phenomenological expression for ways something not directly given is made co-present; useful for scholarly comparison but not adopted as an Openness synonym;
-- **hallucinatory** — potentially clinical or metaphorical, and liable to imply a misleading experience; avoid as the default name for nonfictional comprehension.
-
-### Longer Forms When the Short Form Is Insufficient
-
-For **The Mind**: “I form an *imaginal representation of my friend's mental life*” makes the representative act visible. Once introduced, “my representation of my friend” or “the attribution” may be enough. Avoid repeatedly saying “imaginal” when doing so adds no distinction.
-
-For **Real and Reality**: “I encounter a statement in *my-reality* and consider the narrated event within *imaginal-intersubjective-reality*.” Where approachability matters, *imaginal-objective-reality* means the same perspectival kind; after the first precise mention, *intersubjective-reality* may suffice. These variants do not rank the strength of evidence.
-
-For **The Intersubjective**: “A group's published statement offers an *imaginal account* of what its members supposedly believe.” The account may be accurate, contested, or misleading; attributing [**The Mind**](defining_the_mind.md) to a collective as a functional analogy does not automatically attribute one group [**Awareness**](../../generative/core/definitions/defining_awareness.md).
-
-For **Artifice**: “The forest-as-understood is available through inherited classifications and imaginal accounts of its history.” A newly discovered logging record can alter the historical account without erasing the earlier first-person experience of wildness.
-
-For ordinary teaching: “I can understand what the author describes without having seen it myself.” Once the distinction is understood, technical terminology is optional outside Openness definitions.
-
-### Intellectual Lineage and Scope
-
-The adjective *imaginal* has older English uses and a notable modern philosophical lineage. **Henry Corbin** used *mundus imaginalis* to distinguish a proposed ontologically independent intermediate world of imaginative perception from the ordinary suggestion of *imaginary* as unreal. **Chiara Bottici** later developed *the imaginal* for individual and social dimensions of political images. Their contributions help explain the attraction of this word for Openness.
-
-**Openness adopts a narrower epistemically neutral minimum.** It does not establish Corbin's intermediate realm, Bottici's theory, or any other particular account as part of the direct definition. The possibility of such wider interpretations can be contemplated under **The Imagination** and in other inquiries, with due attention to their meaning and justification. Corbin's *imaginal* and the Openness modifier are therefore related in intellectual inspiration but should not be silently treated as interchangeable technical definitions.
-
-For historical comparison, see Henry Corbin, *[Mundus Imaginalis or the Imaginary and the Imaginal](https://www.amiscorbin.com/es/bibliographie/mundus-imaginalis-or-the-imaginary-and-the-imaginal/)*; Chiara Bottici, *[Toward a Theory of the Imaginal](https://academic.oup.com/columbia-scholarship-online/book/18863/chapter-abstract/177171470)*; and the *[Stanford Encyclopedia of Philosophy: Imagination](https://plato.stanford.edu/entries/imagination/)*. These sources illuminate established discussions; the Openness Foundational Definition above is its own stipulation.
+**Usage boundary.** Where context already makes the represented relation clear, ordinary prose such as “I consider her account” may be better than repeating *imaginal*. Restore the technical adjective when its absence could conceal a shift from firsthand encounter to another's attributed standpoint.
 
 ## Examples
 
-The first-person examples invite readers to inspect the relationships described. They are not autobiographical claims about an AI author's experiencing.
+The first-person examples invite readers to inspect possible standpoints; they are not autobiographical testimony by an AI author.
 
 ### Example — A History I Did Not Witness (first-person nonfiction)
 
@@ -244,26 +154,6 @@ A biography says, “The scientist resigned because she feared ridicule.” I ma
 
 A film cuts from an argument in a kitchen to a hallway where two other characters whisper. The camera makes both scenes available to me, although I am not literally present in either place. Within fiction, this may be an ordinary narrative convention. In a purported documentary, the same cut can raise questions about reconstruction, sourcing, and whether the scene was actually recorded. Both use *imaginally offered viewpoints*.
 
-### Example — A Documentary's Confident Voice (first-person nonfiction viewer)
-
-I hear a narrator say, “The residents knew the dam was about to fail.” The film shows homes and an archival flood photograph. I notice that the narrator has presented a community's mental state as if publicly visible. I can ask which residents were interviewed and what records show. I may still find the claim persuasive; identifying the *imaginal objective perspective* makes its inferential step explicit.
-
-### Example — Selective Campaign Footage (first-person, persuasive rhetoric)
-
-I watch a campaign advertisement showing three angry speakers at a council meeting while a voice says, “The entire town is outraged.” My first impression may be that the crowd speaks for everyone. When I recognize the *offered imaginal perspective* of unanimous outrage, I can ask how many people attended, who was omitted, and whether a broader survey supports the claim. The fact that I saw three angry speakers is not erased by declining the wider perspective.
-
-### Example — “Everyone Knows” (first-person, imposed perspective)
-
-I read, “Everyone knows the new policy will destroy local businesses.” The wording offers a perspective in which the prediction is already collectively settled. I can recognize an [**Imposed Perspective**](defining_real_and_reality.md#imposed-perspective), continue reading, and ask whose knowledge, which forecasts, and what alternatives are being represented. I need not adopt the apparent consensus to understand or evaluate the argument.
-
-### Example — An Appeal that Makes Skepticism a Moral Failure (first-person, pressure to assent)
-
-A fundraising message says, “Anyone who truly cares about children will immediately support this plan.” The statement presents support as proof of compassion. I can notice the imaginal perspective of a divided moral world—supporters who care, skeptics who do not—without accepting it. I may care deeply, investigate the plan's effects, and still decide differently.
-
-### Example — A Jury Report and the Evidence Behind It (first-person reader)
-
-I read, “The jury unanimously concluded the witness was unreliable.” I can distinguish the reported verdict from an author's further implication that the witness was in fact lying. Court documents may support the first claim, while the second requires separate grounds. Both are presented through an account I did not witness firsthand.
-
 ### Example — An Accurate Physical Measurement (first-person scientific report)
 
 I read that a steel beam is 3.2 meters long. I have not visited the site; the measurement becomes available through a report. A calibrated instrument, transparent method, and repeated readings can strongly support it. The **imaginal** mediation of my understanding is compatible with an extraordinarily well-grounded account of the beam's physical dimensions.
@@ -271,10 +161,6 @@ I read that a steel beam is 3.2 meters long. I have not visited the site; the me
 ### Example — An Imaginal Objective Account Shared by Researchers (first-person reader)
 
 I read a published study describing a population trend. Its tables, methods, replications, and criticisms are products of shared inquiry. They support an account of the trend within *imaginal-intersubjective-reality*. I can examine the evidence while remembering that the account's apparently unlocated perspective is still constructed and read by situated inquirers.
-
-### Example — Quoted “Reality” Within a Bounded Inquiry (first-person, semantic compression)
-
-I read a geological report and first identify its standpoint as *imaginal-intersubjective-reality* (i.e., “reality”). Within this paragraph, I can say that the report's “reality” includes an ancient sea and a later mountain range without repeating the long qualification; I am describing what the report represents, not claiming to have witnessed those events. If I turn to my own experience of the rocks, I can introduce *my-reality* (i.e., “reality”) anew, making the changed standpoint visible rather than allowing the same quoted word to drift unnoticed.
 
 ### Example — The Group “Believed” (first-person collective attribution)
 
@@ -291,14 +177,6 @@ I watch an actor cry during a staged scene. The actor is a person before the cam
 ### Example — A Dreamed Mountain (first-person dream)
 
 I dream that I stand before a mountain and feel wind on my face. The dream experience is subjectively present as it happens. On waking, I may represent the mountain through memory and ask whether it corresponds to an independently existing place. The dream's experiential presence is distinguishable from the mountain's possible external referent. The label **imaginal** marks the representational dimension, not a premature verdict on the dream's significance.
-
-### Example — The Forest and Its Hidden History (first-person, inherited Artifice)
-
-I visit a forest and feel that it is entirely untouched by human choosing. Years later I read records showing that it was clear-cut three centuries ago and regrew. My original feeling of wildness was present in *my-reality*. The historical account provides an additional *imaginal representation* of its past; its evidence can revise my interpretation of the forest's formation without erasing my first encounter.
-
-### Example — The Unseen Beginning of a Video (first-person edited account)
-
-I watch a clip beginning with a shopper shouting at a clerk. I am inclined to attribute the whole disturbance to the shopper. A full recording later shows that the clerk had threatened the shopper seconds earlier. The first clip presented an incomplete *imaginal account*, making the preceding exchange [**Representationally Unseen**](defining_the_unseen.md#representationally-unseen). I can revise the attributed story without denying what the shorter recording actually showed.
 
 ### Example — A Historical Map and Its Referent (first-person cartographic account)
 
@@ -318,24 +196,12 @@ I read, “The model was afraid of being shut down.” I may understand what tha
 
 A friend reports encountering a luminous presence during prayer. I can consider the account without having shared the experience. My imaginal representation of the report does not establish an independent presence or invalidate my friend's reported experience. Different possible explanations, including spiritual ones, remain available to inquiry under their appropriate grounds.
 
-### Example — A Reader Declines the Camera's Vantage (first-person agency)
-
-I watch a news montage in which ominous music accompanies footage of a crowded street. The editing invites me to regard the people as threatening. I notice the *imaginal perspective* the montage offers and choose not to inhabit its implied judgment. I can still observe the crowd, investigate the report, and recognize that some of my immediate feelings arose before I chose a response.
-
-### Example — A Reader Understands Without Assenting (first-person standpoint)
-
-I read an essay defending a political policy I oppose. I follow the author's causal argument closely enough to explain it fairly to someone else. I do not thereby endorse its premises or conclusion. My capacity to understand the offered perspective is not a surrender of my own judgment.
-
 ## Boundary
 
-**The Imaginal** identifies the relationship through which content or a standpoint becomes available as represented. It supports questions about correspondence, evidence, creative interpretation, emotional response, and further questions about what exists without making those questions answer themselves. Scientific, philosophical, spiritual, and other explanations of the underlying capacities may be investigated; the direct anchor requires none as its final account.
+The imaginal description identifies a **representational relation**, not a conclusion about the status, accuracy, moral value, or cause of the represented content. It does not declare other persons, physical objects, reliable historical evidence, or spiritual possibilities imaginary. It does not posit one universally proven mechanism of imagination, imply vivid internal pictures, or require a separate metaphysical realm.
 
-The term is not a verdict that the referent exists only in the recipient's imagination, nor a claim that readers can choose every representation that arises. An encounter may be directly experienced while involving imaginal accounts of events beyond it. A person may understand an offered perspective without endorsing it; evidence may support a represented claim strongly without requiring the reader's assent. The same term can be used in fiction and nonfiction while the distinction between their claims remains intact.
-
-**Precision test:** When the intended distinction is simply that a fictional character is invented, use *fictional* or *imaginary*. When the intended distinction is that an actual or proposed referent becomes available through representation, use *imaginal*. When both matter, state both: *“The imaginary character is presented through an imaginal representation.”*
+An imaginal account may help, mislead, entertain, or invite further inquiry. Assessing its grounds belongs to [**Discernment**](defining_discernment.md); analyzing the shifts it offers belongs to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md); questions of agency, manipulation, and the right to step back are developed in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
 
 ## Summary
 
-**The Imaginal** is a compact name for **present-as-represented**, rather than **directly encountered as the referent itself**. It distinguishes the medium and perspective of an encounter from the status of its content. Its principal uses—*imaginal representation*, *imaginal perspective*, *imaginal attribution*, and *imaginal-intersubjective-reality*—help Openness reveal where understanding has moved beyond first-person encounter and where choice, evidence, and interpretation should remain visible.
-
-**Imaginal names the representation, not an accusation of unreality.**
+**The Imaginal** names what becomes available **as represented**. A representation can concern what is actual, possible, strongly supported, uncertain, or fictional; its imaginal character establishes none of those verdicts. This distinction lets a single compact word carry necessary epistemic precision across Openness.
