@@ -33,7 +33,7 @@ Openness favors the freedom to express ideas, tell stories, testify, argue, imag
 
 An account's accuracy, selectivity, intent, likely effect, and ethical character remain independently examinable. A writer's freedom to offer does not entail another person's obligation to listen, assent, or remain in an encounter. Openness does not seek to prohibit ideas by pronouncing them *propaganda*, *false*, *offensive*, or *dangerous*; criticism and independent verification remain available in the same field of expression.
 
-This commitment relates to [**The Ethics of Closedness**](ethics_of_closedness.md) and **Nonimposition**. The present document applies their established aspirations without reproducing their full ethical arguments.
+This commitment relates to [**The Ethics of Closedness**](the_ethics_of_closedness.md) and **Nonimposition**. The present document applies their established aspirations without reproducing their full ethical arguments.
 
 ### Freedom to Encounter Without Assenting
 
@@ -55,7 +55,7 @@ Openness treats this possibility as a meaningful aspect of interpretive agency. 
 
 **Interpretive sovereignty** here names Openness's chosen commitment to people's latitude to decide what interpretations they will provisionally inhabit, prefer, affirm, dispute, or set aside. Another person's expertise, a group's consensus, an institution's power, or the elegance of a representation does not by itself become ownership of someone's inward assent.
 
-The freedom is reciprocal. A writer may advocate; a reader may disagree; a friend may challenge the reader's reasons; a reader may reconsider. Openness aspires to leave all of those possibilities available. A refusal to adopt a perspective does not by itself establish [**Closedness**](../core/defining_closedness.md), [**Blind Certainty**](../core/defining_blind_certainty.md), ignorance, or moral deficiency. Nor does the refusal automatically become evidence of wisdom.
+The freedom is reciprocal. A writer may advocate; a reader may disagree; a friend may challenge the reader's reasons; a reader may reconsider. Openness aspires to leave all of those possibilities available. A refusal to adopt a perspective does not by itself establish [**Closedness**](../core/definitions/defining_closedness.md), [**Blind Certainty**](../core/definitions/defining_blind_certainty.md), ignorance, or moral deficiency. Nor does the refusal automatically become evidence of wisdom.
 
 Sovereignty over interpretation does not imply sovereignty over others' bodies, property, safety, or decisions. Ethical questions about resulting action remain distinct, and persons may set boundaries, withdraw, or seek protection. This ethic does not require anyone to become an unwilling audience.
 
@@ -224,7 +224,7 @@ If its author calls a critic *closed* or *captured* simply for disagreeing, the 
 
 **G — Generative Openness.** Art, narratives, images, and [**Resonant Questions**](../../generative/definitions/defining_resonant_questions.md) can offer unfamiliar viewpoints with great imaginative power. **Nonimposition** supports the aspiration to make participation and assent free rather than covertly manufactured.
 
-**P — Philosophical Openness.** The ethics is a companion to the five conceptual definitions in this family. [**The Ethics of Closedness**](ethics_of_closedness.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), [**Blind Certainty**](../core/defining_blind_certainty.md), and [**Suspending Judgment**](../core/defining_suspending_judgment.md) provide related but independently stewarded considerations.
+**P — Philosophical Openness.** The ethics is a companion to the five conceptual definitions in this family. [**The Ethics of Closedness**](ethics_of_closedness.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), [**Blind Certainty**](../core/definitions/defining_blind_certainty.md), and [**Suspending Judgment**](../core/definitions/defining_suspending_judgment.md) provide related but independently stewarded considerations.
 
 **S — Spiritual Openness.** Listening, care, spiritual testimony, vulnerability, and choosing can involve strong invitations to inhabit another person's interpretation. No one individual's first-person encounter becomes another person's obligatory belief merely by being deeply meaningful.
 
