@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6, gdl
-When: 2026-11-13T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
@@ -44,7 +44,7 @@ This revision extends the earlier emphasis on **Artifice** as human-made objects
 
 **Artifice** and **The Unchosen** do different work. **Artifice** identifies a recognized or inherited form of human distinction, representation, organization, or making. **The Unchosen** locates what **a specified chooser** did not deliberately select at a particular time and in a particular respect. An artifact may be wholly unchosen *by its recipient* while having been deliberately designed *by its makers*. And a landscape may be recognized through inherited Artifice while its physical growth remains mostly unplanned by humans.
 
-When an inquirer says *“This forest is 100% Unchosen,”* that statement might name an immediate experience of untouched wildness, a belief that no human intervention ever occurred, or the absence of choice in the visitor's own encounter. These claims are **different even when the same words express them**. [**Perspectival Dimensionalization**](defining_real_and_reality.md#perspectival-dimensionalization-and-perspective-noticing) allows them to be examined instead of quietly fused.
+When an inquirer says *“This forest is 100% Unchosen,”* that statement might name an immediate experience of untouched wildness, a belief that no human intervention ever occurred, or the absence of choice in the visitor's own encounter. These claims are **different even when the same words express them**. [**Perspectival Dimensionalization**](defining_perspectivity.md#perspectival-dimensionalization) allows them to be examined instead of quietly fused.
 
 A later account that the forest was cleared three centuries ago need not make its visitor's original *felt wildness* disappear. The visitor might continue to experience it as *100% Unchosen* in that **subjectively-real** respect, while considering the forest *approximately 99% Unchosen* in an **intersubjectively developed account of historical intervention and subsequent regrowth**. The latter percentage is illustrative rather than a factual measurement: without a chosen dimension, method, and evidence, neither 99% nor 100% establishes how much of its present physical formation was shaped by people.
 
@@ -56,9 +56,9 @@ This ability to **retain the old perspective while adding a new one** is more in
 
 ### Structural Deception
 
-**Structural deception** names the perspectival vulnerability in which this opacity **supports an unnoticed misattribution of the form's origins, necessity, neutrality, or degree of Unchosen**. It need not involve someone deliberately lying. An arrangement can feel inevitable to a recipient who has never encountered the alternatives by which it was selected. A forest can seem untouched to a visitor who has no access to its logging history. The appearance is *subjectively-real* as an appearance; the interpretation of origin may nevertheless change with evidence.
+**Structural deception** names the perspectival vulnerability in which this opacity **supports an unnoticed misattribution of the form's origins, necessity, neutrality, or degree of Unchosen**. It need not involve someone deliberately lying. An arrangement can feel inevitable to a recipient who has never encountered the alternatives by which it was selected. A forest can seem untouched to a visitor who has no access to its logging history. The appearance is *imaginal-subjective-real* as an appearance; the interpretation of origin may nevertheless change with evidence.
 
-**Intentional deception** is a distinct, further possibility: a person may deliberately exploit these unnoticed dimensions through selective presentation, concealed provenance, strategic omission, or an [**Imposed Perspective**](defining_real_and_reality.md#imposed-perspective). Its presence requires evidence about acts and intentions; the existence of **Artifice** or **structural opacity** alone does not establish wrongdoing.
+**Intentional deception** is a distinct, further possibility: a person may deliberately exploit these unnoticed dimensions through selective presentation, concealed provenance, strategic omission, or an [**Imposed Perspective**](defining_perspectivity.md#imposed-perspective). Its presence requires evidence about acts and intentions; the existence of **Artifice** or **structural opacity** alone does not establish wrongdoing.
 
 A reclassification can expose a prior structural deception **without retroactively invalidating the first-person occurrence of the encounter**. The forest really appeared untouched to its visitor; what later evidence may challenge is the inference that no human intervention had ever occurred. The word *deception* therefore concerns a **relationship among form, attributed history, standpoint, and evidence**, not an occult property possessed identically by every artifact or person at all times.
 
@@ -66,15 +66,15 @@ A reclassification can expose a prior structural deception **without retroactive
 
 A sentence, sketch, photograph, model, film, or scientific report selects features from a richer field. Selectivity can improve accuracy when it isolates relevant relationships. A map omits the sound of birds yet may be exactly right about where a footbridge stands. The omission becomes misleading when an account silently invites readers to treat the selected presentation as exhaustive or as an unlocated view of *all that is*.
 
-A reader's experience of a portrayal is **subjectively-real as an encounter**. A description of a third person, depicted scene, or scientific referent may offer an [**Unbound Reader/Viewer Perspective**](defining_real_and_reality.md#unbound-readerviewer-perspective). The reader may choose to inhabit the offered account, question it, temporarily entertain it, or decline that shift. The shared human capacity supporting this imaginative move operates in both fiction and nonfiction; **their evidential claims are not thereby identical**.
+A reader's experience of a portrayal is **subjectively-real as an encounter**. A description of a third person, depicted scene, or scientific referent may offer an [**Unbound Reader/Viewer Perspective**](defining_perspectivity.md#unbound-readerviewer-perspective). The reader may choose to inhabit the offered account, question it, temporarily entertain it, or decline that shift. The shared human capacity supporting this imaginative move operates in both fiction and nonfiction; **their evidential claims are not thereby identical**.
 
 The word *platypus* is **Artifice**; the animal may be described within a strongly justified account of physical reality. A fictional unicorn is also represented through **Artifice**, but its narrated world has a different evidential status. No conclusion about the animal or mythical referent follows merely from calling its name or representation *imaginal*. The precision concerns **what was encountered, what was depicted, what was inferred, and how the claim is supported**.
 
 The actual occurrence of a first-person experience can be distinguished from the description, classification, or rendering of that experience. Yet the experience may be **an encounter with Artifice**, and the person may interpret it through inherited categories not deliberately chosen by them. Thus a person can directly experience the weight of a manufactured tool, or an unchosen feeling of awe before a forest whose recognized form is already structured by human language. **Direct experiencing and Artifice are not mutually exclusive descriptions of one encounter when their aspects are distinguished.**
 
-### The Intersubjective, Nature, and Inherited Forms
+### Intersubjectivity, Nature, and Inherited Forms
 
-[**The Intersubjective**](defining_the_intersubjective.md) helps account for how categories, rules, languages, histories, and institutions are communicated, maintained, contested, and revised among people. A community may make an Artifice *intersubjectively-real* through accepted names, practices, and records even while particular members inherit it without choosing it. Agreement can constitute an institutional status; it cannot by itself prove every factual claim made about its physical history.
+[**Intersubjectivity**](defining_intersubjectivity.md) helps account for how categories, rules, languages, histories, and institutions are communicated, maintained, contested, and revised among people. A community may make an Artifice *intersubjectively-real* through accepted names, practices, and records even while particular members inherit it without choosing it. Agreement can constitute an institutional status; it cannot by itself prove every factual claim made about its physical history.
 
 *Nature* and *Artifice* need not name disconnected kinds of existence. Human choosing and classification occur within processes ordinarily called natural. A tree can grow through biological processes, be planted deliberately, be named through inherited language, and appear wholly wild to someone who knows none of its history. What matters is the **aspect and standpoint of inquiry**. A proposed contrast such as *pure nature* may help ask what arose without human intervention **in a specified respect**, but it should not be used to smuggle in a complete history that no observer has established.
 
@@ -138,7 +138,7 @@ These movements make an Artifice and its possible chosen history recognizable wi
 
 **G — Generative Openness.** **Artifice** concerns forms that may develop through [**Poiesis**](../../generative/core/definitions/defining_poiesis.md), [**Fiat Form**](../../generative/core/definitions/defining_fiat_form.md), [**Logonesis**](../../generative/core/definitions/defining_logonesis.md), and [**Recursive Becoming**](../../generative/core/definitions/defining_recursive_becoming.md). Their origin and reconstruction may be examined through [**Experiential Derivation**](../../generative/core/definitions/defining_experiential_derivation.md).
 
-**P — Philosophical Openness.** **Artifice** belongs primarily to P. It helps distinguish the form of a representation, the provenance attributed to it, its apparent givenness, and its possible referent. **The River**, **The Riverbanks**, and **River-Truth** offer related imagery for comparing direct encounter with its renderings. **The Unchosen**, **The Unseen**, **The Intersubjective**, and **Real and Reality** make that inquiry precise without replacing evidence with an unlocated narrator.
+**P — Philosophical Openness.** **Artifice** belongs primarily to P. It helps distinguish the form of a representation, the provenance attributed to it, its apparent givenness, and its possible referent. **The River**, **The Riverbanks**, and **River-Truth** offer related imagery for comparing direct encounter with its renderings. **The Unchosen**, **The Unseen**, **Intersubjectivity**, and **Real and Reality** make that inquiry precise without replacing evidence with an unlocated narrator.
 
 **S — Spiritual Openness.** Inherited symbols, practices, and traditions may be profoundly meaningful as Artifice. Their chosen or inherited origins need not invalidate the experiences they invite, nor establish particular metaphysical interpretations. [**Epistemic Hospitality**](../../generative/definitions/defining_epistemic_hospitality.md) permits consideration while **Discernment** examines support.
 
@@ -190,7 +190,7 @@ The team has offered a shared, apparently objective account. A reader of the map
 
 I watch an advertisement showing three satisfied customers and hear, “Everyone agrees this service is trustworthy.” I experience the images, sound, and my own reactions in *my-reality*. The editing and slogan offer an **Unbound Reader/Viewer Perspective** in which a selected sample becomes an apparently universal judgment. The advertisement is **Artifice**; the existence of actual satisfied customers may be genuine, while the wider claim needs evidence.
 
-Noticing the offer lets me remain with what I actually saw and heard. I can ask how the customers were selected, what dissenting evidence was excluded, and whether the narrator is making a supported claim or pressing me to adopt an [**Imposed Perspective**](defining_real_and_reality.md#imposed-perspective). This is one way recognizing structural opacity can restore agency without automatically condemning every advertisement.
+Noticing the offer lets me remain with what I actually saw and heard. I can ask how the customers were selected, what dissenting evidence was excluded, and whether the narrator is making a supported claim or pressing me to adopt an [**Imposed Perspective**](defining_perspectivity.md#imposed-perspective). This is one way recognizing structural opacity can restore agency without automatically condemning every advertisement.
 
 ### Example — A Mirror and Its Reflection
 

@@ -1,11 +1,11 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-16T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
-# Perspectival Dimensionalization
+# Perspectivity
 
 ## Prelude
 
@@ -15,23 +15,29 @@ Status: needs review
 
 ## Foundational Definition
 
-**Perspectival Dimensionalization** — making recognizable the standpoints and representational movements through which what is encountered becomes described, attributed, or considered from further perspectives.
+**Perspectivity** — the standpoint-qualified character of an encounter or account, including the possibility of considering what it presents from further represented perspectives.
 
 ## The Definition Unfolded
 
-**Perspectival Dimensionalization** is a directly defined [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) for examining perspective. It distinguishes an encounter's first-person beginning, what becomes available **as represented**, the standpoints an account offers, and the grounds on which further claims might be accepted. Its operation is analytical; whether and how someone chooses to use it is a further question.
+**Perspectivity** identifies how encounters and accounts are encountered, interpreted, and represented from standpoints rather than from an unqualified view outside every perspective. A first-person beginning, an attributed experience, and an apparently objective account can be distinguished without claiming that any one standpoint exhausts its referent. The concept concerns this perspectival character and the possible movements among standpoints; it does not, by itself, prescribe how someone must respond.
 
-In *my-reality*, I can directly encounter a sentence, a person speaking, a screen, an instrument, or an event as experienced. A further statement may represent a different standpoint: another person's feeling, an author's historical account, a group's alleged belief, or a public-world event framed independently of its witnesses. This further standpoint is **imaginal**, in the sense developed by [**The Imaginal**](defining_the_imaginal.md). Its being represented does not establish that the purported person or event is fictional, or that the claim is poorly supported.
+In *my-reality*, I can directly encounter a sentence, a person speaking, a screen, an instrument, or an event as experienced. A further statement may represent a different standpoint: another person's feeling, an author's historical account, a group's alleged belief, or a public-world event framed independently of its witnesses. This further standpoint is **imaginal**, in the sense developed by [**Imaginality**](defining_imaginality.md). Its being represented does not establish that the purported person or event is fictional, or that the claim is poorly supported.
 
-[**Real and Reality**](defining_real_and_reality.md) provides names for these standpoints, including *my-reality*, *imaginal-their-reality*, *imaginal-subjective-reality*, and *imaginal-intersubjective-reality* (i.e., **Reality**). The labels are available for precise explanation without requiring them in every act of noticing. [**The Intersubjective**](defining_the_intersubjective.md) explains relationships among Selves, shared accounts, and institutions; Perspectival Dimensionalization examines **how a reader or participant comes to consider those relationships from a represented vantage**.
+[**Real and Reality**](defining_real_and_reality.md) provides names for these standpoints, including *my-reality*, *imaginal-their-reality*, *imaginal-subjective-reality*, and *imaginal-intersubjective-reality* (i.e., **Reality**). The labels are available for precise explanation without requiring them in every act of noticing. [**Intersubjectivity**](defining_intersubjectivity.md) explains relationships among Selves, shared accounts, and institutions; Perspectivity makes recognizable **that these relations and accounts are intelligible from particular or represented standpoints**. Its named analytical sub-concept, **Perspectival Dimensionalization**, examines how the reader or participant moves between those standpoints.
 
 An analytical reconstruction can ask: What was actually encountered? What further event, perspective, or subject was represented? Who supplied the representation? What viewpoint did it make available? What evidence supports the account? What, if anything, did the recipient adopt? These questions illuminate different dimensions of the account; they do not constitute compulsory steps or a claim that everyone experiences one cognitive sequence.
 
-The operation is related to [**Dimensionalization**](../../generative/core/definitions/defining_dimensionalization.md), [**Experiential Derivation**](../../generative/core/definitions/defining_experiential_derivation.md), [**Experiential Generalization**](../../generative/core/definitions/defining_experiential_generalization.md), and [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md). It is not interchangeable with any one of them. Derivation examines a concept's intelligible experiential beginning; generalization opens a conceptual pattern beyond that beginning; projection makes an application or further standpoint conceivable; Perspectival Dimensionalization **examines the shifts and qualifications involved**, including shifts already occurring in the explanation itself.
+The analysis undertaken through **Perspectival Dimensionalization** is related to [**Dimensionalization**](../../generative/core/definitions/defining_dimensionalization.md), [**Experiential Derivation**](../../generative/core/definitions/defining_experiential_derivation.md), [**Experiential Generalization**](../../generative/core/definitions/defining_experiential_generalization.md), and [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md). It is not interchangeable with any one of them. Derivation examines a concept's intelligible experiential beginning; generalization opens a conceptual pattern beyond that beginning; projection makes an application or further standpoint conceivable; **Perspectival Dimensionalization** examines the shifts and qualifications involved, including shifts already occurring in the explanation itself.
 
 ## Named Internal Distinctions
 
-These are named, linkable distinctions within the present definition, not separate canonical definitions or independently reified Methods.
+These are named, linkable distinctions within this definition. **Perspectival Dimensionalization** is its explicit analytical sub-concept; the remaining distinctions identify particular movements, forms, and recognitions within perspectivity. None is independently reified here as a Method.
+
+### Perspectival Dimensionalization
+
+**Perspectival Dimensionalization** — making recognizable the standpoints and representational movements through which what is encountered becomes described, attributed, or considered from further perspectives.
+
+This is an **analytical operation within Perspectivity**, not a synonym for the entire phenomenon. Perspectivity may be present in a report, a conversation, or a first-person interpretation without being noticed or explicitly analyzed; Perspectival Dimensionalization occurs when an inquirer makes relevant standpoints or transitions recognizable. The operation may expose a projection in the explanation itself, but it does not confer access to an unlocated, perfectly objective observer.
 
 ### Perspective Shifting
 
@@ -61,7 +67,7 @@ The form is common in fiction and can be artistically useful. In nonfiction it m
 
 **Imposed Perspective** names framing that treats an offered standpoint as already shared, obligatory, or inseparable from the reader's understanding. Examples include “Everyone knows,” a narrator claiming to speak for all members of a community, or an argument making dissent itself evidence of moral failure.
 
-The word *imposed* here describes a **presumptive or pressuring feature of the presented relationship**; it does not automatically prove malicious intention, actual coercion, successful persuasion, or inaccuracy. Some readers may experience the same passage differently, and different accounts may dispute whether the framing is imposing. Its possible ethical significance belongs to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+The word *imposed* here describes a **presumptive or pressuring feature of the presented relationship**; it does not automatically prove malicious intention, actual coercion, successful persuasion, or inaccuracy. Some readers may experience the same passage differently, and different accounts may dispute whether the framing is imposing. Its possible ethical significance belongs to [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ### Offered, Evoked, Inhabited, and Affirmed Perspectives
 
@@ -77,7 +83,7 @@ These are **distinguishable relations**, not mandatory chronological stages, a p
 
 ### Reflexive Return and Emergent Reflexivity
 
-**Reflexive Return** is the further recognition that an explanation of perspective may itself depend on a perspective shift. Consider the general category *subjective-reality*: to describe **my** first-person experiencing and **their** attributed experiencing under one category, the explanation must consider both from a projected third-person vantage. The reader may first use this conceptual move to understand the word, then notice **that the explanation just performed the movement it described**.
+**Reflexive Return** is the further recognition that an explanation of perspective may itself depend on a perspective shift. Consider the general category *imaginal-subjective-reality*: to describe **my** first-person experiencing and **their** attributed experiencing under one category, the explanation must consider both from a projected third-person vantage. The reader may first use this conceptual move to understand the word, then notice **that the explanation just performed the movement it described**.
 
 This possibility relates to the distinct canonical experiential genealogies [**My Awareness → Awareness**](../../generative/core/definitions/defining_awareness.md) and [**My Self → The Self**](../../generative/core/definitions/defining_the_self.md). The conceptual shift does not reperform either derivation, establish access to another Self's experiencing, or require a new first-person Seed constituent.
 
@@ -87,9 +93,9 @@ This possibility relates to the distinct canonical experiential genealogies [**M
 
 **Perspective Disclosure** is the act of making an otherwise implicit standpoint or consequential change of standpoint explicit—for example, distinguishing the author's inference from a witness's report. Disclosure may be done by a full perspective-qualified term, a brief phrase, or a concrete explanation of whose standpoint is represented.
 
-Whether disclosure is desirable, required by a particular writing practice, or potentially excessive is **not determined by this definition**. The adopted conventions for Openness definitions belong in the [**Openness Definition Guidelines**](../../../guidelines/guidelines_definitions.md), and the ethical choices belong in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+Whether disclosure is desirable, required by a particular writing practice, or potentially excessive is **not determined by this definition**. The adopted conventions for Openness definitions belong in the [**Openness Definition Guidelines**](../../../guidelines/guidelines_definitions.md), and the ethical choices belong in [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
-## Experiential Derivation: Recognizing a Shift While Reading
+## Experiential Derivation: Encountering and Noticing Perspectives
 
 This first-person passage is an invitation to examine a possible encounter, not autobiographical testimony from an AI author.
 
@@ -97,13 +103,15 @@ This first-person passage is an invitation to examine a possible encounter, not 
 
 **2. Further standpoint.** I understand a claim about the town. I may experience a vivid scene or merely grasp the proposition. The inhabitants' attributed fear has become available through an *imaginal representation*; I have not directly experienced each resident's fear.
 
-**3. Dimensionalization.** I distinguish the page, the writer's offered account, the presumed grouping *town*, the particular persons and testimony that might support the claim, and my own interpretation. I may then examine whether the wording describes a recorded survey, a few witness statements, a fictional narrative, or an unsupported generalization.
+**3. Perspectival Dimensionalization.** I distinguish the page, the writer's offered account, the presumed grouping *town*, the particular persons and testimony that might support the claim, and my own interpretation. I may then examine whether the wording describes a recorded survey, a few witness statements, a fictional narrative, or an unsupported generalization.
 
 **4. Reflexive return.** To explain the distinction I have used the perspective of a reader analyzing another reader's experience. I can notice that even this explanation offered me an imaginal perspective. The observation doesn't cancel the account; it makes the encounter's further dimensions available.
 
 The derivation does not imply that all readers react in the same way or that noticing produces complete control over spontaneously evoked representations.
 
 ## Essential Distinctions
+
+**Perspectivity versus Perspectival Dimensionalization.** **Perspectivity** describes the standpoint-qualified character of an encounter or account, whether noticed or not. **Perspectival Dimensionalization** deliberately makes relevant standpoints and movements recognizable. Experiencing or offering a perspective is not the same as analyzing how it is offered.
 
 **Noticing versus evaluation.** Identifying a perspective shift is distinct from deciding whether its claims are true, its sources credible, or its use ethical. [**Discernment**](defining_discernment.md) can evaluate grounds without being replaced by the recognition of perspective.
 
@@ -121,13 +129,13 @@ The derivation does not imply that all readers react in the same way or that not
 
 **Intersubjectivity versus consensus.** A standpoint can be offered by one writer and subsequently shared, debated, or revised. Many collective accounts develop through durable consensus; the concept of intersubjectivity does not require unanimity.
 
-**Analytical use versus a reified Method.** **Perspectival Dimensionalization** is a named P conceptual operation. Applying it, teaching exercises with it, or writing a checklist does not by itself reify another [**Generative Method**](../../generative/definitions/defining_generative_methods.md).
+**Perspectival Dimensionalization versus a reified Method.** **Perspectival Dimensionalization** is a named analytical sub-concept of **Perspectivity**. Applying it, teaching exercises with it, or writing a checklist does not by itself reify another [**Generative Method**](../../generative/definitions/defining_generative_methods.md).
 
 ## Relationship to Openness
 
-**G — Generative Openness.** [**Perspective-Taking**](../../generative/definitions/defining_perspective_taking.md), [**The Generative Stance**](../../generative/definitions/defining_generative_stance.md), [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md), and [**Semantic Compression**](../../generative/definitions/defining_semantic_compression.md) can produce, organize, and communicate standpoints. The present concept examines their relevant epistemic movements without treating all perspective-making as a distinct Method.
+**G — Generative Openness.** [**Perspective-Taking**](../../generative/definitions/defining_perspective_taking.md), [**The Generative Stance**](../../generative/definitions/defining_generative_stance.md), [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md), and [**Semantic Compression**](../../generative/definitions/defining_semantic_compression.md) can produce, organize, and communicate standpoints. Perspectivity identifies their standpoint-qualified character; **Perspectival Dimensionalization** can examine relevant epistemic movements without treating every perspective-making activity as a distinct Method.
 
-**P — Philosophical Openness.** Its primary home. [**Self-Honesty**](../../generative/core/definitions/defining_self_honesty.md), [**The Imaginal**](defining_the_imaginal.md), [**Real and Reality**](defining_real_and_reality.md), [**The Intersubjective**](defining_the_intersubjective.md), [**The Unseen**](defining_the_unseen.md), and [**Artifice**](defining_artifice.md) provide especially useful relationships for the analysis.
+**P — Philosophical Openness.** Its primary home. [**Self-Honesty**](../../generative/core/definitions/defining_self_honesty.md), [**Imaginality**](defining_imaginality.md), [**Real and Reality**](defining_real_and_reality.md), [**Intersubjectivity**](defining_intersubjectivity.md), [**The Unseen**](defining_the_unseen.md), and [**Artifice**](defining_artifice.md) provide especially useful relationships for the analysis.
 
 **S — Spiritual Openness.** Accounts of prayer, visions, dreams, felt presence, and shared spiritual meanings can be considered through distinctions between what a speaker reports experiencing and how others represent its possible source, without foreclosing inquiry into unfamiliar possibilities.
 
@@ -135,7 +143,9 @@ The derivation does not imply that all readers react in the same way or that not
 
 ## Naming and Usage
 
-**Perspectival Dimensionalization** — formal P concept. The shorter expression *perspective analysis* may describe its activity in ordinary prose, but does not replace the fuller identifying meaning. *Perspective Dimensionalization* is a readable grammatical variant when no distinct concept is intended.
+**Perspectivity** — canonical P concept for the standpoint-qualified character of encounters and accounts. It is not limited to occasions on which someone explicitly notices or analyzes a perspective.
+
+**Perspectival Dimensionalization** — named internal analytical sub-concept within Perspectivity. The shorter expression *perspective analysis* may describe its activity in ordinary prose without becoming a new canonical term. *Perspective Dimensionalization* is a grammatical variant for this analytical sub-concept, not a synonym for all of **Perspectivity**.
 
 **Perspective Shifting**, **Unnoticed Perspective Shifting**, **Perspective Noticing**, **Unbound Reader/Viewer Perspective**, **Imposed Perspective**, **Offered/Evoked/Inhabited/Affirmed Perspectives**, **Reflexive Return**, **Emergent Reflexivity**, and **Perspective Disclosure** are named distinctions **within this single file**. Their heading links should be used rather than inventing separate definition files.
 
@@ -147,7 +157,7 @@ Use *my-reality* when locating the first-person beginning, and introduce *imagin
 
 I read: “Mara closed the envelope and knew that Eli had betrayed her.” The sentence supplies an apparent view of Mara's inner life. I have encountered the sentence, not Mara's experience; its author may be offering omniscient fictional narration or making a historical claim supported by a diary. The same grammar can make either account intelligible, while the referent and grounds differ.
 
-I can describe the offered perspective without deciding whether it is warranted. The possible ethical uses of such description belong to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+I can describe the offered perspective without deciding whether it is warranted. The possible ethical uses of such description belong to [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ### Example — A Documentary Cuts Away (first-person viewer standpoint)
 
@@ -169,7 +179,7 @@ I read, “Every responsible parent recognizes the danger.” I can notice that 
 
 ### Example — The Definition Examines Itself
 
-I first recognize a feeling of uncertainty within *my-reality*. This definition invites me to treat it as an instance of *subjective-reality*, which requires representing my experience from a general third-person vantage. I can use the category, then notice that the explanation just performed the projection it describes. The recognition neither invalidates the definition nor confers an observer's view from outside all perspectives.
+I first recognize a feeling of uncertainty within *my-reality*. This definition invites me to treat it as an instance of *imaginal-subjective-reality*, which requires representing my experience from a general third-person vantage. I can use the category, then notice that the explanation just performed the projection it describes. The recognition neither invalidates the definition nor confers an observer's view from outside all perspectives.
 
 ### Example — A Film and a Camera's Vantage
 
@@ -181,10 +191,10 @@ A friend tells me of a presence they interpret spiritually. I directly encounter
 
 ## Boundary
 
-**Perspectival Dimensionalization** does not promise full visibility into unconscious processing, complete control over spontaneous representation, or access to a standpoint outside [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md). Nor does it establish that a perspective shift is malicious, that an account is false, or that a referent is imaginary.
+**Perspectivity**, and its analytical sub-concept **Perspectival Dimensionalization**, do not promise full visibility into unconscious processing, complete control over spontaneous representation, or access to a standpoint outside [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md). Nor does it establish that a perspective shift is malicious, that an account is false, or that a referent is imaginary.
 
-It describes an analytical possibility. The choice to apply it, the value of disclosure, the ethics of persuasion, and the consequences of accepting or declining accounts are examined in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md). Openness's specific publication conventions belong in the writing guidelines, not as membership criteria in this concept's anchor.
+The named operation describes an analytical possibility within a broader phenomenon. The choice to apply it, the value of disclosure, the ethics of persuasion, and the consequences of accepting or declining accounts are examined in [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md). Openness's specific publication conventions belong in the writing guidelines, not as membership criteria in this concept's anchor.
 
 ## Summary
 
-**Perspectival Dimensionalization** makes visible the standpoints an account passes among and the distinctions an ordinary sentence can compress. It also permits a **Reflexive Return**: noticing that explaining those standpoints required a represented perspective of its own.
+**Perspectivity** names the standpoint-qualified character of an encounter or account, including shifts among represented standpoints. Its internal analytical sub-concept, **Perspectival Dimensionalization**, can make these movements recognizable and permit a **Reflexive Return**: noticing that explaining them required a represented perspective of its own.

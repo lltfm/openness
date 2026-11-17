@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-08T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
@@ -119,7 +119,7 @@ Creating a container may require deciding and temporarily narrowing possibilitie
 
 **G — Generative Openness.** **Openness Containers** may host **Transformative Inquiry**, writing workshops, **Transformative Art**, and experimental expressive forms, while G's constitutional **Nonimposition** helps distinguish inviting creation from engineering assent. An agreed scene or question does not require an audience to adopt its interpretation.
 
-**P — Philosophical Openness.** The concept's primary definitional home is **P Core**, where it relates to **Closedness**, **Blind Certainty**, **Heretica**, **Discernment**, **The Intersubjective**, **Self-Honesty**, and **Nonimposition**. Its direct definition distinguishes a socially risky idea, the actual consent arrangement, and the chosen ethics of participation.
+**P — Philosophical Openness.** The concept's primary definitional home is **P Core**, where it relates to **Closedness**, **Blind Certainty**, **Heretica**, **Discernment**, **Intersubjectivity**, **Self-Honesty**, and **Nonimposition**. Its direct definition distinguishes a socially risky idea, the actual consent arrangement, and the chosen ethics of participation.
 
 **S — Spiritual Openness.** Containers may offer spaces for freely chosen inquiry into uncomfortable feelings, inherited prohibitions, intimate questions, and forms of lived experience, with attention to participants' agency and safety. No separate spiritual commitment is imposed by the container's definition.
 

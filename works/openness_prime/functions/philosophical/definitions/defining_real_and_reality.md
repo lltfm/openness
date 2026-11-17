@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-16T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
@@ -21,7 +21,7 @@ The ordinary sentence “The train has arrived” presents a public-world claim 
 
 Openness distinguishes **a first-person beginning** and **a represented public-world standpoint**, without claiming that they are separate metaphysical worlds. The latter is *imaginal-intersubjective-reality* (i.e., **Reality**), synonymous with *imaginal-objective-reality*. The capital letters mark the type of standpoint; they do not certify the existence of the referent or erase the need for evidence.
 
-The vocabulary also makes possible a third-person generalization, *imaginal-subjective-reality*, under which my own first-person field and attributed other first-person fields can be described without being conflated. Inquiries into the movement from direct experiencing to these projected standpoints belong to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md), while the relations among Selves that can sustain shared public accounts belong to [**The Intersubjective**](defining_the_intersubjective.md).
+The vocabulary also makes possible a third-person generalization, *imaginal-subjective-reality*, under which my own first-person field and attributed other first-person fields can be described without being conflated. Inquiries into the movement from direct experiencing to these projected standpoints belong to [**Perspectival Dimensionalization**](defining_perspectivity.md#perspectival-dimensionalization), while the relations among Selves that can sustain shared public accounts belong to [**Intersubjectivity**](defining_intersubjectivity.md).
 
 ## Named Perspectives and Internal Terms
 
@@ -89,7 +89,7 @@ A first-person reconstruction can make the differences among the names inspectab
 
 **4. Public-world account.** A map, eyewitness report, and independent measurements offer an *imaginal-intersubjective-reality* (i.e., **Reality**) in which the city is described independently of any one reader. The shared evidence may support the account strongly; its objective-style presentation remains a perspective.
 
-**5. Reflexive possibility.** To describe this genealogy I have already used a broader vantage. [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md#reflexive-return-and-emergent-reflexivity) invites the reader to notice this further shift, without requiring an endless qualification of every sentence.
+**5. Reflexive possibility.** To describe this genealogy I have already used a broader vantage. [**Reflexive Return**](defining_perspectivity.md#reflexive-return-and-emergent-reflexivity) within [**Perspectivity**](defining_perspectivity.md) invites the reader to notice this further shift, without requiring an endless qualification of every sentence.
 
 ## Essential Distinctions
 
@@ -107,7 +107,7 @@ A first-person reconstruction can make the differences among the names inspectab
 
 **Perspective invitation versus perspective assent.** Reading, listening, imagining, and understanding what a claim proposes can occur without accepting its purported perspective as one's own. A reader can decline participation in a strongly justified collective account. The grounds for the account and the reader's freedom to choose are different questions.
 
-**Unbound versus imposed perspective.** An unbound narration offers a viewpoint with no visible first-person location. An imposed perspective presents acceptance as assumed, compulsory, or already achieved. Either can be made visible without assuming deceptive intent; their possible uses are explored separately in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+**Unbound versus imposed perspective.** An unbound narration offers a viewpoint with no visible first-person location. An imposed perspective presents acceptance as assumed, compulsory, or already achieved. Either can be made visible without assuming deceptive intent; their possible uses are explored separately in [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 **Their-reality versus objective-reality.** The former locates an account in an attributed particular standpoint; the latter deliberately describes what would hold independently of particular standpoints. Both can be formed imaginally and evaluated through evidence, but they do different conceptual work.
 
@@ -129,7 +129,7 @@ A first-person reconstruction can make the differences among the names inspectab
 
 **Physical objects versus immaterial social forms.** A physical participant, page, sign, or computer can be investigated as a physical referent. A team identity such as *Team A* may be an immaterial [**Fiat Form**](../../generative/core/definitions/defining_fiat_form.md) constituted through social practices. Its institutional existence and consequences need not be denied merely because it is not an additional physical body.
 
-**Standpoint classification versus publication convention.** These terms make consequential standpoints explicitly nameable. The distinct decision to disclose an offered perspective, the circumstances of an editorial requirement, and questions of reader agency belong respectively to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md), the [**Openness Definition Guidelines**](../../../guidelines/guidelines_definitions.md), and [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+**Standpoint classification versus publication convention.** These terms make consequential standpoints explicitly nameable. The distinct decision to disclose an offered perspective, the circumstances of an editorial requirement, and questions of reader agency belong respectively to [**Perspectivity**](defining_perspectivity.md), the [**Openness Definition Guidelines**](../../../guidelines/guidelines_definitions.md), and [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 **Capitalized meaning versus quotation and Precise Ambiguity.** **Real** and **Reality** have stable, qualified meanings in Openness; quotation marks remain free for literal speech, cited terms, irony, and intentionally unbound [**Precise Ambiguity**](../../generative/core/definitions/defining_precise_ambiguity.md). A quoted word never silently overrides the capitalized convention. An unmarked change of standpoint is not automatically a deliberate ambiguity.
 
@@ -137,7 +137,7 @@ A first-person reconstruction can make the differences among the names inspectab
 
 **G — Generative Openness.** [**Fiat Form**](../../generative/core/definitions/defining_fiat_form.md) and [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) make the formation of conceptual perspectives visible. [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md) helps imagine possible standpoints; [**Experiential Generalization**](../../generative/core/definitions/defining_experiential_generalization.md) can develop *self-reality* from a first-person beginning. [**Resonant Questions**](../../generative/definitions/defining_resonant_questions.md) may reveal a perspective shift without obliging the reader to adopt a particular answer.
 
-**P — Philosophical Openness.** The primary home of these terms. They support [**Self-Honesty**](../../generative/core/definitions/defining_self_honesty.md), [**Discernment**](defining_discernment.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), and inquiry into [**The Mind**](defining_the_mind.md), [**The Self**](../../generative/core/definitions/defining_the_self.md), [**Awareness**](../../generative/core/definitions/defining_awareness.md), and [**The Intersubjective**](defining_the_intersubjective.md). They make the source, standpoint, and grounds of claims presented within **Reality** examinable.
+**P — Philosophical Openness.** The primary home of these terms. They support [**Self-Honesty**](../../generative/core/definitions/defining_self_honesty.md), [**Discernment**](defining_discernment.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), and inquiry into [**The Mind**](defining_the_mind.md), [**The Self**](../../generative/core/definitions/defining_the_self.md), [**Awareness**](../../generative/core/definitions/defining_awareness.md), and [**Intersubjectivity**](defining_intersubjectivity.md). They make the source, standpoint, and grounds of claims presented within **Reality** examinable.
 
 **S — Spiritual Openness.** Dreams, contemplation, felt presence, relationships, and unfamiliar experiences can be explored without prematurely identifying an experience with a final account of its cause or ultimate nature. Physical, spiritual, and other interpretations remain open to [**Epistemic Hospitality**](../../generative/definitions/defining_epistemic_hospitality.md) and evidence-sensitive inquiry.
 
@@ -171,7 +171,7 @@ The terms below are **perspectival distinctions**, not separate metaphysical wor
 
 **Quotation marks are free.** Quoted “real” or “reality” is no longer a technical alias system. Quotes can mark someone's exact words, discuss the ordinary term, or intentionally leave a perspective open through [**Precise Ambiguity**](../../generative/core/definitions/defining_precise_ambiguity.md); they do not silently assign the formal capitalized meaning.
 
-**Further operations and ethics.** The movements behind these terms, including unnoticed perspective shifts, [**Perspective Noticing**](defining_perspectival_dimensionalization.md#perspective-noticing), unbound viewpoints, and reflexive return are developed in [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md). Their ethical use belongs to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md). The technical first-use rule above is a convention for accurate writing, not a reader obligation to agree.
+**Further operations and ethics.** The movements behind these terms, including unnoticed perspective shifts, [**Perspective Noticing**](defining_perspectivity.md#perspective-noticing), unbound viewpoints, and reflexive return are developed in [**Perspectivity**](defining_perspectivity.md). Their ethical use belongs to [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md). The technical first-use rule above is a convention for accurate writing, not a reader obligation to agree.
 
 ## Examples
 
@@ -219,7 +219,7 @@ I can acknowledge the force of the evidence while noticing the perspective the t
 
 **Real** and **Reality** are perspective-qualified Openness terms, not assertions that a represented world is fictional, mind-dependent, or guaranteed to match every account of it. *my-reality* is not declared superior in truth to every well-supported statement made within **Reality**, and *subjective-reality* does not merge distinct first-person experiences into one field.
 
-The concept leaves the status of particular referents, the weight of evidence, the nature of other Selves, and the possibility of wider explanations open to further inquiry. It supplies **names for standpoints**; questions about how a writer shifts among them belong to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md), and the invitation or pressure to accept them belongs to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+The concept leaves the status of particular referents, the weight of evidence, the nature of other Selves, and the possibility of wider explanations open to further inquiry. It supplies **names for standpoints**; questions about how a writer shifts among them belong to [**Perspectivity**](defining_perspectivity.md), and the invitation or pressure to accept them belongs to [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ## Summary
 

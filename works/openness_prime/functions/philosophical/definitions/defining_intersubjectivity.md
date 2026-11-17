@@ -1,19 +1,19 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-16T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
-# The Intersubjective
+# Intersubjectivity
 
 ## Foundational Definition
 
-**The Intersubjective** — the relational field among Selves through which meanings, interpretations, understandings, practices, agreements, disagreements, and shared social arrangements can develop, circulate, be examined, and change.
+**Intersubjectivity** — the relational field among Selves through which meanings, interpretations, understandings, practices, agreements, disagreements, and shared social arrangements can develop, circulate, be examined, and change.
 
 ## The Definition Unfolded
 
-An inquirer encounters words, gestures, actions, artifacts, records, and other effects in their own experience. They may interpret these as expressions of further Selves and participate in exchanges that develop meaning, mutual understanding, institutions, cooperation, and disagreement. **The Intersubjective** gathers such relations for examination; it is an intentional conceptual [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md), not a single additional observing entity.
+An inquirer encounters words, gestures, actions, artifacts, records, and other effects in their own experience. They may interpret these as expressions of further Selves and participate in exchanges that develop meaning, mutual understanding, institutions, cooperation, and disagreement. **Intersubjectivity** gathers such relations for examination; it is an intentional conceptual [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md), not a single additional observing entity.
 
 Its conceptual unity need not make the participants homogeneous. A report can offer an *imaginal representation* of a committee, community, or scientific tradition without disclosing every member's standpoint. The relations represented may be well evidenced even when the summary is partial. Attribution of a shared position requires examining the population, period, institutional authority, and actual grounds of the claim.
 
@@ -21,7 +21,7 @@ Many important intersubjective practices are sustained by durable, sometimes exc
 
 The concept concerns **relations among distinguishable standpoints**. It does not establish direct access to another person's [**Awareness**](../../generative/core/definitions/defining_awareness.md), and it does not imply that a group has one unified experience. A functional attribution of [**The Mind**](defining_the_mind.md) to a coordinated group may be useful without settling any further question about collective Awareness.
 
-The form through which a reader encounters these relations is often imaginal, as defined in [**The Imaginal**](defining_the_imaginal.md). The represented public-world standpoint is defined in [**Real and Reality**](defining_real_and_reality.md). When the issue is how that standpoint is offered, shifted, or adopted, the primary home is [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md). Ethical questions of representation, exclusion, pressure, dissent, and manipulation belong to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+The form through which a reader encounters these relations is often imaginal, as defined in [**Imaginality**](defining_imaginality.md). The represented public-world standpoint is defined in [**Real and Reality**](defining_real_and_reality.md). When the issue is how that standpoint is offered, shifted, or adopted, the broader home is [**Perspectivity**](defining_perspectivity.md), especially its named internal analysis [**Perspectival Dimensionalization**](defining_perspectivity.md#perspectival-dimensionalization). Ethical questions of representation, exclusion, pressure, dissent, and manipulation belong to [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ## Experiential Derivation: Recognizing Relations Among Selves
 
@@ -35,7 +35,7 @@ The first-person steps invite examination of a possible experiential genealogy, 
 
 **4. Recognizing constitution and justification.** Several people might establish a society, agree to rules, or compare measurements. I can examine their actions, records, and reasons without assuming every participant understands the activity in the same way.
 
-**5. Generalizing the field.** I name these communicative, practical, interpretive, and justificatory relations **The Intersubjective**. Describing the field already involves a represented vantage, which [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md) can help make visible.
+**5. Generalizing the field.** I name these communicative, practical, interpretive, and justificatory relations **Intersubjectivity**. Describing the field already involves a represented vantage, which [**Perspectival Dimensionalization**](defining_perspectivity.md#perspectival-dimensionalization) can help make visible.
 
 ## Named Internal Distinctions
 
@@ -61,13 +61,13 @@ Well-conducted shared inquiry can strongly justify claims about matters presente
 
 Relations among Selves can develop through refusal, dissent, bargaining, conflict, exclusion, or withdrawal, as well as through cooperation. Participants may dispute an interpretation, a rule's legitimacy, or a group's representation of them without ceasing to take part in the wider relational field.
 
-Power may affect who gets heard and whose account becomes an institution's official story. Examining that influence can be part of [**Discernment**](defining_discernment.md) and questions of responsibility in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md), not a reason to presume that every contribution has identical evidential weight.
+Power may affect who gets heard and whose account becomes an institution's official story. Examining that influence can be part of [**Discernment**](defining_discernment.md) and questions of responsibility in [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md), not a reason to presume that every contribution has identical evidential weight.
 
 ### Imaginal Group Attribution and Heterogeneity
 
 A writer can introduce a collection of people through one noun—*the electorate*, *scientists*, *the neighborhood*, *the church*, *the company*—and then attribute an intention or opinion to it. The noun offers a useful chosen grouping; the claim about what the grouping believes is an *imaginal attribution* that may need distinct evidence. Group membership can be well documented while unanimity is not; an institution can authorize a statement while individual members dissent. The grouping need not be homogeneous, and its status as a [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) does not itself validate any claim about its members.
 
-A statement such as “The town demands action” may compress a vote by one committee, testimony from some residents, and silence from many others into a seeming universal will. [**The Imaginal**](defining_the_imaginal.md) names how that collective perspective becomes available *as represented*; **The Intersubjective** asks whose relationships, actions, disagreements, institutional authorizations, and evidential grounds sustain it. The distinction separates institutional authorization, the represented population, and evidential grounds.
+A statement such as “The town demands action” may compress a vote by one committee, testimony from some residents, and silence from many others into a seeming universal will. [**Imaginality**](defining_imaginality.md) names how that collective perspective becomes available *as represented*; **Intersubjectivity** asks whose relationships, actions, disagreements, institutional authorizations, and evidential grounds sustain it. The distinction separates institutional authorization, the represented population, and evidential grounds.
 
 ### Consensus, Dissent, and Scope
 
@@ -83,7 +83,7 @@ A published institutional voice may be an operative social fact—such as an aut
 
 **Consensus versus evidential truth.** Agreement can support inquiry and sometimes constitute a convention; it does not by itself establish every claim about the physical world. A well-supported finding need not be doubted indiscriminately merely because it is an intersubjective account.
 
-**The Intersubjective versus imaginal-subjective-reality.** *Imaginal-subjective-reality* is a third-person category for first-person fields; **The Intersubjective** concerns relationships among those standpoints. See [**Real and Reality**](defining_real_and_reality.md).
+**Intersubjectivity versus imaginal-subjective-reality.** *Imaginal-subjective-reality* is a third-person category for first-person fields; **Intersubjectivity** concerns relationships among those standpoints. See [**Real and Reality**](defining_real_and_reality.md).
 
 **Relations versus representation of relations.** The social interactions may occur; an author's account of them is an *imaginal representation*, which may be partial or mistaken.
 
@@ -97,7 +97,7 @@ A published institutional voice may be an operative social fact—such as an aut
 
 **G — Generative Openness.** [**Artifice**](defining_artifice.md), [**Perspective-Taking**](../../generative/definitions/defining_perspective_taking.md), and [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md) help make imagined relationships and shared meanings recognizable. Creative works may offer representations of relationships that readers examine from their own standpoints.
 
-**P — Philosophical Openness.** The primary home of **The Intersubjective**. [**Discernment**](defining_discernment.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), [**Real and Reality**](defining_real_and_reality.md), and inquiry into institutions can distinguish what an inquirer encounters, what others report, what a group constitutes, and what shared evidence supports.
+**P — Philosophical Openness.** The primary home of **Intersubjectivity**. [**Discernment**](defining_discernment.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), [**Real and Reality**](defining_real_and_reality.md), and inquiry into institutions can distinguish what an inquirer encounters, what others report, what a group constitutes, and what shared evidence supports.
 
 **S — Spiritual Openness.** Relationships, communities, [**Love**](../../spiritual/definitions/defining_love.md), listening, belonging, and becoming may be explored as lived experiences without presuming identical inner lives or compulsory agreement. Participants may differ about the spiritual meaning of a shared encounter.
 
@@ -105,9 +105,9 @@ A published institutional voice may be an operative social fact—such as an aut
 
 ## Naming and Usage
 
-**The Intersubjective** is the formal P name for the relational field. The lowercase adjective *intersubjective* may describe communicative or shared aspects without invoking a separate entity. The named internal distinctions are **Intersubjective Constitution**, **Intersubjective Interpretation**, **Intersubjective Justification**, **Intersubjective Negotiation and Contestation**, **Imaginal Group Attribution and Heterogeneity**, and **Consensus, Dissent, and Scope**.
+**Intersubjectivity** is the formal P name for the relational field. The lowercase adjective *intersubjective* may describe communicative or shared aspects without invoking a separate entity. The named internal distinctions are **Intersubjective Constitution**, **Intersubjective Interpretation**, **Intersubjective Justification**, **Intersubjective Negotiation and Contestation**, **Imaginal Group Attribution and Heterogeneity**, and **Consensus, Dissent, and Scope**.
 
-Use the most discriminating form when referring to collective claims. “The committee voted seven to four” reports an institutional act; “the committee unanimously believed” additionally attributes a belief to everyone. A group's authorized spokesperson can make a statement for the institution without demonstrating what each member experiences. Detailed analysis of the perspective shift belongs to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md); how a writer and reader choose to engage with that shift belongs to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+Use the most discriminating form when referring to collective claims. “The committee voted seven to four” reports an institutional act; “the committee unanimously believed” additionally attributes a belief to everyone. A group's authorized spokesperson can make a statement for the institution without demonstrating what each member experiences. Detailed analysis of the perspective shift belongs to [**Perspectivity**](defining_perspectivity.md); how a writer and reader choose to engage with that shift belongs to [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ## Examples
 
@@ -121,7 +121,7 @@ If I later write, “Both readers understood the poet,” I would be making a st
 
 ### Example — “The Committee Believed” (first-person reader standpoint)
 
-I read a report stating, “The committee believed the proposal was safe.” An [**Unbound Reader/Viewer Perspective**](defining_perspectival_dimensionalization.md#unbound-readerviewer-perspective) may make the committee's belief seem as immediately visible as the report's text. I can instead inquire whether every member stated the belief, whether a majority voted, whether a spokesperson summarized the conclusion, or whether the author inferred it.
+I read a report stating, “The committee believed the proposal was safe.” An [**Unbound Reader/Viewer Perspective**](defining_perspectivity.md#unbound-readerviewer-perspective) may make the committee's belief seem as immediately visible as the report's text. I can instead inquire whether every member stated the belief, whether a majority voted, whether a spokesperson summarized the conclusion, or whether the author inferred it.
 
 The committee's vote may constitute an institutionally valid decision. It does not necessarily disclose what each member experienced or establish that the proposal was in fact safe. The third-person summary can remain useful once its scope becomes clear.
 
@@ -157,11 +157,10 @@ I can see the association offering an *imaginal-intersubjective-reality* of the 
 
 ## Boundary
 
-**The Intersubjective** neither establishes universal social construction nor denies the possibility of well-justified claims about independently existing referents. Relations can produce conventions, knowledge, misunderstanding, institutions, and contested accounts without becoming one universal group mind. Consensus can be meaningful and strong without being synonymous with truth or unanimity.
+**Intersubjectivity** neither establishes universal social construction nor denies the possibility of well-justified claims about independently existing referents. Relations can produce conventions, knowledge, misunderstanding, institutions, and contested accounts without becoming one universal group mind. Consensus can be meaningful and strong without being synonymous with truth or unanimity.
 
-The meaning of a group's identity, institutional authority, or reported belief remains examinable. Ethics of collective attribution and readers' freedom to step back from an offered group voice are developed separately in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+The meaning of a group's identity, institutional authority, or reported belief remains examinable. Ethics of collective attribution and readers' freedom to step back from an offered group voice are developed separately in [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ## Summary
 
-**The Intersubjective** names the relationships among Selves through which meanings, practices, social arrangements, agreements, justified inquiry, and disagreement become possible. It can support powerful shared accounts without collapsing the participating standpoints into one experiencing subject.
-
+**Intersubjectivity** names the relationships among Selves through which meanings, practices, social arrangements, agreements, justified inquiry, and disagreement become possible. It can support powerful shared accounts without collapsing the participating standpoints into one experiencing subject.

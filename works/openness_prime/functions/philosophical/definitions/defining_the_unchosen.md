@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-13T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
@@ -86,7 +86,7 @@ These movements establish a usable conceptual distinction without settling why e
 
 **G — Generative Openness.** [**Fiat Form**](../../generative/core/definitions/defining_fiat_form.md) and **Fiat Anchor** make the chosen conceptual distinction recognizable. [**Experiential Derivation**](../../generative/core/definitions/defining_experiential_derivation.md) may reveal how an encounter invites this distinction, while [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md) asks how attributions of prior choosing are supported.
 
-**P — Philosophical Openness.** **The Unchosen** belongs primarily to P, informing inquiry into causation, responsibility, agency, inherited arrangements, [**The Mind**](defining_the_mind.md), [**The Intersubjective**](defining_the_intersubjective.md), and the changing perspectives disclosed through **Real and Reality**.
+**P — Philosophical Openness.** **The Unchosen** belongs primarily to P, informing inquiry into causation, responsibility, agency, inherited arrangements, [**The Mind**](defining_the_mind.md), [**Intersubjectivity**](defining_intersubjectivity.md), and the changing perspectives disclosed through **Real and Reality**.
 
 **S — Spiritual Openness.** Recognition may invite ways of living with conditions not originally selected, including inquiries associated with **Aspiration to Love**, **The Prepared Journey**, and mortality. Hospitality to spiritual interpretations does not require explaining a loss as destiny, a gift, or deserved suffering. Protective action can remain appropriate.
 

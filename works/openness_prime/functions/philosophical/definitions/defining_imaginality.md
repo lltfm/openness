@@ -1,11 +1,11 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-16T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
-# The Imaginal
+# Imaginality
 
 ## Prelude
 
@@ -21,11 +21,13 @@ The resemblance is in how I meet the accounts. It is not a verdict on either for
 
 ## Foundational Definition
 
-**The Imaginal** — the dimension of an encounter through which something becomes available **as represented rather than directly encountered as that thing itself**.
+todo: in the imagination or by the imagination (but not necessarily fictional/"imaginary")
+
+**Imaginality** — the dimension of an encounter through which something becomes available **as represented rather than directly encountered as that thing itself**.
 
 ## The Definition Unfolded
 
-**The Imaginal** is a directly defined [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md) for a representational relationship. [**The Imagination**](defining_the_imagination.md) names a broader capacity and activity; *imaginal* identifies a feature of an encounter or account. The term can therefore work across Openness without implying fiction, fabrication, perceptual vividness, or a particular metaphysical theory.
+**Imaginality** is a directly defined concept for the representational character of an encounter or account. [**The Imagination**](defining_the_imagination.md) names a broader capacity and activity; *imaginal* identifies a feature of an encounter or account. The term can therefore work across Openness without implying fiction, fabrication, perceptual vividness, or a particular metaphysical theory.
 
 **Epistemic clarification.** Calling a representation or perspective *imaginal* identifies **how content becomes available**. Whether its referent exists, whether the representation is accurate, and whether someone believes or accepts it are separate questions. An imaginal representation may concern a person who exists, a well-documented historical event, a fictional character, a mathematical structure, or a proposed spiritual referent.
 
@@ -35,7 +37,7 @@ An imaginal representation need not be a picture. It may arise through words, ma
 
 An *imaginal perspective* is a represented viewpoint rather than the literal occupation of another person's firsthand experiencing. The fact that another's standpoint becomes available to my consideration does not make another person imaginary or transfer their [**Awareness**](../../generative/core/definitions/defining_awareness.md) into [**My Awareness**](../../generative/core/the_seed/definitions/defining_my_awareness.md). A narrated objective vantage is likewise representational, even when its claims are strongly supported by evidence.
 
-[**Real and Reality**](defining_real_and_reality.md) defines the standpoints an account may represent. [**The Intersubjective**](defining_the_intersubjective.md) concerns relations and shared practices among Selves. [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md) examines how perspectives are offered, evoked, inhabited, affirmed, and sometimes unnoticed. Their ethical uses and the reader's freedom to investigate or decline them belong to [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+[**Real and Reality**](defining_real_and_reality.md) defines the standpoints an account may represent. [**Intersubjectivity**](defining_intersubjectivity.md) concerns relations and shared practices among Selves. [**Perspectivity**](defining_perspectivity.md) examines how perspectives are offered, evoked, inhabited, affirmed, and sometimes unnoticed. Their ethical uses and the reader's freedom to investigate or decline them belong to [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ### Representation, Artifice, and the Status of the Referent
 
@@ -47,7 +49,7 @@ A **directly experienced response** can accompany an imaginal representation. I 
 
 An inward memory or dream raises similar questions. The act of remembering or dreaming may itself be directly experienced, while the remembered past or dreamed world is not thereby established as a present external event. Some dream episodes have vivid perceptual character; others may be remembered mainly through an account composed on waking. **Imaginal** helps identify the representational dimension without deciding whether dreams, memory, or spiritual experiences have further meanings or sources.
 
-## Conceptual Genealogy: Recognizing The Imaginal
+## Conceptual Genealogy: Recognizing Imaginality
 
 This first-person passage invites inspection of a possible encounter, not autobiographical testimony by the AI author. It is a reconstruction of the concept, not a historical claim that every reader learned the word this way.
 
@@ -57,7 +59,7 @@ This first-person passage invites inspection of a possible encounter, not autobi
 
 **3. Recognizing distinct questions.** I can ask whether the bridge really collapsed, what evidence supports the report, and whether I believe it. None of those questions changes the fact that the collapse was made available through a representation.
 
-**4. Choosing a name.** I call this representational dimension **The Imaginal** and describe the account's represented collapse as *imaginal content*. The label does not declare the collapse fictional. It records the relation between my encounter and what the account describes.
+**4. Choosing a name.** I call this representational dimension **Imaginality** and describe the account's represented collapse as *imaginal content*. The label does not declare the collapse fictional. It records the relation between my encounter and what the account describes.
 
 **5. Noticing a standpoint.** I may also recognize that the sentence offers me an apparently objective vantage on the event. I can investigate its evidence, accept or decline that framing, or keep reading without claiming direct access to the collapse. The offer and my response need not be the same act.
 
@@ -69,7 +71,7 @@ This reconstruction makes the technical distinction inspectable. It does not est
 
 **Imaginal versus imaginative.** *Imaginative* often describes creative or inventive activity; routine reading of a factual report may have an imaginal dimension without being particularly creative.
 
-**Imaginal versus The Imagination.** [**The Imagination**](defining_the_imagination.md) concerns capacities and activities; **The Imaginal** specifies the representational relationship within an encounter or the representation resulting from it. This is not a claim about separate physical or psychological mechanisms.
+**Imaginal versus The Imagination.** [**The Imagination**](defining_the_imagination.md) concerns capacities and activities; **Imaginality** specifies the representational relationship within an encounter or the representation resulting from it. This is not a claim about separate physical or psychological mechanisms.
 
 **Imaginal versus mental imagery.** Imagery may be visual, auditory, or otherwise sensory-like; imaginal content may also be abstract, mathematical, linguistic, or nonvisual. *Quasi-perceptual* is narrower and useful when a representation feels perception-like.
 
@@ -91,9 +93,9 @@ This reconstruction makes the technical distinction inspectable. It does not est
 
 ## Relationship to Openness
 
-**G — Generative Openness.** **The Imaginal** clarifies [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md): a projection is a representation through which an application is considered, not the referent itself. The distinction also helps [**Fiat Form**](../../generative/core/definitions/defining_fiat_form.md), [**Logonesis**](../../generative/core/definitions/defining_logonesis.md), [**Semantic Compression**](../../generative/definitions/defining_semantic_compression.md), and [**Resonant Questions**](../../generative/definitions/defining_resonant_questions.md) remain clear about how forms invite further understanding. The term is a conceptual instrument, not automatically a new Engine member or reified Method.
+**G — Generative Openness.** **Imaginality** clarifies [**Analogical Projection**](../../generative/core/definitions/defining_analogical_projection.md): a projection is a representation through which an application is considered, not the referent itself. The distinction also helps [**Fiat Form**](../../generative/core/definitions/defining_fiat_form.md), [**Logonesis**](../../generative/core/definitions/defining_logonesis.md), [**Semantic Compression**](../../generative/definitions/defining_semantic_compression.md), and [**Resonant Questions**](../../generative/definitions/defining_resonant_questions.md) remain clear about how forms invite further understanding. The term is a conceptual instrument, not automatically a new Engine member or reified Method.
 
-**P — Philosophical Openness.** Its primary home is P. **The Imaginal** strengthens distinctions among direct experience, representation, [**The Unseen**](defining_the_unseen.md), [**The Intersubjective**](defining_the_intersubjective.md), the attributed perspectives of [**The Mind**](defining_the_mind.md), and the descriptive standpoints of **Real and Reality**. It supports perspective noticing without making every perspective equally warranted.
+**P — Philosophical Openness.** Its primary home is P. **Imaginality** strengthens distinctions among direct experience, representation, [**The Unseen**](defining_the_unseen.md), [**Intersubjectivity**](defining_intersubjectivity.md), the attributed perspectives of [**The Mind**](defining_the_mind.md), and the descriptive standpoints of **Real and Reality**. It supports perspective noticing without making every perspective equally warranted.
 
 **S — Spiritual Openness.** An account of a spiritual encounter may be imaginally received even when the narrator reports direct experiencing. This distinguishes the listener's access to the account from the narrator's proposed experience, while preserving the possibility of further spiritual interpretations and inquiry into their grounds.
 
@@ -101,7 +103,7 @@ This reconstruction makes the technical distinction inspectable. It does not est
 
 ## Naming and Usage
 
-**The Imaginal** is the formal name of this directly defined concept. Lowercase *imaginal* is its reusable technical modifier. It is normally most precise when attached to an **account, representation, perspective, attribution, reconstruction, or content**—not to the alleged referent itself.
+**Imaginality** is the formal name of this directly defined concept. Lowercase *imaginal* is its reusable technical modifier. It is normally most precise when attached to an **account, representation, perspective, attribution, reconstruction, or content**—not to the alleged referent itself.
 
 | Expression | Exact job | Example of usage |
 |---|---|---|
@@ -200,8 +202,8 @@ A friend reports encountering a luminous presence during prayer. I can consider 
 
 The imaginal description identifies a **representational relation**, not a conclusion about the status, accuracy, moral value, or cause of the represented content. It does not declare other persons, physical objects, reliable historical evidence, or spiritual possibilities imaginary. It does not posit one universally proven mechanism of imagination, imply vivid internal pictures, or require a separate metaphysical realm.
 
-An imaginal account may help, mislead, entertain, or invite further inquiry. Assessing its grounds belongs to [**Discernment**](defining_discernment.md); analyzing the shifts it offers belongs to [**Perspectival Dimensionalization**](defining_perspectival_dimensionalization.md); questions of agency, manipulation, and the right to step back are developed in [**The Ethics of Perspective**](../ethics/the_ethics_of_perspective.md).
+An imaginal account may help, mislead, entertain, or invite further inquiry. Assessing its grounds belongs to [**Discernment**](defining_discernment.md); analyzing the shifts it offers belongs to [**Perspectivity**](defining_perspectivity.md); questions of agency, manipulation, and the right to step back are developed in [**The Ethics of Perspectivity**](../ethics/the_ethics_of_perspectivity.md).
 
 ## Summary
 
-**The Imaginal** names what becomes available **as represented**. A representation can concern what is actual, possible, strongly supported, uncertain, or fictional; its imaginal character establishes none of those verdicts. This distinction lets a single compact word carry necessary epistemic precision across Openness.
+**Imaginality** names what becomes available **as represented**. A representation can concern what is actual, possible, strongly supported, uncertain, or fictional; its imaginal character establishes none of those verdicts. This distinction lets a single compact word carry necessary epistemic precision across Openness.

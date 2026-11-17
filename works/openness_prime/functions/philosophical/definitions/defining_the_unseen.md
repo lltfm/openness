@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-13T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
@@ -102,7 +102,7 @@ The four terms distinguish modes of access and inquiry; they are not independent
 
 **G — Generative Openness.** **Fiat Anchor** and [**Fiat Form**](../../generative/core/definitions/defining_fiat_form.md) make the relation to perception explicit. [**Experiential Derivation**](../../generative/core/definitions/defining_experiential_derivation.md) may reconstruct a first-person beginning, and [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md) helps distinguish encountered effects from explanations inferred through them.
 
-**P — Philosophical Openness.** **The Unseen** belongs primarily to P. It informs **Discernment**, [**The Mind**](defining_the_mind.md), [**The Intersubjective**](defining_the_intersubjective.md), perspective attribution, representation, and inquiry into appearances and evidence. Work associated with **River-Truth** and **The Undercurrents** may also use the distinction between encountered appearances and what remains outwardly unavailable.
+**P — Philosophical Openness.** **The Unseen** belongs primarily to P. It informs **Discernment**, [**The Mind**](defining_the_mind.md), [**Intersubjectivity**](defining_intersubjectivity.md), perspective attribution, representation, and inquiry into appearances and evidence. Work associated with **River-Truth** and **The Undercurrents** may also use the distinction between encountered appearances and what remains outwardly unavailable.
 
 **S — Spiritual Openness.** Contemplation of unseen possible relationships or forms of experiencing remains available without requiring a spiritual conclusion. Attention to inward experiences can coexist with disciplined examination of their interpretations.
 

@@ -1,11 +1,11 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-16T00:00:00Z
+When: 2026-11-17T00:00:00Z
 Status: needs review
 ---
 
-# The Ethics of Perspective
+# The Ethics of Perspectivity
 
 ## Prelude
 
@@ -17,7 +17,7 @@ Status: needs review
 
 ## Purpose and Status
 
-**The Ethics of Perspective** gathers **Openness's chosen ethical commitments and available practices** concerning the offering, evoking, inhabiting, affirming, questioning, and declining of perspectives. It examines how [**The Imaginal**](../definitions/defining_the_imaginal.md), [**Real and Reality**](../definitions/defining_real_and_reality.md), [**The Intersubjective**](../definitions/defining_the_intersubjective.md), and [**Perspectival Dimensionalization**](../definitions/defining_perspectival_dimensionalization.md) can participate in understanding, persuasion, social cooperation, and possible manipulation.
+**The Ethics of Perspectivity** gathers **Openness's chosen ethical commitments and available practices** concerning the offering, evoking, inhabiting, affirming, questioning, and declining of perspectives. It examines how [**Imaginality**](../definitions/defining_imaginality.md), [**Real and Reality**](../definitions/defining_real_and_reality.md), [**Intersubjectivity**](../definitions/defining_intersubjectivity.md), and [**Perspectivity**](../definitions/defining_perspectivity.md), including its analytical sub-concept **Perspectival Dimensionalization**, can participate in understanding, persuasion, social cooperation, and possible manipulation.
 
 This is an **ethics document**, not a new [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md), a revised Foundational Definition, a newly reified [**Generative Method**](../../generative/definitions/defining_generative_methods.md), or an authority empowered to certify which accounts count as propaganda. Its aspirations are offered for independent examination. Understanding the underlying definitions does not require adopting this ethic.
 
@@ -61,7 +61,7 @@ Sovereignty over interpretation does not imply sovereignty over others' bodies, 
 
 ## The Ethics of Disclosure
 
-[**Perspectival Dimensionalization**](../definitions/defining_perspectival_dimensionalization.md) can show where a description moves from a first-person encounter to an [**imaginal perspective**](../definitions/defining_the_imaginal.md). Openness values the possibility that such movements become recognizable, especially when a hidden attribution could materially change how an account is understood.
+[**Perspectival Dimensionalization**](../definitions/defining_perspectivity.md#perspectival-dimensionalization) can show where a description moves from a first-person encounter to an [**imaginal perspective**](../definitions/defining_imaginality.md). Openness values the possibility that such movements become recognizable, especially when a hidden attribution could materially change how an account is understood.
 
 The appropriate degree of disclosure varies. A novel may openly invite readers into a fictional omniscient narration. A museum placard may economically summarize strong historical evidence. A scientific paper may state a supported conclusion without repeatedly narrating every researcher's standpoint. A contested claim about a neighbor's private motive may benefit from explicit attribution. **No universal quota of disclaimers follows from this ethic.**
 
@@ -87,7 +87,7 @@ Several different phenomena can produce similar effects:
 
 **Unnoticed perspective shift.** A reader moves into a narrated or attributed vantage without explicitly recognizing the move. This may be a routine feature of language and does not establish the author's intention.
 
-**Implied consensus.** Words such as *we*, *everyone*, *scientists*, *the people*, or *the community* may accurately describe a specified group, summarize a qualified majority, or disguise significant heterogeneity. [**The Intersubjective**](../definitions/defining_the_intersubjective.md#imaginal-group-attribution-and-heterogeneity) defines the underlying distinctions.
+**Implied consensus.** Words such as *we*, *everyone*, *scientists*, *the people*, or *the community* may accurately describe a specified group, summarize a qualified majority, or disguise significant heterogeneity. [**Intersubjectivity**](../definitions/defining_intersubjectivity.md#imaginal-group-attribution-and-heterogeneity) defines the underlying distinctions.
 
 **Omniscient narration.** An author describes motives, fears, intentions, or events as though they were directly available from an unlocated viewpoint. This may be an overt fictional convention, a helpful summary of strong evidence, an unexamined habit, or a misleading attribution.
 
@@ -184,7 +184,7 @@ Later I may notice that an editing choice deliberately misled me about a charact
 
 A friend describes a presence they experienced during a difficult night. I hear the testimony directly but consider their reported encounter imaginally. I may provisionally inhabit their interpretation, ask questions about its source, share my doubts, or decline to speculate. The person's experiencing, sincerity, and the ultimate cause of the event remain distinguishable.
 
-My willingness to listen need not imply adopting the explanation; their freedom to report the experience need not impose a belief upon me. Both may continue relating within **The Intersubjective** despite different interpretations.
+My willingness to listen need not imply adopting the explanation; their freedom to report the experience need not impose a belief upon me. Both may continue relating within **Intersubjectivity** despite different interpretations.
 
 ### Example — An AI Offers an Apparently Universal Summary
 
@@ -194,7 +194,7 @@ I can also examine how the summary's confident tone affects my interpretation, w
 
 ### Example — This Ethics Examines Itself
 
-I read that Openness values interpretive sovereignty and the freedom to step back. Those are **Openness's chosen ethical preferences**, not facts compelled by understanding The Imaginal. I can notice that this document itself offers a perspective—one that favors greater visibility of perspective shifts—and I may accept, challenge, qualify, or decline that invitation.
+I read that Openness values interpretive sovereignty and the freedom to step back. Those are **Openness's chosen ethical preferences**, not facts compelled by understanding Imaginality. I can notice that this document itself offers a perspective—one that favors greater visibility of perspective shifts—and I may accept, challenge, qualify, or decline that invitation.
 
 If its author calls a critic *closed* or *captured* simply for disagreeing, the same questions about imposed viewpoints apply to Openness's own words. Openness cannot preserve reader agency by reserving immunity from criticism for its preferred ethic.
 
@@ -240,4 +240,4 @@ Above all, **calling an account propaganda is itself an offer of perspective**. 
 
 ## Summary
 
-**The Ethics of Perspective** offers a toolkit for recognizing, examining, provisionally inhabiting, affirming, declining, and stepping back from perspectives. It protects the reader's agency without seeking control of the reader's conclusions, and welcomes vigorous speech without treating persuasion as automatic wrongdoing. **Its own invitation remains open to the same examination.**
+**The Ethics of Perspectivity** offers a toolkit for recognizing, examining, provisionally inhabiting, affirming, declining, and stepping back from perspectives. It protects the reader's agency without seeking control of the reader's conclusions, and welcomes vigorous speech without treating persuasion as automatic wrongdoing. **Its own invitation remains open to the same examination.**
