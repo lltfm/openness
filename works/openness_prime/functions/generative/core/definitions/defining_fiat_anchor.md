@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6, gdl
-When: 2026-11-04T00:00:00Z
+When: 2026-11-20T00:00:00Z
 Status: approved
 ---
 
@@ -23,7 +23,7 @@ Status: approved
 
 **Fiat Anchor** — A named, immaterial conceptual unity established by choosing what counts as one identity or grouping, where that choice is not uniquely determined by a separately distinguishable material whole.
 
-**Fiat Anchor** invites inquiry into the often-unnoticed processes and choices involved in creating a category, a group, or a conceptual unity (e.g. The Mind) and its delineations, especially when inherited words have come to seem natural or unquestionable. It avoids confusing the name with whatever reality it may represent. 
+**Fiat Anchor** invites inquiry into the often-unnoticed processes and choices involved in creating a category, a group, or a conceptual unity (e.g. The Mind) and its delineations, especially when inherited words have come to seem natural or unquestionable. It avoids confusing the name with whatever reality it may represent.
 
 #### Examples
 
@@ -46,6 +46,8 @@ An anchor may be placed for excellent reasons and still not have one uniquely ne
 A captain arriving in a harbor selects a suitable anchorage. The captain cannot anchor anywhere whatsoever: depth, current, shore, safety, and other vessels matter. Still, more than one location may serve. Once the anchor is dropped, the anchor chain is payed out as desired, and the vessel moves within a range allowed by its chain and conditions. The ship remains meaningfully anchored while still drifting with the seas within the limit of its chain.
 
 Likewise, a named conceptual unity can remain recognizable across ordinary variation, uncertain edge cases, or shifting applications. The *anchor point* suggests the chosen identifying meaning; the *anchor chain* suggests the latitude permitted by that meaning; and the *ship's movement* suggests variation that does not yet require a new anchor. The metaphor is not a literal theory of concepts and does not license unlimited drift. Some anchors have exact agreed boundaries, despite the fact that different boundaries could originally have been chosen. If a proposed meaning falls outside the established anchor, it does not become valid merely through imaginative movement; it requires another concept or an explicit review of the anchor.
+
+**Fiat Anchor** also invites a return, through contemplation, to the choosing of the anchorage itself. The anchor point suggests where a conceptual unity was established; the chain suggests the interpretive latitude permitted by its chosen meaning. An inquirer may consider why these choices were made, how they might have been made differently, and what further possibilities different choices might unfold. Such contemplation need not reconstruct an actual historical decision. It may imaginatively revisit a conceptual formation that developed gradually or whose origins are unknown.
 
 ### The conceptual unity and what it represents
 
@@ -70,6 +72,8 @@ If humans vanished, the actively maintained human meanings and institutions expr
 The fact that a unity is chosen does not grant its originator universal authority. A person, community, or maintained version may adopt a particular anchor. **Anchor Stewardship** identifies who maintains that version; **Intersubjective Context** clarifies whose shared meaning is operative; **Scope of Authority** clarifies what its stewards can legitimately revise. Someone may challenge a convention, propose a new one, or create an independent copy without thereby changing another community's already established definition.
 
 **Openness** itself offers one such formulation which it stewards, not a final authority over minds, oceans, countries, gods, or future philosophies. The point of retaining a chosen anchor is to make an inquiry possible and its meaning traceable—not to transform the anchor into a throne.
+
+**Fiat Anchor** may also be applied as a lens to inherited conceptual unities whose originators did not employ or intend Openness's terminology. A reader may compare how different people, disciplines, cultures, or traditions have anchored related phenomena, noticing differences in identifying meaning, boundaries, and interpretive latitude. The reader is welcome to speculate within an established anchor or contemplate another anchorage for their own inquiry. Such possibilities may remain private, develop independently, or be proposed to the original stewards. This invitation does not grant a freedom the reader lacked; it makes the choices surrounding conceptual formation newly available for examination without silently changing any maintained definition.
 
 ## Essential Distinctions
 
@@ -103,7 +107,7 @@ The fact that a unity is chosen does not grant its originator universal authorit
 
 ## Conceptual Dependencies
 
-| Dependency |	Why it is required |
+| Dependency | Why it is required |
 |------------|---------------------|
 | **Fiat Form** | A **Fiat Anchor** is established through **Fiat Form** as a named conceptual unity |
 
@@ -221,7 +225,7 @@ The concept may ultimately describe a real mental organization, combine processe
 
 The anchor's chosen character does not make its referent unreal. The waters of the Atlantic, the people of a team, and the experiences organized as **The Mind** need not have been invented through the conceptual choice. Conversely, the existence of genuine constituents does not prove that the chosen unity is a naturally separate entity or that its boundaries are uniquely correct.
 
-A meaningful anchor need not have originated in one historically identifiable moment. Its delineation may have emerged gradually or become authoritative only within a particular intersubjective context. Some chosen boundaries are exact; others are open at their edges. Neither contingency nor flexibility makes every possible application valid. 
+A meaningful anchor need not have originated in one historically identifiable moment. Its delineation may have emerged gradually or become authoritative only within a particular intersubjective context. Some chosen boundaries are exact; others are open at their edges. Neither contingency nor flexibility makes every possible application valid.
 
 **Fiat Anchor** confers no universal authority over people, other communities' definitions, or what exists. An independently adopted version may differ from its source, but private reinterpretation does not silently rewrite a maintained original. A chosen conceptual identity is useful precisely because its meaning can be recognized, examined, compared, and—when warranted—deliberately revised.
 
