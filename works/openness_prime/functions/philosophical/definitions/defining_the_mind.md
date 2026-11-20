@@ -45,7 +45,7 @@ Who chooses which minds belong to a group's mind?
 When we imagine another's mind, where does that attribution exist?
 ```
 
-### Re-imagineering The Mind
+### Re-imagining The Mind
 
 **Fiat Form**: *“Let there be a form called **The Mind**...”*
 

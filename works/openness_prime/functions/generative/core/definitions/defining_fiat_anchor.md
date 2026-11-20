@@ -67,6 +67,8 @@ If humans vanished, the actively maintained human meanings and institutions expr
 
 **Experiential Derivation** may make inspectable how encounters with unnamed phenomena, recognition of recurring patterns, inherited **Artifice**, and eventual naming make such a unity recognizable. It does not necessarily reconstruct the actual historical first naming. **Experiential Generalization** may extend a pattern beyond the original encounters, and **Analogical Projection** may consider applying the form elsewhere. These remain distinct operations and characteristics.
 
+[**Experiential Re-Imagining**](defining_experiential_re_imagining) offers a broader reflexive inquiry: an inquirer may notice how inherited language makes a chosen unity seem simply given, return toward recognizable experience, contemplate where and why the unity was anchored, and explore alternative formations or further applications. This is not a reconstruction of an established historical origin, a requirement to abandon a well-supported classification, or permission to revise another steward's maintained anchor. The movements it may draw upon remain distinguishable and need not occur in a fixed order.
+
 ### Situated meaning and Open Stewardship
 
 The fact that a unity is chosen does not grant its originator universal authority. A person, community, or maintained version may adopt a particular anchor. **Anchor Stewardship** identifies who maintains that version; **Intersubjective Context** clarifies whose shared meaning is operative; **Scope of Authority** clarifies what its stewards can legitimately revise. Someone may challenge a convention, propose a new one, or create an independent copy without thereby changing another community's already established definition.
@@ -113,7 +115,7 @@ The fact that a unity is chosen does not grant its originator universal authorit
 
 ## Relationship to Openness
 
-**G — Generative Openness.** **Fiat Anchor** is a G Core concept describing a distinctive chosen unity made recognizable through **Fiat Form**. It works with **Poiesis**, **Logonesis**, **Experiential Derivation**, **Experiential Generalization**, **Epistemic Groundedness**, **Anchored Ambiguity**, **Analogical Projection**, **Analogical Discernment**, and **Recursive Becoming**. Their relationships do not require newly reified compound subtypes or additions to the established 24-concept **Generative Engine**.
+**G — Generative Openness.** **Fiat Anchor** is a G Core concept describing a distinctive chosen unity made recognizable through **Fiat Form**. It works with **Poiesis**, **Logonesis**, **Experiential Derivation**, **Experiential Generalization**, **Epistemic Groundedness**, **Anchored Ambiguity**, **Analogical Projection**, **Analogical Discernment**, and **Recursive Becoming**. [**Experiential Re-Imagining**](defining_experiential_re_imagining) may organize a reflexive inquiry across these resources without collapsing their distinct purposes. Their relationships do not require newly reified compound subtypes or additions to the established 24-concept **Generative Engine**.
 
 **P — Philosophical Openness.** **Fiat Anchor** helps distinguish **Artifice** from **River-Truth** and chosen conceptual boundaries from the realities they organize. **The Intersubjective** makes plural communal anchors and their situated recognition examinable. **The River** invites renewed encounter when an inherited concept appears to exhaust what its referent can be.
 
