@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-20T00:00:00Z
+When: 2026-11-21T00:00:00Z
 Status: needs review
 ---
 
@@ -25,13 +25,11 @@ The central requirement is a **substantive conceptual relationship** between the
 
 Experiential Derivation is not restricted to a single inferential move. It may unfold through multiple intermediate concepts and may include **Experiential Generalization**, **Fiat Form**, **Fiat Anchor**, **Analogical Projection**, and other forms of conceptual development. These resources may participate in derivation without becoming compulsory stages.
 
-[**Experiential Re-Imagining**](defining_experiential_re_imagining) is a broader, reflexive inquiry that can include noticing inherited or imaginal representations, stepping back toward first-person experiencing, reconsidering a concept's possible formation, and exploring its generalizations and applications. **Experiential Derivation** has the narrower responsibility of making a substantive lineage of conceptual meaning inspectable. It may participate in Experiential Re-Imagining without requiring that entire inquiry, and an Experiential Re-Imagining need not yield a new derivation.
+**Experiential Re-Imagining** is a broader reflective inquiry that can include a derivation. It may first notice how inherited language or an imaginal account makes a concept appear already given, return to a first-person or situated encounter, and examine the choices and transformations between that encounter and a developed meaning. Derivation has the narrower task of making the **substantive lineage of identifying meaning** clear; the two terms are not interchangeable.
 
 **The Seed of Openness**—**My Self**, **My Awareness**, and **My Self-Confession of Not-Knowing**—provides an especially important proposed starting point. It is not required that every concept be forced into a derivational chain from these three expressions. Some concepts may have a different experiential beginning; some may be higher-order or formal concepts for which no meaningful experiential derivation has yet been found.
 
 A derivation renders the **lineage of meaning** inspectable. It does not automatically establish a valid deductive proof, a causal explanation, a historical genealogy, or the independent existence of everything to which the resulting concept may be applied.
-
-An experiential beginning need not always be a plainly recognized *positive instance* of the eventual concept. **Contrast**, **absence**, and **retrospective recognition** can contribute substantive experiential relationships: freely given attention may become intelligible through its contrast with conditional attention; a proposed trust in becoming may become recognizable upon looking back at a life lived through struggle and not-knowing. A successful derivation still must articulate how that beginning supports the concept's identifying meaning, and cannot treat contrast or retrospect as proof of an unencountered referent, hidden cause, or exclusively correct anchor.
 
 ## What a Derivation Makes Clear
 
@@ -47,11 +45,11 @@ These are questions for examination, **not a compulsory five-step Method**. An a
 
 ## Relationship to Other Concepts
 
-**Experiential Fiat Anchor** names a conceptual identity given meaningful experiential grounding. **Experiential Derivation** makes the relationship supporting that identity examinable. An anchor can be presented briefly even when a fuller derivation remains to be developed.
+**Experiential Re-Imagining** makes a larger movement inspectable: noticing a received or represented meaning, stepping back to an encounter, reconsidering conceptual formation, and exploring generalizations and applications. **Experiential Derivation** examines the substantive experiential relationship within that movement, where such a relationship can be articulated.
+
+**Fiat Anchor** identifies a named conceptual unity with chosen identifying boundaries or membership where that concept applies. **Experiential Derivation** makes a proposed relationship between experience and that unity examinable. An anchor can be presented briefly even when a fuller derivation remains to be developed.
 
 **Experiential Generalization** develops a concept beyond the original first-person or situated instance. It may form one part of a derivation, but not all derivation involves generalization.
-
-**[Experiential Re-Imagining](defining_experiential_re_imagining)** names a broader Higher-Order Concept for reflexively reconsidering inherited or represented meanings, returning to recognizable experiential beginnings, and exploring possible reformations, generalizations, and applications. It can draw upon derivation without making the two terms synonyms or turning their combined movements into a compulsory Method.
 
 **Analogical Projection** extends a recognizable relationship toward another being, context, or system. A derivation should make such projection explicit where it occurs; projection alone does not provide sufficient warrant for the target claim.
 
@@ -63,29 +61,21 @@ These are questions for examination, **not a compulsory five-step Method**. An a
 
 ## Examples
 
-### From My Awareness to Awareness
+### From My Self to The Self
 
-**My Awareness** provides a recognizable first-person beginning: experiencing is present within this embodied life. Through **Experiential Generalization**, the identifying relationship can be developed into the broader concept **Awareness**. Claims about whether other beings possess it require further inquiry and may involve **Analogical Projection** and evidence beyond the initial experience.
+**My Self** provides a recognizable first-person beginning: the familiar embodied life encountered as one's own, with recognizable particularity, relations, memory, and change. **Experiential Derivation** can trace how those features support the development of **The Self** as a concept for selfhood and possible individual selves. The derivation needs to show what is carried forward and what further conceptual choices are made; it does not merely remove the word *My*. Nor does it establish what ultimately constitutes selfhood in every other being.
 
-### From My Self-Confession to Not-Knowing and The Mystery
+### From My Mind to The Mind
 
-**My Self-Confession of Not-Knowing** expresses a first-person acknowledgment of incomplete understanding. A derivation may develop **Not-Knowing** as a generalized relation to recognized limits of understanding. A related but distinct derivation may develop **The Mystery** as what remains unknown or incompletely understood. **The confession, recognized Not-Knowing, and what is unknown are not identical.** The derivation should not silently collapse them.
+A recollection arrives; an emotion changes; attention shifts. These are recognizable first-person experiences. Some mental capacities are recognized through their exercise; further processes may be inferred from their effects. A derivation may explain how these experiences and inferences are provisionally gathered as *My Mind* and developed into the broader unity **The Mind**. That conceptual grouping does not by itself prove the existence of one separately bounded inner object or mechanism.
 
-### From Encounter to TWIL's Shadow (first-person illustration)
+### A Further Application of The Self
 
-An observer encounters another person's words and gestures without knowing the entirety of that person's life. This may provide an experiential beginning for thinking about **TWIL's Shadow** as the real, partial encounter through which something larger becomes recognizable. The broader concept requires additional conceptual work: a partial encounter need not imply a particular hidden being, a single source, or a metaphysical whole.
-
-### Love Through an Experienced Contrast
-
-A person encounters attention conditional upon agreement or compliance. Considering the difference between that encounter and attention offered without demanding a return may make **Love**—*attention given freely*—recognizable as a possible conceptual beginning. The experienced contrast can support a derivation without proving another person's hidden motives, requiring every expression of Love to arise this way, or establishing one ultimate nature of love. **Experiential Re-Imagining** can also examine the inherited meaning from which the inquirer stepped back.
-
-### Faith Through Retrospective Recognition
-
-A person looks back upon continuing through struggle and not-knowing and wonders whether an implicit trust in further becoming was present before they recognized it. This can contribute to the proposed derivation of **Faith** from *My Faith*, then to **Experiential Generalization**. Continuing itself is recognizable; interpreting a hidden or incompletely understood trust is an additional conceptual movement, not proof of a single cause or of another person's inward Faith.
+From **My Self** I may develop a broader form **The Self**, then consider how it applies to a friend or to a fictional character. The derivation of the form and the **Analogical Projection** toward particular referents are distinguishable. The friend's life is not made imaginary by the fact that my account of it is imaginal. **Analogical Discernment** examines what the available evidence supports.
 
 ### A Failed Derivation
 
-A concept is said to be 'experientially derived' because someone once had a vivid feeling while imagining it. Unless an intelligible relationship is shown between the feeling's recognizable features and the concept's identifying meaning, the feeling is an occasion for invention, **not yet an adequate experiential derivation**.
+A person says that a concept of selfhood is “experientially derived” because looking into a mirror once produced a vivid feeling. Unless an intelligible relationship is shown between the recognizable features of the experience and the concept's identifying meaning, the feeling is an occasion for invention, **not yet an adequate experiential derivation**.
 
 ## Essential Distinctions and Boundaries
 
@@ -96,8 +86,8 @@ A concept is said to be 'experientially derived' because someone once had a vivi
 - **Derivation versus free association:** An intelligible, inspectable relationship is needed; evocativeness alone is insufficient.
 - **Derivation versus generalization:** Generalization is one possible transformation within derivation, not a synonym for derivation as a whole.
 - **Derivation versus analogical warrant:** Moving from my experience to a claim about another being introduces additional questions of evidence and scope.
+- **Derivation versus Experiential Re-Imagining:** Re-Imagining can examine inherited representations, conceptual formation, possible derivations, and applications; derivation specifically traces substantive experiential grounding.
 - **Derivation versus compulsory universality:** Openness need not claim that every possible concept is derivable from the Seed, or from one kind of experience.
-- **Derivation versus Experiential Re-Imagining:** Derivation exposes the substantive relation between a recognizable beginning and identifying meaning. The broader Higher-Order Concept can also examine inherited representation, standpoint changes, conceptual re-creation, and subsequent applications; these are not necessary conditions of every derivation.
 
 Derivations may be contested, incomplete, revised, or compared with alternatives. A proposed derivation can also reveal that a concept's identity contains more stipulative or speculative content than its original experiential anchor can support.
 
