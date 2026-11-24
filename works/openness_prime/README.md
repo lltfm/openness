@@ -113,7 +113,7 @@ Openness is both an invitation to explore its foundational, generative, philosop
 
 ## Revisability
 
-**Openness grows through what it encounters.** Through [**Recursive Becoming**](functions/generative/capabilities/creating/definitions/defining_recursive_becoming.md), experience, inquiry, creation, and relationship may change what becomes possible next—including how Openness itself is understood and practiced. Its concepts, definitions, and even **The Symbolic Tree of Openness** remain open to revision.
+**Openness grows through what it encounters.** Through [**Recursive Becoming**](functions/generative/capabilities/becoming/definitions/defining_recursive_becoming.md), experience, inquiry, creation, and relationship may change what becomes possible next—including how Openness itself is understood and practiced. Its concepts, definitions, and even **The Symbolic Tree of Openness** remain open to revision.
 
 **Openness Prime** is one stewarded expression of this unfolding work—a beginning from which further possibilities may grow. Its authors maintain its definitions through deliberate, traceable revisions, preserving the integrity and recognizable identity of each version.
 
@@ -143,7 +143,7 @@ Openness begins with [**Not-Knowing**](functions/foundational/capabilities/proje
 
 Through [**Discernment**](functions/philosophical/capabilities/discerning/definitions/defining_discernment.md), Openness examines evidence, explores possibilities, and distinguishes experience from its interpretation. Scientific, spiritual, and other perspectives remain available for inquiry, with confidence guided by their respective grounds.
 
-[**The Seed of Openness**](functions/foundational/definitions/defining_the_seed_of_openness.md) begins with three distinguishable first-person experiences: [**My Self**](functions/foundational/capabilities/grounding/definitions/defining_my_self.md), [**My Awareness**](functions/foundational/capabilities/grounding/definitions/defining_my_awareness.md), and [**My Self-Confession of Not-Knowing**](functions/foundational/capabilities/becoming/definitions/defining_my_self_confession_of_not_knowing.md)—expressed as *For I Know I Do Not Know*. Together, they offer an experiential beginning from which further understanding may unfold.
+[**The Seed of Openness**](functions/foundational/capabilities/becoming/definitions/defining_the_seed_of_openness.md) begins with three distinguishable first-person experiences: [**My Self**](functions/foundational/capabilities/grounding/definitions/defining_my_self.md), [**My Awareness**](functions/foundational/capabilities/grounding/definitions/defining_my_awareness.md), and [**My Self-Confession of Not-Knowing**](functions/foundational/capabilities/becoming/definitions/defining_my_self_confession_of_not_knowing.md)—expressed as *For I Know I Do Not Know*. Together, they offer an experiential beginning from which further understanding may unfold.
 
 The five functions of Openness—**Foundational, Generative, Philosophical, Spiritual, and Transcendent**—complement and inform one another, opening possibilities for further understanding, creation, and becoming.
 
