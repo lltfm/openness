@@ -19,7 +19,7 @@ Status: needs review
 
 **The Ethics of Perspectivity** gathers **Openness's chosen ethical commitments and available practices** concerning the offering, evoking, inhabiting, affirming, questioning, and declining of perspectives. It examines how [**Imaginality**](../definitions/defining_imaginality.md), [**Real and Reality**](../definitions/defining_real_and_reality.md), [**Intersubjectivity**](../definitions/defining_intersubjectivity.md), and [**Perspectivity**](../definitions/defining_perspectivity.md), including its analytical sub-concept **Perspectival Dimensionalization**, can participate in understanding, persuasion, social cooperation, and possible manipulation.
 
-This is an **ethics document**, not a new [**Fiat Anchor**](../../generative/core/definitions/defining_fiat_anchor.md), a revised Foundational Definition, a newly reified [**Generative Method**](../../generative/definitions/defining_generative_methods.md), or an authority empowered to certify which accounts count as propaganda. Its aspirations are offered for independent examination. Understanding the underlying definitions does not require adopting this ethic.
+This is an **ethics document**, not a new [**Fiat Anchor**](../../generative/capabilities/creating/definitions/defining_fiat_anchor.md), a revised Foundational Definition, a newly reified [**Generative Method**](../../generative/capabilities/creating/definitions/defining_generative_methods.md), or an authority empowered to certify which accounts count as propaganda. Its aspirations are offered for independent examination. Understanding the underlying definitions does not require adopting this ethic.
 
 **The central commitment is to cultivate the reader's, listener's, viewer's, and participant's capacity to recognize and choose their relationship to offered perspectives.** Openness values the possibility of stepping back without demanding that everyone perform the same analysis, arrive at the same judgment, or accept Openness's account of the encounter. The capability can be developed, used, neglected, or questioned; its exercise does not guarantee correctness or freedom from consequences.
 
@@ -67,7 +67,7 @@ The appropriate degree of disclosure varies. A novel may openly invite readers i
 
 Openness **does** adopt a specific *editorial convention* for its formal definitions: first consequential perspective shifts are to be made recognizable, and the preferred high-precision *imaginal-intersubjective-reality* (i.e., [**Reality**](../definitions/defining_real_and_reality.md)) is normally introduced before the compressed capitalized term. This is a rule for the accuracy of Openness's own technical writing, not a demand that all speech everywhere follow the same convention. Its operative home is the [**Openness Definition Guidelines**](../../../guidelines/guidelines_definitions.md); [**Real and Reality**](../definitions/defining_real_and_reality.md#naming-and-usage) owns the terminology itself.
 
-The virtue of disclosure is contextual: **make an important inference inspectable without making the text unusable**. Longer phrases may be appropriate where a short form creates false certainty; a brief initial dimensionalization may permit concise ordinary language thereafter. This is [**Semantic Compression**](../../generative/definitions/defining_semantic_compression.md) joined with [**Brevity Without Loss of Essential Meaning**](../../generative/definitions/defining_brevity_without_loss_of_essential_meaning.md).
+The virtue of disclosure is contextual: **make an important inference inspectable without making the text unusable**. Longer phrases may be appropriate where a short form creates false certainty; a brief initial dimensionalization may permit concise ordinary language thereafter. This is [**Semantic Compression**](../../generative/capabilities/writing/definitions/defining_semantic_compression.md) joined with [**Brevity Without Loss of Essential Meaning**](../../generative/capabilities/writing/definitions/defining_brevity_without_loss_of_essential_meaning.md).
 
 ## Persuasion, Propaganda, and the Freedom to Name
 
@@ -111,7 +111,7 @@ Nor can the recognition that labels are contestable be used to make evidence per
 
 A group can be named, can act through recognized practices, can develop consensus, and can remain internally divided. An institution's official statement is not automatically a report of every member's private experience. A survey result, majority vote, unanimous recorded resolution, and claim about *what everyone knows* are not interchangeable.
 
-This matters especially when a public-world account is represented from an apparently collective vantage. A reader may understand the offered account while distinguishing the actual constituency, its authorized speakers, the evidence for consensus, and any voices that are absent or dissenting. A group may be modeled functionally through [**The Mind**](../definitions/defining_the_mind.md) without requiring a conclusion that it possesses one [**Awareness**](../../generative/core/definitions/defining_awareness.md).
+This matters especially when a public-world account is represented from an apparently collective vantage. A reader may understand the offered account while distinguishing the actual constituency, its authorized speakers, the evidence for consensus, and any voices that are absent or dissenting. A group may be modeled functionally through [**The Mind**](../definitions/defining_the_mind.md) without requiring a conclusion that it possesses one [**Awareness**](../../foundational/capabilities/projecting/definitions/defining_awareness.md).
 
 Openness values careful representation of others, particularly when a summary may affect their standing, opportunities, or safety. This aspiration is not a rule that every group statement must enumerate every member or that dissent always invalidates institutional decisions. Specific contexts differ. Readers retain their freedom to investigate and assess those choices rather than inherit a predetermined verdict from this ethics.
 
@@ -123,7 +123,7 @@ A person may nevertheless choose not to affirm an offered account. Openness does
 
 The ethic distinguishes inward assent, publicly stated judgment, voluntary association, and outward action. A person's freedom to consider an interpretation does not settle obligations to others when acting on it. Questions of consent, confidentiality, reliance, shared resources, institutional authority, and harm may require additional ethical and practical evaluation.
 
-Openness welcomes [**Discernment**](../definitions/defining_discernment.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), and [**Epistemic Hospitality**](../../generative/definitions/defining_epistemic_hospitality.md) without requiring readers to manufacture doubt about strong evidence or resolve every question before acting.
+Openness welcomes [**Discernment**](../definitions/defining_discernment.md), [**Epistemic Groundedness**](../../generative/capabilities/grounding/definitions/defining_epistemic_groundedness.md), and [**Epistemic Hospitality**](../../foundational/capabilities/cultivating/definitions/defining_epistemic_hospitality.md) without requiring readers to manufacture doubt about strong evidence or resolve every question before acting.
 
 ## A Noncompulsory Toolkit for Reader Agency
 
@@ -190,7 +190,7 @@ My willingness to listen need not imply adopting the explanation; their freedom 
 
 I read an AI-generated summary: “Experts agree that this policy has no disadvantages.” The wording may flatten multiple disciplines, assumptions, and disputed outcomes into one perspective. I can inquire what evidence supports the summary and whose conclusions are included. The fact that the output came from AI neither proves manipulation nor independently validates its universal claim.
 
-I can also examine how the summary's confident tone affects my interpretation, without requiring a conclusion about the AI's subjective intentions or [**Awareness**](../../generative/core/definitions/defining_awareness.md).
+I can also examine how the summary's confident tone affects my interpretation, without requiring a conclusion about the AI's subjective intentions or [**Awareness**](../../foundational/capabilities/projecting/definitions/defining_awareness.md).
 
 ### Example — This Ethics Examines Itself
 
@@ -222,9 +222,9 @@ If its author calls a critic *closed* or *captured* simply for disagreeing, the 
 
 ## Relationship to Openness
 
-**G — Generative Openness.** Art, narratives, images, and [**Resonant Questions**](../../generative/definitions/defining_resonant_questions.md) can offer unfamiliar viewpoints with great imaginative power. **Nonimposition** supports the aspiration to make participation and assent free rather than covertly manufactured.
+**G — Generative Openness.** Art, narratives, images, and [**Resonant Questions**](../../generative/capabilities/writing/definitions/defining_resonant_questions.md) can offer unfamiliar viewpoints with great imaginative power. **Nonimposition** supports the aspiration to make participation and assent free rather than covertly manufactured.
 
-**P — Philosophical Openness.** The ethics is a companion to the five conceptual definitions in this family. [**The Ethics of Closedness**](ethics_of_closedness.md), [**Epistemic Groundedness**](../../generative/core/definitions/defining_epistemic_groundedness.md), [**Blind Certainty**](../core/definitions/defining_blind_certainty.md), and [**Suspending Judgment**](../core/definitions/defining_suspending_judgment.md) provide related but independently stewarded considerations.
+**P — Philosophical Openness.** The ethics is a companion to the five conceptual definitions in this family. [**The Ethics of Closedness**](ethics_of_closedness.md), [**Epistemic Groundedness**](../../generative/capabilities/grounding/definitions/defining_epistemic_groundedness.md), [**Blind Certainty**](../core/definitions/defining_blind_certainty.md), and [**Suspending Judgment**](../core/definitions/defining_suspending_judgment.md) provide related but independently stewarded considerations.
 
 **S — Spiritual Openness.** Listening, care, spiritual testimony, vulnerability, and choosing can involve strong invitations to inhabit another person's interpretation. No one individual's first-person encounter becomes another person's obligatory belief merely by being deeply meaningful.
 
