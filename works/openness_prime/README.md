@@ -27,7 +27,7 @@ The fundamental **posture of Openness** is *being open to what is*. It is both t
 
 *Being open to what is* means aspiring to embrace our experiences of the world as we might embrace another person: with attention and benevolence, holding gently, allowing what we encounter to be as it is, so that it may *breathe*. Within this embrace, we listen intuitively for when it is time to let go, to avoid clinging beyond the end of the embrace. Openness begins with a willingness to embrace our experiences of what is encountered, whether we welcome it, resist it, or cannot yet understand it.
 
-This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of [**My Awareness**](functions/foundational/capabilities/becoming/definitions/defining_my_awareness.md), our own attention and first-person experience; while the bold, thick parts represent [**My Self**](functions/foundational/capabilities/becoming/definitions/defining_my_self.md), our own familiar embodied life. These blend together into the one encircling line.
+This posture is symbolized by the **open circle**: an imprecisely drawn, encircling line that remains open. The wispy ends of the encircling line represent the embrace of [**My Awareness**](functions/foundational/capabilities/grounding/definitions/defining_my_awareness.md), our own attention and first-person experience; while the bold, thick parts represent [**My Self**](functions/foundational/capabilities/grounding/definitions/defining_my_self.md), our own familiar embodied life. These blend together into the one encircling line.
 
 ![The open circle of Openness — an unfinished Enso](../../images/openness-enso.jpg)
 
@@ -76,14 +76,14 @@ Additionally, the other four functions provide **role-play roles** through which
 Openness Prime is still in early development. The following are sample works which are ready for preliminary review:
 
 - **Foundational**
-  - [**My Awareness**](functions/foundational/capabilities/becoming/definitions/defining_my_awareness.md)
+  - [**My Awareness**](functions/foundational/capabilities/grounding/definitions/defining_my_awareness.md)
 
 - **Generative**
   - [**Fiat Form**](functions/generative/capabilities/creating/definitions/defining_fiat_form.md) — “Let there be form…”
   - [**Fiat Anchor**](functions/generative/capabilities/creating/definitions/defining_fiat_anchor.md) — “Let there be a conceptual unity…”
 
 - **Philosophical**
-  - [**The Mind**](functions/philosophical/capabilities/recognizing/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a pattern recognized through first-person mental experience; but also perhaps more?”
+  - [**The Mind**](functions/philosophical/capabilities/projecting/definitions/defining_the_mind.md) — “Let *The Mind* be at least this: a pattern recognized through first-person mental experience; but also perhaps more?”
     - Recommended exemplar definition which models:
       - [**Epistemic Remembering**](functions/generative/capabilities/creating/definitions/defining_fiat_anchor.md#epistemic-remembering-and-the-disappearance-of-an-anchor) which reimagines the before and after of a common concept's creation
       - [**Fiat Anchor**](functions/generative/capabilities/creating/definitions/defining_fiat_anchor.md) which explicitly discloses the choices of where to "anchor" the meaning of the mind
@@ -99,7 +99,7 @@ Openness Prime is still in early development. The following are sample works whi
       - [**Preferential Inhabitation**](functions/philosophical/capabilities/inhabiting/definitions/defining_preferential_inhabitation.md) which allows a possibility to be deliberately "inhabited" without requiring belief in its ultimate truth (and perhaps later reconsidered)
       - [**Perspective-Taking**](functions/generative/capabilities/imagining/definitions/defining_perspective_taking.md) which invites readers to examine, "try on", "inhabit", or "step back" from perspectives without requiring them to adopt Openness's preferred understanding of Love
 - **Transcendent**
-  - [**That Which Is Larger (TWIL)**](functions/transcendent/capabilities/relating/definitions/defining_that_which_is_larger.md) — “Let *TWIL* be at least this: a chosen [**Mental Model**](functions/philosophical/capabilities/recognizing/definitions/defining_mental_models.md) for what exceeds our present grasp. But also perhaps more?”
+  - [**That Which Is Larger (TWIL)**](functions/transcendent/capabilities/relating/definitions/defining_that_which_is_larger.md) — “Let *TWIL* be at least this: a chosen [**Mental Model**](functions/philosophical/capabilities/projecting/definitions/defining_mental_models.md) for what exceeds our present grasp. But also perhaps more?”
     - Recommended exemplar definition which models:
       - [**Fiat Anchor**](functions/generative/capabilities/creating/definitions/defining_fiat_anchor.md) which makes the creation ot its chosen anchored meaning explicit
       - [**Anchored Ambiguity**](functions/generative/capabilities/imagining/definitions/defining_anchored_ambiguity.md) which welcomes scientific, psychological, social, spiritual or other speculations
@@ -143,11 +143,11 @@ Openness begins with [**Not-Knowing**](functions/foundational/capabilities/proje
 
 Through [**Discernment**](functions/philosophical/capabilities/discerning/definitions/defining_discernment.md), Openness examines evidence, explores possibilities, and distinguishes experience from its interpretation. Scientific, spiritual, and other perspectives remain available for inquiry, with confidence guided by their respective grounds.
 
-[**The Seed of Openness**](functions/foundational/definitions/defining_the_seed_of_openness.md) begins with three distinguishable first-person experiences: [**My Self**](functions/foundational/capabilities/becoming/definitions/defining_my_self.md), [**My Awareness**](functions/foundational/capabilities/becoming/definitions/defining_my_awareness.md), and [**My Self-Confession of Not-Knowing**](functions/foundational/capabilities/becoming/definitions/defining_my_self_confession_of_not_knowing.md)—expressed as *For I Know I Do Not Know*. Together, they offer an experiential beginning from which further understanding may unfold.
+[**The Seed of Openness**](functions/foundational/definitions/defining_the_seed_of_openness.md) begins with three distinguishable first-person experiences: [**My Self**](functions/foundational/capabilities/grounding/definitions/defining_my_self.md), [**My Awareness**](functions/foundational/capabilities/grounding/definitions/defining_my_awareness.md), and [**My Self-Confession of Not-Knowing**](functions/foundational/capabilities/becoming/definitions/defining_my_self_confession_of_not_knowing.md)—expressed as *For I Know I Do Not Know*. Together, they offer an experiential beginning from which further understanding may unfold.
 
 The five functions of Openness—**Foundational, Generative, Philosophical, Spiritual, and Transcendent**—complement and inform one another, opening possibilities for further understanding, creation, and becoming.
 
-[**Nonimposition**](functions/foundational/capabilities/cultivating/definitions/defining_nonimposition2.md) aspires to give the world the greatest possible latitude to be as it is. [**Self-Honesty**](functions/foundational/capabilities/cultivating/definitions/defining_self_honesty.md) and [**Discernment**](functions/philosophical/capabilities/discerning/definitions/defining_discernment.md) guide our understanding and responses. This embrace includes ourselves: each person remains **sovereign of their own mind**, free to cultivate their own preferences, establish boundaries, protect what matters, decide and act when necessary, and perhaps, once again return to *being open to what is*.
+[**Nonimposition**](functions/foundational/capabilities/allowing/definitions/defining_nonimposition.md) aspires to give the world the greatest possible latitude to be as it is. [**Self-Honesty**](functions/foundational/capabilities/cultivating/definitions/defining_self_honesty.md) and [**Discernment**](functions/philosophical/capabilities/discerning/definitions/defining_discernment.md) guide our understanding and responses. This embrace includes ourselves: each person remains **sovereign of their own mind**, free to cultivate their own preferences, establish boundaries, protect what matters, decide and act when necessary, and perhaps, once again return to *being open to what is*.
 
 ## Coda
 
