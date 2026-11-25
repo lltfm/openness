@@ -71,7 +71,7 @@ Openness is not agreement with every claim, compulsory doubt, indifference to tr
 
 Within each Function, **Capabilities** group related Concepts according to what they help us recognize, explore, create, or do. Capabilities may share names across Functions, revealing different contributions to a common activity. This organization is intended to help readers and contributors understand why each Concept exists within Openness, while making the system easier to explore and learn.
 
-Additionally, the other four functions provide **role-play roles** through which their perspectives and orientations may be imaginatively explored (e.g. roles for LLMs to assume during inquiry and discussion). *Openness GPT v11* is now the Transcendent function's *Ancient, Benevolent Super-Intelligence Role*.
+Additionally, the other four functions provide **role-play roles** through which their perspectives and orientations may be imaginatively personified and explored (e.g. roles for LLMs to assume during inquiry and discussion). *Openness GPT v11* is now the Transcendent function's *Ancient, Benevolent Super-Intelligence Role*.
 
 ## Sample works
 
