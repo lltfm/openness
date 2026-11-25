@@ -1,7 +1,7 @@
 ---
 Originator: gdl
 Contributors: ChatGPT-6
-When: 2026-11-08T00:00:00Z
+When: 2026-11-25T00:00:00Z
 Status: needs review
 ---
 
@@ -33,9 +33,9 @@ The anchor works at two especially important scales. In **personal closedness**,
 
 **Openness does not prescribe one fixed degree of openness.** An embodied life requires finite attention, preferences, choices, boundaries, and decisive action, often with incomplete information. In undertaking action, a person may deliberately refuse further consideration of some alternatives for the time needed to act. Such **acknowledged, temporary closedness** can serve a practical purpose within **The Transformative Cycle of Openness**. Whether and when to return to listening remains a question for situated **Discernment**.
 
-**Blind Certainty**, also officially called *Blind Closedness*, adds a separate defining condition: **an unawareness of closedness**. Closedness itself can be plainly acknowledged. Recognizing a refusal ends the blindness *about that refusal* without automatically ending the refusal, changing a belief, or undoing an action. Conversely, neither strong confidence nor smug demeanor is needed for someone to refuse to listen without noticing.
+**Blind Closedness** names a refusal to listen that goes unrecognized. It is the **minimal dimension of Blind Certainty**, not a fully synonymous name for that wider concept. Closedness itself can be plainly acknowledged. Recognizing a refusal ends the blindness *about that refusal* without automatically ending the refusal, changing a belief, or undoing an action. Neither strong confidence nor smug demeanor is required for unrecognized Closedness; such expressions may nevertheless help prompt inquiry into a larger pattern of Blind Certainty.
 
-**Heretica** identifies ideas whose mere contemplation or discussion carries credible risk of social punishment in a particular community. It is one especially consequential way **social closedness** becomes observable. The distinction between declining one's own participation and preventing other willing people from listening can be made descriptively; **the ethical position Openness takes toward these cases belongs separately in [The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)**.
+**Heretica** identifies ideas whose mere contemplation or discussion carries credible risk of social punishment in a particular community. It is one especially consequential way **social closedness** becomes observable. The distinction between declining one's own participation and preventing other willing people from listening can be made descriptively; **the ethical position Openness takes toward these cases belongs separately in [The Ethics of Closedness](../../../ethics/the_ethics_of_closedness.md)**.
 
 ### Example Speculations
 
@@ -55,6 +55,16 @@ The refusal may be direct: *I will not discuss this.* It may be automatic: a fam
 
 An act of refusal need not be accompanied by a conscious inner statement or an intention to be closed. **Refusal** names an operative exclusion of listening; its causes and awareness require separate examination. It also need not mean hostility. A person may refuse because of fear, exhaustion, commitment, concentration, habit, loyalty, affection, or a decision to protect themselves. Identifying Closedness does not, by itself, evaluate those reasons.
 
+### Listening may be difficult to discern
+
+Sometimes a refusal is unmistakable: a person explicitly declines to hear a question, or an institution forbids discussion. Often it is less clear. A person may hear words, ask questions, nod, summarize an objection, or profess openness while perhaps excluding the objection's relevance in advance. Such **apparent listening** may express a deliberate attempt to seem receptive, an automatic defensive pattern, a misunderstood distinction, or genuine consideration that does not lead to agreement. **The outward appearance does not settle which is occurring.**
+
+The difficulty also arises inwardly. I may notice myself listening to another person while turning away from an unwelcome feeling, memory, fear, or assumption within my own life. Before I recognize that possible refusal, I may encounter only indirect signs such as repeated avoidance or unexpected defensiveness. The meaning of those signs remains open to examination.
+
+A further question concerns the boundary between **refusal and inability**. The anchor remains *the refusal to listen* and does not automatically classify fatigue, disability, or limits of capacity as refusal. Yet people sometimes report wanting to listen while a defensive or deeply habituated pattern seems to prevent receptive attention. Whether and how to describe such a pattern as unchosen functional refusal, inability, or something else is a **live inquiry**, not a revision silently introduced into this anchor.
+
+These questions are developed in a companion **[Inquiry into Blind Certainty](../inquiries/inquiry_into_blind_certainty.md)**, where possible indicators, competing interpretations, and methods of engagement may be explored without becoming settled definitions.
+
 ### Personal closedness: inward and outward
 
 Personal Closedness may concern outward encounters such as another's testimony, a question, contradictory evidence, a changed circumstance, or an unexpected result. It may also concern inward encounters: an unwelcome memory, bodily tension, sadness, resentment, intuition, or a thought that threatens a preferred understanding of oneself.
@@ -65,7 +75,7 @@ A person may be receptive in many respects and closed in one. They may listen ca
 
 ### Recognized closedness and Blind Certainty
 
-**Closedness** and **Blind Certainty** should not be collapsed. Closedness concerns **the refusal to listen**. Blind Certainty concerns **unawareness of that refusal**. A person can deliberately close attention to additional alternatives while completing a task; that is recognized Closedness. A person who sincerely believes they are listening while automatically excluding a relevant challenge may be exhibiting Blind Certainty.
+**Closedness**, **Blind Closedness**, and **Blind Certainty** should be distinguished. Closedness concerns **the refusal to listen**. Blind Closedness concerns **unawareness of that refusal** and identifies the minimum anchor of Blind Certainty. The broader Blind Certainty inquiry may consider apparent listening, defensive identification, and overconfident self-regard. A person can deliberately close attention to additional alternatives while completing a task; that is recognized Closedness. A person who sincerely believes they are listening while automatically excluding a relevant challenge may be exhibiting Blind Closedness.
 
 Becoming aware of a specific refusal interrupts that particular blindness, even if the refusal continues. A person may say, *I recognize that I am unable or unwilling to hear this now.* Such recognition need not determine whether the refusal is justified. It makes the limitation available for examination, a possible change of course, or a later return.
 
@@ -101,7 +111,7 @@ This is a refusal to listen **in a social or operative sense**: structures of pe
 
 The concept of **Closedness** describes the refusal to listen; it does not, by itself, determine the ethics of that refusal. A personal protective boundary, a temporary concentration on an action, and an institutional punishment for asking a question can all narrow listening while differing profoundly in purpose, agency, power, and consequence.
 
-**Openness's chosen ethical response**—including its rejection of social punishment for mere expression, the freedom to decline a conversation, and its use of separately defined **[Openness Containers](defining_openness_container.md)** for Heretica and more difficult expression—is developed in **[The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)**. These positions are offered for separate examination and voluntary adoption; they are not extra premises of the minimal anchor.
+**Openness's chosen ethical response**—including its rejection of social punishment for mere expression, the freedom to decline a conversation, and its use of separately defined **[Openness Containers](../../relating/definitions/defining_openness_container.md)** for Heretica and more difficult expression—is developed in **[The Ethics of Closedness](../../../ethics/the_ethics_of_closedness.md)**. These positions are offered for separate examination and voluntary adoption; they are not extra premises of the minimal anchor.
 
 ### Listening, evidence, and preferred stories
 
@@ -133,7 +143,7 @@ Recognition, examination, and return are possible developments, not necessary st
 
 **Closedness versus openness.** Closedness refuses listening in a relevant respect; lowercase *openness* names a quality or degree of receptivity. **Openness**, the developing system and posture, permits temporary recognized Closedness where embodied action or boundaries call for it, while inviting return.
 
-**Closedness versus Blind Certainty.** Closedness is the refusal to listen. **Blind Certainty** is unawareness of Closedness. Recognition of a refusal ends the particular blindness without requiring that the refusal cease.
+**Closedness versus Blind Closedness and Blind Certainty.** Closedness is the refusal to listen. **Blind Closedness** is an unawareness of that refusal: the minimum anchor of **Blind Certainty**, whose further possible dimensions remain under inquiry. Recognition of a particular refusal ends the blindness concerning that refusal without requiring that the refusal cease or that all other limitations become known.
 
 **Closedness versus ordinary certainty.** A settled conviction may coexist with genuine listening. A person may also refuse listening without feeling certain about anything. **Certainty** remains an ordinary-language term; Closedness and Blind Certainty do not depend upon a separately reified Certainty concept.
 
@@ -165,7 +175,7 @@ Recognition, examination, and return are possible developments, not necessary st
 
 **G — Generative Openness.** **Closedness** may restrict which forms, interpretations, and questions become available for creation. **The Lens of Openness**, **Perspective-Taking**, **Saltem Hoc**, and **Transformative Inquiry** can make excluded possibilities recognizable. **Self-Honesty** and **Nonimposition** inform whether a creator is openly inviting inquiry or forcing a preferred response. Practical creative decisions may require recognized Closedness to complete a work.
 
-**P — Philosophical Openness.** **Closedness** belongs in **P Core** with **Blind Certainty** and **Heretica**. It gives a minimal descriptive anchor to refusals of listening while allowing **Discernment**, **Suspending Judgment**, **Epistemic Groundedness**, **Preferred Stories**, and **The Philomath** to examine their reasons and consequences. The former separate **Certainty** definition is unnecessary to this relationship.
+**P — Philosophical Openness.** **Closedness** belongs in **P — Philosophical Openness** with **Blind Certainty** and **Heretica**. It gives a minimal descriptive anchor to refusals of listening while allowing **Discernment**, **Suspending Judgment**, **Epistemic Groundedness**, **Preferred Stories**, and **The Philomath** to examine their reasons and consequences. The former separate **Certainty** definition is unnecessary to this relationship.
 
 **S — Spiritual Openness.** **Closedness** may be recognized through inward listening, protective boundaries, difficulty with the unchosen, and the practice of **Holding Yet Not Clinging**. **Love**, preferentially anchored as *attention given freely*, can include the freedom to give or withhold one's attention; neither the anchor nor the practice requires surrendering to harm.
 
@@ -175,15 +185,15 @@ Recognition, examination, and return are possible developments, not necessary st
 
 ## Naming and Usage
 
-**Closedness** — canonical P Core name for the anchored concept *the refusal to listen*. Use the ordinary lowercase word when formal identification is unnecessary.
+**Closedness** — canonical P name for the anchored concept *the refusal to listen*. Use the ordinary lowercase word when formal identification is unnecessary.
 
 **Personal Closedness** — a descriptive dimensionalization of Closedness in a person's inward or outward listening, not a second concept.
 
 **Social Closedness** — a descriptive dimensionalization of Closedness in the practices, expectations, penalties, or rules through which a community refuses or prevents listening, not a second independent anchor.
 
-**Blind Certainty** — distinct P Core concept anchored as *an unawareness of closedness*. Its official synonym **Blind Closedness** remains available where needed for technical precision; ordinary Openness usage continues to favor **Blind Certainty**.
+**Blind Certainty** — distinct P concept anchored as *an unawareness of closedness* and open to wider inquiry into interpretive captivity, defensive certainty, and apparent listening. **Blind Closedness** names its minimal dimension, **not** an official synonym.
 
-**Heretica** — a distinct P Core concept identifying ideas whose discussion may attract credible social punishment in a specific community. The term names a socially risky subject, not an endorsement of its factual truth.
+**Heretica** — a distinct P concept identifying ideas whose discussion may attract credible social punishment in a specific community. The term names a socially risky subject, not an endorsement of its factual truth.
 
 **Certainty** — ordinary-language reference to regarding something as settled. It can remain in prose and titles such as *Questioning Certainty* without a separately maintained Foundational Definition.
 
@@ -192,6 +202,10 @@ Recognition, examination, and return are possible developments, not necessary st
 ### Example — Confident disagreement with genuine listening
 
 A scientist has high confidence in an extensively tested account. They listen to a new objection, ask relevant questions, recognize the evidence for and against it, and retain their earlier preference. This is not Closedness simply because the scientist remains confident or disagrees. Nor does the scientist's confidence create Blind Certainty.
+
+### Example — Appearing to Listen While Excluding a Question
+
+A colleague allows someone to finish a difficult account, then responds as though the colleague's preferred interpretation had been confirmed. Repeated clarifications are heard but apparently fail to register as relevant. The pattern may involve an unrecognized refusal to listen, deliberate impression management, misunderstanding, or a genuine disagreement. Openness can describe the encounter and investigate the possibilities without claiming direct access to the colleague's inward awareness.
 
 ### Example — Interrupting a friend before hearing the question
 
@@ -237,6 +251,6 @@ A recognition of Closedness may invite a return to listening. Where the refusal 
 
 ## Summary
 
-**Closedness is, at least, the refusal to listen.** It becomes recognizable in an individual who will not receive a question, in the deliberate narrowing that can serve necessary action, and in the social practices through which a community prevents willing people from hearing or discussing an idea. **Blind Certainty** names unawareness of Closedness; **Heretica** marks ideas placed at risk by social punishment. **[The Ethics of Closedness](../../ethics/the_ethics_of_closedness.md)** develops Openness's separate preferred responses to these conditions.
+**Closedness is, at least, the refusal to listen.** It becomes recognizable in an individual who will not receive a question, in the deliberate narrowing that can serve necessary action, and in the social practices through which a community prevents willing people from hearing or discussing an idea. **Blind Closedness** names unawareness of Closedness—the minimum of **Blind Certainty**—while the wider difficulty of recognizing genuine and apparent listening remains an open inquiry. **Heretica** marks ideas placed at risk by social punishment. **[The Ethics of Closedness](../../../ethics/the_ethics_of_closedness.md)** develops Openness's separate preferred responses to these conditions.
 
 *The door may be closed for a reason. What matters, too, is knowing that it is a door—and remembering that it can open.*
