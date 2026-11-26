@@ -1,3 +1,10 @@
+---
+Originator: gdl
+Contributors: ChatGPT-6
+When: 2026-11-05T00:00:00Z
+Status: needs review
+---
+
 # Perspective-Taking
 
 ## Prelude
