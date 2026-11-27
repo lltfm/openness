@@ -13,266 +13,214 @@ Status: needs review
 
 *We speak of its waters, but the banks give our words somewhere to stand.*
 
-*And even the banks change.*
+*But over time, even the riverbanks change.*
 
 ## Foundational Definition
 
 What is **River-Truth**?
 
-**At least this**: the ever-unfolding truth of what is, encountered from situated perspectives and timescales, which words and conceptual forms may meaningfully indicate but never finally contain.
+**At least this**: the ever-unfolding truth of what is as encountered through **Awareness**, which our situated words and conceptual forms may meaningfully indicate but never finally contain.
 
 *But also perhaps more?*
 
-**River-Truth** is a **Fiat Anchor** with **Anchored Ambiguity**. It gives Openness a way to recognize a relationship that can be easy to forget: we encounter an unfolding world, yet must use words, boundaries, numbers, stories, and other forms to understand and share what we encounter. Those forms can be precise and useful without being the unfolding itself. Their applications remain situated, and even their apparently dependable boundaries may change.
+**River-Truth** is a **Fiat Anchor** with **Anchored Ambiguity**, expressing a **Precise Ambiguity** between the unfolding of what is and the necessarily partial forms through which it becomes recognizable. Its name does not decide whether the unfolding as experienced through Awareness can ultimately be distinguished from an unfolding independent of Awareness. What we encounter and what we make of it remain distinguishable for inquiry without presuming an unmediated view beyond every standpoint.
 
-The name deliberately **forms a Precise Ambiguity** to express the truth of living and becoming things across perspectives. *Truth* names the unfolding of what is rather than merely the statements we make about it; nevertheless, our access to that unfolding is always from some standpoint, through some manner of experiencing, distinguishing, or expressing. The river image holds both the necessity of these forms and their limits without pretending to resolve every question of identity or continuity. It is not a claim that everything is literally water, that every observation is accurate, or that any proposed interpretation deserves equal confidence.
+In this definition, **River-Truth** names the unfolding; an expressed *truth* is a situated understanding of that unfolding, given recognizable form through words, definitions, observations, models, or other representations. Truths may be accurate and useful for their purposes without finally containing River-Truth. They can be examined, refined, and revised as what is encountered, the standpoint, or the form itself changes.
 
 ### Example Speculations
 
-- Perhaps **River-Truth** can be recognized most readily in a living thing whose familiar name remains useful while its body, relationships, and boundaries transform through time?
-- Or perhaps the most consequential limitations of a concept become visible not at its familiar center but at its beginnings, endings, edges, and unusual applications?
-- Or perhaps changes of spatial, temporal, cultural, or professional perspective reveal forms and relationships previously unavailable to us, without requiring that every perspective be equally illuminating?
-- Or perhaps bodily feeling, grief, love, or the **river-truth of tears** discloses something immediately recognizable before any words can faithfully express what it means?
-- Or perhaps some forms become so dependable in familiar use that we stop noticing the choices involved in applying them, mistaking a useful riverbank for the river itself?
-
-These are invitations for further inquiry, not additional necessary conditions of the anchor.
+- Perhaps an apple is more than the familiar fruit I hold?
+- Perhaps a river tells a different story when watched for a moment or a lifetime?
+- Perhaps returning to what I encounter will change a word I thought I understood?
 
 ## The Definition Unfolded
 
-### The river and its banks
+### The river and the riverbanks of words
 
-In the image offered by the **Epitome of Not-Knowing**, truth is a river: moving, changing, and never exhausted by what we say about it. We may encounter its flow immediately, while its description remains indefinitely developable. What can be sensed, experienced, or noticed is not therefore fully understood. What can be said is not necessarily all that can be encountered.
+In the **Epitome of Not-Knowing**, truth is a river: encountered in its unfolding, yet never exhausted by our descriptions. Its changing waters suggest what is experienced before we can fully explain it, and what continues beyond any single explanation.
 
-**The riverbanks** suggest the comparatively recognizable distinctions by which we orient ourselves: the edges of a river, the beginning or end of a thing, the criteria of a name, the terms of an explanation, the boundaries of a category. Our words fit the unfolding most faithfully when they attend to such recognizable distinctions rather than pretend to arrest and reproduce every movement of the river itself.
+**The riverbanks are the definitions of our words**: the boundaries through which we give something recognizable form. To call something an *apple*, a *river*, a *Self*, or an *atom* is to draw or inherit a boundary that permits recognition, explanation, counting, and communication. The bank is not a separate store of final truth beside the river. It is a way of meaningfully indicating what unfolds.
 
-A bank is not the water. A word is not the thing it indicates. A definition is not the whole of what may unfold from the subject it helps us recognize. Yet the banks are not forever fixed outside the river. They erode, accumulate, shift, divide, and disappear; the very distinctions that once served an understanding may later require reconsideration.
+A word tends to serve us best when its definitional boundary answers to recognizable relationships in what is encountered, rather than attempting to fix the whole of an unfolding within one form. Its criteria can be deliberately chosen through **Fiat Anchor**, refined through use, and examined through **Discernment**. A useful definition need not be arbitrary; the experiences and practices to which it is applied can challenge its fitness.
 
-The analogy should not be forced into a literal division between a static, conceptual bank and a changing, physical river. In an actual river, water and banks interact. Within the metaphor, the banks stand for boundaries useful to understanding, *including boundaries that belong to what we encounter and boundaries we deliberately choose*. Their degree of stability depends in part on standpoint and timescale.
+The banks themselves change. An inherited meaning may gain or lose applications. A chosen boundary may cease to describe what it once described well. A change in perspective or timescale may reveal distinctions that the earlier form concealed. A stable word does not require a permanently stable definition, and a precise definition does not claim to be the entire river.
 
-**River-Truth** does not recommend abandoning names because they are incomplete. It recommends remembering *what our names do*: they point, distinguish, coordinate, and sometimes permit remarkable precision, without gaining authority to define the final extent of what is.
+### River-Truth and expressed truths
 
-### Naming a becoming thing: the life of an apple
+**River-Truth** continues unfolding. We develop *truths*—accounts, descriptions, explanations, definitions, and sometimes strongly supported conclusions—to understand something of that unfolding for recognizable purposes. These truths need not be false because they are provisional. A faithful form can express what has become recognizable within a given scope, while remaining open to what further encounter may reveal.
 
-An apple seems an ordinary thing to name. We can hold it, eat it, sell it, paint it, count it, and distinguish it from a pear. Yet consider its life through time.
+Three changes are worth distinguishing:
 
-Is the apple present in the bud? In the blossom? When the fruit first begins to form? While it is small and hard? When it ripens? After it is picked? When it is bruised, cut, cooked, eaten, or decomposed? When its seeds remain in the world? When a seed grows into another tree, and its descendants contribute to an orchard?
+- **What is encountered changes**: a fruit ripens, a river shifts course, a person becomes different.
+- **The standpoint changes**: we attend from another place, profession, relationship, or timescale; what becomes recognizable may differ even where the referent has not changed in the same way.
+- **Our conceptual form changes**: a name, definition, model, or standard is revised to express new distinctions or serve a different purpose.
 
-These questions need not have one answer independent of the purpose and standpoint from which *apple* is being used. The transformations occur whether or not we agree about the word. Our questions concern which phases, relations, and continuities a particular use of the name gathers into a recognizable form.
+These changes can occur separately or together. An old form may remain apt; another may become misleading. **Blind Certainty** may conceal our own failure to notice an inadequate form, while **Closedness** may refuse relevant encounters that could bring the inadequacy to attention. Neither is established merely because someone retains a precise definition or a durable preference.
 
-Different practices may establish different, intelligible boundaries:
+### The apple: a familiar name across becoming
 
-| Standpoint or practice | What may be called or counted an apple | Where its boundary matters |
+I hold an apple and recognize it immediately. But when did it begin to be an apple? As a bud, a blossom, a developing fruit, or only as a mature fruit? When does it cease to be an apple: at harvest, when it is cut or eaten, after it decays, or when its seeds contribute to another tree?
+
+The name remains useful, but its application gathers different phases and relationships into one recognizable form. The becoming does not wait for us to settle the name. Different practices can make different, intelligible distinctions:
+
+| Standpoint or practice | Relevant use of *apple* | Why the boundary matters |
 |---|---|---|
-| **Botany** | The developing fruit and its botanical structures, distinguished from bud, blossom, seed, and tree | Development, reproduction, and the identifying criteria for a fruit |
-| **Orchard growing** | A fruit at stages such as fruit set, growth, ripeness, harvest, and loss | Whether it should be tended, thinned, harvested, or left to develop |
-| **Grocery trade** | An item that qualifies for a particular inventory, grade, or sale category | When it becomes a saleable unit, is downgraded, or is removed from stock |
-| **Cooking** | A whole apple, a portion, or an ingredient transformed into another dish | Which preparations and quantities a recipe calls for |
-| **Nutrition** | A quantity of edible material entering digestion and metabolism | The relevant mass, composition, and transformations after eating |
-| **Ecology** | A fruit, decomposing matter, seeds, and relationships to other organisms and future growth | How matter and life continue beyond the familiar fruit's identity |
-| **Art and ordinary life** | A recognizable shape, color, taste, memory, symbol, or experience | What makes this portrayal or encounter *apple-like* to someone |
+| **Botany** | A fruit and its structures during development | Distinguishing flower, fruit, seed, and reproductive stages |
+| **Orchard growing** | A fruit as it sets, develops, ripens, and is harvested | Decisions about tending, thinning, and harvesting |
+| **Grocery trade** | A unit meeting an inventory or sale category | Counting, grading, and handling stock |
+| **Cooking** | A fruit, portion, or ingredient in a preparation | Recipes, quantities, and transformations |
+| **Nutrition** | Edible material and its changing composition | Amount consumed and what enters metabolism |
+| **Ecology** | Fruit, residue, seeds, decomposers, and further growth | Material relationships continuing beyond the intact fruit |
+| **Art and ordinary life** | A recognizable appearance, taste, memory, or symbol | What makes a portrayal or experience *apple-like* |
 
-These uses are neither wholly arbitrary nor mutually interchangeable. They are constrained by what is encountered and by their own chosen criteria. A grower can be mistaken about ripeness; a grocer can miscount an inventory; a botanist can correct a classification. Different boundaries do not make every description equally appropriate.
+These uses do not establish seven separate natural apples, nor are they equally appropriate for every question. They make different relationships recognizable. **Ish-ness** can examine the fit of an instance with a chosen form; **Dimensionalization** can make further aspects of the apple's becoming available; **Precise Ambiguity** can state what has been stipulated, encountered, inferred, or left unsettled.
 
-The apple example reveals a distinctive difficulty of **beginning and ending**. An individual fruit can cease to qualify as a whole apple for one purpose, while its matter and relations continue through digestion, decay, seed dispersal, and new growth. To call the eventual tree or orchard *the same apple* might be a productive imaginative extension, a description of lineage, or an inappropriate literal claim, depending on the intended meaning.
+Even after the whole fruit is eaten, its material and consequences continue while the name *apple* may no longer apply in its ordinary sense. Calling a future tree or orchard *the same apple* might illuminate lineage or continuity as an analogy without automatically satisfying the familiar definition of a fruit.
 
-**Ish-ness** examines degrees and kinds of fit with the conceptual form *apple*. **Dimensionalization** makes temporal development, material continuity, reproductive lineage, culinary use, and economic identity distinguishable. **Precise Ambiguity** lets us say exactly which boundary is established for a task and which deeper identity questions remain open. **Discernment** continues examining how our terms serve or distort what we encounter.
+### The river's course and perspectival time
 
-### The river's beginning, course, and end
+Where does a river begin: at a spring, an upstream tributary, a snowfield, or a wider watershed? Where does it end: at a confluence, an estuary, a sea, or through water's further movements? A name and map can identify a river successfully even while questions about its origins and boundaries remain.
 
-We can likewise ask: Where, exactly, does a river begin? At a named spring, a mountain snowfield, a tributary, the first channel visible on a map, or within a wider watershed? Where does it end—at a confluence, a delta, an estuary, the sea, or through evaporation and a continuing water cycle?
+The banks of an actual river may seem enduring during an afternoon and change visibly across years. The apparent pace of its flowing is encountered through familiar human timescales. Slow-motion playback may disclose brief swirls; time-lapse presentation of observations made across months may disclose shifts in channels and banks. A change in playback does not itself change the recorded physical event. It can change what becomes recognizable from that temporal perspective.
 
-A river may have a well-defined source and mouth under a particular mapping convention, without those conventions exhausting its material and relational history. A channel can branch and rejoin. A river may change course. Banks that appear stable over an afternoon may erode across seasons or years.
+The metaphorical banks of definitions can similarly appear stable under one purpose and require revision under another. **Perspectivity** and **Perspective-Taking** help us notice the standpoint; **Discernment** examines how well our understanding continues to fit what becomes available.
 
-The usefulness of names is not defeated by this complexity. Navigation, hydrology, ecology, local memory, and law may each depend upon clear boundaries. The question is whether a boundary is understood *as a boundary selected or recognized for a purpose*, or quietly mistaken for the complete identity of the unfolding it describes.
+### Numbers and the application of abstract forms
 
-### Perspective and the timescale of truth
+Within a chosen mathematical system, numbers and formal relations can be exact. The abstract meanings of **one** and **zero** do not depend upon the ripening of an apple. But applying those forms to what is encountered requires specifying what counts as a unit, which changes preserve that unit, and the relevant place and time.
 
-A river seems to flow at an ordinary pace because our embodied experience has a familiar temporal scale. What looks like a continuous blur may reveal transient vortices when recorded and viewed in slow motion. What appears relatively unchanged in one visit may reveal shifting channels or moving banks when observations across months or years are viewed as a time lapse.
+A basket holds **one whole apple**. The fruit is cut into **two pieces**. Later, after the pieces have been eaten, there are **zero whole apples in the basket**. These statements can all be accurate. The unit and the situation have changed; the mathematical relationships need not have changed with them.
 
-Slowing or accelerating a **recording** changes the time presentation available to an observer, not the actual speed at which the recorded river flowed. Yet that altered presentation can make relationships recognizable that were difficult to notice at an ordinary rate. Similarly, an aerial view, a view from the bank, and an underwater view may make different patterns accessible.
+We do not find a freestanding mathematical **one** or **zero** hanging from a tree. We recognize or choose what to count and apply an abstract form to that distinction. The number zero in a statement about the basket does not imply that all matter, memory, or consequence associated with its former apple has ceased to exist.
 
-Thus the boundaries and regularities we encounter are partly **perspectival in time**. A seemingly fixed object may become a process when examined across its lifecycle. A seemingly chaotic movement may disclose a recognizable pattern when examined at another scale. No such change of perspective guarantees a complete or final view.
+The same relationship arises when applying ideal geometric shapes, formal categories, models, and measurements. Their abstract precision may be valuable; their worldly application requires criteria, standards, observations, and tolerances. The limitations of a particular application do not, by themselves, invalidate the abstract form.
 
-This is not simply a difference between correct and incorrect observation. A description may be appropriate within its stated timescale and inadequate when silently applied beyond it. **Perspective-Taking** and **Perspectivity** help reveal the standpoint. **Discernment** examines what that standpoint makes available, and what it may conceal.
+### Returning to River-Truth
 
-### Numbers, abstraction, and counting what unfolds
+A familiar form may cease to fit what it once helped us recognize. **Returning to River-Truth** means returning attention to what is encountered, rather than allowing an inherited or preferred definition to settle in advance what can be discovered.
 
-Numbers can appear to offer an escape from the instability of naming. Within an abstract mathematical system, **one**, **zero**, and their relationships can be defined and reasoned about with exactness. Their formal validity does not depend on whether an apple is ripe or a river changes course.
+**Experiential Derivation** makes this return more examinable. It traces a Concept's identifying meaning through recognizable experiential beginnings and the abstractions, projections, and chosen boundaries developed from them. A reader may revisit the derivation through their own experiences and ask: *What can I recognize? What has been added or assumed? What does this form illuminate? What may it have missed? Does its application still fit?*
 
-But when numbers are **applied to what is encountered**, a correspondence must be established. What is being counted? What qualifies as one unit? At what moment? Under which criteria? What is regarded as the same thing across a change? What conditions would justify counting none?
+The reader's encounter may support the established form, reveal a limitation, suggest a different derivation, or expose a question that cannot yet be answered. Returning does not guarantee a standpoint free of interpretation, nor does it require revision whenever a novel possibility is imagined. **Self-Honesty**, **Discernment**, and **Suspending Judgment** keep both fidelity and limits available for examination. Where a Concept's identifying meaning needs to change, **Conceptual Revision** permits a deliberate new form rather than an unnoticed shift in its anchor.
 
-A basket may contain **one apple** before it is cut. Afterward it may contain **two pieces**, perhaps still understood as the portions of **one apple**. After the pieces are eaten, it may contain **zero whole apples**, although peel, seeds, scent, residue, or materials that once belonged to the apple may remain elsewhere. These counts need not contradict one another. Each depends on a unit and a time of reference.
+This relationship also illuminates **The Shadow of TWIL**, **The Rendering of TWIL's Shadow**, and **The Faithful Rendering**. An encounter can become recognizable through a rendering that preserves, selects, or adds interpretation. Faithfulness seeks to honor what is recognizable while distinguishing experience, inference, imagination, preference, and justification. A rendering can be returned to its experiential relationships and reconsidered when further encounter reveals something it left out or misrepresented. River-Truth names neither the rendering nor its supposed source as a final possession of understanding.
 
-The bare abstract **One** or **Zero** is not encountered hanging from a branch as a fruit is. We recognize and specify units, then apply the mathematical forms to those units. **Zero apples** does not mean the absence of every material relationship previously associated with apples; it means no members meet the specified criteria in the relevant place and time.
+### Lived experience and The Mystery
 
-Measurement raises a related issue. Length, duration, mass, temperature, and probability may be expressed numerically with great precision, but their worldly application depends on standards, instruments, operational criteria, and domains of validity. Precision in a representation does not, by itself, guarantee that its mapping captures every relevant aspect of what is measured.
+The *river-truth of tears* recalls the difference between an embodied event and the account given of it. Tears may occur before their significance becomes clear. Grief, relief, love, pain, or exhaustion may inform an interpretation without any one explanation becoming established merely because the tears are real.
 
-This distinction applies to other **purely mental constructs** as well: geometrical points and lines, ideal shapes, logical categories, exact boundaries, and hypothetical models. They may possess stable identities within the conceptual systems that define them. Their applications to moving, irregular, embodied reality require additional relationships and assumptions that themselves become available for examination.
+The **Epitome of Awareness** points toward first-person spaciousness and the river of embodied feeling. The **Epitome of The Mystery** points toward what remains beyond present explanation. **River-Truth** does not require that we already know every source, beginning, or consequence of what we encounter. A word can point faithfully while further questions remain open.
 
-**River-Truth does not make mathematics false or numbers arbitrary.** It illuminates the passage from an exact abstract form to a particular, situated application. The stability of a form within its system need not be confused with a complete account of what it represents outside that system. Nor is this definition a verdict about the ultimate existence or nature of mathematical objects.
-
-### Form, precision, and the limits of words
-
-**Fiat Form** gives recognizable expression; **Fiat Anchor** deliberately establishes a conceptual unity; **Anchored Ambiguity** welcomes further possibilities without silently abandoning that unity. **River-Truth** invites reflection on why such forms are both necessary and inadequate to final containment.
-
-A word can be well defined. An assertion can be well supported. A measurement can be exact for its specified purpose. A map can faithfully guide a traveler. None of these achievements establishes that the form has become the whole unfolding of what is.
-
-The danger arises when we forget the relationship: treating a temporary classification as an eternal essence, taking a map for the landscape, making a metaphor into a literal mechanism, or insisting that an established word must govern every future encounter. **Blind Certainty** may make those limitations invisible; **Closedness** may refuse encounters that would disclose them. These are possibilities to investigate, not conclusions established by noticing that a person uses a precise definition.
-
-**Precise Ambiguity** is especially important. It can distinguish a confidently encountered event from its unresolved interpretation; a clearly stipulated classification from the partly unsettled identity of a becoming thing; an exact mathematical relation from its contingent application. It permits us to state what is known or chosen *with precision*, while declining to pretend that the limits have disappeared.
-
-A **bright line** can be deliberately drawn for a purpose without asserting a permanently sharp boundary in what unfolds. A **gray area** can be identified precisely without implying that every nearby distinction is vague. A **gradation** can be described without turning a continuous change into an unsupported series of absolute natural kinds.
-
-### The river-truth of tears and the immediacy of experience
-
-The older Saltem Hoc of **the river-truth of tears** brings the metaphor into first-person life. Tears may be encountered before the person can faithfully describe the feeling, history, longing, or change to which they belong. Grief and joy may each bring tears; relief, pain, exhaustion, and other experiences may also be involved.
-
-The poetic expression *private tears do not lie* can draw attention to the actuality of an embodied event: something is being felt, and the tears are occurring. It does not establish that every interpretation accompanying the tears is accurate, nor that an observer can know their ultimate source or meaning. The difference between **what is encountered** and **what it is taken to mean** remains available for **Discernment**.
-
-The **Epitome of Awareness** likewise presents *Awareness* as a word pointing toward first-person spaciousness and the river of embodied feeling. Neither the name nor its image grants direct access to another person's experiencing. The **Epitome of The Mystery** points toward questions of Awareness, suffering, death, and what remains beyond present understanding. Their poetic forms invite attention to what words indicate while preserving what they cannot establish.
-
-In the Being Open reflections on **Love**, even a foundational description such as *attention given freely* is offered as an experiential beginning, not the exhaustive identity of every lived love. In the reflection on **pretended kindness**, a person may sense troubling warmth or danger in an unfamiliar encounter without yet identifying its source. These examples carry a shared lesson: an experience may be meaningful before its words or explanations are settled, and our chosen meanings must remain available for revision.
-
-### Encounter, remembrance, and further becoming
-
-**River-Truth** is not merely an illustration of a world viewed from outside. We are also among the becoming things that words seek to describe. **My Self** changes while remaining familiar. Our interpretations, memories, boundaries, and conceptual forms participate in what further encounters may become possible.
-
-A name may be inherited and later questioned; a useful distinction may outlive its initial purpose; a new perspective may disclose what an old one concealed. **Recursive Becoming** permits Openness itself to revise the forms through which it is understood, including this definition.
-
-When we encounter **The Mystery**, the limit of a current description need not be treated as defeat. **My Self-Confession of Not-Knowing** can acknowledge that limit, while **Discernment**, **Perspective-Taking**, and further inquiry remain available. Further understanding is possible, not guaranteed; the river is not obliged to yield a final account.
+The unresolved relationships among independent reality, Awareness, identity across transformation, and the limits of representation remain available in [**Inquiry into River-Truth**](../inquiries/inquiry_into_river_truth.md).
 
 ## Experiential Derivation
 
-*The following first-person movement offers recognizable encounters, not a universal theory of language, ontology, or development.*
+*The following first-person passage invites examination of the identifying relationship through recognizable experience.*
 
-**1. A familiar name.** I hold an apple and call it an apple. The name serves me; another person recognizes what I mean.
+**1. I name.** I hold an apple. The name *apple* helps another person and me recognize what I mean.
 
-**2. A changing encounter.** I watch fruit develop, ripen, decay, or become part of something else. I notice that the familiar name does not settle precisely where its beginning and end must lie for every purpose.
+**2. I encounter change.** I notice fruit developing, ripening, decaying, and entering further relationships. I can no longer assume the name settles every beginning or ending.
 
-**3. A chosen boundary.** I may call it one apple for cooking, a particular stage of fruit development for botany, or one saleable unit in a store. Each use can work, and each can be questioned where its criteria no longer fit.
+**3. I distinguish purposes.** I notice that cooking, growing, counting, and describing the fruit can require different boundaries without making the encounter arbitrary.
 
-**4. A wider recognition.** I watch a river and notice how its visible course and banks help me recognize it. I imagine watching at another speed, another season, or from another standpoint. Some descriptions remain useful; others require revision.
+**4. I change perspective.** I watch a river at one moment and across seasons, noticing that what seems stable at one scale may change at another.
 
-**5. Naming the relationship.** I recognize the unfolding of what I encounter and the limited forms through which I describe it. I call this relationship **River-Truth**, while knowing that the new name is itself another form pointing toward what it cannot finally contain.
+**5. I return.** I revisit the experience behind a familiar word. Perhaps its meaning still serves; perhaps it needs refinement; perhaps I do not yet know.
 
-Nothing requires these encounters in this order. An inquirer may begin with tears, a changing Self, a mathematical count, a story, or another experience.
+**6. I recognize a relationship.** I can use forms to speak meaningfully of what unfolds without claiming they finally contain it. I name this relationship **River-Truth**, knowing the name is another form.
 
 ## Essential Distinctions
 
-**River-Truth versus a physical river.** A physical river supplies the metaphor; River-Truth concerns the unfolding of what is and the limits and possibilities of its conceptual expression. Neither a literal hydrological theory nor a claim that the world is made of water follows from the name.
+**River-Truth versus expressed truth.** River-Truth names the unfolding of what is as encountered through Awareness. An expressed *truth* gives a situated, examinable form to something of that unfolding. Its provisional character does not require weak evidence or continual verbal alteration.
 
-**The river versus its banks.** The river indicates unfolding truth; the banks indicate recognizable boundaries and forms. Their distinction is useful but not an assertion that real processes and their boundaries are independently fixed or separable in every respect.
+**The river versus its banks.** The river symbolizes the unfolding. The riverbanks symbolize the definitions and boundaries of our words; neither our chosen names nor their applications contain everything that may unfold. The fact that actual riverbanks also change deepens the analogy without making literal hydrology a theory of truth.
 
-**Encounter versus description.** Something may be sensed, lived, or observed without its cause, identity, or full significance having been established. Words can disclose important aspects without containing the experience they describe.
+**Encounter versus interpretation.** An experience may be recognizable while its source, identity, meaning, or full consequences remain uncertain. The experience does not automatically justify every account offered of it.
 
-**Changing referent versus changing understanding.** An object or situation may change, our standpoint or language may change, or both may change. **River-Truth** invites attention to these relationships rather than treating every revision as evidence that the earlier description was simply false.
+**Change in what is versus change in standpoint versus change in form.** The referent may change, our perspective or timescale may change, and our definitions may change. These distinctions matter even when several changes happen together.
 
-**Temporal perspective versus altered physical time.** Slow motion and time lapse transform how recorded events are presented. They can reveal previously missed patterns without changing the actual rate at which the original event occurred.
+**Definition versus final identity.** An appropriate boundary can make something recognizable and usable without claiming that its chosen beginning and end settle every transformation of what it names.
 
-**Recognizable boundary versus final essence.** Criteria can identify a fruit, river, or count for a purpose. Their success does not establish that the chosen boundary exhausts every continuity and transformation of its referent.
+**Convention versus arbitrariness.** Chosen criteria can be constrained by experience, evidence, shared practice, and purpose. A definition's being chosen does not make all applications equally accurate or fruitful.
 
-**Convention versus arbitrariness.** A name or measuring standard may involve human choice while being constrained by material evidence, practical consequences, and shared procedures. Chosen boundaries are not thereby immune to error or equally useful.
+**Abstract exactness versus situated mapping.** Numbers, ideal shapes, and other formal constructs may remain exact within their systems while their application requires units, criteria, observation, and context.
 
-**Abstract precision versus applied precision.** Formal numerical or geometrical relationships may be exact within their stipulated systems. Application to what is encountered requires units, operational mappings, and relevant conditions. Failure of a mapping does not refute the formal relationship.
+**River-Truth versus The Mystery.** **The Mystery** names what remains unknown or incompletely understood. **River-Truth** concerns the unfolding to which our partial understandings point, including what is recognizable despite incomplete explanation.
 
-**Zero counted instances versus absolute nothingness.** A zero count is relative to a specified unit, scope, and time. It does not alone establish the absence of every other relevant phenomenon or relation.
+**River-Truth versus Discernment.** River-Truth names the unfolding and its relationship to our forms; **Discernment** names the continuing whole-Self engagement through which those forms and interpretations can be examined and revised.
 
-**A useful name versus complete containment.** River-Truth does not abolish definitions, facts, scientific inquiry, mathematics, or practical knowledge. It rejects the presumption that their forms finally exhaust what unfolds.
+**River-Truth versus Precise Ambiguity.** **Precise Ambiguity** distinguishes what is established from what remains unresolved. River-Truth gives a philosophical instance of why that distinction matters, including the unsettled relationship between the experienced unfolding and what may be independent of Awareness.
 
-**River-Truth versus relativism without grounds.** Different perspectives can reveal different aspects and apply different criteria. They are not automatically equally accurate, coherent, relevant, or well grounded; **Discernment** remains necessary.
+**River-Truth versus Experiential Derivation.** **Experiential Derivation** traces the substantive relationship of a Concept's meaning to recognizable experience. River-Truth is what such a return seeks to encounter more faithfully; the derivation itself does not guarantee the truth of every further interpretation.
 
-**River-Truth versus Discernment.** River-Truth names the unfolding truth and the incomplete, situated forms through which it is encountered and described. **Discernment** is the continuing whole-Self engagement through which those forms, experiences, and interpretations are examined and revised.
-
-**River-Truth versus Precise Ambiguity.** **Precise Ambiguity** is a generative concept for accurately articulating what is established and what remains unresolved. **River-Truth** is not merely a technique of writing: it is the philosophical understanding that makes such precision significant across changing forms and perspectives.
-
-**River-Truth versus Ish-ness.** **Ish-ness** investigates the fit of an instance with a conceptual form, including partial resemblance and borderline cases. **River-Truth** concerns the wider unfolding in which forms are applied, maintained, and sometimes revised.
-
-**River-Truth versus The Mystery.** **The Mystery** names what remains unknown or incompletely understood. **River-Truth** concerns the inexhaustible unfolding of what is and the limits of our descriptions of it. One may encounter the river without knowing all of it, and may recognize a meaningful truth without claiming to have exhausted The Mystery.
-
-**River-Truth versus a claim of final unknowability.** The present inability to name or explain some aspect does not establish that no future inquiry can reveal more. The image preserves openness to what may become recognizable.
+**River-Truth versus The Faithful Rendering.** A **Rendering of TWIL's Shadow** is a form through which an encounter becomes recognizable or communicable. **The Faithful Rendering** aspires to represent the encounter truthfully. River-Truth is neither that rendering nor a claim that its ultimate source has been established.
 
 ## Conceptual Dependencies
 
-The experience of a thing changing while its name remains familiar does not require prior mastery of other Openness concepts. **Fiat Anchor**, **Anchored Ambiguity**, **Precise Ambiguity**, **Ish-ness**, **Dimensionalization**, **Perspective-Taking**, **Perspectivity**, **Discernment**, and **The Mystery** make important aspects of this understanding more examinable. Their proximity does not by itself establish strict prerequisite dependencies.
+The recognizable experience of change while a familiar name remains useful offers a beginning without demanding prior mastery of Openness's other Concepts. **Fiat Form**, **Fiat Anchor**, **Anchored Ambiguity**, **Precise Ambiguity**, **Experiential Derivation**, **Ish-ness**, **Dimensionalization**, **Perspectivity**, **Discernment**, and **The Mystery** develop different aspects of the relationship. Their relevance does not make each a definitional prerequisite.
 
 ## Relationship to Openness
 
-**F — Foundational Openness.** **My Awareness** and **My Self** offer familiar first-person standpoints from which something is encountered before it is fully described. **My Self-Confession of Not-Knowing** acknowledges a limit to the forms through which understanding proceeds. **Not-Knowing** and **The Mystery** keep the encounter open without making every interpretation equally credible.
+**F — Foundational Openness.** **My Awareness**, **My Self**, and **My Self-Confession of Not-Knowing** provide first-person beginnings for recognizing something while acknowledging that its meaning remains incomplete. **The Mystery** can be encountered within and beyond familiar experience without requiring a completed explanation.
 
-**G — Generative Openness.** **Fiat Form**, **Fiat Anchor**, and **Anchored Ambiguity** enable meaningful conceptual forms without making their worldly application final. **Precise Ambiguity**, **Ish-ness**, **Dimensionalization**, **Perspective-Taking**, and **Analogical Projection** help explore how forms fit, transform, and extend. **Recursive Becoming** includes the revision of forms as their consequences unfold.
+**G — Generative Openness.** **Fiat Form** and **Fiat Anchor** create and maintain recognizable conceptual forms; **Anchored Ambiguity** preserves compatible further meanings. **Experiential Derivation** and **Experiential Re-Imagining** can return a form to the experience through which it becomes recognizable. **Precise Ambiguity**, **Ish-ness**, **Dimensionalization**, and **Recursive Becoming** support the examination and development of its boundaries and possibilities.
 
-**P — Philosophical Openness.** **River-Truth** has its primary home in P because it invites stepping back from the unnoticed identification of words with what they name. **Perspectivity**, **Real and Reality**, and **Discernment** offer related ways to examine standpoint, representation, and meaningful understanding. **Blind Certainty** may conceal the limits of a favored form; **Suspending Judgment** leaves room for further encounter even where confidence is strong.
+**P — Philosophical Openness.** River-Truth primarily belongs to P because it invites stepping back from the identification of a word, model, or preferred interpretation with everything it seeks to name. **Discernment** examines the ongoing fit of these forms; **Suspending Judgment** preserves revisability. **Blind Certainty** and **Closedness** may obscure or prevent encounters with their limits.
 
-**S — Spiritual Openness.** Lived **Love**, grief, tears, contemplation, embodied change, and faith may become meaningful before their interpretations are settled. River-Truth invites attention to what such experiences reveal without requiring that their poetic or spiritual renderings establish a particular metaphysical source.
+**S — Spiritual Openness.** The becoming of **My Self**, experiences of Love, grief, and changing relationships may be recognizable before they can be fully expressed. Attending to these encounters does not require a fixed account of their sources or ultimate significance.
 
-**T — Transcendent Openness.** Relationships with other persons, the world, and **That Which Is Larger** may expose the incompleteness of familiar names and perspectives, making further possibilities and beginnings recognizable without guaranteeing a final explanation.
+**T — Transcendent Openness.** Encounters considered through **That Which Is Larger**, **The Shadow of TWIL**, and **The Faithful Rendering** may reveal the limits of familiar forms. Their renderings can open further inquiry without deciding the ultimate nature of what they represent.
 
 ## Naming and Usage
 
-**River-Truth** — the canonical Philosophical name. The hyphen preserves its recognizable origin in the river image; the capitalization indicates the Openness Concept rather than an assertion that all ordinary uses of *truth* mean the same thing.
+**River-Truth** — the canonical Philosophical Concept referring to the unfolding of what is as encountered through Awareness, together with the limits of the forms through which it becomes recognizable.
 
-*river-truth* — an ordinary or poetic use, including *the river-truth of tears*. It may evoke the concept without reproducing all its distinctions.
+*truth*, *truths* — ordinary words for situated descriptions, interpretations, conclusions, or other expressions of what becomes recognizable through River-Truth. Their uses need not all be identical.
 
-*the river* and *the riverbanks* — its principal metaphorical images. The river points toward unfolding truth; the banks toward relatively recognizable boundaries, including those through which words, forms, and practices orient us. They should not be mistaken for independent metaphysical entities.
+*river-truth* — an ordinary or poetic use, as in *the river-truth of tears*.
 
-*limits of words*, *limits of forms* — descriptive expressions for the partial, situated correspondence of expression or representation to what is encountered, not newly established canonical Concepts merely by being used here.
+*river* — metaphor for the unfolding; *riverbank* — metaphor for the defining boundary of a word or form. Even these boundaries may change across time and perspective.
 
-*one*, *zero*, *unit*, *standard*, *boundary*, *timescale* — ordinary or technical terms whose meanings depend on the relevant mathematical, practical, or disciplinary context. **River-Truth** does not redefine arithmetic or prescribe a universal standard of counting.
+*returning to the river* — revisiting what is encountered, and where useful its **Experiential Derivation**, to examine whether a present word or form remains faithful to its referent and purpose.
 
-**“River-Truth”** — quotation marks indicate discussion of the term itself.
+**“River-Truth”** — quotation marks indicate discussion of the name rather than use of the Concept.
 
 ## Examples
 
-### Example — One Apple, Many Professional Boundaries
+### Example — A Definition Revisited
 
-A botanist, orchard grower, grocer, cook, and ecologist attend to an apple across a growing season and beyond. They may assign different operational beginnings and endings to *apple* because their inquiries concern development, harvest, sale, preparation, nutrition, or material continuity. The differences may all be intelligible while remaining subject to correction by their respective standards.
+A reader inherits a definition of *apple*. They return to its **Experiential Derivation**, observe its development, and recognize that an earlier account of its beginning no longer fits the distinctions they need. They can preserve the earlier meaning where useful and deliberately revise the form for the new inquiry. Neither the return nor the revision requires dismissing every previous use as mistaken.
 
-The fruit's changes do not wait for agreement about terminology. The terms make selected relationships recognizable; they do not end the unfolding.
+### Example — An Apple at Different Stages
 
-### Example — The Apple After It Is Eaten
+A grower watches an apple form and ripen. A cook later cuts it; someone eats it. The same name can be useful through part of this history, while *whole apple*, *apple pieces*, *ingredient*, and *digested material* have different qualifying criteria. A seed that grows into a tree continues a relationship without automatically remaining an apple under the earlier definition.
 
-Someone asks whether the apple still exists after being eaten. The answer changes with what is meant by *the apple*: the intact fruit is gone; its material has entered other processes; seeds or remains may persist; its nourishment and consequences may continue. Calling all these later relations *the apple* would require stating the intended extension rather than silently assuming an unchanged object.
+### Example — A River Viewed Across Time
 
-### Example — The River Viewed at Different Speeds
+Someone observes a river in an afternoon and returns years later to find a changed shoreline. A recording slowed down may reveal brief patterns; a long sequence shown as a time lapse may reveal longer changes. The river's course, the observer's available perspective, and the usefulness of its familiar description can change in distinguishable ways.
 
-A camera records flowing water. Ordinary playback makes some motions familiar. Slow playback may reveal short-lived swirls; time-lapse presentation of observations made across seasons may reveal changing banks or channels. None of the playback speeds changes the original event. Each may disclose different patterns through a particular temporal perspective.
+### Example — Zero Whole Apples
 
-### Example — Zero Apples in the Basket
+A basket contains one apple. The apple is cut, removed, and eaten. Someone counts **zero whole apples** in the basket. The count can be correct while the abstract zero is not a material object found in the basket and the apple's consequences have not vanished.
 
-A basket once held one apple, later cut into two pieces and eaten. A stockkeeper reports **zero whole apples** remaining. This may be exactly correct under the chosen unit and time. It does not imply that the mathematical zero was found as a freestanding object inside the basket, or that the apple's material and consequences vanished absolutely.
+### Example — A Rendering Reconsidered
 
-### Example — A Precise Shape Applied to a Living Boundary
+A witness recalls an unexpected movement and describes what they saw. Later evidence makes them question their first explanation. They can distinguish the encountered movement from their attribution of its source and produce a more faithful rendering without denying that the original encounter occurred.
 
-An ideal circle has precise mathematical properties. A drawn circle or the rounded outline of a growing fruit is encountered through material irregularities, scale, and chosen tolerances. The ideal form remains useful for geometry and measurement, but its application requires specifying which differences matter. **Ish-ness** may examine resemblance; **Discernment** may examine whether the approximation is appropriate for the task.
+### Counterexample — Exactness Without Final Containment
 
-### Example — The River-Truth of Tears
-
-Someone weeps privately and cannot yet describe why. The experience is present; its meaning may develop over time. Calling it grief, relief, love, exhaustion, or some combination may help, but none is established merely by the tears. The embodied encounter and the incompleteness of its words can both be honored.
-
-### Example — The Symbol Mistaken for the Thing
-
-A spiritual teaching presents a number or an ordered sequence as a meaningful metaphor. A reader then treats its numerical form as an established literal description of every relevant bodily or spiritual process. River-Truth invites the reader to distinguish the symbolism, the counting convention, and the empirical claims. A form may be fruitful without being an exhaustive map of what unfolds.
-
-### Counterexample — Exactness Within a Chosen Mathematical System
-
-Within ordinary arithmetic, **one plus one equals two** under the familiar formal meanings of the symbols. River-Truth does not require this statement to become numerically indeterminate. The further question arises when someone uses the symbols to count particular things across changing conditions: what are the things, and under which criteria are they one or two?
-
-### Counterexample — A Name That Works
-
-Two people agree to meet at a named river tomorrow. The river may change between today and tomorrow, and its watershed may be difficult to bound perfectly. Nevertheless, the name can guide both people to a common place. Recognizing the limits of naming does not make ordinary successful reference an illusion.
+Within ordinary arithmetic, **one plus one equals two** under the familiar meanings of its symbols. A person applies those symbols to count two apples under clear criteria. River-Truth neither rejects the arithmetic nor demands ambiguity about the count merely because apples have lifecycles. It leaves open the further questions of unit, standpoint, and change when they actually matter.
 
 ## Boundary
 
-**River-Truth** does not require that every boundary be vague, every scientific account be mistaken, every formal proof be provisional within its own rules, or every rival interpretation be equally credible. It does not make numbers or logical forms meaningless. It distinguishes their conceptual precision from the further conditions of their application to what is encountered.
+**River-Truth** does not claim that every definition is vague, that all perspectives are equally warranted, or that mathematics and carefully measured observations lack exactness within specified conditions. A well-supported statement can remain a trustworthy guide without being a complete account of every relation and transformation of its subject.
 
-River-Truth expresses Openness's chosen understanding of truth as unfolding. It does not, by itself, establish a complete metaphysical theory of time, consciousness, mathematical existence, or the ultimate source of reality. The river is a chosen philosophical metaphor whose force lies in keeping the living unfolding of what is distinguishable from our necessarily partial and revisable expressions of it, not in answering every question it raises.
+Nor does the name decide whether the unfolding independently of **Awareness** and the unfolding accessible within it are ultimately distinct. Its present inability to resolve such a question does not establish that further understanding is impossible. The image of the river is itself a chosen form, open to the same examination as other forms.
 
-To say that **all expressed truth remains provisional** in relation to **River-Truth** is not to forbid strong evidence, exact measurement, or reliable knowledge. It is to refuse to treat even an excellent present representation as the final containment of what may continue to unfold across standpoints and time.
-
-The metaphor must also remain open to its own lesson. If the word *river* becomes a doctrine that forces every phenomenon to appear as flowing water, it has become another form that may obscure what it sought to illuminate. The definition itself remains available to deliberate revision under **Open Stewardship**.
+Returning to River-Truth does not guarantee that an inquirer will recognize everything they have missed, or that a once-useful definition must always be replaced. Revisability is responsiveness to what is encountered, not compulsory change for its own sake.
 
 ## Summary
 
-**River-Truth** names the ever-unfolding truth of what is, encountered through situated perspectives and timescales, and never finally contained by our words, numbers, or conceptual forms. Like riverbanks, recognizable boundaries make understanding and communication possible; like riverbanks, they may shift. The life of an apple, the changing course of a river, and the application of exact numbers to changing things reveal how meaningful naming depends upon criteria, standpoint, and time.
+**River-Truth** names the unfolding of what is as encountered through **Awareness**, and the incomplete, revisable forms through which it becomes recognizable. Its riverbanks are the definitions that let words do meaningful work without containing the river. The apple's lifecycle, changing perspectives and timescales, and the application of numbers to encountered things reveal why even exact forms must be related to their uses.
 
-**We need the banks to speak of the river. We need not mistake the banks for the river. And we may return to find that even the banks have changed.**
+**When our words no longer fit what they seek to reveal, we return to the river. The unfolding continues; our banks may change.**
